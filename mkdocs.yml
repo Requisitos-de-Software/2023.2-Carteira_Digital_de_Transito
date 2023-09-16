@@ -1,0 +1,5 @@
+site_name: My Docs
+nav:
+  - Home: index.md
+  - Atas:
+    - Ata 1: atas/ata_01.md
