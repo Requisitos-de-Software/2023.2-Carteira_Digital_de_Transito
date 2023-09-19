@@ -21,7 +21,9 @@ A seleção de um aplicativo para a disciplina de requisitos é um processo estr
 Com base nos critérios estabelecidos e orientação do professor sobre os aspectos que devem ser avaliados, o grupo optou por escolher o aplicativo da carteira digital de trânsito para o estudo ao longo da disciplina. O principal aspecto que influenciou a escolha do aplicativo foi o público-alvo diversificado e de fácil acesso atendido pelo aplicativo. Proporcionando uma variedade de cenários de uso que enriquecem a análise de requisitos.
 
 ## Termos de uso 
-A fim de realizar o projeto de maneira ética e legal, o grupo decidiu verificar os termos de uso da plataforma Carteira Digital de Trânsito para garantir que possuíamos permissão explícita para realizar a análise. Após uma cuidadosa leitura dos termos de uso do aplicativo, o grupo constatou que não havia uma cláusula específica que permitisse a análise do aplicativo ou qualquer menção à possibilidade de realizar engenharia reversa, tampouco que proibísse. Desta forma, segue abaixo os termos de uso da plataforma disponibilizado pelo aplicativo referentes a politica de privacidade.
+A fim de realizar o projeto de maneira ética e legal, o grupo decidiu verificar os termos de uso da plataforma Carteira Digital de Trânsito para garantir que possuíamos permissão explícita para realizar a análise. Após uma cuidadosa leitura dos termos de uso do aplicativo, o grupo constatou que o aplicativo permitir o uso do mesmo para estudo. Desta forma, segue abaixo os termos de uso da plataforma disponibilizado pelo aplicativo referentes a politica de privacidade.
+
+<p align="center" ><br><img style="border: 2px solid white; border-radius: 30%" src="assets/Politica_de_privacidade_part1.jpeg" width = 40%</p>
 
 ## Histórico de versões 
 
