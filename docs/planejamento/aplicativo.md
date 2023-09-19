@@ -41,4 +41,4 @@ A fim de realizar o projeto de maneira ética e legal, o grupo decidiu verificar
 
 Versão  |   Data   | Descrição | Autor(es) | Revisor(es)
 --------- | ------ | ------ | ---------- | ----------
-1.0 | 19/09/2023| Criação do documento | [Mayara Alves](https://github.com/Mayara-tech) | Todos
+1.0 | 19/09/2023| Criação do documento | [Mayara Alves](https://github.com/Mayara-tech) | [Limirio Guimarães](https://github.com/LimirioGuimaraes)|
