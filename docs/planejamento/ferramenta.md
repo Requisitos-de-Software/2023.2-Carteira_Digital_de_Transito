@@ -12,7 +12,7 @@ A fim de facilitar o gerenciamento e a execução do projeto, foi feito o levant
 | :-----------------------------------------------------------------------------------------------------------------------: | :-----------------------: | :--------------------------------------------------------------------: |
 |              ![Logo do Microsoft Teams](../assets/teams.png)             |           Teams           |       Comunicação e colaboração em equipe, juntamente com organização de documentos.                      |                  
 |         ![Logo do GitHub](../assets/github.png)                |          GitHub           |  Controle de versão e colaboração dos artefatos do projeto.                   |
-|                    ![Logo do Figma](../assets/ferramentas/figma.png)                    |           Figma            |     Design da interface de apresentação de resultados.                    |
+|                    ![Logo do Figma](../assets/figma.png)                    |           Figma            |     Design da interface de apresentação de resultados.                    |
 |                                    ![Logo do MkDocs](../assets/mkdocs.png)                                    |          MkDocs           |                  Geração de documentação a partir de arquivos Markdown.                              |
 |             ![Logo do Visual Studio Code](../assets/vscode.png)             |    Visual Studio Code     |                 Desenvolvimento de código/documentação e programação.                            |
 |                 ![Logo do WhatsApp](../assets/whatsapp.png)               |         WhatsApp          |             Comunicação e colaboração em equipe.                         |
