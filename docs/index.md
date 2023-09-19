@@ -13,8 +13,11 @@ Esta página é dedicada aos artefatos da avaliação do aplicativo da [Carteira
 <br>
 
 ## 📑 Histórico de versões:
+
 Versão |   Data  | Descrição | Autor(es) | Revisor(es)
------- | ---- | ------ | ---------- | ----------
+:------: | :----: | :------: | :----------: | :----------:
 1.0 | 19/09/2023 | Criação da git page | [Mayara Alves](https://github.com/Mayara-tech) | Todos
+
+
 
 <br>
