@@ -23,7 +23,16 @@ Com base nos critérios estabelecidos e orientação do professor sobre os aspec
 ## Termos de uso 
 A fim de realizar o projeto de maneira ética e legal, o grupo decidiu verificar os termos de uso da plataforma Carteira Digital de Trânsito para garantir que possuíamos permissão explícita para realizar a análise. Após uma cuidadosa leitura dos termos de uso do aplicativo, o grupo constatou que o aplicativo permitir o uso do mesmo para estudo. Desta forma, segue abaixo os termos de uso da plataforma disponibilizado pelo aplicativo referentes a politica de privacidade.
 
-<p align="center" ><br><img style="border: 2px solid white; border-radius: 30%" src="assets/Politica_de_privacidade_part1.jpeg" width = 40%</p>
+<p align="center"> Política de Privacidade<p>
+
+
+![Politica_de_privacidade_part1](https://github.com/Requisitos-de-Software/2023.2-Grupo02/assets/67807684/193da224-c832-4979-826c-c662533e6354)
+![Politica_de_privacidade_part2](https://github.com/Requisitos-de-Software/2023.2-Grupo02/assets/67807684/a947982e-9be0-43ad-84da-5343a60427d0)
+![Politica_de_privacidade_part3](https://github.com/Requisitos-de-Software/2023.2-Grupo02/assets/67807684/24aa05a0-f721-4e49-946c-1a5379a55273)
+![Politica_de_privacidade_part4](https://github.com/Requisitos-de-Software/2023.2-Grupo02/assets/67807684/582f70cf-0587-4edc-94e3-c24f4c737e40)
+![Politica_de_privacidade_part5](https://github.com/Requisitos-de-Software/2023.2-Grupo02/assets/67807684/e6311a01-5573-4936-8289-de98adc68e7e)
+
+
 
 ## Histórico de versões 
 
