@@ -10,18 +10,18 @@ A fim de facilitar o gerenciamento e a execução do projeto, foi feito o levant
 
 |                                                                                                                           |        Ferramenta         |                               Finalidade                               |
 | :-----------------------------------------------------------------------------------------------------------------------: | :-----------------------: | :--------------------------------------------------------------------: |
-|              ![Logo do Microsoft Teams](../assets/teams.png){: style="height:87px;width:100px"}               |           Teams           |       Comunicação e colaboração em equipe, juntamente com organização de documentos.                      |                  
-|         ![Logo do GitHub](../assets/github.png){: style="height:100px;width:100px"}                  |          GitHub           |  Controle de versão e colaboração dos artefatos do projeto.                   |
-|                    ![Logo do Figma](../assets/ferramentas/figma.png){: style="height:94px;width:63px"}                    |           Figma            |     Design da interface de apresentação de resultados.                    |
+|              ![Logo do Microsoft Teams](../assets/teams.png)             |           Teams           |       Comunicação e colaboração em equipe, juntamente com organização de documentos.                      |                  
+|         ![Logo do GitHub](../assets/github.png)                |          GitHub           |  Controle de versão e colaboração dos artefatos do projeto.                   |
+|                    ![Logo do Figma](../assets/ferramentas/figma.png)                    |           Figma            |     Design da interface de apresentação de resultados.                    |
 |                                    ![Logo do MkDocs](../assets/mkdocs.png)                                    |          MkDocs           |                  Geração de documentação a partir de arquivos Markdown.                              |
-|             ![Logo do Visual Studio Code](../assets/vscode.png){: style="height:85px;width:85px"}             |    Visual Studio Code     |                 Desenvolvimento de código/documentação e programação.                            |
-|                 ![Logo do WhatsApp](../assets/whatsapp.png){: style="height:85px;width:85px"}                 |         WhatsApp          |             Comunicação e colaboração em equipe.                         |
-|                 ![Logo do YouTube](../assets/youtube.png){: style="height:56px;width:250px"}                  |          YouTube          |                    Hospedagem de vídeos de apresentações e reuniões.                               |
-|               ![Logo do Google Drive](../assets/ferramentas/gdrive.png){: style="height:128px;width:128px"}               |       Google Drive        |                     Compartilhamento de arquivos.                      |
-| ![Logo do This Person Doesn't Exist](../assets/ferramentas/thispersondoesntexist.png){: style="height:100px;width:100px"} | This Person Doesn't Exist |              Geração de imagens de personas fictícias.               |
-| ![Logo do This Person Doesn't Exist](../assets/canvas){: style="height:100px;width:100px"} | Canvas |              Criação de personas e elementos gráficos para o projeto.               |
+|             ![Logo do Visual Studio Code](../assets/vscode.png)             |    Visual Studio Code     |                 Desenvolvimento de código/documentação e programação.                            |
+|                 ![Logo do WhatsApp](../assets/whatsapp.png)               |         WhatsApp          |             Comunicação e colaboração em equipe.                         |
+|                 ![Logo do YouTube](../assets/youtube.png)                 |          YouTube          |                    Hospedagem de vídeos de apresentações e reuniões.                               |
+|               ![Logo do Google Drive](../assets/gdrive.png)              |       Google Drive        |                     Compartilhamento de arquivos.                      |
+| ![Logo do This Person Doesn't Exist](../assets/thispersondoesntexist.png)| This Person Doesn't Exist |              Geração de imagens de personas fictícias.               |
+| ![Logo do This Person Doesn't Exist](../assets/canvas.jpg) | Canvas |              Criação de personas e elementos gráficos para o projeto.               |
 
-<font size="3"><p style="text-align: center">Fonte: Autores.</p></font>
+<font size="3"><p style="text-align: center">Fonte: Autores do Grupo 2.</p></font>
 
 ## Histórico de Versões
 
