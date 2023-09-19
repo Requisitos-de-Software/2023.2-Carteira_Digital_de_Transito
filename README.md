@@ -1,6 +1,6 @@
 # 📲🚗 Carteira Digital de Transito
 
-Este repositório é dedicada à avaliação do aplicativo da [Carteira Digital de Transito](https://play.google.com/store/apps/details?id=br.gov.serpro.cnhe&hl=pt_BR&gl=US) produzidos pelo grupo 02 na turma de Requisitos da Faculdade do Gama da Universidade de Brasília (FGA-Unb) durante o 2º semestre de 2023. O objetivo do projeto é fazer a avaliação de requisitos do aplicativo, aplicando os conceitos aprendidos em classe. A Carteira Digital de Trânsito é um aplicativo que guarda, no seu celular, sua carteira de motorista e o documento do veículo que esteja em seu nome.
+Este repositório é dedicada à avaliação do aplicativo da [Carteira Digital de Transito](https://play.google.com/store/apps/details?id=br.gov.serpro.cnhe&hl=pt_BR&gl=US) produzidos pelo grupo 02 na turma de Requisitos da Faculdade do Gama da Universidade de Brasília (FGA-Unb) durante o 2º semestre de 2023. O objetivo do projeto é fazer a avaliação de requisitos do aplicativo, aplicando os conceitos aprendidos em classe. O aplicativo Carteira Digital de Trânsito (CDT) é um aplicativo oficial do governo que permite guardar, no seu celular, a sua carteira de motorista e o documento do veículo que esteja em seu nome. É uma forma segura de ter seus documentos sempre à mão, com a mesma validade dos documentos impressos. Você pode baixar o CDT nas lojas de aplicativos e fazer o cadastro para cada um dos documentos de trânsito.
 
 ### :handshake:  Colaboradores:
 
