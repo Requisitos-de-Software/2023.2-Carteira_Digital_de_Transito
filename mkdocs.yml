@@ -22,7 +22,19 @@ theme:
     - navigation.expand
 
 markdown_extensions:
+  - admonition
   - attr_list
+  - def_list
+  - md_in_html
+  - footnotes
+  - pymdownx.caret
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.tilde
   - pymdownx.emoji:
       emoji_index: !!python/name:materialx.emoji.twemoji
       emoji_generator: !!python/name:materialx.emoji.to_svg
@@ -34,4 +46,6 @@ nav:
     - Aplicativos: planejamento/aplicativo
     - Heatmap: planejamento/Heatmap
     - Metodologia: planejamento/metodologia
+  - Pré-rastreabilidade:
+    - Rich picture: pré-rastreabilidade/rich picture
 
