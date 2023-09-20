@@ -1,6 +1,7 @@
 site_name: Carteira Digital de Transito
 theme:
   name: material
+  language: pt-BR
   logo: assets/icon.png
 
   palette: 
@@ -16,9 +17,16 @@ theme:
       toggle:
         icon: material/brightness-4
         name: Switch to light mode
+  
+  features:
+    - navigation.expand
 
 nav:
-  - Home: index.md
-  - Planejamento:
-    - Cronograma: planejamento/cronograma.md
+  - Sobre o projeto: index.md
+  - Planejamento: 
+    - Ferramentas: planejamento/ferramenta
+    - Cronograma: planejamento/cronograma
+    - Aplicativos: planejamento/aplicativo
+    - Heatmap: planejamento/Heatmap
+    - Metodologia: planejamento/metodologia
 
