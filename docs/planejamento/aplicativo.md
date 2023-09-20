@@ -1,4 +1,4 @@
-# <p align="center"> Aplicativo  <p>
+# Aplicativo 
 ## Introdução
 
 A seleção de um aplicativo para a disciplina de requisitos é um processo estratégico que pode influenciar significativamente o sucesso do desenvolvimento dos artefatos durante a disciplina. Portanto, a abordagem adotada pela equipe, envolvendo a apresentação de candidatos e a revisão criteriosa, demonstra um compromisso com a qualidade e a eficiência do desenvolvimento da disciplina, visando atender às necessidades do projeto. 
