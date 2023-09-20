@@ -17,6 +17,8 @@ A seleção de um aplicativo para a disciplina de requisitos é um processo estr
 * Superior Tribunal de Justiça
 * Bitwarden
 * Librera reader
+* kodi
+* DF no ponto
   
 ## Aplicativo escolhido 
 Com base nos critérios estabelecidos e orientação do professor sobre os aspectos que devem ser avaliados, o grupo optou por escolher o aplicativo da carteira digital de trânsito para o estudo ao longo da disciplina. O principal aspecto que influenciou a escolha do aplicativo foi o público-alvo diversificado e de fácil acesso atendido pelo aplicativo. Proporcionando uma variedade de cenários de uso que enriquecem a análise de requisitos.
