@@ -7,18 +7,20 @@ Um "Rich Picture" é uma representação visual que combina elementos gráficos 
 ## Ferramentas Utilizadas
  Para construção do Rich Picture foi utilizada a ferramenta do canvas para a melhoria e correção de alguns aspectos relacionados a construção da imagem.
 
- ## Rich Picture
+## Rich Picture
 
- <p align="center"> Figura 1. Primeira versão do Rich Picture.</p>
+ <p align="center"> <b>Figura 1.</b> Primeira versão do Rich Picture.</p>
 
+ ![Rich Picture versão 1](../assets/Rich_Picture_version1.jpeg)
 
- <p align="center"> Figura 2. Segunda versão do Rich Picture revisado.</p>
+ <p align="center"> <b>Figura 2.</b> Segunda versão do Rich Picture revisado.</p>
 
+ ![Rich Picture versão 2](../assets/Rich Picture .png)
 
- <p align="center"> Figura 3. Legenda do Rich Picture.</p>
+ <p align="center"> <b>Figura 3.</b> Legenda do Rich Picture.</p>
      
-![Rich Picture](../assets/figma.png){align="center"}
  
+ ![Rich Picture legenda](../assets/Rich Picture CNH.png)
 
 
 ## 📑 Histórico de versões:
