@@ -10,8 +10,6 @@ fornecido pelo professor.
 
 ## Cronograma do Planejamento do Projeto
 
-
-
 <p align="center"><b>Tabela 01</b> - cronograma etapa 1</p>
 
 | **Atividade** | **Início** | **Fim** | **Responsáveis** |  **Revisores** |
@@ -26,8 +24,6 @@ fornecido pelo professor.
 | Gravar a apresentação     | 14/09/2023| 19/09/2023 | Todos | Todos |
 
 ## Histório de versão
-
-<p align="center"><b>Tabela 01</b></p>
 
 | Versão| Data      | Descrição | Autor | Revisor       |
 | :-:   | :-:       | :--       | --    | --            |

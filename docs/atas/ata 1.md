@@ -10,79 +10,18 @@ Arthur
 **Projeto**: Projeto de Requisitos - Carteira Digital de Trânsito <br>
 <p align="center"><b>Tabela 01</b></p>
 
-<table>
-<colgroup>
-<col style="width: 22%" />
-<col style="width: 13%" />
-<col style="width: 23%" />
-<col style="width: 26%" />
-<col style="width: 13%" />
-</colgroup>
-<thead>
-<tr class="header">
-<th><strong>Convocados</strong></th>
-<th><strong>Presente</strong></th>
-<th><strong>Telefone</strong></th>
-<th><strong>E-mail</strong></th>
-<th><strong>Emoji</strong></th>
-</tr>
-<tr class="odd">
-<th>1. Arthur</th>
-<th>☐</th>
-<th>(61)</th>
-<th></th>
-<th></th>
-</tr>
-<tr class="header">
-<th>2. Breno</th>
-<th>☑</th>
-<th>(61) 9 9351-1514</th>
-<th>brenob6@gmail.com</th>
-<th>Breno ☕</th>
-</tr>
-<tr class="odd">
-<th>3. Limirio</th>
-<th>☑</th>
-<th>(61)995818014</th>
-<th>limirioguimaraes@gmail.com</th>
-<th>Limirio 👍</th>
-</tr>
-<tr class="header">
-<th>4. Luis Eduardo</th>
-<th>☑</th>
-<th>(61)999734960</th>
-<th>luiseduardocarneiro6@gmail.com</th>
-<th>Miranda🚄</th>
-</tr>
-<tr class="odd">
-<th>5. Mayara</th>
-<th>☑</th>
-<th>(61) 99191-1396</th>
-<th>amayara939@gmail.com</th>
-<th>Mayara ✊</th>
-</tr>
-<tr class="header">
-<th>6. Milena</th>
-<th>☑</th>
-<th>(61) 99911-4089</th>
-<th>milenabaruc072@gmail.com</th>
-<th><p>Milena</p>
-<p>🧚🏼‍♀️</p></th>
-</tr>
-<tr class="odd">
-<th>7. Vinícius</th>
-<th>☑</th>
-<th>(61)981344271</th>
-<th>viniciusmendes1019@gmail.com</th>
-<th>🥶<br />
-Vinicius</th>
-</tr>
-</thead>
-<tbody>
-</tbody>
-</table>
+| Convocados    | Presentes  | E-mail    | Emoji |
+| ---           | :---:      | :--       | :---: |
+| 1.Arthur      |:x:                   |                                | 
+| 2.Breno       |:white_check_mark:    |brenob6@gmail.com               |:coffee:
+| 3.Limirio     |:white_check_mark:    |limirioguimaraes@gmail.com      |:thumbsup:
+| 4.Luis Eduardo|:white_check_mark:    |luiseduardocarneiro6@gmail.com  |:sunglasses:
+| 5.Mayara      |:white_check_mark:    |amayara939@gmail.com            |:fist:
+| 6.Milena      |:white_check_mark:    |milenabaruc072@gmail.com        |:fairy:
+| 7.Vinícius    |:white_check_mark:    |viniciusmendes1019@gmail.com    |:cold_face:
 
 ## 2. Pautas
+
 <p align="center"><b>Tabela 02</b></p>
 
 | **N°** | **Descrição**                                                               |
@@ -101,14 +40,16 @@ Vinicius</th>
 |        |               |                 |          |
 |        |               |                 |          |
 |        |               |                 |          |
+
 ## 4. Link da Gravação
-Link da gravação desta reunião está disponível aqui: https://youtu.be/z4kUvnm9F90
+A gravação desta reunião está disponível pelo youtube [vídeo](https://youtu.be/z4kUvnm9F90)
 
 ## 5. Próxima Reunião
 
 A próxima reunião ficou marcada para o dia 21/09/2023, às 21:00.
 
 ## 6. Compromissos
+
 <p align="center"><b>Tabela 04</b></p>
 
 | **N°** | **Compromisso**                                          | **Responsável** | **Data** |
@@ -123,6 +64,7 @@ A próxima reunião ficou marcada para o dia 21/09/2023, às 21:00.
 | 8      | Responsável pela ata da primeira reunião                 | Vinícius        | 14/09    |
 
 ## Bibliografia
+
 >  Atas de Reunião do MCTI - Ministério da Ciência, Tecnologia e Inovação. Disponível em : https://pdp.mctic.gov.br/MCTI-PDP/guidances/examples/Ata%20Reuniao_21C35EC2.html?nodeId=7c6d2e0
 
 

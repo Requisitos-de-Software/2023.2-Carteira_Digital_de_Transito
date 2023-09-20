@@ -1,4 +1,4 @@
-site_name: Carteira Digital de Transito
+site_name: Carteira Digital de Trânsito
 theme:
   name: material
   language: pt-BR
@@ -40,6 +40,10 @@ markdown_extensions:
       emoji_generator: !!python/name:materialx.emoji.to_svg
 nav:
   - Sobre o projeto: index.md
+  - Atas:
+    - Ata 01: atas/ata 1
+  - Apresentações:
+    - Apresentação 01: apresentação/apresentação 1
   - Planejamento: 
     - Ferramentas: planejamento/ferramenta
     - Cronograma: planejamento/cronograma
