@@ -23,6 +23,27 @@ A seleção de um aplicativo para a disciplina de requisitos é um processo estr
 ## Aplicativo escolhido 
 Com base nos critérios estabelecidos e orientação do professor sobre os aspectos que devem ser avaliados, o grupo optou por escolher o aplicativo da carteira digital de trânsito para o estudo ao longo da disciplina. O principal aspecto que influenciou a escolha do aplicativo foi o público-alvo diversificado e de fácil acesso atendido pelo aplicativo. Proporcionando uma variedade de cenários de uso que enriquecem a análise de requisitos.
 
+## Sobre o aplicativo 
+
+A Carteira Digital de Trânsito é um aplicativo que guarda, no seu celular, sua carteira de motorista e o documento do veículo que esteja em seu nome. É uma forma segura de ter seus documentos sempre à mão, com a mesma validade dos documentos impressos. Outra vantagem é poder compartilhar o documento digital do veículo com as outras pessoas que o utilizam. 
+
+### Recursos disponiveis no aplicativo
+#### Habilitação
+
+* CNH Digital para identificação offline
+* Aviso de vencimento da sua CNH
+
+#### Infrações
+
+* Verificar e gerenciar as infrações do veículo
+* Pagar suas multas com até 40% de desconto
+
+#### Veículos
+* CRLV digital (CRV + CLA)
+* Compartilhar CRLV para até 5 pessoas
+* Indicar condutor principal do veículo
+ *Aviso de recall, quando houver para o seu veículo
+
 ## Termos de uso 
 A fim de realizar o projeto de maneira ética e legal, o grupo decidiu verificar os termos de uso da plataforma Carteira Digital de Trânsito para garantir que possuíamos permissão explícita para realizar a análise. Após uma cuidadosa leitura dos termos de uso do aplicativo, o grupo constatou que o aplicativo permitir o uso do mesmo para estudo. Desta forma, segue abaixo os termos de uso da plataforma disponibilizado pelo aplicativo referentes a politica de privacidade.
 
