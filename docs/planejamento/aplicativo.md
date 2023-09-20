@@ -29,7 +29,7 @@ A fim de realizar o projeto de maneira ética e legal, o grupo decidiu verificar
 <p align="center"> Política de Privacidade<p>
 <p align="center"> acessado em: 19/09/2023<p>
   
-<div align="center">
+<div align="center" >
 
 ![Politica_de_privacidade_part1](https://github.com/Requisitos-de-Software/2023.2-Grupo02/assets/67807684/193da224-c832-4979-826c-c662533e6354)
 ![Politica_de_privacidade_part2](https://github.com/Requisitos-de-Software/2023.2-Grupo02/assets/67807684/a947982e-9be0-43ad-84da-5343a60427d0)
