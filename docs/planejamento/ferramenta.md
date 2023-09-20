@@ -16,7 +16,7 @@ A fim de facilitar o gerenciamento e a execução do projeto, foi feito o levant
 |                          <img src="../assets/mkdocs.png" alt="Mkdocs" width=75px>                                              |          MkDocs           |                  Geração de documentação a partir de arquivos Markdown.                              |
 |                <img src="../assets/vscode.png" alt="Vscode" width=75px>            |    Visual Studio Code     |                 Desenvolvimento de código/documentação e programação.                            |
 |                     <img src="../assets/whatsapp.png" alt="Whatsapp" width=75px>            |         WhatsApp          |             Comunicação e colaboração em equipe.                         |
-|                      <img src="../assets/youtube.png" alt="Youtube" width=75px>              |          YouTube          |                    Hospedagem de vídeos de apresentações e reuniões.                               |
+|                      <img src="../assets/youtube.jpg" alt="Youtube" width=75px>              |          YouTube          |                    Hospedagem de vídeos de apresentações e reuniões.                               |
 |                  <img src="../assets/gdrive.png" alt="Google Drive" width=75px>         |       Google Drive        |                     Compartilhamento de arquivos.                      |
 | <img src="../assets/thispersondoesntexist.png" alt="This Person Doesnt exist" width=75px>  | This Person Doesn't Exist |              Geração de imagens de personas fictícias.               |
 | <img src="../assets/canvas.jpg" alt="Canvas" width=75px>  | Canvas |              Criação de personas e elementos gráficos para o projeto.               |
