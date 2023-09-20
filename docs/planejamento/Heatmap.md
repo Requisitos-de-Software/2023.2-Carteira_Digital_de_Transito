@@ -8,8 +8,7 @@ Para a realização do Heatmap, cada integrante do grupo preencheu uma tabela co
 
 <p align="center"> Tabela 1. Heatmap</p>
 
-<img src="../assets/heatmap.PNG" alt="Heatmap"> 
-
+![Heatmap](../assets/heatmap.png)
 
 ### Resultado
 Com base nos resultados analisados no heatmap, o grupo promoveu uma discussão a fim de alcançar um consenso sólido. Após cuidadosa deliberação, a equipe chegou a uma decisão unânime e estrategicamente ponderada: as reuniões serão agendadas para as **quintas-feiras às 21 horas** com duração esperada de até 1h30min. Essa escolha representa o compromisso coletivo com a otimização do nosso tempo e recursos, visando alcançar nossos objetivos de maneira eficaz e eficiente durante todas as etapas de desenvolvimento da disciplina.  

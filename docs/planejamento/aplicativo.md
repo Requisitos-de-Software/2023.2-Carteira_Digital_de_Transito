@@ -1,4 +1,5 @@
 # Aplicativo 
+
 ## Introdução
 
 A seleção de um aplicativo para a disciplina de requisitos é um processo estratégico que pode influenciar significativamente o sucesso do desenvolvimento dos artefatos durante a disciplina. Portanto, a abordagem adotada pela equipe, envolvendo a apresentação de candidatos e a revisão criteriosa, demonstra um compromisso com a qualidade e a eficiência do desenvolvimento da disciplina, visando atender às necessidades do projeto. 
@@ -46,19 +47,16 @@ A Carteira Digital de Trânsito é um aplicativo que guarda, no seu celular, sua
 
 ## Termos de uso 
 A fim de realizar o projeto de maneira ética e legal, o grupo decidiu verificar os termos de uso da plataforma Carteira Digital de Trânsito para garantir que possuíamos permissão explícita para realizar a análise. Após uma cuidadosa leitura dos termos de uso do aplicativo, o grupo constatou que o aplicativo permitir o uso do mesmo para estudo. Desta forma, segue abaixo os termos de uso da plataforma disponibilizado pelo aplicativo referentes a politica de privacidade.
-
-<p align="center"> Política de Privacidade<p>
-<p align="center"> acessado em: 19/09/2023<p>
   
-<div align="center" >
+<p align="center"> Política de Privacidade</p>
+<p align="center"> acessado em: 19/09/2023</p>
 
-![Politica_de_privacidade_part1](https://github.com/Requisitos-de-Software/2023.2-Grupo02/assets/67807684/193da224-c832-4979-826c-c662533e6354)
-![Politica_de_privacidade_part2](https://github.com/Requisitos-de-Software/2023.2-Grupo02/assets/67807684/a947982e-9be0-43ad-84da-5343a60427d0)
-![Politica_de_privacidade_part3](https://github.com/Requisitos-de-Software/2023.2-Grupo02/assets/67807684/24aa05a0-f721-4e49-946c-1a5379a55273)
-![Politica_de_privacidade_part4](https://github.com/Requisitos-de-Software/2023.2-Grupo02/assets/67807684/582f70cf-0587-4edc-94e3-c24f4c737e40)
-![Politica_de_privacidade_part5](https://github.com/Requisitos-de-Software/2023.2-Grupo02/assets/67807684/e6311a01-5573-4936-8289-de98adc68e7e)
+![Política de privacidade parte 1](../assets/Politica_de_privacidade_part1.jpeg)
+![Política de privacidade parte 2](../assets/Politica_de_privacidade_part2.jpeg)
+![Política de privacidade parte 3](../assets/Politica_de_privacidade_part3.jpeg)
+![Política de privacidade parte 4](../assets/Politica_de_privacidade_part4.jpeg)
+![Política de privacidade parte 5](../assets/Politica_de_privacidade_part5.jpeg)
 
-</div>
 
 ## Histórico de versões 
 
