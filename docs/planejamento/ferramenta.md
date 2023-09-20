@@ -23,6 +23,32 @@ A fim de facilitar o gerenciamento e a execução do projeto, foi feito o levant
 
 <font size="3"><p style="text-align: center">Fonte: Autores do Grupo 2.</p></font>
 
+## Bibliografia
+
+>TEAMS. Disponível em: [Teams](https://www.microsoft.com/pt-br/microsoft-teams/log-in). Acesso em: 19 de Set. 2023.
+
+>GITHUB. Disponível em: [GitHub](https://github.com). Acesso em: 19 de Set. 2023.
+
+>FIGMA. Disponível em: [Figma](https://www.figma.com/). Acesso em: 19 de Set. 2023.
+
+>MKDOCS. Disponível em: [Mkdocs](https://www.mkdocs.org/). Acesso em: 19 de Set. 2023.
+
+>VSCODE. Disponível em: [VScode](https://code.visualstudio.com/). Acesso em: 19 de Set. 2023.
+
+>WHATSAPP. Disponível em: [Whatsapp](https://web.whatsapp.com/) Acesso em: 19 de Set. 2023.
+
+>YOUTUBE. Disponível em: [YouTube](https://youtube.com). Acesso em: 19 de Set. 2023.
+
+>GOOGLE DRIVE. Disponível em: [GoogleDrive](https://drive.google.com/drive/) Acesso em: 19 de Set. 2023.
+
+>THIS PERSON DOESNT EXIST. Disponível em: [ThisPerson](https://this-person-does-not-exist.com/en) Acesso em: 19 de Set. 2023.
+
+>CANVAS. Disponível em: [canvas](https://www.canva.com/pt_br/logos/) Acesso em: 19 de Set. 2023.
+
+
+
+
+
 ## Histórico de Versões
 
 | Versão  |    Data    |                        Descrição                        |                                             Autor(es)                                             |                  Revisor(es)                   |
