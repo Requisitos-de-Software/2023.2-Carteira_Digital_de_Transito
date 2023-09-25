@@ -1,45 +1,169 @@
 # Ata da  1° reunião de Requisitos de Software
 
-**Ordem de fazer ata:** Vinícius, Breno, Milena, Limirio, Mayara, Luis Eduardo,
+**Ordem do escrivão da ata:** Vinícius, Breno, Milena, Limirio, Mayara, Luis Eduardo,
 Arthur
 
+**Data**:   14/09/2023                              **Local**: Teams
+**Projeto**: Projeto de Requisitos - Carteira Digital de Trânsito
+
+<table align="center">
+  <thead>
+    <tr>
+    <th></th>
+    <th><strong>Horário Previsto</strong></th>
+    <th><strong>Horário Realizado</strong></th>
+    </tr>
+  </thead>
+    <tbody>
+    <tr>
+      <td><strong>Início da reunião</strong></td>
+      <td>21:00</td>
+      <td>21:09</td>
+    </tr>
+    <tr>
+      <td><strong>Fim da reunião</strong></td>
+      <td>22:30</td>
+      <td>22:30</td>
+    </tr>
+  </tbody>
+</table>
+
+
 ## 1. Identificação
-**Data**:   14/09/2023                              **Local**: Teams <br>
-**Horário Previsto**:  21:00    **Realizado**:   21:09 <br>
-**Horário Previsto**:  22:30     **Realizado**: 22:30 <br>
-**Projeto**: Projeto de Requisitos - Carteira Digital de Trânsito <br>
+
 <p align="center"><b>Tabela 01</b></p>
 
-| Convocados    | Presentes  | E-mail    | Emoji |
-| ---           | :---:      | :--       | :---: |
-| 1.Arthur      |:x:                   |                                | 
-| 2.Breno       |:white_check_mark:    |brenob6@gmail.com               |:coffee:
-| 3.Limirio     |:white_check_mark:    |limirioguimaraes@gmail.com      |:thumbsup:
-| 4.Luis Eduardo|:white_check_mark:    |luiseduardocarneiro6@gmail.com  |:sunglasses:
-| 5.Mayara      |:white_check_mark:    |amayara939@gmail.com            |:fist:
-| 6.Milena      |:white_check_mark:    |milenabaruc072@gmail.com        |:fairy:
-| 7.Vinícius    |:white_check_mark:    |viniciusmendes1019@gmail.com    |:cold_face:
+<table align="center">
+  <thead>
+    <tr>
+    <th>Convocados</th>
+    <th style="text-align:center">Presentes</th>
+    <th style="text-align:left">E-mail</th>
+    <th style="text-align:center">Emoji</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1.Arthur</td>
+      <td style="text-align:center">:x:</td>
+      <td style="text-align:left">altinoarthurmoreira@gmail.com</td>
+      <td style="text-align:center">👾</td>
+    </tr>
+    <tr>
+      <td>2.Breno</td>
+      <td style="text-align:center">:white_check_mark:</td>
+      <td style="text-align:left">brenob6@gmail.com</td>
+      <td style="text-align:center">:coffee:</td>
+    </tr>
+    <tr>
+      <td>3.Limirio</td>
+      <td style="text-align:center">:white_check_mark:</td>
+      <td style="text-align:left">limirioguimaraes@gmail.com</td>
+      <td style="text-align:center">:thumbsup:</td>
+    </tr>
+    <tr>
+      <td>4.Luis Eduardo</td>
+      <td style="text-align:center">:white_check_mark:</td>
+      <td style="text-align:left">luiseduardocarneiro6@gmail.com</td>
+      <td style="text-align:center">:sunglasses:</td>
+    </tr>
+    <tr>
+      <td>5.Mayara</td>
+      <td style="text-align:center">:white_check_mark:</td>
+      <td style="text-align:left">amayara939@gmail.com</td>
+      <td style="text-align:center">:fist:</td>
+    </tr>
+    <tr>
+      <td>6.Milena</td>
+      <td style="text-align:center">:white_check_mark:</td>
+      <td style="text-align:left">milenabaruc072@gmail.com</td>
+      <td style="text-align:center">:fairy:</td>
+    </tr>
+    <tr>
+      <td>7.Vinícius</td>
+      <td style="text-align:center">:white_check_mark:</td>
+      <td style="text-align:left">viniciusmendes1019@gmail.com</td>
+      <td style="text-align:center">:cold_face:</td>
+    </tr>
+  </tbody>
+</table>
+
+<p align="center"><b>Fonte: MCTI - Ministério da Ciência, Tecnologia e Inovação; Vinícius Mendes</b></p>
 
 ## 2. Pautas
 
 <p align="center"><b>Tabela 02</b></p>
 
-| **N°** | **Descrição**                                                               |
-|-----|-------------------------------------------------------------------|
-| 1      | Escolha do Site que será objeto de estudo da disciplina de IHC              |
-| 2      | Divisão de tarefas entre a equipe do projeto de IHC                         |
-| 3      | Escolha do Aplicativo que será objeto de estudo da disciplina de Requisitos |
-| 4      | Divisão de tarefas entre a equipe do projeto de Requisitos                  |
+<table align="center">
+  <thead>
+    <tr>
+    <th><strong>N°</strong></th>
+    <th><strong>Descrição</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>Escolha do Site que será objeto de estudo da disciplina de IHC</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>Divisão de tarefas entre a equipe do projeto de IHC</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>Escolha do Aplicativo que será objeto de estudo da disciplina de Requisitos</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>Divisão de tarefas entre a equipe do projeto de Requisitos</td>
+    </tr>
+  </tbody>
+</table>
+
+<p align="center"><b>Fonte: MCTI - Ministério da Ciência, Tecnologia e Inovação</b></p>
 
 ## 3. Pendências
 <p align="center"><b>Tabela 03</b></p>
 
-| **N°** | **Pendência** | **Responsável** | **Data** |
-|--------|---------------|-----------------|----------|
-|        |               |                 |          |
-|        |               |                 |          |
-|        |               |                 |          |
-|        |               |                 |          |
+<table align="center">
+<thead>
+    <tr>
+    <th><strong>N°</strong></th>
+    <th><strong>Pendência</strong></th>
+    <th><strong>Responsável</strong></th>
+    <th><strong>Data</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    </tr>
+    <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    </tr>
+    <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    </tr>
+    <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    </tr>
+  </tbody>
+</table>
+
+<p align="center"><b>Fonte: MCTI - Ministério da Ciência, Tecnologia e Inovação</b></p>
 
 ## 4. Link da Gravação
 A gravação desta reunião está disponível pelo youtube [vídeo](https://youtu.be/z4kUvnm9F90)
@@ -51,17 +175,70 @@ A próxima reunião ficou marcada para o dia 21/09/2023, às 21:00.
 ## 6. Compromissos
 
 <p align="center"><b>Tabela 04</b></p>
+  
+<table align="center">
+  <thead>
+    <tr>
+    <th><strong>N°</strong></th>
+    <th><strong>Compromisso</strong></th>
+    <th><strong>Responsável</strong></th>
+    <th><strong>Data</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>Responsável pelo cronograma do projeto de Requisitos</td>
+      <td>Breno</td>
+      <td>18/09</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>Responsável pelo cronograma do projeto de Requisitos</td>
+      <td>Luis Eduardo</td>
+      <td>18/09</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>Responsável pelo cronograma do projeto de Requisitos</td>
+      <td>Vinícius</td>
+      <td>18/09</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>Responsável pelo cronograma do projeto de Requisitos</td>
+      <td>Arthur</td>
+      <td>18/09</td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>Responsável pelo Rich Picture da aplicação de Requisitos</td>
+      <td>Limirio</td>
+      <td>18/09</td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>Responsável pelo Rich Picture da aplicação de Requisitos</td>
+      <td>Mayara</td>
+      <td>18/09</td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>Responsável pelo Rich Picture da aplicação de Requisitos</td>
+      <td>Milena</td>
+      <td>18/09</td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>Responsável pela ata da primeira reunião</td>
+      <td>Vinícius</td>
+      <td>14/09</td>
+    </tr>
+  </tbody>
+</table>
 
-| **N°** | **Compromisso**                                          | **Responsável** | **Data** |
-|------|-------------------------------------|------------------|------------|
-| 1      | Responsável pelo cronograma do projeto de Requisitos     | Breno           | 18/09    |
-| 2      | Responsável pelo cronograma do projeto de Requisitos     | Luis Eduardo    | 18/09    |
-| 3      | Responsável pelo cronograma do projeto de Requisitos     | Vinícius        | 18/09    |
-| 4      | Responsável pelo cronograma do projeto de Requisitos     | Arthur          | 18/09    |
-| 5      | Responsável pelo Rich Picture da aplicação de Requisitos | Limirio         | 18/09    |
-| 6      | Responsável pelo Rich Picture da aplicação de Requisitos | Mayara          | 18/09    |
-| 7      | Responsável pelo Rich Picture da aplicação de Requisitos | Milena          | 18/09    |
-| 8      | Responsável pela ata da primeira reunião                 | Vinícius        | 14/09    |
+<p align="center"><b>Fonte: MCTI - Ministério da Ciência, Tecnologia e Inovação</b></p>
+
 
 ## Bibliografia
 
@@ -74,3 +251,5 @@ A próxima reunião ficou marcada para o dia 21/09/2023, às 21:00.
 | Versão| Data      | Descrição | Autor | Revisor       |
 | :-:   | :-----:       | :------       | -------    | -------            |
 | 1.0   |19/09/2023 |   Criação da página de ata   |  [Vinícius Mendes](https://github.com/yabamiah)| [Luis Eduardo](https://github.com/LuisMiranda10) |
+| 1.1   |25/09/2023 |   Correção das tabelas e pendências | [Vinícius Mendes](https://github.com/yabamiah)| [Luis Eduardo](https://github.com/LuisMiranda10) |
+
