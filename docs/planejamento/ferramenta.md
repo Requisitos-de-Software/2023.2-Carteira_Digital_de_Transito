@@ -11,16 +11,16 @@ A fim de facilitar o gerenciamento e a execução do projeto, foi feito o levant
 
 |                                                           |        Ferramenta         |                               Finalidade                                  |
 | :-------------------------------------------------------: | :-----------------------: | :--------------------------------------------------------------------:    |
-|![]( ../assets/teams.png){width=75x}           |           Teams           |  Realizar reuniões virtuais, compartilhar documentos e colaborar em tempo real, tornando a comunicação rápida e eficaz., juntamente com organização de documentos.        | 
-|![](../assets/github.png){width=75x}           |          GitHub           |  Controle de versão e colaboração dos artefatos do projeto.                           |
-|![](../assets/figma.png){width=75x}            |           Figma            |     Design da interface de apresentação de resultados.                               |
-|![](../assets/mkdocs.png){width=75x}           |          MkDocs           |                  Geração de documentação a partir de arquivos Markdown.               |
-|![](../assets/vscode.png){width=75x}           |    Visual Studio Code     |                 Desenvolvimento de código/documentação e programação.                 |
-|![](../assets/whatsapp.png){width=75x}         |         WhatsApp          |             Comunicação e colaboração em equipe.                                      |
-|![](../assets/youtube.jpg){width=75x}          |          YouTube          |                    Hospedagem de vídeos de apresentações e reuniões.                  |
-|![](../assets/gdrive.png){width=75x}           |       Google Drive        |                     Compartilhamento de arquivos.                                     |
-|![](../assets/thispersondoesntexist.png){width=75x}  | This Person Doesn't Exist |              Geração de imagens de personas fictícias.                          |
-|![](../assets/canvas.jpg){width=75x}           | Canvas |              Criação de personas e elementos gráficos para o projeto.                                    |
+|![]( ../assets/teams.png){width=75x}           |           Teams           |        Realizar reuniões virtuais, compartilhar documentos e colaborar em tempo real, tornando a comunicação rápida e eficaz., juntamente com organização de documentos.        | 
+|![](../assets/github.png){width=75x}           |          GitHub           |        Controle de versão e colaboração em projetos, permitindo o rastreamento de mudanças nos artefatos do projeto e facilitando a revisão de código, tornando a colaboração eficiente e organizada.     |
+|![](../assets/figma.png){width=75x}            |           Figma           |        Design da interface de apresentação de resultados.                               |
+|![](../assets/mkdocs.png){width=75x}           |          MkDocs           |        Simplificar a criação, a organização e a manutenção da documentação do projeto de forma eficaz.               |
+|![](../assets/vscode.png){width=75x}           |    Visual Studio Code     |         Desenvolvimento de código/documentação e programação.                 |
+|![](../assets/whatsapp.png){width=75x}         |         WhatsApp          |         Comunicação da equipe por meio de mensagens diretas.                  |
+|![](../assets/youtube.jpg){width=75x}          |          YouTube          |         Hospedagem de vídeos de apresentações e reuniões.                     |
+|![](../assets/gdrive.png){width=75x}           |       Google Drive        |                     Compartilhamento de arquivos.                             |
+|![](../assets/thispersondoesntexist.png){width=75x}  | This Person Doesn't Exist |              Geração de imagens de personas fictícias.                  |
+|![](../assets/canvas.jpg){width=75x}           | Canvas |              Criação de personas  e confecção do RichPicture, assim como possiveis elementos visuais necessários.    |
 
 <font size="3"><p style="text-align: center">Fonte: Autores do Grupo 2.</p></font>
 
@@ -42,4 +42,4 @@ A fim de facilitar o gerenciamento e a execução do projeto, foi feito o levant
 | Versão  |    Data    |                        Descrição                        |                                             Autor(es)                                             |                  Revisor(es)                   |
 | :-----: | :--------: | :-----------------------------------------------------: | :-----------------------------------------------------------------------------------------------: | :--------------------------------------------: |
 |  `1.0`  | 19/09/2023 |            Criação da página de ferramentas.            | [Limírio Guimarães](https://github.com/LimirioGuimaraes)  | [Mayara Alves](https://github.com/Mayara-tech) |
-
+|  `1.1`  | 19/09/2023 |            Melhor descrição do uso das ferramentas      | [Limírio Guimarães](https://github.com/LimirioGuimaraes)  | Alguém |
