@@ -11,7 +11,7 @@ A fim de facilitar o gerenciamento e a execução do projeto, foi feito o levant
 
 |                                                           |        Ferramenta         |                               Finalidade                                  |
 | :-------------------------------------------------------: | :-----------------------: | :--------------------------------------------------------------------:    |
-|![]( ../assets/teams.png){width=75x}           |           Teams           | Comunicação e colaboração em equipe, juntamente com organização de documentos.        | 
+|![]( ../assets/teams.png){width=75x}           |           Teams           |  Realizar reuniões virtuais, compartilhar documentos e colaborar em tempo real, tornando a comunicação rápida e eficaz., juntamente com organização de documentos.        | 
 |![](../assets/github.png){width=75x}           |          GitHub           |  Controle de versão e colaboração dos artefatos do projeto.                           |
 |![](../assets/figma.png){width=75x}            |           Figma            |     Design da interface de apresentação de resultados.                               |
 |![](../assets/mkdocs.png){width=75x}           |          MkDocs           |                  Geração de documentação a partir de arquivos Markdown.               |
