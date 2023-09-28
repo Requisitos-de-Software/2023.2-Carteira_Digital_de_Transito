@@ -35,10 +35,10 @@ Detalhar ferramentas | Limírio Guimarães | Mayara Alves
 Correções na pagina aplicativo | Milena Baruc | Vinicius Mendes
 Arrumar a ata | Vinícius Mendes | Milena Baruc
 Detalhar cronograma | Luis Eduardo, Vinícius Mendes | Altino Arthur
-Fazer página da apresentação | Mayara Alves | 
+Fazer página da apresentação | Mayara Alves | Milena Baruc
 
 ## Histórico de versões 
 
 Versão  |   Data   | Descrição | Autor(es) | Revisor(es)
 --------- | ------ | ------ | ---------- | ----------
-1.0 | 28/09/2023| Criação da página de apresentação 1 | [Mayara Alves](https://github.com/Mayara-tech) | 
+1.0 | 28/09/2023| Criação da página de apresentação 1 | [Mayara Alves](https://github.com/Mayara-tech) | Milena Baruc
