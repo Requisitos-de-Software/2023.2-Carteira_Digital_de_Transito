@@ -45,45 +45,45 @@ Arthur
   <tbody>
     <tr>
       <td>1.Arthur</td>
-      <td style="text-align:center">:x:</td>
+      <td style="text-align:center">☐</td>
       <td style="text-align:left">altinoarthurmoreira@gmail.com</td>
       <td style="text-align:center">👾</td>
     </tr>
     <tr>
       <td>2.Breno</td>
-      <td style="text-align:center">:white_check_mark:</td>
+      <td style="text-align:center">🗹</td>
       <td style="text-align:left">brenob6@gmail.com</td>
-      <td style="text-align:center">:coffee:</td>
+      <td style="text-align:center">☕</td>
     </tr>
     <tr>
       <td>3.Limirio</td>
-      <td style="text-align:center">:white_check_mark:</td>
+      <td style="text-align:center">🗹</td>
       <td style="text-align:left">limirioguimaraes@gmail.com</td>
-      <td style="text-align:center">:thumbsup:</td>
+      <td style="text-align:center">🕵️</td>
     </tr>
     <tr>
       <td>4.Luis Eduardo</td>
-      <td style="text-align:center">:white_check_mark:</td>
+      <td style="text-align:center">🗹</td>
       <td style="text-align:left">luiseduardocarneiro6@gmail.com</td>
-      <td style="text-align:center">:sunglasses:</td>
+      <td style="text-align:center">🕵️</td>
     </tr>
     <tr>
       <td>5.Mayara</td>
-      <td style="text-align:center">:white_check_mark:</td>
+      <td style="text-align:center">🗹</td>
       <td style="text-align:left">amayara939@gmail.com</td>
-      <td style="text-align:center">:fist:</td>
+      <td style="text-align:center">✊</td>
     </tr>
     <tr>
       <td>6.Milena</td>
-      <td style="text-align:center">:white_check_mark:</td>
+      <td style="text-align:center">🗹</td>
       <td style="text-align:left">milenabaruc072@gmail.com</td>
-      <td style="text-align:center">:fairy:</td>
+      <td style="text-align:center">🧚‍♀️</td>
     </tr>
     <tr>
       <td>7.Vinícius</td>
-      <td style="text-align:center">:white_check_mark:</td>
+      <td style="text-align:center">🗹</td>
       <td style="text-align:left">viniciusmendes1019@gmail.com</td>
-      <td style="text-align:center">:cold_face:</td>
+      <td style="text-align:center">🥶</td>
     </tr>
   </tbody>
 </table>
