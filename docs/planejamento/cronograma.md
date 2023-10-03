@@ -46,7 +46,7 @@ fornecido pelo professor.
 | Pesquisar e definir perfis de usuários   | 21/09/2023| 04/10/2023 | Definir  |  Definir          |
 | Selecionar ténicas de elicitação | 21/09/2023| 04/10/2023 | Definir |  Definir |
 | Selecionar métodos de priorização     | 21/09/2023| 04/10/2023 | Definir    | Definir |
-| Gravar reunião    | 21/09/2023| 04/10/2023 | Definir | Definir |
+| Gravar reunião    | 21/09/2023| 04/10/2023 | Todos | Todos |
 | Fazer ata da reunião       | 21/09/2023| 04/10/2023 | Definir | Definir |
 | Correção após a Entrega 2  | 05/10/2023 | 08/10/2023 |     Todos   | Todos  |   
 
@@ -59,7 +59,7 @@ fornecido pelo professor.
 | Modelagen de requisitos: Léxico | 05/10/2023| 25/10/2023 | Definir   | Definir |
 | Modelagen de requisitos: Use case     | 05/10/2023| 25/10/2023 | Definir    | Definir |
 | Modelagen de requisitos: Especificação suplementar | 05/10/2023| 25/10/2023 | Definir | Definir |
-| Gravar reunião    | 05/10/2023| 25/10/2023 | Definir | Definir |
+| Gravar reunião    | 05/10/2023| 25/10/2023 |  Todos |  Todos |
 | Fazer ata da reunião   | 05/10/2023| 25/10/2023 | Definir | Definir |
 | Correção após a Entrega 3  | 26/10/2023 | 29/10/2023 |     Todos   | Todos  | 
 
@@ -70,7 +70,7 @@ fornecido pelo professor.
 | Modelagem de Requisitos - Ágil: Histórias de usuário         | 26/10/2023| 06/11/2023 | Definir   |   Definir         |
 | Modelagem de Requisitos - Ágil: Backlogs  | 26/10/2023| 06/11/2023 | Definir   | Definir |
 | Modelagem de Requisitos - Ágil: NFR Framework | 26/10/2023| 06/11/2023 | Definir    | Definir |
-| Gravar reunião    | 26/10/2023| 06/11/2023 | Definir | Definir | 
+| Gravar reunião    | 26/10/2023| 06/11/2023 | Todos | Todos | 
 | Fazer ata da reunião         |26/10/2023| 06/11/2023 | Definir | Definir |
 | Correção após a Entrega 4  | 07/11/2023 | 10/11/2023 |     Todos   | Todos  | 
 
@@ -80,7 +80,7 @@ fornecido pelo professor.
 |---------------|------------|---------|------------------|----------------|
 | Verificação dos requisitos         | 07/11/2023| 13/11/2023 | Definir   |    Definir        |
 | Validação dos requisitos | 07/11/2023| 13/11/2023 | Definir  | Definir |
-| Gravar reunião     | 07/11/2023| 13/11/2023 | Definir    | Definir |
+| Gravar reunião     | 07/11/2023| 13/11/2023 |  Todos    |  Todos |
 | Fazer ata da reunião    | 07/11/2023| 13/11/2023 |   Definir |  Definir  |
 | Correção após a Entrega 5.1  | 14/11/2023 | 17/11/2023 |     Todos   | Todos  | 
 
@@ -89,7 +89,7 @@ fornecido pelo professor.
 | **Atividade** | **Início** | **Fim** | **Responsáveis** |  **Revisores** |
 |---------------|------------|---------|------------------|----------------|
 | Pós-Rastreabilidade - Gerência   | 14/11/2023| 20/11/2023 | Definir   |     Definir       |
-| Gravar reunião | 14/11/2023| 20/11/2023 | Definir   | Definir |
+| Gravar reunião | 14/11/2023| 20/11/2023 |  Todos   |  Todos |
 | Fazer ata da reunião     | 14/11/2023| 20/11/2023 | Definir    | Definir |
 | Correção após a Entrega 6  | 25/11/2023 | 28/11/2023 |     Todos   | Todos  | 
 
@@ -99,7 +99,7 @@ fornecido pelo professor.
 |---------------|------------|---------|------------------|----------------|
 | Verificação dos requisitos         | 14/11/2023| 29/11/2023 | Definir   |   Definir         |
 | Validação dos requisitos | 14/11/2023| 29/11/2023 | Definir   | Definir |
-| Gravar reunião     | 14/11/2023| 29/11/2023 | Definir    | Definir |
+| Gravar reunião     | 14/11/2023| 29/11/2023 |  Todos    |  Todos |
 | Fazer ata da reunião    | 14/11/2023| 29/11/2023 |  Definir    |   Definir |
 | Correção após a Entrega 5.2  | 30/11/2023 | 01/12/2023 |     Todos   | Todos  | 
 
@@ -108,7 +108,7 @@ fornecido pelo professor.
 | **Atividade** | **Início** | **Fim** | **Responsáveis** |  **Revisores** |
 |---------------|------------|---------|------------------|----------------|
 | Desenvolvimento do projeto final    | 25/11/2023| 28/11/2023 | Definir   |     Definir       |
-| Gravar reunião | 01/12/2023| 02/12/2023 | Definir   | Definir |
+| Gravar reunião | 01/12/2023| 02/12/2023 |  Todos   |  Todos |
 | Fazer ata da reunião     | 01/12/2023| 02/12/2023 | Definir    | Definir |
 | Correção após a entrega final | 20/12/2023 | 21/12/2023 |     Todos   | Todos  | 
 
@@ -119,4 +119,4 @@ fornecido pelo professor.
 
 | Versão| Data      | Descrição | Autor | Revisor       |
 | :-:   | :-:       | :--       | --    | --             |
-| 1.0   |18/09/2023 |Criação da página de cronogramas | Altino Breno | Luis |
+| 1.0   |18/09/2023 |Criação da página de cronogramas | Altino Breno e Luis | Vinicius |
