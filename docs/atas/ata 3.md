@@ -103,4 +103,4 @@ A próxima reunião ficou marcada para o dia 05/10/2023, às 21:00.
 
 | Versão | Data      | Descrição | Autor | Revisor |
 | :-:    | :-----:   | :------   | ----  | ------- |
-| 1.0    |30/09/2023 | Criação da terceira ata |[Mayara Alves](https://github.com/Mayara-tech)|  |
+| 1.0    |30/09/2023 | Criação da terceira ata |[Mayara Alves](https://github.com/Mayara-tech)|[Luis Eduardo](https://github.com/LuisMiranda10) |
