@@ -8,6 +8,13 @@ ou textos. Ele representa visualmente uma história por meio de quadros estátic
 podem conter desenhos, colagens, fotografias ou outras técnicas visuais.
 (Storyboards, 2023)
 
+## Storyboard 1
+
+A figura 1 demonstra um caso de uso do aplicativo após um motorista ser multado por
+cometer uma infração de trânsito.
+
+O aplicativo pode ser acessado para verificar cobranças de multas.
+
 <center>
 
 **Figura 1**: Storyboard Vin Diesel
@@ -18,6 +25,12 @@ podem conter desenhos, colagens, fotografias ou outras técnicas visuais.
 
 </center>
 
+## Storyboard 2
+
+A aplicativo também pode ser utilizado para obter documentos do veículo. Dessa maneira
+situações em que o motorista não está com documentos em mão em uma blitz policial, por exemplo
+são reduzidos. A figura 2 é um exemplo desse possível acontecimento.
+
 <center>
 
 **Figura 2**: Storyboard Darth Vader
@@ -26,6 +39,11 @@ podem conter desenhos, colagens, fotografias ou outras técnicas visuais.
 
 **Fonte**: [Breno](https://github.com/brenob6)
 </center>
+
+## Storyboard 3
+
+A Carteira Digital de Trânsito, pode ser utilizada para compartilhar documentos de veículos com
+outros condutores. A figura 3 demonstra essa situação.
 
 <center>
 
@@ -46,4 +64,4 @@ podem conter desenhos, colagens, fotografias ou outras técnicas visuais.
 
 Versão  |   Data    | Descrição | Autor(es)     | Revisor(es)|
 :-----: | :----:    | ------    | ----------    | ----------|
-1.0 | 30/09/2023| Criação do documento | [Breno](https://github.com/brenob6) | |
+1.0 | 30/09/2023| Criação do documento | [Breno](https://github.com/brenob6) | [Luis Eduardo](https://github.com/LuisMiranda10)|
