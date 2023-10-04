@@ -2,7 +2,7 @@
 
 ## Introdução
 
-Dado que a priorização de requisitos é um processo crítico que envolve a classificação e seleção dos requisitos do sistema de acordo com sua importância, impacto e viabilidade, a abordagem _First Things First_ visa enfatixar a importância de focar nas tarefas e atividades mais cruciais e significativas antes de se dedicar a tarefas menos importantes. Assim, temos como ideia central que para ter mais prosutividade deve-se identificar e dedicar tempo significativo às atividades que tem mais impacto no projeto.
+Dado que a priorização de requisitos é um processo crítico que envolve a classificação e seleção dos requisitos do sistema de acordo com sua importância, impacto e viabilidade, a abordagem _First Things First_ visa enfatizar a importância de focar nas tarefas e atividades mais cruciais e significativas antes de se dedicar a tarefas menos importantes. Assim, temos como ideia central que para ter mais prosutividade deve-se identificar e dedicar tempo significativo às atividades que tem mais impacto no projeto.
 
 ## Metodologia
 
