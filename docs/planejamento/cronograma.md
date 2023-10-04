@@ -39,7 +39,7 @@ fornecido pelo professor.
 | Fazer o Rich Picture      | 14/09/2023| 19/09/2023 | Milena | Limirio |
 | Gravar a apresentação     | 14/09/2023| 19/09/2023 | Todos | Todos |
 
-<p align="center"><b>Tabela 02</b> - cronograma etapa 2</p>
+<p align="center"><b>Tabela 02</b> - Cronograma etapa 2</p>
 
 | **Atividade** | **Início** | **Fim** | **Responsáveis** |  **Revisores** |
 |---------------|------------|---------|------------------|----------------|
@@ -51,7 +51,7 @@ fornecido pelo professor.
 | Correção após a Entrega 2  | 05/10/2023 | 08/10/2023 |     Todos   | Todos  |   
 
 
-<p align="center"><b>Tabela 03</b> - cronograma etapa 3</p>
+<p align="center"><b>Tabela 03</b> - Cronograma etapa 3</p>
 
 | **Atividade** | **Início** | **Fim** | **Responsáveis** |  **Revisores** |
 |---------------|------------|---------|------------------|----------------|
@@ -63,7 +63,7 @@ fornecido pelo professor.
 | Fazer ata da reunião   | 05/10/2023| 25/10/2023 | Breno | Mayara |
 | Correção após a Entrega 3  | 26/10/2023 | 29/10/2023 |     Todos   | Todos  | 
 
-<p align="center"><b>Tabela 04</b> - cronograma etapa 4</p>
+<p align="center"><b>Tabela 04</b> - Cronograma etapa 4</p>
 
 | **Atividade** | **Início** | **Fim** | **Responsáveis** |  **Revisores** |
 |---------------|------------|---------|------------------|----------------|
@@ -74,7 +74,7 @@ fornecido pelo professor.
 | Fazer ata da reunião         |26/10/2023| 06/11/2023 | Milena| Arthur |
 | Correção após a Entrega 4  | 07/11/2023 | 10/11/2023 |     Todos   | Todos  | 
 
-<p align="center"><b>Tabela 05</b> - cronograma etapa 5.1</p>
+<p align="center"><b>Tabela 05</b> - Cronograma etapa 5.1</p>
 
 | **Atividade** | **Início** | **Fim** | **Responsáveis** |  **Revisores** |
 |---------------|------------|---------|------------------|----------------|
@@ -84,7 +84,7 @@ fornecido pelo professor.
 | Fazer ata da reunião    | 07/11/2023| 13/11/2023 |   Limirio |  Luis  |
 | Correção após a Entrega 5.1  | 14/11/2023 | 17/11/2023 |     Todos   | Todos  | 
 
-<p align="center"><b>Tabela 07</b> - cronograma etapa 6</p>
+<p align="center"><b>Tabela 07</b> - Cronograma etapa 6</p>
 
 | **Atividade** | **Início** | **Fim** | **Responsáveis** |  **Revisores** |
 |---------------|------------|---------|------------------|----------------|
@@ -93,7 +93,7 @@ fornecido pelo professor.
 | Fazer ata da reunião     | 14/11/2023| 20/11/2023 | Limirio    | Luis Eduardo |
 | Correção após a Entrega 6  | 25/11/2023 | 28/11/2023 |     Todos   | Todos  | 
 
-<p align="center"><b>Tabela 06</b> - cronograma etapa 5.2</p>
+<p align="center"><b>Tabela 06</b> - Cronograma etapa 5.2</p>
 
 | **Atividade** | **Início** | **Fim** | **Responsáveis** |  **Revisores** |
 |---------------|------------|---------|------------------|----------------|
@@ -103,7 +103,7 @@ fornecido pelo professor.
 | Fazer ata da reunião    | 14/11/2023| 29/11/2023 |  Milena    |   Arthur |
 | Correção após a Entrega 5.2  | 30/11/2023 | 01/12/2023 |     Todos   | Todos  | 
 
-<p align="center"><b>Tabela 07</b> - cronograma Entrega final</p>
+<p align="center"><b>Tabela 07</b> - Cronograma Entrega final</p>
 
 | **Atividade** | **Início** | **Fim** | **Responsáveis** |  **Revisores** |
 |---------------|------------|---------|------------------|----------------|
