@@ -43,7 +43,7 @@ Seguido o estudo dos termos e do contexto em que os termos e que citamos na Tabe
 |GL03RF| Dever ser possível visualizar todos os documentos de regularização do veículo|
 |GL04RF| Dever ser possível baixar todos os documentos de regularização do veículo|
 
-## Bibliogradia
+## Bibliografia
 > VAZQUEZ C., SIMÕES G.  Engenharia de Requisitos. 1 ed. Brasport, 2016. Capítulo 7, p. 255-256.
 >
 > Detran-DF, disponível no [link](https://www.detran.df.gov.br/), acesso em outubro de 2023.
@@ -51,4 +51,4 @@ Seguido o estudo dos termos e do contexto em que os termos e que citamos na Tabe
 ## 📑 Histórico de Versões
 | **Versão**   |   **Data**   | **Descrição** | **Autor** | **Revisor** |
 |--------|---------|-----------|--------|---------|
-|1.0| 04/09/2023 | Criação da página de glossário | [Vinícius Mendes](https://github.com/yabamiah)| [Luís Miranda](https://github.com/LuisMiranda10) |
+|1.0| 04/09/2023 | Criação da página de glossário | [Vinícius Mendes](https://github.com/yabamiah)| [Luis Eduardo](https://github.com/LuisMiranda10) |
