@@ -38,49 +38,35 @@ Legenda das tabelas:
 <center>
 
 
-| Tipo |             Descrição            |   ID    | Prioridade |
-|------|----------------------------------|--------|-------|
-| RF01 	| O usuário deve poder realizar cadastro 	| BS01/IS05	| Alta  |
-| RF02	| O usuário deve poder realizar login 	| BS02/IS05 	| Alta  |
-| RF03	| O usuário deve poder comprar ingressos dentro do app 	|  BS03/IS04/OBS10	|  Alta |
-| RF04	| O usuário deve poder buscar eventos 	| BS04/IS09/OBS02/Q01	|  Alta |
-| RF05	| O usuário deve ser capaz de filtrar eventos 	|  BS05	| Alta  |
-| RF06	| O usuário deve acessar as notificações sobre os eventos 	| BS06 	| Alta  |
-| RF07	| O usuário deve salvar os dados do cartão no app 	| BS07 	| Media  |
-| RF08	| O usuário deve poder filtrar as cidades que desejar 	| BS08/IS01/OBS01	|  Alta |
-| RF09	| O usuário deve fornecer sua localização	| BS09 	| Alta  |
-| RF10	|  O usuário deve poder acessar o calendário de eventos	| BS10	| Alta  |
-| RF11	| O usuário deve poder acessar os eventos a gostos de acordo com o perfil do usuário 	|  BS11	| Alta  |
-| RF12	| O usuário deve poder responder a pesquisa de perfil sobre seus gostos	|  BS12	| Media  |
-| RF13	| O usuário deve ser capaz de acessar as informações do evento	|  BS13	| Alta  |
-| RF14	| O usuário deve ser capaz de acessar as atrações do evento 	| BS14 	| Alta  |
-| RF15	| O usuário deve poder realizar pagamento com de várias formas 	| BS15/IS07/Q08 	| Alta  |
-| RF16	| O usuário deve ter acesso a pré-venda 	| BS16 	| Alta  |
-| RF17	| O usuário deve receber a cópia do ingresso por e-mail 	| BS17 	| Alta  |
-| RF18	| O usuário deve ser capaz de conectar uma carteira digital 	| BS18	| Media  |
-| RF19	| O usuário deve ser capaz de mudar o idioma do app 	|  BS19	| Alta  |
-| RF20	| O usuário deve ser capaz de aumentar a fonte 	| BS21 	| Baixa  |
-| RF21	| O usuário deve ser capaz de dar zoom 	| BS22 	| Alta  |
-| RF22	| O usuário deve ser capaz de acessar a assistente virtual 	| BS23 	| Media  |
-| RF23	| O usuário deve ser capaz de compartilhar o evento 	| BS24/OBS03 	| Baixa  |
-| RF24 | O aplicativo filtra os eventos por data e por horário.  | IS02/Q03 | Media |
-| RF25 | O aplicativo filtra os eventos por idade mínima de entrada.  | IS03/Q02 | Media |
-| RF26 | O aplicativo permite excluir cadastro.  | IS06 | Media |
-| RF27 | O aplicativo permite cancelar compras.  | IS08/OBS12/Q09 | Alta |
-| RF28 | O aplicativo permite escolher a quantidade de ingressos que o usuário deseja comprar. | OBS04 | Alta |
-| RF29 | O aplicativo permite selecionar as poltronas para pessoas idosas, crianças, obesas ou com deficiência, caso as tenha. | OBS05 |  Alta  |
-| RF30 | O aplicativo permite selecionar as poltronas especiais. | OBS06 | Alta |
-| RF31 | Na seleção de ingresso, o aplicativo permite adicionar um cupom de desconto. | OBS07 |Alta |
-| RF32 | Caso o local disponibilize, o aplicativo disponibiliza uma visão prévia da poltrona. | OBS08 | Alta |
-| RF33 | O aplicativo permite a doação por parte do usuário para fundações. | OBS09 | Media  |
-| RF34 | O aplicativo possui uma função para entrar em contato com o suporte. | OBS11 | Alta |
-| RF35 | O aplicativo permite ao usuário alterar seus dados. | OBS13 |Alta |
-| RF36 | O aplicativo possui uma função que auxilia na recuperação da conta do usuário. | OBS14 |  Alta  |
-| RF37 | O aplicativo filtra eventos por categorias.  |Q04 | Alta  |
-| RF38 | O aplicativo da sugestões de eventos com base no histórico de buscas do usuário.  |Q05 | Media  |
-| RF39 | O aplicativo tem palavras-chave ou tags associadas a eventos para facilitar a busca.  |Q06 | Alta  |
-| RF40 | O aplicativo notifica usuário sobre eventos, quando permitido | Q07 | Media|   
-
+|Requisito| Tipo | Priorização 
+|----|-----|-----|
+|Login pelo gov  		|RF | Alta 
+|Obter versão digital da habilitação 						|RF | Alta
+|Obter versão digital dos veiculos que você é principal condultor 		|RF | Alta
+|Obter versão digital do CRLV												            |RF | Alta
+|Consultar multas associadas a sua habilitação					                        |RF | Alta
+|Consultar multas do seu veículo								                        |RF | Alta
+|Consultar multas dos veículos que você é principal condutor	                        |RF | Alta
+|O Aplicativo possui diferentes meios de pagamento de multa		                        |RF | Baixa
+|Renvidicar a multa																		|RF | Baixa
+|O aplicativo permite solicitar renvidicação da multa para outro condutor				|RF | Baixa
+|Contato com suporte																	|RF | Média
+|Indicar principal condutor do veículo 													|RF | Baixa
+|Permite ao condutor verificar exames (toxicológico) 									|RF | Baixa
+|Permite que o usuario acesse cursos especializados associados a sua habilitação 	    |RF | Baixa
+|Permite o acompanhamento do status da multa (a cobrar e pago)						    |RF | Média
+|Permite visualizar histórico de multas do condutor									    |RF | Média
+|Permite ao condutor participar do cadastro positivo 							        |RF | Baixa
+|Permite ao usuário fazer transferência de veículo							            |RF | Média
+|Aplicativo deve possuir um FAQ 														|RF | Média
+|Aplicativo mostra restrições e indicadores (restrição no veiculo, multa, judicial) 	|RF | Alta
+|O aplicativo permite visualizar a politica de privicidade								|RF | Alta
+|O aplicativo deve divulgar campanhas e projetos do DETRAN								|RF | Baixa
+|Validar cadastro de CNH																|RNF | Alta
+|Aplicativo funciona em multisistemas (android e IOS) 									|RNF | Alta
+|Aplicativo possui interface simple 													|RNF | Alta
+|Aplicativo deve evitar erros e telas brancas durante o uso 							|RNF | Alta
+|Possui modo escuro/claro																|RNF | Baixa
 </center>
 
 
