@@ -41,8 +41,9 @@ markdown_extensions:
 nav:
   - Sobre o projeto: index.md
   - Atas:
-    - Ata 01: atas/ata 1
-    - Ata 02: atas/ata2
+    - Ata 01: atas/ata 1.md
+    - Ata 02: atas/ata2.md
+    - Ata 03: atas/ata 3.md
   - Apresentações:
     - Apresentação 01: apresentação/apresentação 1
   - Planejamento: 
@@ -57,10 +58,12 @@ nav:
     - Storyboard: elicitação/storyboard
     - Perfil de Usuário: elicitação/perfil_de_usuário
     - Personas: elicitação/personas
-    - Questionário: elicitação/questionario
-    - Glossário: elicitação/glossario
+    - Elicitação de Requisito: 
+      - Questionário: elicitação/questionario
+      - Glossário: elicitação/glossario
+      - Requisitos Elicitados: elicitação/requisitos_elicitados
     - Priorização: 
       - First Things First: elicitação/priorização/first_things_first
       - Three Level Scale: elicitação/priorização/three_level_scale
       - $100: elicitação/priorização/100
-    - Requisitos Elicitados: elicitação/requisitos_elicitados
+ 
