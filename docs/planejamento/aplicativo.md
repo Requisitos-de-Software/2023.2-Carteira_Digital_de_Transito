@@ -68,14 +68,13 @@ A fim de realizar o projeto de maneira ética e legal, o grupo decidiu verificar
 <p align="center"> Acessado em: 19/09/2023</p>
 
 ## Bibliografia
-> e-Título. Google Play, 2023. Disponível em: https://play.google.com/store/apps/details?id=br.jus.tse.eleitoral.etitulo&hl=pt_BR&gl=US. Acesso em: 29 de outubro de 2023</br>
-> Carteira Digital de Trânsito. Google Play, 2023. Disponível em: https://play.google.com/store/apps/details?id=br.gov.serpro.cnhe&hl=pt_BR&gl=US. Acesso em: 29 de outubro de 2023</br>
-> STJ CPE Mobile. Google Play, 2023. Disponível em: https://play.google.com/store/apps/details?id=br.jus.stj.cpemobile&hl=pt_BR&gl=US. Acesso em: 29 de outubro de 2023</br>
 > Bitwarden - Password Manager. Google Play, 2023. Disponível em: https://play.google.com/store/apps/details?id=com.x8bit.bitwarden&hl=pt_BR&gl=US. Acesso em: 29 de outubro de 2023</br>
-> Librera Reader: para PDF, EPUB. Google Play, 2023. Disponível em: https://play.google.com/store/apps/details?id=com.foobnix.pdf.reader&hl=pt_BR&gl=US. Acesso em: 29 de outubro de 2023</br>
-> Kodi. Google Play, 2023. Disponível em: https://play.google.com/store/apps/details?id=org.xbmc.kodi&hl=pt_BR&gl=US. Acesso em: 29 de outubro de 2023</br>
+> Carteira Digital de Trânsito. Google Play, 2023. Disponível em: https://play.google.com/store/apps/details?id=br.gov.serpro.cnhe&hl=pt_BR&gl=US. Acesso em: 29 de outubro de 2023</br>
 > DFnoPonto. APKPure, 2023. Disponível em: https://apkpure.com/br/dfnoponto/df.gov.dftrans.dfnoponto/amp. Acesso em: 29 de outubro de 2023</br>
-
+> e-Título. Google Play, 2023. Disponível em: https://play.google.com/store/apps/details?id=br.jus.tse.eleitoral.etitulo&hl=pt_BR&gl=US. Acesso em: 29 de outubro de 2023</br>
+> Kodi. Google Play, 2023. Disponível em: https://play.google.com/store/apps/details?id=org.xbmc.kodi&hl=pt_BR&gl=US. Acesso em: 29 de outubro de 2023</br>
+> Librera Reader: para PDF, EPUB. Google Play, 2023. Disponível em: https://play.google.com/store/apps/details?id=com.foobnix.pdf.reader&hl=pt_BR&gl=US. Acesso em: 29 de outubro de 2023</br>
+> STJ CPE Mobile. Google Play, 2023. Disponível em: https://play.google.com/store/apps/details?id=br.jus.stj.cpemobile&hl=pt_BR&gl=US. Acesso em: 29 de outubro de 2023</br>
 
 ## Histórico de versões 
 

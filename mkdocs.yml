@@ -53,12 +53,13 @@ nav:
   - Pré-rastreabilidade:
     - Rich picture: pré-rastreabilidade/rich picture
   - Elicitação:
+    - Storyboard: elicitação/storyboard
     - Perfil de Usuário: elicitação/perfil_de_usuário
     - Personas: elicitação/personas
     - Questionário: elicitação/questionario
+    - Glossário: elicitação/glossario
     - Priorização: 
       - First Things First: elicitação/priorização/first_things_first
       - Three Level Scale: elicitação/priorização/three_level_scale
       - $100: elicitação/priorização/100
     - Requisitos Elicitados: elicitação/requisitos_elicitados
-
