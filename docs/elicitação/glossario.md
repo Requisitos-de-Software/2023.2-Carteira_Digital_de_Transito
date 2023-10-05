@@ -2,6 +2,7 @@
 A técnica de elicitação chamada Glossário, que também pode ser usada como produto final, é uma técnica que têm como atividade identificar e definir palavras ou termos-chaves utilizadas no domínio do problema em que o sistema está sendo desenvolvido ou analisado, assim coletando um dicionário em comum dos stakeholders, e durante o processo desta atividade, é capaz de elicitar requisitos. O que torna essa técnica tão eficaz no aplicativo Carteira Digital de Trânsito, é a quantidade de termos e siglas utilizados no Código de Trânsito Brasileiro.
 
 Conforme foi dito pelo Vazquez e Simões, em  Engenharia de Requisitos, no Cap. 7 (2016, p. 155-156  ), para identificar os termos candidatos ao glossário, temos que atentar aos termos:
+
 - Únicos para o domínio;
 - Com mais de um definição;
 - Com definição local distinta do senso comum;
@@ -45,8 +46,8 @@ Seguido o estudo dos termos e do contexto em que os termos e que citamos na Tabe
 
 ## Bibliografia
 
-> Detran-DF, disponível no [link](https://www.detran.df.gov.br/), acesso em outubro de 2023.
-> VAZQUEZ C., SIMÕES G.  Engenharia de Requisitos. 1 ed. Brasport, 2016. Capítulo 7, p. 255-256.>
+> Detran-DF, disponível no [link](https://www.detran.df.gov.br/), acesso em outubro de 2023.<br>
+> VAZQUEZ C., SIMÕES G.  Engenharia de Requisitos. 1 ed. Brasport, 2016. Capítulo 7, p. 255-256.
 
 ## 📑 Histórico de Versões
 | **Versão**   |   **Data**   | **Descrição** | **Autor** | **Revisor** |
