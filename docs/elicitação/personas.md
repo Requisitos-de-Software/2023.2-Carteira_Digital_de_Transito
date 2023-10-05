@@ -6,7 +6,7 @@ As personas são personagens fictícias criadas para representar os usuários da
 
 ## Metodologia
 
-As personas criadas possuem as características apresentadas na seção de <a href="/elicitacao/perfil_de_usuario/">perfil de usuário</a>. Foram criadas cinco personas, assim como vistas nas figuras de 1 a 4, sendo 2 primárias, 2 secundárias e uma antipersona. Foi escolhida essa quantidade, pois permite que as diversas características distintas possam ter ao menos um representante sem que o foco no usuário principal do sistema seja perdido. Após o detalhamento das personas foi utilizada a ferramenta <a href="https://this-person-does-not-exist.com/pt"><i>This Person Doesn't Exist</i></a> para gerar uma imagem falsa que representaria a persona.
+As personas desenvolvidas exibem as características delineadas na seção de perfil de usuário. Foram elaboradas cinco personas, conforme ilustrado nas figuras de 1 a 4, das quais 2 são primárias, 2 são secundárias e uma é uma antipersona. Esse número foi selecionado por permitir que várias características únicas tenham pelo menos um representante, sem desviar a atenção do usuário principal do sistema. Após a elaboração detalhada das personas, utilizou-se a ferramenta This Person Doesn't Exist para gerar uma imagem fictícia representativa de cada persona.
 
 ## Elenco
 
