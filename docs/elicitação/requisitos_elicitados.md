@@ -10,7 +10,6 @@ A tabela
 |Requisito| Tipo |
 |----|-----|
 |Login pelo gov  		|RF
-|
 |Obter versão digital da habilitação 						|RF
 |Obter versão digital dos veiculos que você é principal condultor 		|RF
 |Obter versão digital do CRLV												            |RF
