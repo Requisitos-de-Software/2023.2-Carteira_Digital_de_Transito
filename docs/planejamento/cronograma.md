@@ -129,9 +129,9 @@ fornecido pelo professor.
 
 | **Atividade** | **Início** | **Fim** | **Responsáveis** |  **Revisores** |
 |---------------|------------|---------|------------------|----------------|
-| Desenvolvimento do projeto final    | 25/11/2023| 28/11/2023 | Definir   |     Definir       |
+| Desenvolvimento do projeto final    | 25/11/2023| 28/11/2023 | Mayara  |     Vinicius      |
 | Gravar reunião | 01/12/2023| 02/12/2023 |  Todos   |  Todos |
-| Fazer ata da reunião     | 01/12/2023| 02/12/2023 | Definir    | Vinicius |
+| Fazer ata da reunião     | 01/12/2023| 02/12/2023 | Vinicius    | Luis |
 | Correção após a entrega final | 20/12/2023 | 21/12/2023 |     Todos   | Todos  | 
 
 
