@@ -17,7 +17,7 @@ As personas criadas possuem as características apresentadas na seção de <a hr
 | <font size="3"><p style="text-align: center">Figura 1- Persona Primária Maria Silva.</p></font><figure markdown>![Persona Maria Silva](../assets/persona_maria.jpeg){:style="height:500px;width:500px"}<figcaption>Fonte: Elaborada por [Altino Arthur](https://github.com/arthurrochamoreira) (2023).<a id="TEC2" href="#QT2">^2^</a></figcaption></figure> |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Nome**: Maria Silva.                                                                                                                                                                                                                                                                                                                                                        |
-| **Status**: Persona Secundária.                                                                                                                                                                                                                                                                                                                                                         |
+| **Status**: Persona Primária.                                                                                                                                                                                                                                                                                                                                                         |
 | **Gênero**: Feminino                                                                                                                                                                                                                                                                                                                                                                   |
 | **Idade**: 22 anos                                                                                                                                                                                                                                                                                                                                                                  |
 | **Profissão**: Entregadora Delivery.                                                                                                                                                                                                                                                                                                                       |
@@ -29,9 +29,9 @@ As personas criadas possuem as características apresentadas na seção de <a hr
 | **Requisitos**: Acesso fácil aos documentos de trânsito, notificações sobre infrações e uma interface amigável ao usuário.                                                                                                                                                                                                           |
 | **Tarefas**: Acorda cedo, prepara sua moto elétrica, faz entregas durante o dia, participa de reuniões de grupos ambientais e passa tempo com a família à noite.                                                                                                                                                                                                                              |
 
-<font size="3"><p style="text-align: center">Fonte: [Rafael Ferreira](https://github.com/RafaelCLG0).</p></font>
+<font size="3"><p style="text-align: center">Fonte: [Altino Arthur](https://github.com/arthurrochamoreira).</p></font>
 
-<font size="3"><p style="text-align: center">**Tabela 2** - Persona Secundária José da Silva.</p></font>
+<font size="3"><p style="text-align: center">**Tabela 2** - Persona Secundária Steve Vobes.</p></font>
 
 | <font size="3"><p style="text-align: center">Figura 2 - Persona Secundária Steve Vobes.</p></font><figure markdown>![Persona Steve Vobes](../assets/persona_steve.png){: style="height:500px;width:500px"}<figcaption>Fonte: Elaborada por [Altino Arthur](https://github.com/arthurrochamoreira) (2023).<a id="TEC2" href="#QT2">^2^</a></figcaption></figure> |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -50,7 +50,7 @@ As personas criadas possuem as características apresentadas na seção de <a hr
 
 <font size="3"><p style="text-align: center">Fonte: [Matheus Henrique](https://github.com/mathonaut).</p></font>
 
-<font size="3"><p style="text-align: center">**Tabela 3** - Persona Primária jair Motonaro.</p></font>
+<font size="3"><p style="text-align: center">**Tabela 3** - Persona Secundária Jair Motonaro.</p></font>
 
 | <font size="3"><p style="text-align: center">Figura 3- Persona Secundária Jair Motonaro</font><figure markdown>![Jair Motonaro](../assets/persona_jair.png){: style="height:500px;width:500px"}<figcaption>Fonte: Elaborada por [Altino Arthur](https://github.com/arthurrochamoreira) (2023).<a id="TEC2" href="#QT2">^2^</a></figcaption></figure> |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -67,7 +67,7 @@ As personas criadas possuem as características apresentadas na seção de <a hr
 | **Requisitos**: Como tem facilidade com tecnologia, Lara acha que o app deve fornecer uma compra segura e que os eventos apareçam de acordo com seus gostos, para que a navegação seja mais fácil.                                                                                                                                                                |
 | **Tarefas**: Acorda cedo, verifica o aplicativo para quaisquer atualizações ou notificações, começa seu dia de trabalho como motorista particular, volta para casa para passar tempo com a família e se manter atualizado sobre as notícias de interesse nacionais.                                                                                                        |
 
-<font size="3"><p style="text-align: center">Fonte: [Geovanna Maciel](https://github.com/manuziny).</p></font>
+<font size="3"><p style="text-align: center">Fonte: [Altino Arthur](https://github.com/arthurrochamoreira).</p></font>
 
 <font size="3"><p style="text-align: center">**Tabela 4** - Persona Primária Carlos Digital.</p></font>
 
