@@ -41,9 +41,9 @@ fornecido pelo professor.
 | Fazer o Rich Picture      | 14/09/2023| 19/09/2023 | Milena | Limirio |
 | Gravar a apresentação     | 14/09/2023| 19/09/2023 | Todos | Todos |
 
-# Entrega 2 - Elicitação de Requisitos
+## Entrega 2 - Elicitação de Requisitos
 
-##  Cronograma planejado
+###  Cronograma planejado
 <p align="center"><b>Tabela 03</b> - Cronograma etapa 2</p>
 
 | **Atividade** | **Início** | **Fim** | **Responsáveis** |  **Revisores** |
@@ -61,7 +61,7 @@ fornecido pelo professor.
 | Fazer ata da reunião       | 21/09/2023| 04/10/2023 | Breno | Limirio |
 | Correção após a Entrega 2  | 05/10/2023 | 08/10/2023 |     Todos   | Todos  |   
 
-##  Cronograma executado
+###  Cronograma executado
 <p align="center"><b>Tabela 03</b> - Execução do cronograma etapa 2</p>
 
 | **Atividade** | **Início** | **Fim** | **Responsáveis** |  **Revisores** |
