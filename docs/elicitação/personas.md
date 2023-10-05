@@ -6,13 +6,13 @@ As personas constituem criações fictícias elaboradas para representar os usu�
 
 ## Metodologia
 
-As personas desenvolvidas exibem as características delineadas na seção de perfil de usuário. Foram elaboradas cinco personas, conforme ilustrado nas figuras de 1 a 4, das quais 2 são primárias, 2 são secundárias e uma é uma antipersona. Esse número foi selecionado por permitir que várias características únicas tenham pelo menos um representante, sem desviar a atenção do usuário principal do sistema. Após a elaboração detalhada das personas, utilizou-se a ferramenta This Person Doesn't Exist para gerar uma imagem fictícia representativa de cada persona.
+As personas desenvolvidas exibem as características delineadas na seção de perfil de usuário. Foram elaboradas quatro personas, conforme ilustrado nas figuras de 1 a 4, das quais 2 são primárias, 2 são secundárias. Esse número foi selecionado por permitir que várias características únicas tenham pelo menos um representante, sem desviar a atenção do usuário principal do sistema. Após a elaboração detalhada das personas, utilizou-se a ferramenta This Person Doesn't Exist para gerar uma imagem fictícia representativa de cada persona.
 
 ## Elenco
 
 <p style="text-align: justify;">As tabelas de 1 a 4 apresentam o elenco de personas.</p>
 
-<p style="text-align: center"><b>Tabela 1</b> - Persona Primária João Silva.</p>
+<p style="text-align: center"><b>Tabela 1</b> - Persona Primária Joana Silva.</p>
 
 | <font size="3"><p style="text-align: center">Figura 1- Persona Primária Joana Silva.</p></font><figure markdown>![Persona Joana Silva](../assets/joao_silva.jpeg){:style="height:500px;width:500px"}<figcaption>Fonte: Elaborada por [Altino Arthur](https://github.com/arthurrochamoreira) (2023).<a id="TEC2" href="#QT2">^2^</a></figcaption></figure> |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
