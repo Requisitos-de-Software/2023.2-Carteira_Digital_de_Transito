@@ -110,6 +110,6 @@ carteira de habilitação.
 
 | Versão |    Data    |    Descrição                | Autor(es)     |    Revisor(es) |                  
 |:-----: | :--------: | :-------------:             | :--------:    | :-------------:| 
-| 1.0    | 04/10/23   | Criação do documento        | Breno         | [Limirio Guimarães](https://github.com/LimirioGuimaraes)      |
+| 1.0    | 30/09/23   | Criação do documento        | Breno         | [Limirio Guimarães](https://github.com/LimirioGuimaraes)      |
 
 </center>
