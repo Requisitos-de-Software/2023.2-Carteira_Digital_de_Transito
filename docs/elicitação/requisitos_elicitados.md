@@ -45,5 +45,5 @@ A tabela
 
 | Versão |    Data    |    Descrição         | Autor(es)  |    Revisor(es) |                  
 |:-----: | :--------: | :-------------:      | :--------: | :-------------:| 
-| 1.0    | 04/10/23   | Criação do documento | Breno e Limírio| [Limirio Guimarães](https://github.com/LimirioGuimaraes)|
+| 1.0    | 30/09/2023  | Criação do documento | Breno e Limírio| [Limirio Guimarães](https://github.com/LimirioGuimaraes)|
 </center>
