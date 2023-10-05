@@ -5,7 +5,7 @@
 Um "Rich Picture" é uma representação visual que combina elementos gráficos e textuais para capturar de forma abrangente e holística a complexidade de um problema, sistema ou situação. No contexto da engenharia de software, ele é utilizado para abstrair o funcionamento de sistemas de software e se apresenta na forma de um diagrama com alguns elementos básicos como: atores, processos, armazenamento de dados, setas e limites do sistema. 
 
 ## Ferramentas Utilizadas
- Para construção do Rich Picture foi utilizada a ferramenta do canvas para a melhoria e correção de alguns aspectos relacionados a construção da imagem.
+ Para construção do Rich Picture, utilizado nas figuras 2 e 3 foi utilizada a ferramenta do canvas para a melhoria e correção de alguns aspectos relacionados a construção da imagem da figura 1.
 
 ## Rich Picture
 
