@@ -2,7 +2,7 @@
 
 ## Introdução
 
-As personas são personagens fictícias criadas para representar os usuários da aplicação no intuito de melhorar o entendimento das funcionalidades que o sistema deve apresentar. Elas devem possuir características que sumarizam bem os usuários “típicos”, mas que sejam específicas para torná-las ferramentas de design e comunicação eficientes.<a id="TEC1" href="#QT1">
+As personas constituem criações fictícias elaboradas para representar os usuários da aplicação, com o objetivo de aprimorar o entendimento acerca das funcionalidades que o sistema necessita oferecer. Elas devem exibir características que encapsulem de forma precisa os usuários "típicos", porém, com a devida especificidade para se consolidarem como ferramentas robustas de design e comunicação. Através da criação de personas bem definidas, é possível alinhar as expectativas e necessidades dos usuários finais com as soluções de design proporcionadas pela aplicação. Além disso, ao servirem como canais de comunicação eficazes entre desenvolvedores, designers e stakeholders, as personas facilitam a tomada de decisões centradas no usuário, promovendo uma experiência do usuário mais satisfatória e um design de produto mais intuitivo e eficaz.<a id="TEC1" href="#QT1">
 
 ## Metodologia
 
