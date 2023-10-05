@@ -43,13 +43,35 @@ fornecido pelo professor.
 
 | **Atividade** | **Início** | **Fim** | **Responsáveis** |  **Revisores** |
 |---------------|------------|---------|------------------|----------------|
-| Pesquisar e definir perfis de usuários   | 21/09/2023| 04/10/2023 | Breno  |  Mayara         |
-| Selecionar ténicas de elicitação | 21/09/2023| 04/10/2023 | Vinicius e Luis |  Limirio |
-| Selecionar métodos de priorização     | 21/09/2023| 04/10/2023 | Milena e Arthur    | Arthur |
+| Pesquisar e definir perfis de usuários   | 21/09/2023| 04/10/2023 | Mayara  |  Breno        |
+| Estudar e utilizar a técnica de elicitação: questionário  | 21/09/2023| 04/10/2023 | Luis e Breno|  Limirio |
+| Estudar e utilizar a técnica de elicitação: glossário  | 21/09/2023| 04/10/2023 | Vinicius |  Luis |
+| Estudar e utilizar a técnica de elicitação: storyboard  | 21/09/2023| 04/10/2023 | Breno |  Luis |
+| Estudar e utilizar a técnica de priorização: First Things First  | 21/09/2023| 04/10/2023 | Milena | Luis  |
+| Estudar e utilizar a técnica de elicitação: $100  | 21/09/2023| 04/10/2023 | Limirio |  Breno |
+| Estudar e utilizar a técnica de elicitação: Three Level Scale  | 21/09/2023| 04/10/2023 | Mayara |  Breno |
+| Selecionar técnicas de elicitação | 21/09/2023| 04/10/2023 | Limirio, Breno, Vinicius | Mayara |
+| Selecionar métodos de priorização     | 21/09/2023| 04/10/2023 | Milena, Mayara e Limirio     | Luis |
 | Gravar reunião    | 21/09/2023| 04/10/2023 | Todos | Todos |
-| Fazer ata da reunião       | 21/09/2023| 04/10/2023 | Mayara | Breno |
+| Fazer ata da reunião       | 21/09/2023| 04/10/2023 | Breno | Limirio |
 | Correção após a Entrega 2  | 05/10/2023 | 08/10/2023 |     Todos   | Todos  |   
 
+<p align="center"><b>Tabela 01</b> - Execução do cronograma etapa 2</p>
+
+| **Atividade** | **Início** | **Fim** | **Responsáveis** |  **Revisores** |
+|---------------|------------|---------|------------------|----------------|
+| Pesquisar e definir perfis de usuários   | 21/09/2023| 04/10/2023 | Mayara  |  Breno        |
+| Estudar e utilizar a técnica de elicitação: questionário  | 21/09/2023| 04/10/2023 | Luis e Breno|  Limirio |
+| Estudar e utilizar a técnica de elicitação: glossário  | 21/09/2023| 04/10/2023 | Vinicius |  Luis |
+| Estudar e utilizar a técnica de elicitação: storyboard  | 21/09/2023| 04/10/2023 | Breno |  Luis |
+| Estudar e utilizar a técnica de priorização: First Things First  | 21/09/2023| 04/10/2023 | Milena | Luis  |
+| Estudar e utilizar a técnica de elicitação: $100  | 21/09/2023| 04/10/2023 | Limirio |  Breno |
+| Estudar e utilizar a técnica de elicitação: Three Level Scale  | 21/09/2023| 04/10/2023 | Mayara |  Breno |
+| Selecionar técnicas de elicitação | 21/09/2023| 04/10/2023 | Limirio, Breno, Vinicius | Mayara |
+| Selecionar métodos de priorização     | 21/09/2023| 04/10/2023 | Milena, Mayara e Limirio     | Luis |
+| Gravar reunião    | 21/09/2023| 04/10/2023 | Todos | Todos |
+| Fazer ata da reunião       | 21/09/2023| 04/10/2023 | Breno | Limirio |
+| Correção após a Entrega 2  | 05/10/2023 | 08/10/2023 |     Todos   | Todos  |
 
 <p align="center"><b>Tabela 03</b> - Cronograma etapa 3</p>
 
@@ -120,3 +142,4 @@ fornecido pelo professor.
 | Versão| Data      | Descrição | Autor | Revisor       |
 | :-:   | :-:       | :--       | --    | --             |
 | 1.0   |18/09/2023 |Criação da página de cronogramas | Altino Breno e Luis | Vinicius |
+| 1.1   |04/09/2023 |Atualizando a página de cronograma | Vinícius | Altino |
