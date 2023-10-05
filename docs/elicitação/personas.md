@@ -111,7 +111,7 @@ As personas criadas possuem as características apresentadas na seção de <a hr
 
 > <a id="QT1" href="#anchor_1">1.</a> BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
 
-> <a id="QT2" href="#anchor_2">2.</a> Imagem gerada através da aplicação This Person Doesn't Exist. Disponível em: [https://this-person-does-not-exist.com/](https://this-person-does-not-exist.com/pt). Acesso em: 29 de abr. de 2023. 
+> <a id="QT2" href="#anchor_2">2.</a> This Person Doesn't Exist. Disponível em: [https://this-person-does-not-exist.com/](https://this-person-does-not-exist.com/pt). Acesso em: 29 de abr. de 2023. 
 
 
 ## Bibliografia
@@ -126,8 +126,7 @@ As personas criadas possuem as características apresentadas na seção de <a hr
 
 | Versão | Data       | Descrição                                 | Autor(es)                                                                                           | Revisor(es)                                      |
 | ------ | ---------- | ----------------------------------------- | --------------------------------------------------------------------------------------------------- | ------------------------------------------------ |
-| `1.0`  | 25/09/2023 | Criação da página.                        | [Matheus Henrique](https://github.com/mathonaut) e [Rafael Ferreira](https://github.com/RafaelCLG0) | [Geovanna Maciel](https://github.com/manuziny)   |
-| `1.1`  | 03/10/2023 | Adicição das personas Maria Silva, Jair Motonaro, Steve Vobes, Carlos Digital, Pedro Gamer.    | [Altino Arthur](https://github.com/arthurrochamoreira)                                                    | [Matheus Henrique](https://github.com/mathonaut) |
-| `1.6`  | 04/10/2023 | Retrabalho da verificação                     | [Rafael Ferreira](https://github.com/RafaelCLG0)                                                    | [Douglas Alves](https://github.com/dougAlvs)   |
+| `1.0`  | 30/09/2023 | Criação das personas                        |[Altino Arthur](https://github.com/arthurrochamoreira) | [Mayara Alves](https://github.com/Mayara-tech)   |
+
 
 
