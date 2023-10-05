@@ -56,7 +56,7 @@ fornecido pelo professor.
 | Fazer ata da reunião       | 21/09/2023| 04/10/2023 | Breno | Limirio |
 | Correção após a Entrega 2  | 05/10/2023 | 08/10/2023 |     Todos   | Todos  |   
 
-<p align="center"><b>Tabela 01</b> - Execução do cronograma etapa 2</p>
+<p align="center"><b>Tabela 02</b> - Execução do cronograma etapa 2</p>
 
 | **Atividade** | **Início** | **Fim** | **Responsáveis** |  **Revisores** |
 |---------------|------------|---------|------------------|----------------|
