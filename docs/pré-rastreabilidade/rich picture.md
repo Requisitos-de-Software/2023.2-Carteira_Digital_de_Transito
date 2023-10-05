@@ -27,5 +27,5 @@ Um "Rich Picture" é uma representação visual que combina elementos gráficos 
 
  Versão  |    Data    |                        Descrição                        |                                             Autor(es)                                             |                  Revisor(es)                   
  :-----: | :--------: | :-----------------------------------------------------: | :-----------------------------------------------------------------------------------------------: | :--------------------------------------------: 
-  `1.0`  | 14/09/2023 |            Criação do Rich Picture            | [Milena Baruc](https://github.com/MilenaBaruc) | [Milena Baruc](https://github.com/MilenaBaruc)
-  `1.1`  | 19/09/2023 |            Revisão do Rich Picture            | [Milena Baruc](https://github.com/MilenaBaruc) | [Mayara Alves](https://github.com/Mayara-tech) [Limírio Guimarães](https://github.com/LimirioGuimaraes)
+  `1.0`  | 14/09/2023 |            Criação do Rich Picture            | [Milena Baruc](https://github.com/MilenaBaruc) | [Mayara Alves] (https://github.com/Mayara-tech)
+  `1.1`  | 19/09/2023 |            Revisão do Rich Picture            | [Milena Baruc](https://github.com/MilenaBaruc) | [Mayara Alves](https://github.com/Mayara-tech), [Limírio Guimarães](https://github.com/LimirioGuimaraes)
