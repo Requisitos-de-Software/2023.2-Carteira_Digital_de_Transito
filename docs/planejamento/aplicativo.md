@@ -13,19 +13,19 @@ A seleção de um aplicativo para a disciplina de requisitos é um processo estr
 
 ## Aplicativos sugeridos
 
-* E-Título: *O e-Título é a via digital do título de eleitor. Com ele, é possível ter acesso fácil e rápido às informações pessoais na Justiça Eleitoral. A nova versão, além de manter o fornecimento de certidão de quitação eleitoral e de crimes eleitorais, tem novidades: seus dados passam a ser protegidos por senha, além de permitir consultar débitos eleitorais e se cadastrar como mesário voluntário*.
+* E-Título: O e-Título é a via digital do título de eleitor. Com ele, é possível ter acesso fácil e rápido às informações pessoais na Justiça Eleitoral. A nova versão, além de manter o fornecimento de certidão de quitação eleitoral e de crimes eleitorais, tem novidades: seus dados passam a ser protegidos por senha, além de permitir consultar débitos eleitorais e se cadastrar como mesário voluntário.
 
-* Carteira Digital de Trânsito: *A Carteira Digital de Trânsito (CDT) é a evolução da CNH Digital. Agora, além da Carteira Nacional de Habilitação - CNH, também é possível baixar a versão digital do Certificado de Registro e Licenciamento de Veículo – CRLV (Documento do Veículo)*.
+* Carteira Digital de Trânsito: A Carteira Digital de Trânsito (CDT) é a evolução da CNH Digital. Agora, além da Carteira Nacional de Habilitação - CNH, também é possível baixar a versão digital do Certificado de Registro e Licenciamento de Veículo – CRLV (Documento do Veículo).
 
-* STJ CPE Mobile: *Central do Processo Eletrônico móvel do Superior Tribunal de Justiça, informação processual, consulta de jurisprudência e peticionamento em suas mãos! O Tribunal da Cidadania com você em qualquer lugar!*.
+* STJ CPE Mobile: Central do Processo Eletrônico móvel do Superior Tribunal de Justiça, informação processual, consulta de jurisprudência e peticionamento em suas mãos! O Tribunal da Cidadania com você em qualquer lugar!.
 
-* Bitwarden - Password Manager: *O Bitwarden é a maneira mais fácil e segura de armazenar todas as suas credenciais, mantendo-as convenientemente sincronizadas entre todos os seus dispositivos*.
+* Bitwarden - Password Manager: O Bitwarden é a maneira mais fácil e segura de armazenar todas as suas credenciais, mantendo-as convenientemente sincronizadas entre todos os seus dispositivos.
 
-* Librera Reader: para PDF, EPUB: *Librera Leitor - é um aplicativo gratuito para leitura confortável qualquer formato de livro: PDF, EPUB, EPUB3, MOBI, DJVU, FB2, FB2.ZIP, TXT, RTF, AZW, AZW3, HTML, XPS, CBZ, CBR*.
+* Librera Reader: para PDF, EPUB: Librera Leitor - é um aplicativo gratuito para leitura confortável qualquer formato de livro: PDF, EPUB, EPUB3, MOBI, DJVU, FB2, FB2.ZIP, TXT, RTF, AZW, AZW3, HTML, XPS, CBZ, CBR.
 
-* Kodi: *Kodi® centro de mídia é uma fonte livre e aberta cross-platform media player software e entretenimento hub premiado para mídia digital para HTPCs (Home PCs teatro). Ele usa uma interface de usuário de 10 pés projetado para ser um player de mídia para a sala de estar, usando um controle remoto como o dispositivo de entrada principal. Sua interface gráfica do usuário (GUI) permite ao usuário navegar facilmente e exibir vídeos, fotos, podcasts e música a partir de um disco rígido, disco óptico, rede local e na internet usando apenas alguns botões*.
+* Kodi: Kodi® centro de mídia é uma fonte livre e aberta cross-platform media player software e entretenimento hub premiado para mídia digital para HTPCs (Home PCs teatro). Ele usa uma interface de usuário de 10 pés projetado para ser um player de mídia para a sala de estar, usando um controle remoto como o dispositivo de entrada principal. Sua interface gráfica do usuário (GUI) permite ao usuário navegar facilmente e exibir vídeos, fotos, podcasts e música a partir de um disco rígido, disco óptico, rede local e na internet usando apenas alguns botões.
 
-* DFnoPonto: *O DFnoPonto é um aplicativo do DFTrans com o propósito de disponibilizar os horários, itinerários gráficos e descritivos, informações georreferenciadas dos postos de atendimento do Sistema de Bilhetagem Autmoática (SBA) e serviços deste, como também, a disponibilização de leitor de QR Code nativo para consultas rápidas e práticas para o cidadão através de QR Code que estão presentes nas placas que serão instaladas gradativamente nas paradas de ônibus do Distrito Federal*.
+* DFnoPonto: O DFnoPonto é um aplicativo do DFTrans com o propósito de disponibilizar os horários, itinerários gráficos e descritivos, informações georreferenciadas dos postos de atendimento do Sistema de Bilhetagem Autmoática (SBA) e serviços deste, como também, a disponibilização de leitor de QR Code nativo para consultas rápidas e práticas para o cidadão através de QR Code que estão presentes nas placas que serão instaladas gradativamente nas paradas de ônibus do Distrito Federal.
   
 ## Aplicativo escolhido 
 
@@ -55,16 +55,23 @@ A Carteira Digital de Trânsito é um aplicativo que guarda, no seu celular, sua
 
 ## Termos de uso 
 
-A fim de realizar o projeto de maneira ética e legal, o grupo decidiu verificar os termos de uso da plataforma Carteira Digital de Trânsito para garantir que possuíamos permissão explícita para realizar a análise. Após uma cuidadosa leitura dos termos de uso do aplicativo, o grupo constatou que o aplicativo permitir o uso do mesmo para estudo. Desta forma, segue abaixo os termos de uso da plataforma disponibilizado pelo aplicativo referentes a politica de privacidade.
+A fim de realizar o projeto de maneira ética e legal, o grupo decidiu verificar os termos de uso da plataforma Carteira Digital de Trânsito para garantir que possuíamos permissão explícita para realizar a análise. Após uma cuidadosa leitura dos termos de uso do aplicativo, o grupo constatou que o aplicativo permitir o uso do mesmo para estudo. Desta forma, segue abaixo as figuras de 1 a 5 referente aos termos de uso da plataforma disponibilizado pelo aplicativo referentes a politica de privacidade.
   
-
+<font size="3"><p style="text-align: center">**Figura 1** - Politica de privacidade.</p></font>
 ![Política de privacidade parte 1](../assets/Politica_de_privacidade_part1.jpeg)
+<font size="3"><p style="text-align: center">Fonte: Carteira Digital de Trânsito.</p></font>
+<font size="3"><p style="text-align: center">**Figura 2** - Politica de privacidade.</p></font>
 ![Política de privacidade parte 2](../assets/Politica_de_privacidade_part2.jpeg)
+<font size="3"><p style="text-align: center">Fonte: Carteira Digital de Trânsito.</p></font>
+<font size="3"><p style="text-align: center">**Figura 3** - Politica de privacidade.</p></font>
 ![Política de privacidade parte 3](../assets/Politica_de_privacidade_part3.jpeg)
+<font size="3"><p style="text-align: center">Fonte: Carteira Digital de Trânsito.</p></font>
+<font size="3"><p style="text-align: center">**Figura 4** - Politica de privacidade.</p></font>
 ![Política de privacidade parte 4](../assets/Politica_de_privacidade_part4.jpeg)
+<font size="3"><p style="text-align: center">Fonte: Carteira Digital de Trânsito.</p></font>
+<font size="3"><p style="text-align: center">**Figura 5** - Politica de privacidade.</p></font>
 ![Política de privacidade parte 5](../assets/Politica_de_privacidade_part5.jpeg)
-
-<p align="center"> Política de Privacidade</p>
+<font size="3"><p style="text-align: center">Fonte: Carteira Digital de Trânsito.</p></font>
 <p align="center"> Acessado em: 19/09/2023</p>
 
 ## Bibliografia
