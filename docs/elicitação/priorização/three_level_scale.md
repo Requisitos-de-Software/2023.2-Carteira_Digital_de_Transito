@@ -70,7 +70,7 @@ Legenda das tabelas:
 </center>
 
 
-<font size="3"><p style="text-align: center">Fonte: [Douglas Alves](https://github.com/dougAlvs).</p></font>
+<font size="3"><p style="text-align: center">Fonte: [Mayara Alves](https://github.com/Mayara-tech).</p></font>
 
 ## Referências Bibliográficas
 
