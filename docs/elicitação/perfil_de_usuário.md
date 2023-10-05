@@ -65,7 +65,7 @@ De acordo com a figura 6 em relação a faixa etária dos participantes, a maior
 De acordo com a figura 7 em relação ao grau de escolaridade dos participantes, com 55,6% o Ensino Superior Incompleto, depois o Ensino Superior Completo com 16,7%, e com 27,7% os demais níveis de escolaridade
 
 <font size="3"><p style="text-align: center">**Figura 7** - Questão 7.</p></font>
-![Figura 7. Questão 7](../assets/Grafico-7.PNG)
+![Figura 7. Questão 7](../assets/grafico-7.PNG)
 <font size="3"><p style="text-align: center">Fonte: [Mayara Alves](https://github.com/Mayara-tech).</p></font>
 
 ### Questão 8 - Qual seu grau de afinidade com dispositivos tecnológicos? (Computadores, tablets, smartphones e etc.)?
