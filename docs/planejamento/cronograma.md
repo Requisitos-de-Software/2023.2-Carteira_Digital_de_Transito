@@ -1,4 +1,4 @@
-# Cronograma
+## Cronograma
 
 ## Descrição
 O cronograma elaborado pela equipe tem como objetivo orientar e facilitar o planejamento,
@@ -10,8 +10,9 @@ fornecido pelo professor.
 
 ## Cronograma do Planejamento do Projeto
 
+## Entrega 1 - Planejamento do Projeto
 
-
+###  Cronograma planejado
 <p align="center"><b>Tabela 01</b> - Planejamento do cronograma etapa 1</p>
 
 | **Atividade** | **Início** | **Fim** | **Responsáveis** |  **Revisores** |
@@ -26,7 +27,8 @@ fornecido pelo professor.
 | Gravar a apresentação     | 14/09/2023| 19/09/2023 | Todos | Todos |
 | Correção após a Entrega 1  | 22/09/2023 | 25/09/2023 |     Todos   | Todos  |                                                      |
 
-<p align="center"><b>Tabela 01</b> - Execução do cronograma etapa 1</p>
+### Cronograma executado
+<p align="center"><b>Tabela 02</b> - Execução do cronograma etapa 1</p>
 
 | **Atividade** | **Início** | **Fim** | **Responsáveis** |  **Revisores** |
 |---------------|------------|---------|------------------|----------------|
@@ -39,7 +41,10 @@ fornecido pelo professor.
 | Fazer o Rich Picture      | 14/09/2023| 19/09/2023 | Milena | Limirio |
 | Gravar a apresentação     | 14/09/2023| 19/09/2023 | Todos | Todos |
 
-<p align="center"><b>Tabela 02</b> - Cronograma etapa 2</p>
+# Entrega 2 - Elicitação de Requisitos
+
+##  Cronograma planejado
+<p align="center"><b>Tabela 03</b> - Cronograma etapa 2</p>
 
 | **Atividade** | **Início** | **Fim** | **Responsáveis** |  **Revisores** |
 |---------------|------------|---------|------------------|----------------|
@@ -56,7 +61,8 @@ fornecido pelo professor.
 | Fazer ata da reunião       | 21/09/2023| 04/10/2023 | Breno | Limirio |
 | Correção após a Entrega 2  | 05/10/2023 | 08/10/2023 |     Todos   | Todos  |   
 
-<p align="center"><b>Tabela 02</b> - Execução do cronograma etapa 2</p>
+##  Cronograma executado
+<p align="center"><b>Tabela 03</b> - Execução do cronograma etapa 2</p>
 
 | **Atividade** | **Início** | **Fim** | **Responsáveis** |  **Revisores** |
 |---------------|------------|---------|------------------|----------------|
@@ -73,7 +79,10 @@ fornecido pelo professor.
 | Fazer ata da reunião       | 21/09/2023| 04/10/2023 | Breno | Limirio |
 | Correção após a Entrega 2  | 05/10/2023 | 08/10/2023 |     Todos   | Todos  |
 
-<p align="center"><b>Tabela 03</b> - Cronograma etapa 3</p>
+## Entrega 3 - Modelagem de Requisitos
+
+###  Cronograma planejado
+<p align="center"><b>Tabela 04</b> - Cronograma etapa 3</p>
 
 | **Atividade** | **Início** | **Fim** | **Responsáveis** |  **Revisores** |
 |---------------|------------|---------|------------------|----------------|
@@ -85,7 +94,10 @@ fornecido pelo professor.
 | Fazer ata da reunião   | 05/10/2023| 25/10/2023 | Breno | Mayara |
 | Correção após a Entrega 3  | 26/10/2023 | 29/10/2023 |     Todos   | Todos  | 
 
-<p align="center"><b>Tabela 04</b> - Cronograma etapa 4</p>
+## Entrega 4 - Modelagem de Requisitos
+
+###  Cronograma planejado
+<p align="center"><b>Tabela 05</b> - Cronograma etapa 4</p>
 
 | **Atividade** | **Início** | **Fim** | **Responsáveis** |  **Revisores** |
 |---------------|------------|---------|------------------|----------------|
@@ -96,7 +108,10 @@ fornecido pelo professor.
 | Fazer ata da reunião         |26/10/2023| 06/11/2023 | Milena| Arthur |
 | Correção após a Entrega 4  | 07/11/2023 | 10/11/2023 |     Todos   | Todos  | 
 
-<p align="center"><b>Tabela 05</b> - Cronograma etapa 5.1</p>
+## Entrega 5 - Análise de Requisitos: Verificação e Validação 1
+
+### Cronograma planejado
+<p align="center"><b>Tabela 06</b> - Cronograma etapa 5.1</p>
 
 | **Atividade** | **Início** | **Fim** | **Responsáveis** |  **Revisores** |
 |---------------|------------|---------|------------------|----------------|
@@ -106,16 +121,10 @@ fornecido pelo professor.
 | Fazer ata da reunião    | 07/11/2023| 13/11/2023 |   Limirio |  Luis  |
 | Correção após a Entrega 5.1  | 14/11/2023 | 17/11/2023 |     Todos   | Todos  | 
 
-<p align="center"><b>Tabela 07</b> - Cronograma etapa 6</p>
+## Entrega 6 - Análise de Requisitos: Verificação e Validação 2
 
-| **Atividade** | **Início** | **Fim** | **Responsáveis** |  **Revisores** |
-|---------------|------------|---------|------------------|----------------|
-| Pós-Rastreabilidade - Gerência   | 14/11/2023| 20/11/2023 | Breno e Vinicius   |     Milena       |
-| Gravar reunião | 14/11/2023| 20/11/2023 |  Todos   |  Todos |
-| Fazer ata da reunião     | 14/11/2023| 20/11/2023 | Limirio    | Luis Eduardo |
-| Correção após a Entrega 6  | 25/11/2023 | 28/11/2023 |     Todos   | Todos  | 
-
-<p align="center"><b>Tabela 06</b> - Cronograma etapa 5.2</p>
+###  Cronograma planejado
+<p align="center"><b>Tabela 07</b> - Cronograma etapa 5.2</p>
 
 | **Atividade** | **Início** | **Fim** | **Responsáveis** |  **Revisores** |
 |---------------|------------|---------|------------------|----------------|
@@ -125,7 +134,22 @@ fornecido pelo professor.
 | Fazer ata da reunião    | 14/11/2023| 29/11/2023 |  Milena    |   Arthur |
 | Correção após a Entrega 5.2  | 30/11/2023 | 01/12/2023 |     Todos   | Todos  | 
 
-<p align="center"><b>Tabela 07</b> - Cronograma Entrega final</p>
+## Entrega 7 - Pós-Rastreabilidade
+
+### Cronograma planejado
+<p align="center"><b>Tabela 08</b> - Cronograma etapa 6</p>
+
+| **Atividade** | **Início** | **Fim** | **Responsáveis** |  **Revisores** |
+|---------------|------------|---------|------------------|----------------|
+| Pós-Rastreabilidade - Gerência   | 14/11/2023| 20/11/2023 | Breno e Vinicius   |     Milena       |
+| Gravar reunião | 14/11/2023| 20/11/2023 |  Todos   |  Todos |
+| Fazer ata da reunião     | 14/11/2023| 20/11/2023 | Limirio    | Luis Eduardo |
+| Correção após a Entrega 6  | 25/11/2023 | 28/11/2023 |     Todos   | Todos  | 
+
+## Entrega final
+
+###  Cronograma planejado
+<p align="center"><b>Tabela 09</b> - Cronograma Entrega final</p>
 
 | **Atividade** | **Início** | **Fim** | **Responsáveis** |  **Revisores** |
 |---------------|------------|---------|------------------|----------------|
