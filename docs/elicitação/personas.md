@@ -69,9 +69,9 @@ As personas criadas possuem as características apresentadas na seção de <a hr
 
 <font size="3"><p style="text-align: center">Fonte: [Geovanna Maciel](https://github.com/manuziny).</p></font>
 
-<font size="3"><p style="text-align: center">**Tabela 4** - Persona Secundária Pedro Matos.</p></font>
+<font size="3"><p style="text-align: center">**Tabela 4** - Persona Primária Carlos Digital.</p></font>
 
-| <font size="3"><p style="text-align: center">Figura 4- Persona Primária Carlos Digital</p></font><figure markdown>![Persona Digital](../assets/personas/persona_carlos.png){: style="height:500px;width:500px"}<figcaption>Fonte: Elaborada por [Altino Arthur](https://github.com/arthurrochamoreira) (2023).<a id="TEC2" href="#QT2">^2^</a></figcaption></figure> |
+| <font size="3"><p style="text-align: center">Figura 4- Persona Primária Carlos Digital</p></font><figure markdown>![Persona Digital](../assets/persona_carlos.png){: style="height:500px;width:500px"}<figcaption>Fonte: Elaborada por [Altino Arthur](https://github.com/arthurrochamoreira) (2023).<a id="TEC2" href="#QT2">^2^</a></figcaption></figure> |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Nome**: Carlos Digital.                                                                                                                                                                                                                                                                                                                                                             |
 | **Status**: Persona Primária.                                                                                                                                                                                                                                                                                                                                                   |
@@ -126,12 +126,8 @@ As personas criadas possuem as características apresentadas na seção de <a hr
 
 | Versão | Data       | Descrição                                 | Autor(es)                                                                                           | Revisor(es)                                      |
 | ------ | ---------- | ----------------------------------------- | --------------------------------------------------------------------------------------------------- | ------------------------------------------------ |
-| `1.0`  | 27/04/2023 | Criação da página.                        | [Matheus Henrique](https://github.com/mathonaut) e [Rafael Ferreira](https://github.com/RafaelCLG0) | [Geovanna Maciel](https://github.com/manuziny)   |
-| `1.1`  | 27/04/2023 | Adicição da persona Roberta do Santos.    | [Rafael Ferreira](https://github.com/RafaelCLG0)                                                    | [Matheus Henrique](https://github.com/mathonaut) |
-| `1.2`  | 28/04/2023 | Adicição da persona José da Silva.        | [Matheus Henrique](https://github.com/mathonaut)                                                    | [Rafael Ferreira](https://github.com/RafaelCLG0) |
-| `1.3`  | 28/04/2023 | Adição da introdução e ajustes no estilo. | [Matheus Henrique](https://github.com/mathonaut) e [Rafael Ferreira](https://github.com/RafaelCLG0) | [Geovanna Maciel](https://github.com/manuziny)   |
-| `1.4`  | 29/04/2023 | Adição da Lara, Pedro e Jair              | [Geovanna Maciel](https://github.com/manuziny)                                                      | [Matheus Henrique](https://github.com/mathonaut) |
-| `1.5`  | 30/04/2023 | Ajustes nos textos                        | [Matheus Henrique](https://github.com/mathonaut)                                                    | [Geovanna Maciel](https://github.com/manuziny)   |
-| `1.6`  | 01/07/2023 | Retrabalho da verificação                     | [Rafael Ferreira](https://github.com/RafaelCLG0)                                                    | [Douglas Alves](https://github.com/dougAlvs)   |
+| `1.0`  | 25/09/2023 | Criação da página.                        | [Matheus Henrique](https://github.com/mathonaut) e [Rafael Ferreira](https://github.com/RafaelCLG0) | [Geovanna Maciel](https://github.com/manuziny)   |
+| `1.1`  | 03/10/2023 | Adicição das personas Maria Silva, Jair Motonaro, Steve Vobes, Carlos Digital, Pedro Gamer.    | [Altino Arthur](https://github.com/arthurrochamoreira)                                                    | [Matheus Henrique](https://github.com/mathonaut) |
+| `1.6`  | 04/10/2023 | Retrabalho da verificação                     | [Rafael Ferreira](https://github.com/RafaelCLG0)                                                    | [Douglas Alves](https://github.com/dougAlvs)   |
 
 
