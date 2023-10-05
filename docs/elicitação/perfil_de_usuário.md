@@ -74,3 +74,28 @@ De acordo com a figura 8 em relação ao grau de afinidade com os dispositivos e
 <font size="3"><p style="text-align: center">**Figura 8** - Questão 8.</p></font>
 ![Figura 8. Questão 8](../assets/Grafico-8.PNG)
 <font size="3"><p style="text-align: center">Fonte: [Mayara Alves](https://github.com/Mayara-tech).</p></font>
+
+## Definição do Perfil de Usuário
+
+Vale ressaltar que a análise das resposta foi feita com base em uma pequena amostra de pessoas que responderam o questionário.
+
+Após uma análise das respostas, foi traçado um Perfil de Usuário para o aplicativo com as seguintes descrições:
+
+- **Gênero:** Em sua maioria Masculino.
+- **Idade:** Entre 18 e 24 anos.
+- **Experiência:** Experiente.
+- **Atitudes:** Tecnófilos.
+- **Tarefas primárias:** Obter a versão digital da habilitação
+
+
+## Bibliografia
+> BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
+
+> HENRIQUE, Matheus. FERREIRA, Rafael. Perfil do Usuário. Repositório da disciplina de Requisitos de Software da Universidade de Brasília, 1/2023. Disponível em: [https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/elicitacao/perfil_de_usuario/](https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/elicitacao/perfil_de_usuario/). Acesso em: 29 setembro de 2023.
+
+## 📑 Histórico de versões:
+
+ Versão  |    Data    |                        Descrição                        |                                             Autor(es)                                             |                  Revisor(es)                   
+ :-----: | :--------: | :-----------------------------------------------------: | :-----------------------------------------------------------------------------------------------: | :--------------------------------------------: 
+  1.0  | 29/10/2023 |            Criação do Perfil de Usuário           | [Mayara Alves](https://github.com/Mayara-tech) | [Breno Queiroz](https://github.com/brenob6)
+
