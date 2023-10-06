@@ -13,7 +13,7 @@ Arthur
 |   | Horário Previsto | Horário Realizado |
 |:-:| :-: | :-: |
 |**Início da reunião**| 21:40 | 22:05 |
-|**Fim da reunião**| 22:30 |  |
+|**Fim da reunião**| 22:30 | 22:25 |
 
 **Fonte:** [Limirio Correia](https://github.com/LimirioGuimaraes)
 
