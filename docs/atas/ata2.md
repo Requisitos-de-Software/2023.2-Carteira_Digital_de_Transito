@@ -95,9 +95,8 @@ A próxima reunião ficou marcada para o dia 28/09/2023, às 21:00.
 >  Atas de Reunião do MCTI - Ministério da Ciência, Tecnologia e Inovação. Disponível em : https://pdp.mctic.gov.br/MCTI-PDP/guidances/examples/Ata%20Reuniao_21C35EC2.html?nodeId=7c6d2e0
 
 
-## Histórico de versão
-<p align="center"><b>Tabela 05</b></p>
+## 📑 Histórico de versão 
 
 | Versão| Data      | Descrição | Autor | Revisor       |
 | :-:   | :-----:   | :------       | -------    | -------            |
-| 1.0   |15/09/2023 |Criação da segunda ata   |  [Breno](https://github.com/brenob6)|[Limírio Guimarães](https://github.com/LimirioGuimaraes)|
+| `1.0`   |15/09/2023 |Criação da segunda ata   |  [Breno Queiroz ](https://github.com/brenob6)|[Limírio Guimarães](https://github.com/LimirioGuimaraes)|
