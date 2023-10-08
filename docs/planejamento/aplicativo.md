@@ -83,10 +83,10 @@ A fim de realizar o projeto de maneira ética e legal, o grupo decidiu verificar
 > Librera Reader: para PDF, EPUB. Google Play, 2023. Disponível em: https://play.google.com/store/apps/details?id=com.foobnix.pdf.reader&hl=pt_BR&gl=US. Acesso em: 29 de outubro de 2023</br>
 > STJ CPE Mobile. Google Play, 2023. Disponível em: https://play.google.com/store/apps/details?id=br.jus.stj.cpemobile&hl=pt_BR&gl=US. Acesso em: 29 de outubro de 2023</br>
 
-## Histórico de versões 
+## 📑 Histórico de versões 
 
 Versão  |   Data   | Descrição | Autor(es) | Revisor(es)
 --------- | ------ | ------ | ---------- | ----------
-1.0 | 19/09/2023| Criação do documento | [Mayara Alves](https://github.com/Mayara-tech) | [Limirio Guimarães](https://github.com/LimirioGuimaraes)|
-1.1 | 28/09/2023 | Alterações após apresentação | [Milena Baruc](https://github.com/MilenaBaruc) | [Vinicius Mendes](https://github.com/yabamiah)|
-1.2 | 29/09/2023 | Alteração aplicativos sugeridos | [Milena Baruc](https://github.com/MilenaBaruc) | [Vinicius Mendes](https://github.com/yabamiah)|
+`1.0` | 19/09/2023| Criação do documento | [Mayara Alves](https://github.com/Mayara-tech) | [Limirio Guimarães](https://github.com/LimirioGuimaraes)|
+`1.1` | 28/09/2023 | Alterações após apresentação | [Milena Baruc](https://github.com/MilenaBaruc) | [Vinicius Mendes](https://github.com/yabamiah)|
+`1.2` | 29/09/2023 | Alteração aplicativos sugeridos | [Milena Baruc](https://github.com/MilenaBaruc) | [Vinicius Mendes](https://github.com/yabamiah)|
