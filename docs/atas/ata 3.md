@@ -74,7 +74,7 @@ Arthur
 </center>
 
 ## 4. Link da Gravação
-A gravação desta reunião está disponível pelo youtube [vídeo](https://wwww.youtu.be/gO8G2l5V4ol)
+A gravação desta reunião está disponível pelo youtube [vídeo](https://www.youtube.com/watch?v=gO8G2I5V4oI)
 
 ## 5. Próxima Reunião
 
@@ -88,8 +88,8 @@ A próxima reunião ficou marcada para o dia 05/10/2023, às 21:00.
 
 |**N°** | **Compromisso**                                           | **Responsável**                                | **Data**  |
 |------ |-------------------------------------                      |------------------                              |-----------|
-| 1     | Terminar as revisões                                      | Todos                                          | 30/09/2023|
-| 2     | Fazer pull request das correções da primeira entrega      | Todos                                          | 30/09/2023|
+| 1     | Terminar as revisões                                      | Altino Arthur, Breno Queiroz, Limírio Guimarães, Luís Eduardo, Mayara Alves, Milena Baruc, Vinícius Mendes                                           | 30/09/2023|
+| 2     | Fazer pull request das correções da primeira entrega      | Altino Arthur, Breno Queiroz, Limírio Guimarães, Luís Eduardo, Mayara Alves, Milena Baruc, Vinícius Mendes                                        | 30/09/2023|
 | 3     | Criar espeficação de perfil                               | Mayara Alves                                   | 03/10/2023|
 | 4     | Criar personas                                            | Altino Arthur                                  | 03/10/2023|
 | 5     | Criar Cronograma de elicitações e tecnicas de elicitações | Breno Queiroz, Vinícius Mendes, Luis Eduardo   | 03/10/2023|
