@@ -52,4 +52,4 @@ Seguido o estudo dos termos e do contexto em que os termos e que citamos na Tabe
 ## 📑 Histórico de Versões
 | **Versão**   |   **Data**   | **Descrição** | **Autor** | **Revisor** |
 |--------|---------|-----------|--------|---------|
-|1.0| 04/09/2023 | Criação da página de glossário | [Vinícius Mendes](https://github.com/yabamiah)| [Luis Eduardo](https://github.com/LuisMiranda10) |
+|`1.0`| 30/09/2023 | Criação da página de glossário | [Vinícius Mendes](https://github.com/yabamiah)| [Luis Eduardo](https://github.com/LuisMiranda10) |
