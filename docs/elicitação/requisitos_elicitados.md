@@ -39,11 +39,11 @@ A tabela
 
 </center>
 
-## Histórico de versões:
+## 📑 Histórico de versões:
 
 <center>
 
 | Versão |    Data    |    Descrição         | Autor(es)  |    Revisor(es) |                  
 |:-----: | :--------: | :-------------:      | :--------: | :-------------:| 
-| 1.0    | 30/09/2023  | Criação do documento | Breno e Limírio| [Mayara Alves](https://github.com/Mayara-tech)|
+| `1.0`    | 30/09/2023  | Criação do documento | Breno e Limírio| [Mayara Alves](https://github.com/Mayara-tech)|
 </center>
