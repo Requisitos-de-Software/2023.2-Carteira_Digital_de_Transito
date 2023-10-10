@@ -8,7 +8,7 @@ O propósito desta página consiste em arquivar os elementos pertinentes à prim
 
 <p style="text-align: center"><a href="https://www.youtube.com/watch?v=e7p8hn9R-GQ" target="blanket">Vídeo apresentação 1</a></p>
 
-<p style="text-align: center"><iframe width="560" height="315" src="https://www.youtube.com/watch?v=e7p8hn9R-GQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
+<p style="text-align: center"><iframe width="560" height="315" src="https://www.youtube.com/embed/e7p8hn9R-GQ?si=l3UxJROddI4ttsoe" title="Apresentação 20/09/2023" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
 
 <font size="3"><p style="text-align: center">Fonte: Autores.</p></font>
 
@@ -41,4 +41,4 @@ Fazer página da apresentação | Mayara Alves | Milena Baruc
 
 Versão  |   Data   | Descrição | Autor(es) | Revisor(es)
 --------- | ------ | ------ | ---------- | ----------
-1.0 | 28/09/2023| Criação da página de apresentação 1 | [Mayara Alves](https://github.com/Mayara-tech) | Milena Baruc
+`1.0` | 28/09/2023| Criação da página de apresentação 1 | [Mayara Alves](https://github.com/Mayara-tech) | Milena Baruc
