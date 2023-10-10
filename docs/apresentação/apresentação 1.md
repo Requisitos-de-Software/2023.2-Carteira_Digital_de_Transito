@@ -37,8 +37,9 @@ Arrumar a ata | Vinícius Mendes | Milena Baruc
 Detalhar cronograma | Luis Eduardo, Vinícius Mendes | Altino Arthur
 Fazer página da apresentação | Mayara Alves | Milena Baruc
 
-## Histórico de versões 
+## 📑 Histórico de versões 
 
 Versão  |   Data   | Descrição | Autor(es) | Revisor(es)
 --------- | ------ | ------ | ---------- | ----------
 `1.0` | 28/09/2023| Criação da página de apresentação 1 | [Mayara Alves](https://github.com/Mayara-tech) | Milena Baruc
+`1.1` | 10/10/2023| Correção do iframe | [Mayara Alves](https://github.com/Mayara-tech) | Milena Baruc
