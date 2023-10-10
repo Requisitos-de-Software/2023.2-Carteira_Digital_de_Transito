@@ -2,7 +2,7 @@
 
 ## Introdução
 
-A fim de facilitar o gerenciamento e a execução do projeto, foi feito o levanta de possiveis ferramentas com o intuito de facilitar certas atividades e produção de artefatos. As ferramentas selecionadas para a realização do projeto estão apresentadas na Tabela 1.
+Com o objetivo de facilitar o gerenciamento e a execução do projeto, realizou-se um levantamento de possíveis ferramentas com a intenção de agilizar determinadas atividades e a produção de artefatos. As ferramentas escolhidas para a realização do projeto estão apresentadas na Tabela 1. Todas essas ferramentas foram selecionadas com base nas utilizadas em projetos anteriores, como a Bilheteria Digital^1^ . Além disso, também utilizamos a experiência e os conhecimentos dos integrantes do grupo como referência na escolha.
 
 ## Ferramentas Utilizadas
 
@@ -24,6 +24,11 @@ A fim de facilitar o gerenciamento e a execução do projeto, foi feito o levant
 
 <font size="3"><p style="text-align: center">Fonte: Autores do Grupo 2.</p></font>
 
+## Referência Bibliográficas
+
+> <a id=“RP2” href=“#TEC2”>1.</a> BILHETERIA DIGITAL. Requisitos de software. Distrito Federal, 2023. Disponível em: <https://github.com/Requisitos-de-Software/2023.1-BilheteriaDigital>. Acesso em: 06/10/2023.
+
+
 ## Bibliografia
 
 >CANVAS. Disponível em: [canvas](https://www.canva.com/pt_br/logos/) Acesso em: 19 de Set. 2023.</br>
@@ -37,7 +42,7 @@ A fim de facilitar o gerenciamento e a execução do projeto, foi feito o levant
 >WHATSAPP. Disponível em: [Whatsapp](https://web.whatsapp.com/) Acesso em: 19 de Set. 2023.</br>
 >YOUTUBE. Disponível em: [YouTube](https://youtube.com). Acesso em: 19 de Set. 2023.</br>
 
-## Histórico de Versões
+## 📑 Histórico de Versões
 
 | Versão  |    Data    |                        Descrição                        |                                             Autor(es)                                             |                  Revisor(es)                   |
 | :-----: | :--------: | :-----------------------------------------------------: | :-----------------------------------------------------------------------------------------------: | :--------------------------------------------: |

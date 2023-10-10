@@ -97,5 +97,5 @@ Após uma análise das respostas, foi traçado um Perfil de Usuário para o apli
 
  Versão  |    Data    |                        Descrição                        |                                             Autor(es)                                             |                  Revisor(es)                   
  :-----: | :--------: | :-----------------------------------------------------: | :-----------------------------------------------------------------------------------------------: | :--------------------------------------------: 
-  1.0  | 29/10/2023 |            Criação do Perfil de Usuário           | [Mayara Alves](https://github.com/Mayara-tech) | [Breno Queiroz](https://github.com/brenob6)
+  `1.0`  | 29/10/2023 |            Criação do Perfil de Usuário           | [Mayara Alves](https://github.com/Mayara-tech) | [Breno Queiroz](https://github.com/brenob6)
 

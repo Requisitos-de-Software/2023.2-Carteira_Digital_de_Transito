@@ -245,11 +245,11 @@ A próxima reunião ficou marcada para o dia 21/09/2023, às 21:00.
 >  Atas de Reunião do MCTI - Ministério da Ciência, Tecnologia e Inovação. Disponível em : https://pdp.mctic.gov.br/MCTI-PDP/guidances/examples/Ata%20Reuniao_21C35EC2.html?nodeId=7c6d2e0
 
 
-## Histórico de versão
-<p align="center"><b>Tabela 05</b></p>
+
+## 📑 Histórico de versão
 
 | Versão| Data      | Descrição | Autor | Revisor       |
 | :-:   | :-----:       | :------       | -------    | -------            |
-| 1.0   |19/09/2023 |   Criação da página de ata   |  [Vinícius Mendes](https://github.com/yabamiah)| [Luis Eduardo](https://github.com/LuisMiranda10) |
-| 1.1   |25/09/2023 |   Correção das tabelas e pendências | [Vinícius Mendes](https://github.com/yabamiah)| [Luis Eduardo](https://github.com/LuisMiranda10) |
+| `1.0`   |19/09/2023 |   Criação da página de ata   |  [Vinícius Mendes](https://github.com/yabamiah)| [Luis Eduardo](https://github.com/LuisMiranda10) |
+| `1.1`    |25/09/2023 |   Correção das tabelas e pendências | [Vinícius Mendes](https://github.com/yabamiah)| [Luis Eduardo](https://github.com/LuisMiranda10) |
 

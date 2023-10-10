@@ -60,8 +60,8 @@ outros condutores. A figura 3 demonstra essa situação.
 >Acesso: 30 de setembro 2023. <br/>
 
 
-## Histórico de versões 
+## 📑 Histórico de versões 
 
 Versão  |   Data    | Descrição | Autor(es)     | Revisor(es)|
 :-----: | :----:    | ------    | ----------    | ----------|
-1.0 | 30/09/2023| Criação do documento | [Breno](https://github.com/brenob6) | [Luis Eduardo](https://github.com/LuisMiranda10)|
+`1.0` | 30/09/2023| Criação do documento | [Breno](https://github.com/brenob6) | [Luis Eduardo](https://github.com/LuisMiranda10)|

@@ -104,12 +104,12 @@ carteira de habilitação.
 
 > VAZQUES, Carlos Eduardo, SIMÕES, Guilherme Siqueira, **Engenharia de Requisitos**, Editora: Brasport Livros e Multimídia Ltda<br/>
 
-## Histórico de versões:
+## 📑 Histórico de versões:
 
 <center>
 
 | Versão |    Data    |    Descrição                | Autor(es)     |    Revisor(es) |                  
 |:-----: | :--------: | :-------------:             | :--------:    | :-------------:| 
-| 1.0    | 30/09/23   | Criação do documento        | Breno         | [Limirio Guimarães](https://github.com/LimirioGuimaraes)      |
+| `1.0`    | 30/09/23   | Criação do documento        | Breno         | [Limirio Guimarães](https://github.com/LimirioGuimaraes)      |
 
 </center>

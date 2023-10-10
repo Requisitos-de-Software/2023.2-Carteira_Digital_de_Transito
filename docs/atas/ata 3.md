@@ -74,7 +74,7 @@ Arthur
 </center>
 
 ## 4. Link da Gravação
-A gravação desta reunião está disponível pelo youtube [vídeo](https://www.youtube.com/watch?v=oKn5t2MwAjg)
+A gravação desta reunião está disponível pelo youtube [vídeo](https://www.youtube.com/watch?v=gO8G2I5V4oI)
 
 ## 5. Próxima Reunião
 
@@ -88,8 +88,8 @@ A próxima reunião ficou marcada para o dia 05/10/2023, às 21:00.
 
 |**N°** | **Compromisso**                                           | **Responsável**                                | **Data**  |
 |------ |-------------------------------------                      |------------------                              |-----------|
-| 1     | Terminar as revisões                                      | Todos                                          | 30/09/2023|
-| 2     | Fazer pull request das correções da primeira entrega      | Todos                                          | 30/09/2023|
+| 1     | Terminar as revisões                                      | Altino Arthur, Breno Queiroz, Limírio Guimarães, Luís Eduardo, Mayara Alves, Milena Baruc, Vinícius Mendes                                           | 30/09/2023|
+| 2     | Fazer pull request das correções da primeira entrega      | Altino Arthur, Breno Queiroz, Limírio Guimarães, Luís Eduardo, Mayara Alves, Milena Baruc, Vinícius Mendes                                        | 30/09/2023|
 | 3     | Criar espeficação de perfil                               | Mayara Alves                                   | 03/10/2023|
 | 4     | Criar personas                                            | Altino Arthur                                  | 03/10/2023|
 | 5     | Criar Cronograma de elicitações e tecnicas de elicitações | Breno Queiroz, Vinícius Mendes, Luis Eduardo   | 03/10/2023|
@@ -99,8 +99,13 @@ A próxima reunião ficou marcada para o dia 05/10/2023, às 21:00.
 
 </center>
 
-## Histórico de versão
+## Bibliografia
+
+>  Atas de Reunião do MCTI - Ministério da Ciência, Tecnologia e Inovação. Disponível em : https://pdp.mctic.gov.br/MCTI-PDP/guidances/examples/Ata%20Reuniao_21C35EC2.html?nodeId=7c6d2e0
+
+
+## 📑 Histórico de versão
 
 | Versão | Data      | Descrição | Autor | Revisor |
 | :-:    | :-----:   | :------   | ----  | ------- |
-| 1.0    |30/09/2023 | Criação da terceira ata |[Mayara Alves](https://github.com/Mayara-tech)|[Luis Eduardo](https://github.com/LuisMiranda10) |
+| `1.0`    |30/09/2023 | Criação da terceira ata |[Mayara Alves](https://github.com/Mayara-tech)|[Luis Eduardo](https://github.com/LuisMiranda10) |
