@@ -81,6 +81,11 @@ De acordo com a figura 8 em relação ao grau de afinidade com os dispositivos e
 
 ## Análise de documentos 
 
+A análise de documentação desempenha um papel crucial na definição do perfil do usuário. Ela é uma abordagem fundamental que visa examinar documentos, registros e fontes de informações relevantes para entender mais profundamente as necessidades, características e comportamentos dos usuários. Ao analisar documentos, como registros de interações anteriores, histórico de uso, feedbacks ou outras fontes de dados escritos, é possível obter insights valiosos que ajudam a criar um perfil mais preciso e abrangente do usuário.
+
+### Metodologia 
+
+
 
 ## Definição do Perfil de Usuário
 
