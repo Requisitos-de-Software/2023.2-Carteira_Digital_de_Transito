@@ -18,9 +18,6 @@ theme:
         icon: material/brightness-4
         name: Switch to light mode
   
-  features:
-    - navigation.expand
-
 markdown_extensions:
   - admonition
   - attr_list
