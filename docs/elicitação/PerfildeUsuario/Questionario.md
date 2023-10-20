@@ -81,7 +81,7 @@ De acordo com a figura 8 em relação ao grau de afinidade com os dispositivos e
 
  Versão  |    Data    |                        Descrição                        |                                             Autor(es)                                             |                  Revisor(es)                   
  :-----: | :--------: | :-----------------------------------------------------: | :-----------------------------------------------------------------------------------------------: | :--------------------------------------------: 
-  `1.0`  | 29/10/2023 |            Criação do Perfil de Usuário           | [Mayara Alves](https://github.com/Mayara-tech) | [Breno Queiroz](https://github.com/brenob6)
+  `1.0`  | 29/09/2023 |            Criação da página de questionário           | [Mayara Alves](https://github.com/Mayara-tech) | [Breno Queiroz](https://github.com/brenob6)
 
 
 
