@@ -72,7 +72,7 @@ Arthur
 </center>
 
 ## 4. Link da Gravação
-A gravação desta reunião está disponível pelo youtube [vídeo]()
+A gravação desta reunião está disponível pelo youtube [vídeo](https://youtu.be/gDti1CtVmK4)
 
 ## 5. Próxima Reunião
 
