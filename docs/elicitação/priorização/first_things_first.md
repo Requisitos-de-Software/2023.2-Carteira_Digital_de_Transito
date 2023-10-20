@@ -51,11 +51,9 @@ Funcionalidades | Benefício Relativo | Penalidade Relativa | Valor Total | Cust
 9. O usuário deve ser capaz de visualizar suas infrações
 10. O usuário deve ser capaz conhecer as campanhas do governo
 
-## Referências Bibliográficas
+## Bibliografia
 
 > SERRANO, Milene; SERRANO, Maurício. Requisitos - Aula 07: Elicitação, Modelagem e Análise. Apresentação Power Point. Disponível em: <https://aprender3.unb.br/pluginfile.php/2692779/mod_resource/content/2/Requisitos%20-%20Aula%2007.pdf>. Acesso em: 03 out. 2023.</br>
-> SOARES, Matheus. 2022.1-TikTok. Elicitação, First Things First. 2022. Disponível em: <https://requisitos-de-software.github.io/2022.1-TikTok/first_things_first/>. Acesso em: 03 out. 2023.</br>
-
 
 ## Histórico de versão
 
