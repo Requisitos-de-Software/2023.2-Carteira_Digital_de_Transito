@@ -7,3 +7,13 @@ A análise de documentos desempenha um papel crucial na definição do perfil do
 ### Metodologia 
 
 
+## Bibliografia
+> BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
+
+> HENRIQUE, Matheus. FERREIRA, Rafael. Perfil do Usuário. Repositório da disciplina de Requisitos de Software da Universidade de Brasília, 1/2023. Disponível em: [https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/elicitacao/perfil_de_usuario/](https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/elicitacao/perfil_de_usuario/). Acesso em: 29 setembro de 2023.
+
+## 📑 Histórico de versões:
+
+ Versão  |    Data    |                        Descrição                        |                                             Autor(es)                                             |                  Revisor(es)                   
+ :-----: | :--------: | :-----------------------------------------------------: | :-----------------------------------------------------------------------------------------------: | :--------------------------------------------: 
+  `1.0`  | 20/10/2023 |            Criação da página de analise de documentos          | [Mayara Alves](https://github.com/Mayara-tech) | [Breno Queiroz](https://github.com/brenob6)
