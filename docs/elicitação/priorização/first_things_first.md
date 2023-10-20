@@ -59,7 +59,7 @@ Funcionalidades | Benefício Relativo | Penalidade Relativa | Valor Total | Cust
 
 ## Link da Gravação
 
-[Priorização do First Thing First](https://youtu.be/)
+Gravação -> [Priorização do First Thing First](https://youtu.be/)
 
 ## Bibliografia
 
@@ -70,3 +70,5 @@ Funcionalidades | Benefício Relativo | Penalidade Relativa | Valor Total | Cust
 Versão  |   Data   | Descrição | Autor(es) | Revisor(es)
 --------- | ------ | ------ | ---------- | ----------
 1.0 | 19/09/2023| Criação do documento | [Milena Baruc](https://github.com/MilenaBaruc) | [Luis Eduardo](https://github.com/LuisMiranda10)|
+1.1 | 20/10/2023| Adição do Cronograma e Link da gravação | [Luis Eduardo](https://github.com/LuisMiranda10) |  |
+
