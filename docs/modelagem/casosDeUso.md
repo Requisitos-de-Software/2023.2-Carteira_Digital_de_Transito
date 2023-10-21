@@ -12,9 +12,9 @@ O artefato que foi criado é um diagrama de casos de uso UML, que representa as 
 
 Um diagrama de casos de uso é uma forma poderosa de capturar requisitos, definindo as interações entre um sistema e seus usuários, conhecidos como "atores". Neste glossário, você encontrará explicações detalhadas de cada um dos elementos que compõem um diagrama de casos de uso. Vamos explorar os conceitos-chave que possibilitam a representação visual de sistemas de forma eficaz e compreensível.
 
-<font size="3"><p style="text-align: center"><b>Tabela 1</b>: Elementos do diagrama de casos de uso</p></font>
-
 <center>
+
+<font size="3"><p style="text-align: center"><b>Tabela 1</b>: Elementos do diagrama de casos de uso</p></font>
 
 |    Símbolo    |     Nome     |    Descrição    |
 | ------------- | ------------ | --------------- |
