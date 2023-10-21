@@ -48,7 +48,7 @@ As tabelas de 2 a 8 mostram a especialização dos casos de uso identificados.
 | Descrição             | Este caso de uso descreve o processo pelo qual o usuário acessa a Carteira Nacional de Habilitação (CNH) digital armazenada no dispositivo.             |
 | Ator                  | Usuário                    | 
 | Frequência de uso     | Média                      | 
-| Pré-condições         |- O aplicativo está instalado e em funcionamento no dispositivo do usuário.<br/> - O dispositivo do usuário possui uma conexão ativa com a internet.     |
+| Pré-condições         |- O aplicativo está instalado e em funcionamento no dispositivo do usuário.    |
 | Ação                  |- O usuário abre o aplicativo da CNH Digital.<br/> - O usuário seleciona a opção "Acessar CNH Digital".                                            |
 | Fluxo principal       |- O aplicativo exibe as informações da CNH digital na tela. <br/> - O usuário pode navegar pelas informações da CNH, como nome, foto, número da CNH, categoria, data de validade, entre outras.<br/> - O usuário pode escolher sair do aplicativo a qualquer momento.                     |
 | Fluxo alternativo     | Não há                     |
@@ -66,7 +66,7 @@ As tabelas de 2 a 8 mostram a especialização dos casos de uso identificados.
 | Descrição             | Este caso de uso descreve o processo em que o usuário acessa o Certificado de Registro e Licenciamento de Veículo (CRLV) digital armazenado no dispositivo.|
 | Ator                  | Usuário                      | 
 | Frequência de uso     | Média                        |
-| Pré-condições         | - O aplicativo está instalado e em funcionamento no dispositivo do usuário.<br/>- O dispositivo do usuário possui uma conexão ativa com a internet. |
+| Pré-condições         | - O aplicativo está instalado e em funcionamento no dispositivo do usuário. |
 | Ação                  | - O usuário abre o aplicativo CRLV Digital.<br/> - O usuário seleciona a opção "Acessar CRLV Digital".|
 | Fluxo principal       | 1. Se um CRLV digital for encontrado no banco de dados do dispositivo:<br/> - O aplicativo exibe as informações do CRLV digital na tela.<br/> - O usuário pode visualizar detalhes como placa do veículo, número do Renavam, informações do proprietário, data de licenciamento, entre outros.<br/>2. Se nenhum CRLV digital for encontrado no banco de dados do dispositivo:<br/> - O aplicativo exibe uma mensagem informando que não há CRLV cadastrado na conta do dispositivo. |
 | Fluxo alternativo     | Não há.|
@@ -149,6 +149,23 @@ As tabelas de 2 a 8 mostram a especialização dos casos de uso identificados.
 | Data de criação       | 21/10/2023                |
 | Rastreabilidade       | xxxxxxx |
 
+<font size="3"><p style="text-align: center">Fonte: [Limirio Guimarães](https://github.com/LimirioGuimaraes).</p></font>
+
+<p style="text-align: center">Tabela 8: Atualizar Informações Salvas</p>
+
+| **UC 7**              | **Atualizar Informações Salvas**   |
+|-----------------------|------------------------------------|
+| Descrição             | Este caso de uso descreve o processo em que o sistema do Departamento de Trânsito (Detran) atualiza as informações salvas no aplicativo do usuário sempre que o aplicativo é utilizado com acesso à internet. |
+| Ator                  | Sistema do Detran                    | 
+| Frequência de uso     | Alta |
+| Pré-condições         | - O aplicativo está instalado e em funcionamento no dispositivo do usuário.<br/> - O dispositivo do usuário possui uma conexão ativa com a internet.|
+| Ação                  | - O sistema do Detran detecta que o aplicativo do usuário está ativo e conectado à internet. <br/> - O sistema do Detran verifica se há informações a serem atualizadas no aplicativo do usuário.<br/> - Se houver informações a serem atualizadas, o sistema do Detran envia as atualizações para o aplicativo do usuário. |
+| Fluxo principal       | - O sistema do Detran sincroniza automaticamente as informações no aplicativo do usuário com as informações mais recentes disponíveis. <br/> - As informações podem incluir atualizações sobre a CNH, CRLV, multas, infrações, licenciamento, entre outras. <br/> - O sistema do Detran registra a data da última sincronização. |
+| Fluxo alternativo     | Se o sistema do Detran não detectar nenhuma informação a ser atualizada, a data de última sincronização é atualizada, mas o aplicativo do usuário permanece com as informações existentes previamente.|
+| Fluxo de exceção      | Em caso de erro durante o processo de atualização, o sistema do Detran deve lidar com a exceção adequadamente e pode tentar a sincronização novamente posteriormente. |
+| Pós-condições         | - As informações no aplicativo do usuário estão atualizadas com as informações mais recentes do sistema do Detran. <br/> - O sistema do Detran registra a data da última sincronização bem-sucedida. <br/> - O usuário tem acesso às informações atualizadas em seu aplicativo. |
+| Data de criação       | 21/10/2023                           |
+| Rastreabilidade       | xxxxxx |
 
 <font size="3"><p style="text-align: center">Fonte: [Limirio Guimarães](https://github.com/LimirioGuimaraes).</p></font>
 
@@ -165,3 +182,4 @@ As tabelas de 2 a 8 mostram a especialização dos casos de uso identificados.
 | 1.0    | 19/10/2023 | Criação do template | [Limirio Guimarães](https://github.com/LimirioGuimaraes) |  |
 | 1.1    | 21/10/2023 | Adicionado introdução, metodologia e glossário | [Limirio Guimarães](https://github.com/LimirioGuimaraes) |  |
 | 1.2    | 21/10/2023 | Adicionado diagrama de casos de uso | [Limirio Guimarães](https://github.com/LimirioGuimaraes) |  |
+| 1.3    | 21/10/2023 | Adicionada as tabelas de especialização dos casos de uso| [Limirio Guimarães](https://github.com/LimirioGuimaraes) |  |
