@@ -95,4 +95,4 @@ Legenda:
 Versão  |   Data    | Descrição | Autor(es)     | Revisor(es)|
 :-----: | :----:    | ------    | ----------    | ----------|
 |`1.0`|30/09/2023|Criação do documento | [Breno](https://github.com/brenob6) | [Luis Eduardo](https://github.com/LuisMiranda10)|
-|`2.0`|20/10/2023|Adicionado tabela de requisitos elicitados|[Breno](https://github.com/brenob6)|
+|`2.0`|20/10/2023|Adicionado tabela de requisitos elicitados|[Breno](https://github.com/brenob6)|  [Mayara Alves](https://github.com/Mayara-tech)
