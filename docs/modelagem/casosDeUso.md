@@ -33,7 +33,7 @@ A figura 1 demonstra o diagrama de casos de uso.
 
 <font size="3"><p style="text-align: center">Figura 1: Casos de uso do app Carteira Digital de Trânsito</p></font>
 
-<img src="../../assets/diagramaDeCasosDeUso.png" class="usecaseElement">
+<img src="../assets/diagramaDeCasosDeUso.png" class="usecaseElement">
 
 <font size="2"><p style="text-align: center"><b>Fonte: [Limirio Guimarães](https://github.com/LimirioGuimaraes)</b></p></font>
 
