@@ -4,22 +4,28 @@
 
 Nesta página está listado todos requisitos obtidos com a etapa de elicitação, fornecendo uma melhor compreensão. Com isso, temos a Rastreabilidade, que tem capacidade de identificar, documentar e acompanhar as relações e conexões entre os diversos elementos dos requisitos ao longo do ciclo de vida. Essa prática tem como objetivo garantir a consistência, a compreensão e a gerência eficaz dos requisitos, permitindo que as mudanças sejam rastreadas e controladas de forma sistemática 
 
-Abaixo está a legenda para cada sigla e suas descrições:
+## Metodologia 
+
+A metodologia adotada envolveu a consolidação de todos os requisitos funcionais (RF) e requisitos não funcionais (RNF) obtidos por meio de diversas técnicas de elicitação em uma tabela estruturada (Tabela 2). Nesta tabela, cada requisito é identificado por um ID exclusivo descrito na tabela 1, categorizado como RF ou RNF para indicar seu tipo e acompanhado de um status de implementação. Além disso, a tabela também rastreia a origem de cada requisito, destacando se ele foi obtido por meio de técnicas como o Glossario, StoryBoard e Entrevista.
+
+<p align="center"><b>Tabela 01</b> - Legenda de identificação de ID.</p>
 
 | Tipo | Descrição                           |
 |------|-------------------------------------|
 | RF   | Requisito Funcional                 |
 | RNF  | Requisito Não-Funcional             |
 | GL   | Requisito elicitado pelo Glossário  |
-| QT   | Requisito elicitado pela Questionário |
-| EV   | Requisito elicitado pela Entrevista |
+| SB   | Requisito elicitado pela StoryBoard |
+| ENT   | Requisito elicitado pela Entrevista |
 
-**Tabela 1:** Legenda para a tabela 2 de requisitos da Carteira Digital de Trânsito. (Fonte: [Luis Miranda](https://github.com/LuisMiranda10))
+Fonte: [Luis Miranda](https://github.com/LuisMiranda10)
 
+
+<p align="center"><b>Tabela 02</b> - Requisitos elicitados no aplicativo Carteira Digital de Trânsito.</p>
 <center>
 
-|Requisito| Tipo |  Rastreabilidade |
-|----|-----| ------ |
+|Requisito| Tipo |  Rastreabilidade | Implementação
+|----|-----| ------ | ------ |
 |Login pelo gov  		|RF |       |
 |Obter versão digital da habilitação 						|RF |   |
 |Obter versão digital dos veiculos que você é principal condultor 		|RF  |    |
@@ -59,5 +65,5 @@ Abaixo está a legenda para cada sigla e suas descrições:
 | Versão |    Data    |    Descrição         | Autor(es)  |    Revisor(es) |                  
 |:-----: | :--------: | :-------------:      | :--------: | :-------------:| 
 | `1.0`    | 30/09/2023  | Criação do documento | Breno e Limírio| [Mayara Alves](https://github.com/Mayara-tech)|
-| `1.1`    | 20/10/2023  | Modificação da introdução e adição da rastreabilidade da tabela |[Luis Miranda](https://github.com/LuisMiranda10)| |
+| `1.1`    | 20/10/2023  | Modificação da introdução e adição da rastreabilidade da tabela |[Luis Miranda](https://github.com/LuisMiranda10) [Mayara Alves](https://github.com/Mayara-tech)| |
 </center>
