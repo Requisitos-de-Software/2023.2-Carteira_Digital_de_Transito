@@ -131,6 +131,24 @@ As tabelas de 2 a 8 mostram a especialização dos casos de uso identificados.
 | Data de criação       | 21/10/2023               |
 | Rastreabilidade       | xxxxx|
 
+<font size="3"><p style="text-align: center">Fonte: [Limirio Guimarães](https://github.com/LimirioGuimaraes).</p></font>
+
+<p style="text-align: center">Tabela 7: Contato com o Suporte</p>
+
+| **UC 6**              | **Contato com o Suporte**  |
+|-----------------------|---------------------------|
+| Descrição             | Este caso de uso permite ao usuário entrar em contato com o suporte do aplicativo para tirar dúvidas, obter assistência ou resolver problemas por meio de um assistente virtual. |
+| Ator                  | Usuário                   | 
+| Frequência de uso     | Baixa |
+| Pré-condições         | - O aplicativo está instalado e em funcionamento no dispositivo do usuário.<br/> - O dispositivo do usuário possui uma conexão ativa com a internet. |
+| Ação                  | - O usuário abre o aplicativo.<br/> - O usuário acessa a seção de "Suporte" ou "Ajuda".<br/> - O aplicativo disponibiliza uma opção para iniciar uma conversa com o assistente virtual de suporte.<br/> - O usuário inicia a conversa com o assistente virtual.<br/> - O usuário pode fazer perguntas, obter informações, relatar problemas e receber assistência do assistente virtual. |
+| Fluxo principal       | - O assistente virtual interage com o usuário para resolver suas dúvidas ou problemas por meio de mensagens de texto ou chatbot.<br/> - O assistente virtual pode fornecer informações, direcionar o usuário para recursos relevantes ou encaminhá-lo para suporte humano, se necessário.<br/> - O usuário conclui a interação com o assistente virtual quando suas dúvidas são resolvidas ou seu problema é encaminhado para o suporte humano. |
+| Fluxo alternativo     | Se a conversa com o assistente virtual não resolver o problema do usuário, ele pode optar por ser direcionado para suporte humano ou fornecer informações de contato para que o suporte entre em contato posteriormente. |
+| Fluxo de exceção      | Se ocorrer algum erro durante a interação com o assistente virtual, o aplicativo deve lidar com a exceção adequadamente, exibindo uma mensagem de erro e oferecendo opções para tentar novamente ou relatar o problema de outra forma. |
+| Pós-condições         | - O usuário obteve assistência, informações ou resolução para suas dúvidas ou problemas por meio do assistente virtual. <br/> - O aplicativo pode registrar a interação com o assistente virtual para fins de acompanhamento e melhoria.<br/> - O usuário pode encerrar a conversa a qualquer momento. |
+| Data de criação       | 21/10/2023                |
+| Rastreabilidade       | xxxxxxx |
+
 
 <font size="3"><p style="text-align: center">Fonte: [Limirio Guimarães](https://github.com/LimirioGuimaraes).</p></font>
 
