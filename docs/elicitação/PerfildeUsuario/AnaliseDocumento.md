@@ -7,6 +7,8 @@ A análise de documentos desempenha um papel crucial na definição do perfil do
 ### Metodologia 
 
 
+Entre os dias 18 e 20 de outubro de 2023, realizou-se uma análise documental com o propósito de adquirir uma compreensão mais aprofundada do perfil dos usuários da Carteira Digital de Trânsito. Dado que a Carteira Digital de Trânsito é uma aplicação voltada principalmente para condutores, a análise concentrou-se na caracterização do perfil dos condutores residentes no Distrito Federal, utilizando dados disponibilizados pelo Departamento de Trânsito do Distrito Federal (Detran-DF)^1^.
+
 ## Bibliografia
 > BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
 
