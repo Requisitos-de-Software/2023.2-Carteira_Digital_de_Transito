@@ -39,49 +39,27 @@ A figura 1 demonstra o diagrama de casos de uso.
 
 ## Especialização dos casos de uso
 
-As tabelas de 2 a 5 mostram a especialização dos casos de uso.
+As tabelas de 2 a 6 mostram a especialização dos casos de uso identificados.
 
-<font size="3"><p style="text-align: center">Tabela 2: xxx</p></font>
+<p style="text-align: center">Tabela 2: Acessar CNH digital</p>
 
-| Cabeçalho 1 | Cabeçalho 2 | Cabeçalho 3 |
-|-------------|-------------|-------------|
-| Linha 1, Col 1 | Linha 1, Col 2 | Linha 1, Col 3 |
-| Linha 2, Col 1 | Linha 2, Col 2 | Linha 2, Col 3 |
-| Linha 3, Col 1 | Linha 3, Col 2 | Linha 3, Col 3 |
+| **UC 1**              | **Acessar CNH digital**    |
+|-----------------------|----------------------------|
+| Descrição             | Este caso de uso descreve o processo pelo qual o usuário acessa a Carteira Nacional de Habilitação (CNH) digital armazenada no dispositivo.             |
+| Ator                  | Usuário                    | 
+| Frequência de uso     | Média                      | 
+| Pré-condições         |- O aplicativo está instalado e em funcionamento no dispositivo do usuário.<br/> - O dispositivo do usuário possui uma conexão ativa com a internet.     |
+| Ação                  |- O usuário abre o aplicativo da CNH Digital.<br/> - O usuário seleciona a opção "Acessar CNH Digital".                                            |
+| Fluxo principal       |- O aplicativo exibe as informações da CNH digital na tela. <br/> - O usuário pode navegar pelas informações da CNH, como nome, foto, número da CNH, categoria, data de validade, entre outras.<br/> - O usuário pode escolher sair do aplicativo a qualquer momento.                     |
+| Fluxo alternativo     | Não há                     |
+| Fluxo de exceção      | Se ocorrer algum erro durante o acesso à CNH digital, o aplicativo deve lidar com a exceção adequadamente, exibindo uma mensagem de erro e oferecendo opções para tentar novamente ou sair do aplicativo.                                          |
+| Pós-condições         | O usuário pode visualizar as informações da CNH digital. |
+| Data de criação       | 21/10/2023                 |
+| Rastreabilidade       | xxxxx                      |
+
+<p style="text-align: center"><b>Fonte:[Limirio Guimarães](https://github.com/LimirioGuimaraes) </b></p>
 
 
-<font size="2"><p style="text-align: center"><b>Fonte:[Limirio Guimarães](https://github.com/LimirioGuimaraes) </b></p></font>
-
-<font size="3"><p style="text-align: center">Tabela 3: xxx </p></font>
-
-| Cabeçalho 1 | Cabeçalho 2 | Cabeçalho 3 |
-|-------------|-------------|-------------|
-| Linha 1, Col 1 | Linha 1, Col 2 | Linha 1, Col 3 |
-| Linha 2, Col 1 | Linha 2, Col 2 | Linha 2, Col 3 |
-| Linha 3, Col 1 | Linha 3, Col 2 | Linha 3, Col 3 |
-
-
-<font size="2"><p style="text-align: center"><b>Fonte: [Limirio Guimarães](https://github.com/LimirioGuimaraes) </b></p></font>
-
-<font size="3"><p style="text-align: center">Tabela 4: xxx</p></font>
-
-| Cabeçalho 1 | Cabeçalho 2 | Cabeçalho 3 |
-|-------------|-------------|-------------|
-| Linha 1, Col 1 | Linha 1, Col 2 | Linha 1, Col 3 |
-| Linha 2, Col 1 | Linha 2, Col 2 | Linha 2, Col 3 |
-| Linha 3, Col 1 | Linha 3, Col 2 | Linha 3, Col 3 |
-
-<font size="2"><p style="text-align: center"><b>Fonte: [Limirio Guimarães](https://github.com/LimirioGuimaraes)</b></p></font>
-
-<font size="3"><p style="text-align: center">Tabela 5: xxx </p></font>
-
-| Cabeçalho 1 | Cabeçalho 2 | Cabeçalho 3 |
-|-------------|-------------|-------------|
-| Linha 1, Col 1 | Linha 1, Col 2 | Linha 1, Col 3 |
-| Linha 2, Col 1 | Linha 2, Col 2 | Linha 2, Col 3 |
-| Linha 3, Col 1 | Linha 3, Col 2 | Linha 3, Col 3 |
-
-<font size="2"><p style="text-align: center"><b>Fonte: [Limirio Guimarães](https://github.com/LimirioGuimaraes)</b></p></font>
 
 ## Bibliografia
 
