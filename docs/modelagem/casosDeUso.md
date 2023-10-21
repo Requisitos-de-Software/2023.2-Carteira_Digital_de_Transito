@@ -57,7 +57,7 @@ As tabelas de 2 a 6 mostram a especialização dos casos de uso identificados.
 | Data de criação       | 21/10/2023                 |
 | Rastreabilidade       | xxxxx                      |
 
-<p style="text-align: center"><b>Fonte:[Limirio Guimarães](https://github.com/LimirioGuimaraes) </b></p>
+<font size="3"><p style="text-align: center">Fonte: [Limirio Guimarães](https://github.com/LimirioGuimaraes).</p></font>
 
 
 
