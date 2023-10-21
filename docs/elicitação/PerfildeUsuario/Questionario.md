@@ -7,7 +7,7 @@ de forma eficiente, tornando possível a criação de perfis de usuário represe
 
 ### Metodologia 
 Pensando nisso a equipe realizou um questionário com intuito de conhecer o perfil de usuário do aplicativo Carteira Digital de Trânsito. O questionário engloba um total 8 perguntas sobre aspectos gerais do 
-usuário do aplicativo e foi divulgado em grupos da comunidade atráves do aplicativo whatsapp e telegram entre o período de 24 a 27 de setembro de 2023. 
+usuário do aplicativo e foi divulgado em grupos da comunidade acadêmica atráves do aplicativo whatsapp e telegram entre o período de 24 a 27 de setembro de 2023. 
 
 ### Resultado do questionário 
 O resultado no questionário teve o total de 18 respostas todas de acordo com o  [Termo de consentimento](termoConsentimento.pdf). O resultado das respostas são apresentados nas figuras de 1 a 8.
