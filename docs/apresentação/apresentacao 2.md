@@ -15,7 +15,7 @@ O propósito desta página consiste em arquivar os elementos pertinentes à prim
 ## Aspectos avaliados na apresentação
 <p align="center"><b>Tabela 01</b> - Aspectos avaliados na entrega </p>
 
-A git page possui?                                                                              | Sim/Não/Incompleto     |
+ Itens para avaliação                                                                           | Sim/Não/Incompleto     |
 ----------------------------------------------------------------------------------------------- | ---------------------- |
 1 - Houve algum método para definir o perfil do usuário?                                        | Sim                    |
 2 - A Especificação do Perfil do usuário possui informação de:   idade (criança, jovem, adulto, terceira idade etc.);   experiência (leigo/ novato, especialista);   atitudes (tecnófilos, tecnófobos); e   tarefas primárias (compra, venda)                                                                                          | Sim            |
