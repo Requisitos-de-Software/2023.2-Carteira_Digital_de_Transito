@@ -17,7 +17,7 @@ De acordo com o gráfico apresentado na figura 1 em relação a utilização do 
 
 
 <font size="3"><p style="text-align: center">**Figura 1** - Questão 1.</p></font>
-![Figura 1. Questão 1](../assets/Grafico-1.PNG)
+![Figura 1. Questão 1](../../assets/Grafico-1.PNG)
 <font size="3"><p style="text-align: center">Fonte: [Mayara Alves](https://github.com/Mayara-tech).</p></font>
 
 #### Questão 2 - Qual seu gênero?
@@ -25,7 +25,7 @@ De acordo com a figura 2, o gênero dos participantes em sua maioria é masculin
 
 
 <font size="3"><p style="text-align: center">**Figura 2** - Questão 2.</p></font>
-![Figura 2. Questão 2](../assets/Grafico-2.PNG)
+![Figura 2. Questão 2](../../assets/Grafico-2.PNG)
 <font size="3"><p style="text-align: center">Fonte: [Mayara Alves](https://github.com/Mayara-tech).</p></font>
 
 #### Questão 3 - Qual seu estado civil?
@@ -33,42 +33,42 @@ De acordo com a figura 3, o estado civil dos participantes em sua maioria é sol
 
 
 <font size="3"><p style="text-align: center">**Figura 3** - Questão 3.</p></font>
-![Figura 3. Questão 3](../assets/Grafico-3.PNG)
+![Figura 3. Questão 3](../../assets/Grafico-3.PNG)
 <font size="3"><p style="text-align: center">Fonte: [Mayara Alves](https://github.com/Mayara-tech).</p></font>
 
 #### Questão 4 - Com qual frequência você utiliza o aplicativo da Carteira Digital de Trânsito?
 De acordo com a figura 4 sobre a frequência que o participante utiliza o aplicativo 64,7% selecionaram a opção esporadicamente e os outros 35,3% semanalmente e diariamente.
 
 <font size="3"><p style="text-align: center">**Figura 4** - Questão 4.</p></font>
-![Figura 4. Questão 4](../assets/Grafico-4.PNG)
+![Figura 4. Questão 4](../../assets/Grafico-4.PNG)
 <font size="3"><p style="text-align: center">Fonte: [Mayara Alves](https://github.com/Mayara-tech).</p></font>
 
 #### Questão 5 - Qual seu principal objetivo ao utilizar a Carteira Digital de Trânsito?
 De acordo com a figura 5 sobre a utilização do aplicativo 83,3% dos participantes selecionaram que utilizam o aplicativo para obter a versão digital da habilitação e os outros 16,7% as demais funcionalidades do aplicativo 
 
 <font size="3"><p style="text-align: center">**Figura 5** - Questão 5.</p></font>
-![Figura 5. Questão 5](../assets/Grafico-5.PNG)
+![Figura 5. Questão 5](../../assets/Grafico-5.PNG)
 <font size="3"><p style="text-align: center">Fonte: [Mayara Alves](https://github.com/Mayara-tech).</p></font>
 
 #### Questão 6 - Qual a sua faixa etária ?
 De acordo com a figura 6 em relação a faixa etária dos participantes, a maioria representando 61,1% dos participantes estão na faixa etária de 18 a 24 anos.
 
 <font size="3"><p style="text-align: center">**Figura 6** - Questão 6.</p></font>
-![Figura 6. Questão 6](../assets/Grafico-6.PNG)
+![Figura 6. Questão 6](../../assets/Grafico-6.PNG)
 <font size="3"><p style="text-align: center">Fonte: [Mayara Alves](https://github.com/Mayara-tech).</p></font>
 
 #### Questão 7 - Qual seu grau de escolaridade?
 De acordo com a figura 7 em relação ao grau de escolaridade dos participantes, com 55,6% o Ensino Superior Incompleto, depois o Ensino Superior Completo com 16,7%, e com 27,7% os demais níveis de escolaridade
 
 <font size="3"><p style="text-align: center">**Figura 7** - Questão 7.</p></font>
-![Figura 7. Questão 7](../assets/grafico-7.PNG)
+![Figura 7. Questão 7](../../assets/grafico-7.PNG)
 <font size="3"><p style="text-align: center">Fonte: [Mayara Alves](https://github.com/Mayara-tech).</p></font>
 
 #### Questão 8 - Qual seu grau de afinidade com dispositivos tecnológicos? (Computadores, tablets, smartphones e etc.)?
 De acordo com a figura 8 em relação ao grau de afinidade com os dispositivos eletrônicos, o gráfico apresentou que os participantes possuem muita experiência em manusear dispositivos eletrônicos com 55,6% e os outros 44,4% com média experiencia. 
 
 <font size="3"><p style="text-align: center">**Figura 8** - Questão 8.</p></font>
-![Figura 8. Questão 8](../assets/Grafico-8.PNG)
+![Figura 8. Questão 8](../../assets/Grafico-8.PNG)
 <font size="3"><p style="text-align: center">Fonte: [Mayara Alves](https://github.com/Mayara-tech).</p></font>
 
 
