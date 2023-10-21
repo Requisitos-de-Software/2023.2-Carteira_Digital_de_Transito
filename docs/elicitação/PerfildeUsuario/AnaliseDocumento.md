@@ -4,7 +4,7 @@
 
 A análise de documentos desempenha um papel crucial na definição do perfil do usuário. Ela é uma abordagem fundamental que visa examinar documentos, registros e fontes de informações relevantes para entender mais profundamente as necessidades, características e comportamentos dos usuários. Ao analisar documentos, como registros de interações anteriores, histórico de uso, feedbacks ou outras fontes de dados escritos, é possível obter insights valiosos que ajudam a criar um perfil mais preciso e abrangente do usuário.
 
-### Metodologia 
+## Metodologia 
 
 
 Entre os dias 18 e 20 de outubro de 2023, realizou-se uma análise documental com o propósito de adquirir uma compreensão mais aprofundada do perfil dos usuários da Carteira Digital de Trânsito. Dado que a Carteira Digital de Trânsito é uma aplicação voltada principalmente para condutores, a análise concentrou-se na caracterização do perfil dos condutores residentes no Distrito Federal, utilizando dados disponibilizados pelo Departamento de Trânsito do Distrito Federal (Detran-DF)^1^.
