@@ -52,16 +52,47 @@ outros condutores. A figura 3 demonstra essa situação.
 ![Storyboard 3](../assets/storyboard/storyboard-3.png)
 
 **Fonte**: [Breno](https://github.com/brenob6)
+
+</center>
+
+## Requisitos Elicitados
+
+Os requisitos elicitados com os storyboards estão dispostos na tabela 01.
+
+Legenda:
+
+- SB - Storyboard
+- RF - Requisitos Funcionai
+- RNF - Requisitos não funcionais
+
+<center>
+
+**Tabela 01**: Requisitos Funcionais
+
+|Tipo|Descrição|Identificador|
+|:-:|:-|:-:|
+|RF |O usuário deve ser capaz de visualizar sua multas.|SB01|
+|RF |O aplicativo deve fornecer uma versão digital da carteira nacional de habilitação(CNH).|SB02|
+|RF |Deve ser possível compartilhar os documentos de um veículo com seus coatores.|SB03|
+|RF |O usuário deve conseguir solicitar a outro usuário o compartilhamento dos doscumentos do veículo.|SB04|
+|RNF|Deve ser possível acessar a CNH(digital) mesmo sem acesso a internet.|SB05|
+|RNF|Deve existir um prazo de validade do compartilhamento da CNH.|SB06|
+|RNF|O aplicativo deve alertar o usuário caso seja multado .|SB07|
+|RNF|O aplicativo deve disponibilizar diferentes formas de pagamento para as multas.|SB08|
+|RNF|O aplicativo deve alertar o usuário caso a multa esteja perto do vencimento.|SB09|
+
+**Fonte:** [Breno](https://github.com/brenob6)
+
 </center>
 
 ## Bibliografia
 
->Storyboards, Disponível em: <https://retraining.inf.ufsc.br/guia/app/classificacoes/tecnicas-de-elicitacao-de-requisitos/entidades/tecnicas-de-elicitacao-de-requisitos-storyboards>.
->Acesso: 30 de setembro 2023. <br/>
+> Storyboards, Disponível em: <https://retraining.inf.ufsc.br/guia/app/classificacoes/tecnicas-de-elicitacao-de-requisitos/entidades/tecnicas-de-elicitacao-de-requisitos-storyboards>.
 
 
 ## 📑 Histórico de versões 
 
 Versão  |   Data    | Descrição | Autor(es)     | Revisor(es)|
 :-----: | :----:    | ------    | ----------    | ----------|
-`1.0` | 30/09/2023| Criação do documento | [Breno](https://github.com/brenob6) | [Luis Eduardo](https://github.com/LuisMiranda10)|
+|`1.0`|30/09/2023|Criação do documento | [Breno](https://github.com/brenob6) | [Luis Eduardo](https://github.com/LuisMiranda10)|
+|`2.0`|20/10/2023|Adicionado tabela de requisitos elicitados|[Breno](https://github.com/brenob6)|  [Mayara Alves](https://github.com/Mayara-tech)
