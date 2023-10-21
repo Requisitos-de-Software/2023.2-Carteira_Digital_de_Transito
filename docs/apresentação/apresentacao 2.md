@@ -18,19 +18,15 @@ O propósito desta página consiste em arquivar os elementos pertinentes à prim
 A git page possui?                                                                              | Sim/Não/Incompleto     |
 ----------------------------------------------------------------------------------------------- | ---------------------- |
 1 - O cronograma do planejamento apresenta todas as atividades de todas as etapas para cada 
-integrante com as datas de início e fim das entrega dos artefatos e com o período da revisão 
-deles?                                                                                          | Incompleto             |
-2 – O cronograma executado com quem realizou cada artefato/atividade com as datas de início 
-e fim da construção/realização do artefato/atividade.                                           | Incompleto            |
+integrante com as datas de início e fim das entrega dos artefatos e com o período da revisão deles?                                                                                          | Incompleto             |
+2 – O cronograma executado com quem realizou cada artefato/atividade com as datas de início e fim da construção/realização do artefato/atividade.                                           | Incompleto            |
 3 - As tabelas e figuras possuem legenda e fonte e elas chamadas dentro dos texto?              | Sim                    |
 4 - As ata(s) da(s) reuniões (com data, horário de início e do final, participantes, 
 objetivo, atividades definidas etc).                                                            | Sim                    |
 5 - A gravação da reunião do grupo. | Sim
 6 - O artefato “Rich Picture” possui uma legenda explicando os símbolos utilizados no diagrama? | Sim                    |
-7 - Todos os 5 componentes de um “Rich Picture” estão presentes no artefato do “Rich Picture” 
-apresentado pelo grupo.                                                                         | Sim                    |
-8 – Cópia do Termo de Uso, Direito de Uso ou Propriedade Intelectual do aplicativo permitindo
- o estudo na disciplina                                                                         | Sim                    |
+7 - Todos os 5 componentes de um “Rich Picture” estão presentes no artefato do “Rich Picture” apresentado pelo grupo.                                                                         | Sim                    |
+8 – Cópia do Termo de Uso, Direito de Uso ou Propriedade Intelectual do aplicativo permitindo o estudo na disciplina                                                                         | Sim                    |
 
 ## Correções pós-apresentação
 <p align="center"><b>Tabela 02</b> - Correções da entrega 1 </p>
