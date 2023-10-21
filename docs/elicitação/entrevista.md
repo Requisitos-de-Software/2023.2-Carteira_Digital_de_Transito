@@ -42,17 +42,21 @@ Após a realização da entrevista com o usuário do aplicativo da Carteira Digi
 
 
 | **Identificador** | **Requisitos** | **Tipo** | **Implementado** |
-|--------------|-------------|-----|-----------------|
-|ENT01| O aplicativo deve fornecer uma versão digital da carteira nacional de habilitação(CNH). | RF | Implementado|
-|ENT02| Deve ser possível colocar no tema escuro| RF | Não implementado |
-|ENT03| O site deve ser responsivo | RNF | Não implementado |
-|ENT04| Deve ser possível alterar o tamanho da fonte do site | RF | Não implementado |
-|ENT05| O site deve padronizar o local dos anúncios ( Não deixando anúncios no meio do site)| RF | Não implementado |
-|ENT06| O site deve possuir uma organização padronizada da documentação | RF | Não implementado |
-|ENT07| A interface deve ser padronizada e responsiva para todas as páginas dentro do site | RNF | Não implementado |
-|ENT08| O site deve incorporar uma paleta de cores acessível a indivíduos daltônicos. | RF | Não implementado |
-|ENT09| O site deve ter um tempo de resposta inferior a 1.0s | RNF | Não implementado |
-|ENT10| O site deve possuir um FAQ de perguntas | RF | Implementado |
+|-------------------|----------------|---------|------------------|
+| ENT01             | O aplicativo deve fornecer uma versão digital da carteira nacional de habilitação (CNH). | RF | Implementado |  
+| ENT02             | O aplicativo deve incluir um FAQ de perguntas frequentes. | RF | Implementado |
+| ENT03             | O aplicativo deve permitir a pesquisa de informações sobre veículos por meio do número da placa. | RF | Não implementado |
+| ENT04             | Deve ser possível cadastrar e gerenciar múltiplos veículos na carteira digital. | RF | Implementado |
+| ENT05             | O aplicativo deve disponibilizar informações em tempo real sobre condições de tráfego, acidentes e congestionamentos. | RF | Não implementado |
+| ENT06             | Deve ser possível configurar alertas de vencimento da CNH e do licenciamento do veículo. | RF | Não implementado |
+| ENT07             | O aplicativo deve oferecer uma opção de backup seguro de todos os documentos e dados do usuário. | RF | Não implementado |
+| ENT08             | Deve ser possível compartilhar documentos digitais da CNH com terceiros, como autoridades de trânsito. | RF | Não implementado |
+| ENT09             | Deve ser possível realizar o agendamento de serviços de manutenção e inspeção veicular. | RF | Não implementado |
+| ENT10             | O aplicativo deve notificar o usuário sobre recalls e informações importantes do fabricante do veículo. | RF | Não implementado |
+| ENT11             | Deve ser possível obter informações sobre as normas de trânsito, regulamentações e penalidades em vigor. | RF | Não implementado |
+| ENT12             | O aplicativo deve incluir um chat com atendente para eventuais dúvidas | RF | Não implementado |
+| ENT13             | O aplicativo deve mostrar informações sobre a pontuação e penalidade da multa | RF | Não implementado |
+
 
 <p align="center"><b>Fonte</b>: <a href="https://github.com/Mayara-tech">Mayara Alves.</a></p>
 
@@ -63,8 +67,9 @@ and the Social Sciences. New York, NY: Teachers College Press, 1998
 
 ## Bibliografia
 >ELICITAÇÃO DE REQUISITOS, PUC-Rio.  Disponível em: https://www.maxwell.vrac.puc-rio.br/15760/15760_3.PDF <br>
+> MARTINS L.E.G. Uma Metodologia de Elicitação de Requisitos de Software Baseada na Teoria da Atividade.  Unicamp, 2001. Disponível em: file://home/yaba/Downloads/Martins_LuizEduardoGalvao_D.pdf. <br>
 >MEDEIROS M. E. Aula 5 - Requisitos de Software - Conceitos e Técnicas de Elicitação.  Universidade de São Paulo, 2006. Disponível em: https://edisciplinas.usp.br/pluginfile.php/7993139/mod_resource/content/1/05%20-%20Requisitos%20de%20Software%20-%20Conceitos%20e%20T%C3%A9cnicas%20de%20Elicita%C3%A7%C3%A3o.PDF <br>
-> MARTINS L.E.G. Uma Metodologia de Elicitação de Requisitos de Software Baseada na Teoria da Atividade.  Unicamp, 2001. Disponível em: file://home/yaba/Downloads/Martins_LuizEduardoGalvao_D.pdf.
+
 
 ## 📑 Histórico de versões 
 
