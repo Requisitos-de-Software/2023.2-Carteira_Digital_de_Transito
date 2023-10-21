@@ -12,9 +12,9 @@ O artefato que foi criado é um diagrama de casos de uso UML, que representa as 
 
 Um diagrama de casos de uso é uma forma poderosa de capturar requisitos, definindo as interações entre um sistema e seus usuários, conhecidos como "atores". Neste glossário, você encontrará explicações detalhadas de cada um dos elementos que compõem um diagrama de casos de uso. Vamos explorar os conceitos-chave que possibilitam a representação visual de sistemas de forma eficaz e compreensível.
 
-<div style="text-align: center;">
+<center>
 
-<h3>Tabela 1: Elementos do diagrama de casos de uso</h3>
+<font size="3"><p style="text-align: center"><b>Tabela 1</b>: Elementos do diagrama de casos de uso</p></font>
 
 |    Símbolo    |     Nome     |    Descrição    |
 | ------------- | ------------ | --------------- |
@@ -23,9 +23,9 @@ Um diagrama de casos de uso é uma forma poderosa de capturar requisitos, defini
 | ![Retângulo](../assets/retanguloCasosDeUso.png)    | Sistema      | Representa o limite do sistema, ou seja, o escopo e o contexto do sistema que está sendo modelado. O retângulo pode conter os casos de uso que são internos ao sistema e separá-los dos atores que são externos ao sistema. |
 | ![Flechas](../assets/setas_casosDeUso.png)| Relações     | As flechas representam os relacionamentos entre os casos de uso e os atores ou entre os próprios casos de uso. Existem diferentes tipos de flechas que indicam diferentes tipos de relacionamentos, como associação, inclusão e extensão. A associação é uma linha sólida entre um ator e um caso de uso que indica uma interação entre eles. A inclusão é uma linha tracejada entre dois casos de uso que indica que um caso de uso é incluído em outro caso de uso. A extensão é uma linha tracejada com uma seta entre dois casos de uso que indica que um caso de uso é estendido por outro caso de uso. |
 
-<small><span style="font-weight: bold;">Fonte:</span> <a href="https://github.com/LimirioGuimaraes">Limirio Guimarães</a></small>
+<font size="2"><p style="text-align: center"><b>Fonte: [Limirio Guimarães](https://github.com/LimirioGuimaraes)</b></p></font>
 
-</div>
+<center/>
 
 ## Diagrama de Casos de Uso
 
