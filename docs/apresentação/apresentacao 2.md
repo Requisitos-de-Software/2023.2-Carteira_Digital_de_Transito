@@ -1,10 +1,10 @@
-# Apresentação 1
+# Apresentação 2
 
 ## Introdução
 
-O propósito desta página consiste em arquivar os elementos pertinentes à primeira apresentação, abrangendo desde o vídeo da própria apresentação (caso não seja possível acessar o vídeo diretamente pela página, gentilmente clique no link correspondente) até os aspectos que foram avaliados durante a exposição, além da segmentação dos aspectos a serem corrigidos.
+O propósito desta página consiste em arquivar os elementos pertinentes à segunda apresentação, abrangendo desde o vídeo da própria apresentação (caso não seja possível acessar o vídeo diretamente pela página, gentilmente clique no link correspondente) até os aspectos que foram avaliados durante a exposição, além da segmentação dos aspectos a serem corrigidos.
 
-## Apresentação 1 - 15/09/2023
+## Apresentação 2 - 04/10/2023
 
 <p style="text-align: center"><a href="https://youtu.be/fwnilCMhktQ?si=-gzGJJkNhZOEhSKR" target="blanket">Vídeo apresentação 2</a></p>
 
@@ -27,19 +27,19 @@ O propósito desta página consiste em arquivar os elementos pertinentes à prim
 
 ## Correções pós-apresentação
 <p align="center"><b>Correções da entrega 2</b></p>
-Dada a qualidade dos artefatos apresentados na entrega dois, os integrantes decidiram cada um refinar e melhorar os artefatos entregues dados que todos podem e devem ser melhorados. 
+Dada a qualidade dos artefatos apresentados na segunda entrega, os integrantes decidiram cada um refinar e melhorar os artefatos entregues dados que todos podem e devem ser melhorados. 
 
-<!--Correção                        |           Responsável         |      revisor         |
+Correção                        |           Responsável         |      revisor         |
 --------------------------------| ----------------------------- | -------------------- |
-Detalhar ferramentas            | Limírio Guimarães             | Mayara Alves         |
-Correções na pagina aplicativo  | Milena Baruc                  | Vinicius Mendes      |
-Arrumar a ata                   | Vinícius Mendes               | Milena Baruc         |
-Detalhar cronograma             | Luis Eduardo, Vinícius Mendes | Altino Arthur        |
-Fazer página da apresentação    | Mayara Alves                  | Milena Baruc         |-->
+Corrigir Perfil de Usuário      | Mayara Alves                  | Breno Queiroz         |
+Corrigir Personas               | Mayara Alves                  | Breno Queiroz       |
+Corrigir Metodos de elicitação de requisitos                    | Vinícius Mendes, Breno Queiroz e Mayara Alves               | Milena Baruc, Limirio Guimarães e Luis Eduardo       |
+Corrigir Metodos de priorização             | Luis Eduardo, Milena Baruc, Limirio Guimarães e Mayara Alves | Altino Arthur e Breno Queiroz        |
+
 
 ## 📑 Histórico de versões 
 
 |   Versão  |    Data   | Descrição | Autor(es) | Revisor(es)|
 | --------- | --------- | --------- | --------- | ---------- |
-|   `1.0`   | 28/09/2023| Criação da página de apresentação 2 | [Limirio Guimarães](https://github.com/LimirioGuimaraes) | |
+|   `1.0`   | 28/09/2023| Criação da página de apresentação 2 | [Limirio Guimarães](https://github.com/LimirioGuimaraes) | [Mayara Alves](https://github.com/Mayara-tecj)|
 
