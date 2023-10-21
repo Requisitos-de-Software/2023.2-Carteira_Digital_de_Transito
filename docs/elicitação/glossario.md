@@ -10,8 +10,8 @@ Conforme foi dito pelo Vazquez e Simões^1^, em  Engenharia de Requisitos, no Ca
 - Do tipo abreviações e siglas;
 - Que são sinônimos e antônimos.
 
-## Glossário
-Para auxiliar a equipe no gerenciamento de conhecimento e na consulta de termos no domínio de negócio, foram catalogados os seguintes termos em conjunto com outro membro da equipe, a [Milena](https://github.com/MilenaBaruc), onde relacionados ao domínio do Código Brasileiro de Trânsito e os seus significados, que serão representados na Tabela 1.
+## Metodologia
+Para auxiliar a equipe no gerenciamento de conhecimento e na consulta de termos no domínio de negócio, foram catalogados os seguintes termos utilizando a persona secundária [Steve Vobes](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/elicita%C3%A7%C3%A3o/personas/), para ter uma maior imersão na atividade de glossário, assim coletando termos com mais detalhes, juntamente com outro membro da equipe, a [Milena](https://github.com/MilenaBaruc). Os termos catalogados eram relacionados ao domínio do Código Brasileiro de Trânsito e os seus significados estarão representados na Tabela 1
 
 <p align="center"><b>Tabela 01</b> - Glossário dos termos do Código Brasileiro de Trânsito.</p>
 
@@ -60,3 +60,4 @@ Fonte: [Vinícius Mendes](https://github.com/yabamiah).
 |--------|---------|-----------|--------|---------|
 |`1.0`| 04/09/2023 | Criação da página de glossário | [Vinícius Mendes](https://github.com/yabamiah)| [Luís Miranda](https://github.com/LuisMiranda10) |
 |`1.1`| 07/09/2023 | Arrumando tabela de requisitos e adicionais mais informações| [Vinícius Mendes](https://github.com/yabamiah)| [Mayara Alves](https://github.com/Mayara-tech) |
+|`1.1`| 07/09/2023 | Arrumando a seção de metodologia | [Vinícius Mendes](https://github.com/yabamiah)| [Luís Miranda](https://github.com/LuisMiranda10) |
