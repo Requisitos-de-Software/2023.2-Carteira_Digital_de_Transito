@@ -59,7 +59,35 @@ As tabelas de 2 a 6 mostram a especialização dos casos de uso identificados.
 
 <font size="3"><p style="text-align: center">Fonte: [Limirio Guimarães](https://github.com/LimirioGuimaraes).</p></font>
 
+<p style="text-align: center">Tabela 3: Acessar CRLV digital</p>
 
+| **UC 2**              | **Acessar CRLV digital**     |
+|-----------------------|------------------------------|
+| Descrição             | Este caso de uso descreve o processo em que o usuário acessa o Certificado de Registro e Licenciamento de Veículo (CRLV) digital armazenado no dispositivo.|
+| Ator                  | Usuário                      | 
+| Frequência de uso     | Média                        |
+| Pré-condições         | 
+  - O aplicativo está instalado e em funcionamento no dispositivo do usuário.
+  - O dispositivo do usuário possui uma conexão ativa com a internet. |
+| Ação                  | 
+  - O usuário abre o aplicativo CRLV Digital.
+  - O usuário seleciona a opção "Acessar CRLV Digital".|
+| Fluxo principal       | 
+  - Se um CRLV digital for encontrado no banco de dados do dispositivo:
+    1. O aplicativo exibe as informações do CRLV digital na tela.
+    2. O usuário pode visualizar detalhes como placa do veículo, número do Renavam, informações do proprietário, data de licenciamento, entre outros.
+  - Se nenhum CRLV digital for encontrado no banco de dados do dispositivo:
+    1. O aplicativo exibe uma mensagem informando que não há CRLV cadastrado na conta do dispositivo. |
+| Fluxo alternativo     | Não há.|
+| Fluxo de exceção      | 
+  - Em caso de erro durante o acesso ao CRLV digital, o aplicativo deve lidar com a exceção adequadamente, exibindo uma mensagem de erro e oferecendo opções para tentar novamente ou sair do aplicativo. |
+| Pós-condições         | 
+  - O usuário pode visualizar as informações do CRLV digital, se disponíveis no dispositivo.|
+| Data de criação       | 21/10/2023                   |
+| Rastreabilidade       | xxxxx |
+
+
+<font size="3"><p style="text-align: center">Fonte: [Limirio Guimarães](https://github.com/LimirioGuimaraes).</p></font>
 
 ## Bibliografia
 
