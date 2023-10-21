@@ -52,7 +52,10 @@ nav:
   - Pré-rastreabilidade:
     - Rich picture: pré-rastreabilidade/rich picture
   - Elicitação:
-    - Perfil de Usuário: elicitação/perfil_de_usuário
+    - Definição Perfil de Usuário:
+      - Questionário: elicitação/PerfildeUsuario/Questionario.md
+      - Análise de documento: elicitação/PerfildeUsuario/AnaliseDocumento.md
+      - Perfil de Usuário: elicitação/PerfildeUsuario/PerfilUsuario.md
     - Personas: elicitação/personas
     - Elicitação de Requisito: 
       - Storyboard: elicitação/storyboard
