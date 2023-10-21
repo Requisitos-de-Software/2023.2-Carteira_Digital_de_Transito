@@ -175,6 +175,10 @@ As tabelas de 2 a 8 mostram a especialização dos casos de uso identificados.
 
 > LUCIDCHART. Diagrama de caso de uso, 2021. Disponível em: <https://www.lucidchart.com/pages/pt/diagrama-de-caso-de-uso-uml>. Acesso em: 21/10/2023.
 
+> REQUISITOS DE SOFTWARE. Bilheteria Digital. Distrito Federal, 2023. Disponível em: <https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/>. Acesso em: 21/10/2023.
+
+
+
 ## Histórico de Versões
 
 | Versão |    Data    |      Descrição      |       Autor     | Revisor(es)  |
