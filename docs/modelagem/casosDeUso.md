@@ -39,7 +39,7 @@ A figura 1 demonstra o diagrama de casos de uso.
 
 ## Especialização dos casos de uso
 
-As tabelas de 2 a 6 mostram a especialização dos casos de uso identificados.
+As tabelas de 2 a 8 mostram a especialização dos casos de uso identificados.
 
 <p style="text-align: center">Tabela 2: Acessar CNH digital</p>
 
@@ -74,6 +74,26 @@ As tabelas de 2 a 6 mostram a especialização dos casos de uso identificados.
 | Pós-condições         | O usuário pode visualizar as informações do CRLV digital, se disponíveis no dispositivo.|
 | Data de criação       | 21/10/2023                   |
 | Rastreabilidade       | xxxxx |
+
+
+<font size="3"><p style="text-align: center">Fonte: [Limirio Guimarães](https://github.com/LimirioGuimaraes).</p></font>
+
+<p style="text-align: center">Tabela 4: Visualizar Infrações</p>
+
+| **UC 2**              | **Visualizar Infrações**   |
+|-----------------------|----------------------------|
+| Descrição             | Este caso de uso permite ao usuário visualizar infrações de trânsito. Existem duas opções: visualizar infrações associadas à Carteira Nacional de Habilitação (CNH) do usuário e visualizar infrações associadas a um veículo específico. As informações detalhadas das infrações são exibidas ao usuário. |
+| Ator                  | Usuário                      | 
+| Frequência de uso     | Baixa |
+| Pré-condições         | - O aplicativo está instalado e em funcionamento no dispositivo do usuário.<br/>- O dispositivo do usuário possui uma conexão ativa com a internet. |
+| Ação                  | - O usuário abre o aplicativo.<br/>- O usuário seleciona a opção "Visualizar Infrações".<br/> - O aplicativo apresenta ao usuário as duas opções: visualizar infrações associadas à CNH ou visualizar infrações associadas a um veículo.<br/> - O usuário escolhe uma das opções.<br/> - O aplicativo busca e exibe as informações detalhadas das infrações de acordo com a opção escolhida. |
+| Fluxo principal       | 1. Para visualizar infrações associadas à CNH:<br/> - O aplicativo busca e exibe as informações das infrações associadas à CNH.<br/> 2. Para visualizar infrações associadas a um veículo:<br/> - O usuário escolhe um dos veículos a qual tem acesso a informação.<br/> - O aplicativo busca e exibe as informações das infrações associadas ao veículo em questão. |
+| Fluxo alternativo     | - Se não houver infrações associadas à CNH ou ao veículo, o aplicativo deve informar o usuário de que não foram encontradas infrações.<br/> - O usuário pode optar por visualizar mais detalhes de cada infração listada. |
+| Fluxo de exceção      | - Se ocorrer algum erro durante a busca ou exibição das infrações, o aplicativo deve lidar com a exceção adequadamente, exibindo uma mensagem de erro e oferecendo opções para tentar novamente ou sair do aplicativo. |
+| Pós-condições         | - O usuário pode visualizar as informações detalhadas das infrações associadas à CNH ou ao veículo escolhido. <br/> - O usuário pode optar por visualizar mais detalhes de cada infração. <br/>|
+| Data de criação       | 21/10/2023                   |
+| Rastreabilidade       | xxxxx |
+
 
 
 <font size="3"><p style="text-align: center">Fonte: [Limirio Guimarães](https://github.com/LimirioGuimaraes).</p></font>
