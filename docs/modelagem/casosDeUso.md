@@ -95,3 +95,4 @@ As tabelas de 2 a 5 mostram a especialização dos casos de uso.
 | ------ | ---------- | ------------------- | --------------- | ------------ |
 | 1.0    | 19/10/2023 | Criação do template | [Limirio Guimarães](https://github.com/LimirioGuimaraes) |  |
 | 1.1    | 21/10/2023 | Adicionado introdução, metodologia e glossário | [Limirio Guimarães](https://github.com/LimirioGuimaraes) |  |
+| 1.2    | 21/10/2023 | Adicionado diagrama de casos de uso | [Limirio Guimarães](https://github.com/LimirioGuimaraes) |  |
