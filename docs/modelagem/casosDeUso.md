@@ -107,7 +107,7 @@ As tabelas de 2 a 8 mostram a especialização dos casos de uso identificados.
 | Ação                  | - O usuário abre o aplicativo.<br/> - O usuário ecolhe uma infração para visualiza detalhes.<br/> - Ao ver detalhes da infração o usuário clica na aba d reinvindivar infração. - O aplicativo permite ao usuário fornecer detalhes e justificativas para a reivindicação. |
 | Fluxo principal       | - O aplicativo exibe os detalhes da infração selecionada. <br/> - O usuário pode fornecer informações de reivindicação, anexar evidências, fornecer justificativas e enviar a reivindicação. <br/> - Após o envio da reivindicação, o aplicativo registra a solicitação. |
 | Fluxo alternativo     | - Se não houver infrações a serem reivindicadas, o aplicativo deve informar o usuário de que não foram encontradas infrações para reivindicar. <br/> - O usuário pode optar por visualizar o status de suas reivindicações anteriores. <br/> - O usuário pode anexar evidências, como fotos ou documentos, para apoiar sua reivindicação. |
-| Fluxo de exceção      | - Se ocorrer algum erro durante o envio da reivindicação, o aplicativo deve lidar com a exceção adequadamente, exibindo uma mensagem de erro e oferecendo opções para tentar novamente ou sair do aplicativo. |
+| Fluxo de exceção      | Se ocorrer algum erro durante o envio da reivindicação, o aplicativo deve lidar com a exceção adequadamente, exibindo uma mensagem de erro e oferecendo opções para tentar novamente ou sair do aplicativo. |
 | Pós-condições         | - O usuário registra uma reivindicação relacionada a uma infração de trânsito específica. <br/> - O aplicativo armazena a reivindicação e envia para revisão e processamento pelas autoridades de trânsito. |
 | Data de criação       | 21/10/2023                   |
 | Rastreabilidade       | xxxxx |
@@ -115,6 +115,24 @@ As tabelas de 2 a 8 mostram a especialização dos casos de uso identificados.
 
 <font size="3"><p style="text-align: center">Fonte: [Limirio Guimarães](https://github.com/LimirioGuimaraes).</p></font>
 
+<p style="text-align: center">Tabela 6: Pagar multas</p>
+
+| **UC 5**              | **Pagar Multas**         |
+|-----------------------|--------------------------|
+| Descrição             | Este caso de uso permite ao usuário pagar multas de trânsito. O usuário tem a opção de aderir a iniciativas do governo para ganhar descontos nas multas ou escolher um método de pagamento padrão. |
+| Ator                  | Usuário                  | 
+| Frequência de uso     | Baixa|
+| Pré-condições         | - O aplicativo está instalado e em funcionamento no dispositivo do usuário.<br/>- O dispositivo do usuário possui uma conexão ativa com a internet. <br/> - O usuário possui multas registradas no sistema. |
+| Ação                  | - O usuário abre o aplicativo. <br/> - o usuario seleciona a opção de visualizar infrações.<br/> - O usuário escolhe uma infração para pagar a multa referente a ela. <br/> - O aplicativo apresenta ao usuário as seguintes opções:<br/>1. Aderir a iniciativas do governo para ganhar descontos nas multas.<br/> 2. Escolher um método de pagamento padrão. <br/> - O usuário escolhe uma das opções.<br/> - Dependendo da opção escolhida, o aplicativo guia o usuário pelo processo de pagamento. |
+| Fluxo principal       | - Se o usuário escolhe aderir a iniciativas do governo:<br/> 1. O aplicativo lista as iniciativas disponíveis com detalhes sobre descontos e requisitos. <br/> 2. O usuário escolhe uma iniciativa e segue as instruções para aderir.<br/> - Se o usuário escolhe um método de pagamento padrão:<br/> 1. O aplicativo permite ao usuário selecionar um método de pagamento.<br/> 2. O aplicativo fornece as informações necessárias para efetuar o pagamento de acordo com a opção selecionada. |
+| Fluxo alternativo     | - O usuário pode optar por revisar um resumo de suas multas pendentes antes de prosseguir com o pagamento. <br/> - O aplicativo pode oferecer opções de parcelamento para multas em casos específicos.|
+| Fluxo de exceção      | Se ocorrer algum erro durante o processo de pagamento, o aplicativo deve lidar com a exceção adequadamente, exibindo uma mensagem de erro e oferecendo opções para tentar novamente ou sair do aplicativo. |
+| Pós-condições         | - O usuário efetua o pagamento das multas de trânsito, sejam elas com descontos de iniciativas do governo ou através de um método de pagamento padrão. <br/> - O usuário pode visualizar seu histórico de pagamentos e multas pagas. |
+| Data de criação       | 21/10/2023               |
+| Rastreabilidade       | xxxxx|
+
+
+<font size="3"><p style="text-align: center">Fonte: [Limirio Guimarães](https://github.com/LimirioGuimaraes).</p></font>
 
 ## Bibliografia
 
