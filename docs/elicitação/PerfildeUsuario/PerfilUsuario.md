@@ -6,6 +6,7 @@ Com o propósito de aprofundar a compreensão dos utilizadores do aplicativo, to
 
 ## Metodologia 
 
+A definição do perfil de usuário do aplicativo "Carteira Digital de Trânsito" foi elaborada por meio de um processo que envolveu a aplicação de questionários e a realização de análise de documentos. Esta abordagem permitiu uma compreensão profunda das necessidades e preferências dos potenciais usuários da plataforma. Os questionários forneceram dados quantitativos de inestimável valor, enquanto a análise de documentação proporcionou uma visão mais ampla acerca dos condutores que fazem uso do referido aplicativo. Esta combinação de métodos permitiu tanto a confirmação de algumas características previamente levantadas pelos questionários, quanto a identificação de nuances que não poderiam ser capturadas somente por meio da resposta dos questionários por parte da comunidade acadêmica. Dessa maneira, essa abordagem integrada culminou na formulação de um perfil de usuário de caráter imprescindível para a personalização e otimização do aplicativo.
 
 ## Definição do Perfil de Usuário
 
@@ -14,7 +15,7 @@ Vale ressaltar que a análise das resposta foi feita com base em uma pequena amo
 Após uma análise das respostas, foi traçado um Perfil de Usuário para o aplicativo com as seguintes descrições:
 
 - **Gênero:** Em sua maioria Masculino.
-- **Idade:** Entre 18 e 24 anos.
+- **Idade:** Entre 18 e 29 anos.
 - **Experiência:** Experiente.
 - **Atitudes:** Tecnófilos.
 - **Tarefas primárias:** Obter a versão digital da habilitação
