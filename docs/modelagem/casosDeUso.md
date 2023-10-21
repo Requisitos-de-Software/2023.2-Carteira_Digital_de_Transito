@@ -80,7 +80,7 @@ As tabelas de 2 a 8 mostram a especialização dos casos de uso identificados.
 
 <p style="text-align: center">Tabela 4: Visualizar Infrações</p>
 
-| **UC 2**              | **Visualizar Infrações**   |
+| **UC 3**              | **Visualizar Infrações**   |
 |-----------------------|----------------------------|
 | Descrição             | Este caso de uso permite ao usuário visualizar infrações de trânsito. Existem duas opções: visualizar infrações associadas à Carteira Nacional de Habilitação (CNH) do usuário e visualizar infrações associadas a um veículo específico. As informações detalhadas das infrações são exibidas ao usuário. |
 | Ator                  | Usuário                      | 
@@ -94,9 +94,27 @@ As tabelas de 2 a 8 mostram a especialização dos casos de uso identificados.
 | Data de criação       | 21/10/2023                   |
 | Rastreabilidade       | xxxxx |
 
+<font size="3"><p style="text-align: center">Fonte: [Limirio Guimarães](https://github.com/LimirioGuimaraes).</p></font>
+
+<p style="text-align: center">Tabela 5: Reivindicar Infrações</p>
+
+| **UC 4**              | **Reivindicar Infrações**  |
+|-----------------------|----------------------------|
+| Descrição             | Este caso de uso permite ao usuário abrir uma reivindicação em relação a uma multa de trânsito que tenha recebido. O objetivo é contestar ou esclarecer uma infração específica. |
+| Ator                  | Usuário                      | 
+| Frequência de uso     | Baixa |
+| Pré-condições         | - O aplicativo está instalado e em funcionamento no dispositivo do usuário.<br/>- O dispositivo do usuário possui uma conexão ativa com a internet. <br/> - O usuário recebeu uma notificação ou identificou uma infração específica que deseja contestar. |
+| Ação                  | - O usuário abre o aplicativo.<br/> - O usuário ecolhe uma infração para visualiza detalhes.<br/> - Ao ver detalhes da infração o usuário clica na aba d reinvindivar infração. - O aplicativo permite ao usuário fornecer detalhes e justificativas para a reivindicação. |
+| Fluxo principal       | - O aplicativo exibe os detalhes da infração selecionada. <br/> - O usuário pode fornecer informações de reivindicação, anexar evidências, fornecer justificativas e enviar a reivindicação. <br/> - Após o envio da reivindicação, o aplicativo registra a solicitação. |
+| Fluxo alternativo     | - Se não houver infrações a serem reivindicadas, o aplicativo deve informar o usuário de que não foram encontradas infrações para reivindicar. <br/> - O usuário pode optar por visualizar o status de suas reivindicações anteriores. <br/> - O usuário pode anexar evidências, como fotos ou documentos, para apoiar sua reivindicação. |
+| Fluxo de exceção      | - Se ocorrer algum erro durante o envio da reivindicação, o aplicativo deve lidar com a exceção adequadamente, exibindo uma mensagem de erro e oferecendo opções para tentar novamente ou sair do aplicativo. |
+| Pós-condições         | - O usuário registra uma reivindicação relacionada a uma infração de trânsito específica. <br/> - O aplicativo armazena a reivindicação e envia para revisão e processamento pelas autoridades de trânsito. |
+| Data de criação       | 21/10/2023                   |
+| Rastreabilidade       | xxxxx |
 
 
 <font size="3"><p style="text-align: center">Fonte: [Limirio Guimarães](https://github.com/LimirioGuimaraes).</p></font>
+
 
 ## Bibliografia
 
