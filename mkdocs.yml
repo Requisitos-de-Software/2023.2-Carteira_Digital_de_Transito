@@ -62,6 +62,8 @@ nav:
     - Elicitação de Requisito: 
       - Storyboard: elicitação/storyboard
       - Glossário: elicitação/glossario
+      - Entrevista: elicitação/entrevista.md
+      - Introspecção: elicitação/Introspeccao.md
       - Requisitos Elicitados: elicitação/requisitos_elicitados
     - Priorização: 
       - First Things First: elicitação/priorização/first_things_first
