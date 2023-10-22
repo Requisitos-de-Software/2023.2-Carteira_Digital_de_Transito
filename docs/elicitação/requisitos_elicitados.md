@@ -69,19 +69,17 @@ Fonte: [Luis Miranda](https://github.com/LuisMiranda10) e [Mayara Alves](https:/
 | ENT  | O aplicativo deve oferecer uma opção de backup seguro de todos os documentos e dados do usuário. | RF | Não implementado |
 | ENT | Deve ser possível realizar o agendamento de serviços de manutenção e inspeção veicular. | RF | Não implementado |
 | ENT | O aplicativo deve notificar o usuário sobre recalls e informações importantes do fabricante do veículo. | RF | Não implementado |
-| ENT11 | Deve ser possível obter informações sobre as normas de trânsito, regulamentações e penalidades em vigor. | RF | Não implementado |
+| ENT | Deve ser possível obter informações sobre as normas de trânsito, regulamentações e penalidades em vigor. | RF | Não implementado |
 
 Fonte: [Luis Miranda](https://github.com/LuisMiranda10) e [Mayara Alves](https://github.com/Mayara-tech)
-
+  
 </center>
 
 
 ## 📑 Histórico de versões:
 
-<center>
-
 | Versão |    Data    |    Descrição         | Autor(es)  |    Revisor(es) |                  
 |:-----: | :--------: | :-------------:      | :--------: | :-------------:| 
 | `1.0`    | 30/09/2023  | Criação do documento | Breno e Limírio| [Mayara Alves](https://github.com/Mayara-tech)|
 | `1.1`    | 21/10/2023  | Modificação da introdução e adição da rastreabilidade da tabela |[Luis Miranda](https://github.com/LuisMiranda10) e [Mayara Alves](https://github.com/Mayara-tech)| |
-</center>
+

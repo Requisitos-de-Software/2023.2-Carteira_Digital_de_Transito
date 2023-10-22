@@ -1,0 +1,69 @@
+# Léxicos
+## Introdução
+
+O Léxico é uma notação que se utiliza da descrição de termos, ou seja, é uma técnica que se propõe descrever símbolos de uma linguagem. E com isso, o seu principal objetivo no contexto na Engenharia de Requisitos é a classificação de palavras ou frases específicas de um contexto de negócio do sistema que esta sendo estudado. E nessa técnica cada símbolo será classificado em noção e impacto, onde noção é o significado do símbolo e o impacto é o uso real do símbolo na aplicação.
+
+## Metodologia
+
+Para utilizar esta técnica, utilizamos o aplicativo e em conjunto com o glossário e as outras técnicas de elicitação feitas na etapa anterior. Baseamos nossa metodologia na anotação do Léxico Ampliado a Linguagem - LAL, onde as notações e os conceitos utilizados serão explicado na Tabela 1 e o template utilizado na Tabela 2.
+
+<p align="center"><b>Tabela 01</b> - Regras tos tipos LAL.</p>
+
+
+| Tipo | Noção </br> <<Quem é o sujeito?>> | Impacto </br> <<Quais ações executa>> |
+|-----|------|----------|
+|Verbo| Quem realiza, quando acontece e quais o procedimentos | Quais os reflexos da ação no ambiente e quais novos estados decorrentes |
+|Objeto| Definir objetos e outros objetos com quais se relaciona | Ações que podem ser aplicadas ao objeto |
+|Estado| O que significa e quais ações levaram a esse estado | Identificar outros estados e ações que podem decorrer deste estado |
+
+<p align="center"><b>Tabela 02</b> - Template do LAL.</p>
+
+| **Símbolo** | **Tipo** | **Noção** | **Impacto** | **Dicionário** |
+|---------|------|--------|----------|------------|
+| Nome do léxico | Verbo/Objeto/Estado | Denotação do símbolo | Conotação do símbolo | Sinônimos |
+
+## Tabelas de Léxicos
+
+A seguir, serão apresentados as todas as descrições de léxicos identificados na aplicação, onde os representamos em um template da Tabela 2.
+
+### L01 - Condutor
+
+<p align="center"><b>Tabela 03</b> - Léxico 01 - Condutor (L01)</p>
+
+| **Símbolo** | **Tipo** | **Noção** | **Impacto** | **Dicionário** |
+|---------|------|--------|----------|------------|
+| Condutor | Objeto | - Pessoa que conduz um automóvel </br> - Responsável pelo veículo </br> - Responsável pelas infrações </br> - Condutor pode ser alguém que queira visualizar sua CNH digital </br> - O condutor pode ser alguém que queira visualizar a CRLV digital | - O condutor pode baixar sua CNH digital </br> - O condutor pode visualizar seu histórico de emissões da CNH  </br> - O condutor pode adicionar os seus veíclos </br> - O condutor pode consultar as suas infrações| Motorista, volante, guia, piloto |
+
+### L02 - Cadastrar CNH
+
+<p align="center"><b>Tabela 04</b> - Léxico 02 - Cadastrar CNH (L02)</p>
+
+| **Símbolo** | **Tipo** | **Noção** | **Impacto** | **Dicionário** |
+|---------|------|--------|----------|------------|
+| Cadastrar CNH | Verbo | - Tarefa realizada pelo conduor </br> - Acontece quando o condutor precisa visualizar sua CNH pela primeira vez </br> - Condutor valida o cadastro com uma foto de sua CNH  | - O condutor consegue visualizar a sua CNH  | Registrar CNH, Inscrever CNH, Fichar CNH |
+
+
+### L03 - Consultar infrações
+
+<p align="center"><b>Tabela 05</b> - Léxico 03 - Consultar infrações (L03)</p>
+
+| **Símbolo** | **Tipo** | **Noção** | **Impacto** | **Dicionário** |
+|---------|------|--------|----------|------------|
+| Consultar infrações | Verbo | - Tarefa realizada pelo condutor </br> - Acontece quando o condutor quer visualizar alguma infração </br> - Condutor pode escolher consultar infrações por condutor ou por veículo </br> - O sistema divide as infrações em categorias de vencidas, a vencer e pagas | - O condutor consegue verificar infrações vencidas e as não pagas </br> - O condutor pode visualizar uma infração </br> - O sistema pode gerar o boleto da infração </br> - O sistema pode gerar PDF da infração|  Examinar infrações, Estudar infrações, Ler infrações|
+
+### L04 - Sistema de Notificação Eletrônica
+
+<p align="center"><b>Tabela 05</b> - Léxico 04 -Sistema de Notificação Eletrônica (L04)</p>
+
+| **Símbolo** | **Tipo** | **Noção** | **Impacto** | **Dicionário** |
+|---------|------|--------|----------|------------|
+| Sistema de Notificação Eletrônica | Objeto | - Sistema de responsável por notificar infrações de trânsito aos proprietários de veículos | - Sistema que dá o direito a descontos no pagamento de multas de trânsitos | Sistema de Intimação Eletrônica |
+
+## Bibliografia
+> SERRANO, Milene. Requisitos – Aula 10. 2017. Apresentação de slides. Disponível em: [https://aprender3.unb.br/pluginfile.php/2523091/mod_resource/content/1/Aula%2010.pdf](https://aprender3.unb.br/pluginfile.php/2523091/mod_resource/content/1/Aula%2010.pdf). 
+
+## Histórico de Versões
+
+| **Versão** | **Data** | **Descrição** | **Autor** | **Revisor** |
+|--------|------|------------|--------|--------|
+|`1.0` | 20/10/2023 | Criação da página de Léxicos | [Vinícius Mendes](https://github.com/yabamiah) | |
