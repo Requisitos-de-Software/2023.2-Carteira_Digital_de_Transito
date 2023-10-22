@@ -8,10 +8,10 @@ A entrevista foi realizada no dia 20/10/2023 e contou com a participação de um
 A estrutura de entrevista utilizada foi a de:
 
 - Apresentação, na qual a entrevistadora se apresenta e explica o objetivo da entrevista
-- Período de aquecimento, no qual são feitas perguntas de fácil resposta, como dados demográficos é perfil do usuário;
+- Período de aquecimento, no qual são feitas perguntas de fácil resposta, como dados demográficos e perfil do usuário;
 - Parte principal da entrevista, na qual o roteiro é explorado;
-- Um período de desaquecimento, para desfazer alguma tensão que tenha surgido;
-- Conclusão, na qual a entrevistadora agradece ao participante pelo seu tempo, desliga o gravação indicando que a entrevista terminou.
+- Um período de quebra gelo, para desfazer alguma tensão que tenha surgido;
+- Conclusão, na qual a entrevistadora agradece ao participante pelo seu tempo, desliga a gravação indicando que a entrevista terminou.
 
 
 ## Entrevista
@@ -36,7 +36,7 @@ Considerações finais | 9. Você tem alguma outra consideração importante em 
 
 
 ## Requisitos Elicitados 
-Após a realização da entrevista com o usuário do aplicativo da Carteira Digital de Trânsito, foi possível eliciar os requisitos apresentados na Tabela 2. Onde cada requisito é classificado por um sigla formada por "ENT" + um número, em que "ENT" é um sigla de entrevista, e para representar o tipo do requisito, será usado as siglas "RF" ou "RNF", que representam o tipo do requisito funcional ou não funcional, além disso também será representado se já há uma implementação do requisito no aplicativo.
+Após a realização da entrevista com o usuário do aplicativo da Carteira Digital de Trânsito, foi possível elicitar os requisitos apresentados na Tabela 2. Onde cada requisito é classificado por um sigla formada por "ENT" + um número, em que "ENT" é um sigla de entrevista, e para representar o tipo do requisito, será usado as siglas "RF" ou "RNF", que representam o tipo do requisito funcional ou não funcional, além disso também será representado se já há uma implementação do requisito no aplicativo.
 
 <p align="center"><b>Tabela 2</b> - Requisitos elicitados na Entrevista.</p>
 
@@ -75,4 +75,4 @@ and the Social Sciences. New York, NY: Teachers College Press, 1998
 
 Versão  |   Data   | Descrição | Autor(es) | Revisor(es)
 --------- | ------ | ------ | ---------- | ----------
-`1.0` | 20/10/2023| Entrevista  | [Mayara Alves](https://github.com/Mayara-tech)  | |
+`1.0` | 20/10/2023| Entrevista  | [Mayara Alves](https://github.com/Mayara-tech)  | [Vinícius Mendes](https://github.com/yabamiah) |
