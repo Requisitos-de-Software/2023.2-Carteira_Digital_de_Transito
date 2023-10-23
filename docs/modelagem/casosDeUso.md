@@ -40,7 +40,7 @@ A figura 1 demonstra o diagrama de casos de uso.
 
 As tabelas de 2 a 8 mostram a especialização dos casos de uso identificados.
 
-<p align="center"> <b>Tabela 2: </b>.  Acessar CNH digital</p>>
+<p align="center"> <b>Tabela 2: </b>.  Acessar CNH digital</p>
 
 | **UC 1**              | **Acessar CNH digital**    |
 |-----------------------|----------------------------|
