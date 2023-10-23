@@ -23,7 +23,7 @@ Um diagrama de casos de uso é uma forma poderosa de capturar requisitos, defini
 | ![Retângulo](../assets/retanguloCasosDeUso.png)    | Sistema      | Representa o limite do sistema, ou seja, o escopo e o contexto do sistema que está sendo modelado. O retângulo pode conter os casos de uso que são internos ao sistema e separá-los dos atores que são externos ao sistema. |
 | ![Flechas](../assets/setas_casosDeUso.png)| Relações     | As flechas representam os relacionamentos entre os casos de uso e os atores ou entre os próprios casos de uso. Existem diferentes tipos de flechas que indicam diferentes tipos de relacionamentos, como associação, inclusão e extensão. A associação é uma linha sólida entre um ator e um caso de uso que indica uma interação entre eles. A inclusão é uma linha tracejada entre dois casos de uso que indica que um caso de uso é incluído em outro caso de uso. A extensão é uma linha tracejada com uma seta entre dois casos de uso que indica que um caso de uso é estendido por outro caso de uso. |
 
-<font size="2"><p style="text-align: center"><b>Fonte: [Limirio Guimarães](https://github.com/LimirioGuimaraes)</b></p></font>
+<p align="center"><b>Fonte</b>:  <a href="https://github.com/LimirioGuimaraes">Limírio Guimarães</a></p>
 
 <center/>
 
@@ -35,7 +35,7 @@ A figura 1 demonstra o diagrama de casos de uso.
 
 <img src="../assets/diagramaDeCasosDeUso.png" class="usecaseElement">
 
-<font size="2"><p style="text-align: center"><b>Fonte: [Limirio Guimarães](https://github.com/LimirioGuimaraes)</b></p></font>
+<p align="center"><b>Fonte</b>:  <a href="https://github.com/LimirioGuimaraes">Limírio Guimarães</a></p>
 
 ## Especialização dos casos de uso
 
@@ -57,7 +57,7 @@ As tabelas de 2 a 8 mostram a especialização dos casos de uso identificados.
 | Data de criação       | 21/10/2023                 |
 | Rastreabilidade       | [RF2](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/elicitação/requisitos_elicitados/)                      |
 
-<font size="3"><p style="text-align: center">Fonte: [Limirio Guimarães](https://github.com/LimirioGuimaraes).</p></font>
+<p align="center"><b>Fonte</b>:  <a href="https://github.com/LimirioGuimaraes">Limírio Guimarães</a></p>
 
 <p style="text-align: center">Tabela 3: Acessar CRLV digital</p>
 
@@ -76,7 +76,7 @@ As tabelas de 2 a 8 mostram a especialização dos casos de uso identificados.
 | Rastreabilidade       |  [RF4](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/elicitação/requisitos_elicitados/)   |
 
 
-<font size="3"><p style="text-align: center">Fonte: [Limirio Guimarães](https://github.com/LimirioGuimaraes).</p></font>
+<p align="center"><b>Fonte</b>:  <a href="https://github.com/LimirioGuimaraes">Limírio Guimarães</a></p>
 
 <p style="text-align: center">Tabela 4: Visualizar Infrações</p>
 
@@ -94,7 +94,7 @@ As tabelas de 2 a 8 mostram a especialização dos casos de uso identificados.
 | Data de criação       | 21/10/2023                   |
 | Rastreabilidade       |  [RF5](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/elicitação/requisitos_elicitados/),  [RF6](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/elicitação/requisitos_elicitados/)    |
 
-<font size="3"><p style="text-align: center">Fonte: [Limirio Guimarães](https://github.com/LimirioGuimaraes).</p></font>
+<p align="center"><b>Fonte</b>:  <a href="https://github.com/LimirioGuimaraes">Limírio Guimarães</a></p>
 
 <p style="text-align: center">Tabela 5: Reivindicar Infrações</p>
 
@@ -113,7 +113,7 @@ As tabelas de 2 a 8 mostram a especialização dos casos de uso identificados.
 | Rastreabilidade       |  [RF9](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/elicitação/requisitos_elicitados/)   |
 
 
-<font size="3"><p style="text-align: center">Fonte: [Limirio Guimarães](https://github.com/LimirioGuimaraes).</p></font>
+<p align="center"><b>Fonte</b>:  <a href="https://github.com/LimirioGuimaraes">Limírio Guimarães</a></p>
 
 <p style="text-align: center">Tabela 6: Pagar multas</p>
 
@@ -131,7 +131,7 @@ As tabelas de 2 a 8 mostram a especialização dos casos de uso identificados.
 | Data de criação       | 21/10/2023               |
 | Rastreabilidade       |  [RF8](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/elicitação/requisitos_elicitados/)  |
 
-<font size="3"><p style="text-align: center">Fonte: [Limirio Guimarães](https://github.com/LimirioGuimaraes).</p></font>
+<p align="center"><b>Fonte</b>:  <a href="https://github.com/LimirioGuimaraes">Limírio Guimarães</a></p>
 
 <p style="text-align: center">Tabela 7: Contato com o Suporte</p>
 
@@ -149,7 +149,7 @@ As tabelas de 2 a 8 mostram a especialização dos casos de uso identificados.
 | Data de criação       | 21/10/2023                |
 | Rastreabilidade       |  [RF10](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/elicitação/requisitos_elicitados/)   |
 
-<font size="3"><p style="text-align: center">Fonte: [Limirio Guimarães](https://github.com/LimirioGuimaraes).</p></font>
+<p align="center"><b>Fonte</b>:  <a href="https://github.com/LimirioGuimaraes">Limírio Guimarães</a></p>
 
 <p style="text-align: center">Tabela 8: Atualizar Informações Salvas</p>
 
@@ -167,7 +167,7 @@ As tabelas de 2 a 8 mostram a especialização dos casos de uso identificados.
 | Data de criação       | 21/10/2023                           |
 | Rastreabilidade       |  [RF19](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/elicitação/requisitos_elicitados/),  [RNF8](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/elicitação/requisitos_elicitados/)   |
 
-<font size="3"><p style="text-align: center">Fonte: [Limirio Guimarães](https://github.com/LimirioGuimaraes).</p></font>
+<p align="center"><b>Fonte</b>:  <a href="https://github.com/LimirioGuimaraes">Limírio Guimarães</a></p>
 
 ## Bibliografia
 
