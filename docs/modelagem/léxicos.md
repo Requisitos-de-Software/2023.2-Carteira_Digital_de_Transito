@@ -74,4 +74,5 @@ A seguir, serão apresentados as todas as descrições de léxicos identificados
 
 | **Versão** | **Data** | **Descrição** | **Autor** | **Revisor** |
 |--------|------|------------|--------|--------|
-|`1.0` | 20/10/2023 | Criação da página de Léxicos | [Vinícius Mendes](https://github.com/yabamiah) | |
+|`1.0` | 20/10/2023 | Criação da página de Léxicos | [Vinícius Mendes](https://github.com/yabamiah) e [Luis Miranda](https://github.com/LuisMiranda10) | |
+|`1.1` | 22/10/2023 | Modificação na tabela de Léxicos | [Vinícius Mendes](https://github.com/yabamiah) e [Luis Miranda](https://github.com/LuisMiranda10) | |
