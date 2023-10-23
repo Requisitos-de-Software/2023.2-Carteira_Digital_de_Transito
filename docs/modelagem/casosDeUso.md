@@ -55,7 +55,7 @@ As tabelas de 2 a 8 mostram a especialização dos casos de uso identificados.
 | Fluxo de exceção      | Se ocorrer algum erro durante o acesso à CNH digital, o aplicativo deve lidar com a exceção adequadamente, exibindo uma mensagem de erro e oferecendo opções para tentar novamente ou sair do aplicativo.                                          |
 | Pós-condições         | O usuário pode visualizar as informações da CNH digital. |
 | Data de criação       | 21/10/2023                 |
-| Rastreabilidade       | xxxxx                      |
+| Rastreabilidade       | [RF2](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/elicitação/requisitos_elicitados/)                      |
 
 <font size="3"><p style="text-align: center">Fonte: [Limirio Guimarães](https://github.com/LimirioGuimaraes).</p></font>
 
@@ -73,7 +73,7 @@ As tabelas de 2 a 8 mostram a especialização dos casos de uso identificados.
 | Fluxo de exceção      | Em caso de erro durante o acesso ao CRLV digital, o aplicativo deve lidar com a exceção adequadamente, exibindo uma mensagem de erro e oferecendo opções para tentar novamente ou sair do aplicativo. |
 | Pós-condições         | O usuário pode visualizar as informações do CRLV digital, se disponíveis no dispositivo.|
 | Data de criação       | 21/10/2023                   |
-| Rastreabilidade       | xxxxx |
+| Rastreabilidade       |  [RF4](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/elicitação/requisitos_elicitados/)   |
 
 
 <font size="3"><p style="text-align: center">Fonte: [Limirio Guimarães](https://github.com/LimirioGuimaraes).</p></font>
@@ -92,7 +92,7 @@ As tabelas de 2 a 8 mostram a especialização dos casos de uso identificados.
 | Fluxo de exceção      | - Se ocorrer algum erro durante a busca ou exibição das infrações, o aplicativo deve lidar com a exceção adequadamente, exibindo uma mensagem de erro e oferecendo opções para tentar novamente ou sair do aplicativo. |
 | Pós-condições         | - O usuário pode visualizar as informações detalhadas das infrações associadas à CNH ou ao veículo escolhido. <br/> - O usuário pode optar por visualizar mais detalhes de cada infração. <br/>|
 | Data de criação       | 21/10/2023                   |
-| Rastreabilidade       | xxxxx |
+| Rastreabilidade       |  [RF5](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/elicitação/requisitos_elicitados/),  [RF6](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/elicitação/requisitos_elicitados/)    |
 
 <font size="3"><p style="text-align: center">Fonte: [Limirio Guimarães](https://github.com/LimirioGuimaraes).</p></font>
 
@@ -110,7 +110,7 @@ As tabelas de 2 a 8 mostram a especialização dos casos de uso identificados.
 | Fluxo de exceção      | Se ocorrer algum erro durante o envio da reivindicação, o aplicativo deve lidar com a exceção adequadamente, exibindo uma mensagem de erro e oferecendo opções para tentar novamente ou sair do aplicativo. |
 | Pós-condições         | - O usuário registra uma reivindicação relacionada a uma infração de trânsito específica. <br/> - O aplicativo armazena a reivindicação e envia para revisão e processamento pelas autoridades de trânsito. |
 | Data de criação       | 21/10/2023                   |
-| Rastreabilidade       | xxxxx |
+| Rastreabilidade       |  [RF9](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/elicitação/requisitos_elicitados/)   |
 
 
 <font size="3"><p style="text-align: center">Fonte: [Limirio Guimarães](https://github.com/LimirioGuimaraes).</p></font>
@@ -129,7 +129,7 @@ As tabelas de 2 a 8 mostram a especialização dos casos de uso identificados.
 | Fluxo de exceção      | Se ocorrer algum erro durante o processo de pagamento, o aplicativo deve lidar com a exceção adequadamente, exibindo uma mensagem de erro e oferecendo opções para tentar novamente ou sair do aplicativo. |
 | Pós-condições         | - O usuário efetua o pagamento das multas de trânsito, sejam elas com descontos de iniciativas do governo ou através de um método de pagamento padrão. <br/> - O usuário pode visualizar seu histórico de pagamentos e multas pagas. |
 | Data de criação       | 21/10/2023               |
-| Rastreabilidade       | xxxxx|
+| Rastreabilidade       |  [RF8](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/elicitação/requisitos_elicitados/)  |
 
 <font size="3"><p style="text-align: center">Fonte: [Limirio Guimarães](https://github.com/LimirioGuimaraes).</p></font>
 
@@ -147,7 +147,7 @@ As tabelas de 2 a 8 mostram a especialização dos casos de uso identificados.
 | Fluxo de exceção      | Se ocorrer algum erro durante a interação com o assistente virtual, o aplicativo deve lidar com a exceção adequadamente, exibindo uma mensagem de erro e oferecendo opções para tentar novamente ou relatar o problema de outra forma. |
 | Pós-condições         | - O usuário obteve assistência, informações ou resolução para suas dúvidas ou problemas por meio do assistente virtual. <br/> - O aplicativo pode registrar a interação com o assistente virtual para fins de acompanhamento e melhoria.<br/> - O usuário pode encerrar a conversa a qualquer momento. |
 | Data de criação       | 21/10/2023                |
-| Rastreabilidade       | xxxxxxx |
+| Rastreabilidade       |  [RF10](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/elicitação/requisitos_elicitados/)   |
 
 <font size="3"><p style="text-align: center">Fonte: [Limirio Guimarães](https://github.com/LimirioGuimaraes).</p></font>
 
@@ -165,7 +165,7 @@ As tabelas de 2 a 8 mostram a especialização dos casos de uso identificados.
 | Fluxo de exceção      | Em caso de erro durante o processo de atualização, o sistema do Detran deve lidar com a exceção adequadamente e pode tentar a sincronização novamente posteriormente. |
 | Pós-condições         | - As informações no aplicativo do usuário estão atualizadas com as informações mais recentes do sistema do Detran. <br/> - O sistema do Detran registra a data da última sincronização bem-sucedida. <br/> - O usuário tem acesso às informações atualizadas em seu aplicativo. |
 | Data de criação       | 21/10/2023                           |
-| Rastreabilidade       | xxxxxx |
+| Rastreabilidade       |  [RF19](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/elicitação/requisitos_elicitados/),  [RNF8](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/elicitação/requisitos_elicitados/)   |
 
 <font size="3"><p style="text-align: center">Fonte: [Limirio Guimarães](https://github.com/LimirioGuimaraes).</p></font>
 
