@@ -13,8 +13,7 @@ O artefato que foi criado é um diagrama de casos de uso UML, que representa as 
 Um diagrama de casos de uso é uma forma poderosa de capturar requisitos, definindo as interações entre um sistema e seus usuários, conhecidos como "atores". Neste glossário, você encontrará explicações detalhadas de cada um dos elementos que compõem um diagrama de casos de uso. Vamos explorar os conceitos-chave que possibilitam a representação visual de sistemas de forma eficaz e compreensível.
 
 <center>
-
-<font size="3"><p style="text-align: center"><b>Tabela 1</b>: Elementos do diagrama de casos de uso</p></font>
+<p align="center"> <b>Tabela 1</b>.   Elementos do diagrama de casos de uso</p>>
 
 |    Símbolo    |     Nome     |    Descrição    |
 | ------------- | ------------ | --------------- |
@@ -41,7 +40,7 @@ A figura 1 demonstra o diagrama de casos de uso.
 
 As tabelas de 2 a 8 mostram a especialização dos casos de uso identificados.
 
-<p style="text-align: center">Tabela 2: Acessar CNH digital</p>
+<p align="center"> <b>Tabela 2: </b>.  Acessar CNH digital</p>>
 
 | **UC 1**              | **Acessar CNH digital**    |
 |-----------------------|----------------------------|
@@ -59,7 +58,8 @@ As tabelas de 2 a 8 mostram a especialização dos casos de uso identificados.
 
 <p align="center"><b>Fonte</b>:  <a href="https://github.com/LimirioGuimaraes">Limírio Guimarães</a></p>
 
-<p style="text-align: center">Tabela 3: Acessar CRLV digital</p>
+
+<p align="center"> <b>Tabela 3: </b>. Acessar CRLV digital</p>>
 
 | **UC 2**              | **Acessar CRLV digital**     |
 |-----------------------|------------------------------|
@@ -78,7 +78,7 @@ As tabelas de 2 a 8 mostram a especialização dos casos de uso identificados.
 
 <p align="center"><b>Fonte</b>:  <a href="https://github.com/LimirioGuimaraes">Limírio Guimarães</a></p>
 
-<p style="text-align: center">Tabela 4: Visualizar Infrações</p>
+<p align="center"> <b>Tabela 4: </b>. Visualizar Infrações</p>>
 
 | **UC 3**              | **Visualizar Infrações**   |
 |-----------------------|----------------------------|
@@ -96,7 +96,7 @@ As tabelas de 2 a 8 mostram a especialização dos casos de uso identificados.
 
 <p align="center"><b>Fonte</b>:  <a href="https://github.com/LimirioGuimaraes">Limírio Guimarães</a></p>
 
-<p style="text-align: center">Tabela 5: Reivindicar Infrações</p>
+<p align="center"> <b>Tabela 5: </b>. Reivindicar Infrações</p>>
 
 | **UC 4**              | **Reivindicar Infrações**  |
 |-----------------------|----------------------------|
@@ -115,7 +115,7 @@ As tabelas de 2 a 8 mostram a especialização dos casos de uso identificados.
 
 <p align="center"><b>Fonte</b>:  <a href="https://github.com/LimirioGuimaraes">Limírio Guimarães</a></p>
 
-<p style="text-align: center">Tabela 6: Pagar multas</p>
+<p align="center"> <b>Tabela 6: </b>. Pagar multas</p>>
 
 | **UC 5**              | **Pagar Multas**         |
 |-----------------------|--------------------------|
@@ -133,7 +133,8 @@ As tabelas de 2 a 8 mostram a especialização dos casos de uso identificados.
 
 <p align="center"><b>Fonte</b>:  <a href="https://github.com/LimirioGuimaraes">Limírio Guimarães</a></p>
 
-<p style="text-align: center">Tabela 7: Contato com o Suporte</p>
+
+<p align="center"> <b>Tabela 7: </b>. Contato com o Suporte</p>>
 
 | **UC 6**              | **Contato com o Suporte**  |
 |-----------------------|---------------------------|
@@ -151,7 +152,7 @@ As tabelas de 2 a 8 mostram a especialização dos casos de uso identificados.
 
 <p align="center"><b>Fonte</b>:  <a href="https://github.com/LimirioGuimaraes">Limírio Guimarães</a></p>
 
-<p style="text-align: center">Tabela 8: Atualizar Informações Salvas</p>
+<p align="center"> <b>Tabela 8: </b>. Atualizar Informações Salvas</p>>
 
 | **UC 7**              | **Atualizar Informações Salvas**   |
 |-----------------------|------------------------------------|
