@@ -5,7 +5,7 @@ O Léxico é uma notação que se utiliza da descrição de termos, ou seja, é 
 
 ## Metodologia
 
-Para utilizar esta técnica, utilizamos o aplicativo e em conjunto com o glossário e as outras técnicas de elicitação feitas na etapa anterior. Baseamos nossa metodologia na anotação do Léxico Ampliado a Linguagem - LAL, onde as notações e os conceitos utilizados serão explicado na Tabela 1 e o template utilizado na Tabela 2.
+Para utilizar esta técnica, utilizamos o aplicativo e em conjunto com o [glossário](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/elicita%C3%A7%C3%A3o/glossario/) e as outras técnicas de elicitação feitas na etapa anterior, e durante este documento. Os membros que realizaram esta tarefa foram o Vinicius Mendes e Luis Miranda, onde separamos em média 6 léxicos para cada um, onde utilizaremos a representação de usuário do aplicativo sendo o "condutor". Baseamos nossa metodologia na anotação do Léxico Ampliado a Linguagem - LAL, onde as notações e os conceitos utilizados serão explicado na Tabela 1 e o template utilizado na Tabela 2.
 
 <p align="center"><b>Tabela 01</b> - Regras tos tipos LAL.</p>
 
@@ -16,11 +16,19 @@ Para utilizar esta técnica, utilizamos o aplicativo e em conjunto com o glossá
 |Objeto| Definir objetos e outros objetos com quais se relaciona | Ações que podem ser aplicadas ao objeto |
 |Estado| O que significa e quais ações levaram a esse estado | Identificar outros estados e ações que podem decorrer deste estado |
 
+<p align="center"><b>Fonte</b>: Autores.</p>
+
+<br>
+  
 <p align="center"><b>Tabela 02</b> - Template do LAL.</p>
 
 | **Símbolo** | **Tipo** | **Noção** | **Impacto** | **Dicionário** |
 |---------|------|--------|----------|------------|
 | Nome do léxico | Verbo/Objeto/Estado | Denotação do símbolo | Conotação do símbolo | Sinônimos |
+
+<p align="center"><b>Fonte</b>: Autores.</p>
+
+<br>
 
 ## Tabelas de Léxicos
 
@@ -34,6 +42,8 @@ A seguir, serão apresentados as todas as descrições de léxicos identificados
 |---------|------|--------|----------|------------|
 | Condutor | Objeto | - Pessoa que conduz um automóvel </br> - Responsável pelo veículo </br> - Responsável pelas infrações </br> - Condutor pode ser alguém que queira visualizar sua CNH digital </br> - O condutor pode ser alguém que queira visualizar a CRLV digital | - O condutor pode baixar sua CNH digital </br> - O condutor pode visualizar seu histórico de emissões da CNH  </br> - O condutor pode adicionar os seus veíclos </br> - O condutor pode consultar as suas infrações| Motorista, volante, guia, piloto |
 
+<p align="center"><b>Fonte</b>: <a href=https://github.com/yabamiah>Vinicius Mendes </p>
+  
 ### L02 - Cadastrar CNH
 
 <p align="center"><b>Tabela 04</b> - Léxico 02 - Cadastrar CNH (L02)</p>
@@ -42,6 +52,7 @@ A seguir, serão apresentados as todas as descrições de léxicos identificados
 |---------|------|--------|----------|------------|
 | Cadastrar CNH | Verbo | - Tarefa realizada pelo conduor </br> - Acontece quando o condutor precisa visualizar sua CNH pela primeira vez </br> - Condutor valida o cadastro com uma foto de sua CNH  | - O condutor consegue visualizar a sua CNH  | Registrar CNH, Inscrever CNH, Fichar CNH |
 
+<p align="center"><b>Fonte</b>: <a href=https://github.com/yabamiah>Vinicius Mendes </p>
 
 ### L03 - Consultar infrações
 
@@ -51,6 +62,8 @@ A seguir, serão apresentados as todas as descrições de léxicos identificados
 |---------|------|--------|----------|------------|
 | Consultar infrações | Verbo | - Tarefa realizada pelo condutor </br> - Acontece quando o condutor quer visualizar alguma infração </br> - Condutor pode escolher consultar infrações por condutor ou por veículo </br> - O sistema divide as infrações em categorias de vencidas, a vencer e pagas | - O condutor consegue verificar infrações vencidas e as não pagas </br> - O condutor pode visualizar uma infração </br> - O sistema pode gerar o boleto da infração </br> - O sistema pode gerar PDF da infração|  Examinar infrações, Estudar infrações, Ler infrações|
 
+<p align="center"><b>Fonte</b>: <a href=https://github.com/yabamiah>Vinicius Mendes </p>
+  
 ### L04 - Sistema de Notificação Eletrônica
 
 <p align="center"><b>Tabela 05</b> - Léxico 04 -Sistema de Notificação Eletrônica (L04)</p>
@@ -59,6 +72,8 @@ A seguir, serão apresentados as todas as descrições de léxicos identificados
 |---------|------|--------|----------|------------|
 | Sistema de Notificação Eletrônica | Objeto | - Sistema de responsável por notificar infrações de trânsito aos proprietários de veículos | - Sistema que dá o direito a descontos no pagamento de multas de trânsitos | Sistema de Intimação Eletrônica |
 
+<p align="center"><b>Fonte</b>: <a href=https://github.com/yabamiah>Vinicius Mendes </p>
+  
 ### L05 - Consultar Exames Toxicológicos
 
 <p align="center"><b>Tabela 06</b> - Léxico 05 - Consultar Exames Toxicológicos (L05)</p>
@@ -74,6 +89,18 @@ A seguir, serão apresentados as todas as descrições de léxicos identificados
 | **Símbolo** | **Tipo** | **Noção** | **Impacto** | **Dicionário** |
 |---------|------|--------|----------|------------|
 | Cadastro positivo está inativo | Estado | - O condutor autorizou participar voluntariamente no cadastro positivo </br> - Ocorre quando o condutor quebrou alguma regra do código de trânsito brasileiro  | - O condutor fica sem receber benefícios do Cadastro Positivo </br> - O cadastro só ficará ativo quando o condutor resolver a causa da situação | Cadastro positivo está desligado, Cadastro positivo está desativado|
+
+<p align="center"><b>Fonte</b>: <a href=https://github.com/yabamiah>Vinicius Mendes </p>
+  
+### L07 - Visualizar recall
+
+<p align="center"><b>Tabela 08</b> - Léxico 07 - Visualizar recall (L07)</p>
+
+| **Símbolo** | **Tipo** | **Noção** | **Impacto** | **Dicionário** |
+|---------|------|--------|----------|------------|
+| Visualizar recall | Verbo | - Tarefa realizada pelo condutor </br> - Ocorre quando o condutor quer consultar se foi feita uma notificação de regularização do seu veículo | - O condutor consegue visualizar se o seu veículo recebeu algum recall </br>  | Verificar recall, Constatar recall, Captar recall |
+
+<p align="center"><b>Fonte</b>: <a href=https://github.com/yabamiah>Vinicius Mendes </p>
 
 ## Bibliografia
 > SERRANO, Milene. Requisitos – Aula 10. 2017. Apresentação de slides. Disponível em: [https://aprender3.unb.br/pluginfile.php/2523091/mod_resource/content/1/Aula%2010.pdf](https://aprender3.unb.br/pluginfile.php/2523091/mod_resource/content/1/Aula%2010.pdf). 
