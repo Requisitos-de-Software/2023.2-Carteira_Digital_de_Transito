@@ -7,7 +7,7 @@ O Léxico é uma notação que se utiliza da descrição de termos, ou seja, é 
 
 Para utilizar esta técnica, utilizamos o aplicativo e em conjunto com o [glossário](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/elicita%C3%A7%C3%A3o/glossario/) e as outras técnicas de elicitação feitas na etapa anterior, e durante este documento. Os membros que realizaram esta tarefa foram o Vinicius Mendes e Luis Miranda, onde separamos em média 6 léxicos para cada um, onde utilizaremos a representação de usuário do aplicativo sendo o "condutor". Baseamos nossa metodologia na anotação do Léxico Ampliado a Linguagem - LAL, onde as notações e os conceitos utilizados serão explicado na Tabela 1 e o template utilizado na Tabela 2.
 
-<p align="center"><b>Tabela 01</b> - Regras tos tipos LAL.</p>
+<p align="center"><b>Tabela 01</b> - Regras dos tipos LAL.</p>
 
 
 | Tipo | Noção </br> <<Quem é o sujeito?>> | Impacto </br> <<Quais ações executa>> |
