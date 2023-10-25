@@ -119,7 +119,7 @@ Os representamos em um template da Tabela 2.
 
 <p align="center"><b>Fonte</b>: <a href=https://github.com/yabamiah>Vinicius Mendes </p>
   
-### L09 - Exames Toxicológicos
+### L09 - Consultar exames Toxicológicos
 
 <p align="center"><b>Tabela 11</b> - Léxico 09- Consultar Exames Toxicológicos (L09)</p>
 
