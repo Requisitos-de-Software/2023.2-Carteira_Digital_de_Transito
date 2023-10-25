@@ -69,4 +69,12 @@ nav:
       - First Things First: elicitação/priorização/first_things_first
       - Three Level Scale: elicitação/priorização/three_level_scale
       - $100: elicitação/priorização/100
+    - Modelagem:
+      - Casos de Uso: modelagem\casosDeUso.md
+      - Léxicos: modelagem\léxicos.md
+      - Ágil:
+        - Product Backlog: modelagem\agil\backlog.md
+        - NFR Framework: modelagem\agil\framework.md
+        - Histórias de Usuário: modelagem\agil\historiasUsuario.md
+
  
