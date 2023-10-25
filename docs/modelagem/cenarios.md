@@ -3,11 +3,11 @@
 ## Introdução
 Os cenários são reconhecidos como uma abordagem para a compreensão da interação entre o ambiente e o sistema, além de servirem como uma maneira de identificar e detalhar o funcionamento do 
 software, descrevendo as situações ocorridas no ambiente, em consonância com as principais ações executadas fora do sistema. Além disso, os cenários auxiliam a esclarecer a conexão entre 
-requisitos funcionais e não funcionais ^1^.
+requisitos funcionais e não funcionais <a href="#REF1">^1^</a>.
 
 ## Metodologia 
 A abordagem escolhida para descrever os cenários neste projeto consiste na utilização de texto estruturado. Essa abordagem valida-se da utilização de linguagem natural semi-estruturada
-para melhor entendimento de cada cenário e validação dos requisitos por parte do cliente ^2^. O formato desse modelo pode ser vizualizado na Tabela 1.
+para melhor entendimento de cada cenário e validação dos requisitos por parte do cliente <a href="#REF2">^2^</a>. O formato desse modelo pode ser visualizado na Tabela 1.
 
 Os cenários identificados foram determinados a partir de um compilado dos requisitos elicitados pelo métodos 100, First Things First e Three Level Scale, documentados na seção de priorização.
 A escolha dos cenários foram feitas com base nas principais funcionalidades priorizadas, que podem ser observadas pelos Cenários de 1 a 7 descritos abaixo e identificados pela sigla Cx, onde 
@@ -28,7 +28,7 @@ C significa cenário e X o número do cenário.
 | Exceção    | Especifica situações excepcionais que possam impedir a realizão do cenário.                                      |
 
 
-<p align="center"> Autor: Mayara Alves</p>
+<p align="center"> Fonte: Mayara Alves</p>
 </center>
 
 ## Cenários identificados
@@ -50,7 +50,7 @@ A tabela 2 descreve o cenário que tem como objetivo obter a versão digital da 
 | Restrições |  Usuário não conseguir fazer login no .gov |
 | Exceção    | - Aplicativo travou <br> - Celular sem bateria <br> - Celular não estar funcionando <br> - .gov está fora do ar       
 
-<p align="center"> Autor: Mayara Alves</p>
+<p align="center">Fonte: Mayara Alves</p>
 </center>
 
 ### C02 - Obter versão digital do CRLV 
@@ -70,7 +70,7 @@ A tabela 3 descreve o cenário que tem como objetivo obter a versão digital do 
 | Restrições |  Usuário não conseguir fazer login no .gov |
 | Exceção    | - Aplicativo travou <br> - Celular sem bateria <br> - Celular não estar funcionando <br> - .gov está fora do ar       
 
-<p align="center"> Autor: Mayara Alves</p>
+<p align="center"> Fonte: Mayara Alves</p>
 </center>
 
 ### C03 - Consultar inflações do veículo 
@@ -90,7 +90,7 @@ A tabela 4 descreve o cenário que tem como objetivo consulta as inflações de 
 | Restrições |  Usuário não conseguir fazer login no .gov |
 | Exceção    | - Aplicativo travou <br> - Celular sem bateria <br> - Celular não estar funcionando <br> - .gov está fora do ar       
 
-<p align="center"> Autor: Mayara Alves</p>
+<p align="center"> Fonte: Mayara Alves</p>
 </center>
 
 ###  C04 - Acessar suporte do sistema (Assistente Virtual)
@@ -111,7 +111,7 @@ A tabela 5 descreve o cenário que tem como objetivo acessar o suporte do veícu
 | Restrições |  Usuário não conseguir fazer login no .gov |
 | Exceção    | - Aplicativo travou <br> - Celular sem bateria <br> - Celular não estar funcionando <br> - .gov está fora do ar       
 
-<p align="center"> Autor: Mayara Alves</p>
+<p align="center"> Fonte: Mayara Alves</p>
 </center>
 
 ### C05 - Acessar tutorial do aplicativo 
@@ -132,7 +132,7 @@ A tabela 6 descreve o cenário que tem como objetivo acessar o tutorial do aplic
 | Restrições |  Usuário não conseguir fazer login no .gov |
 | Exceção    | - Aplicativo travou <br> - Celular sem bateria <br> - Celular não estar funcionando <br> - .gov está fora do ar       
 
-<p align="center"> Autor: Mayara Alves</p>
+<p align="center"> Fonte: Mayara Alves</p>
 </center>
 
 ### C06 - Realizar Transferência do Veículo
@@ -153,7 +153,7 @@ A tabela 7 descreve o cenário que tem como objetivo realizar transferência do 
 | Restrições | - Usuário não conseguir fazer login no .gov <br> - Usuário não está em uma UF que permite tal funcionalidade |
 | Exceção    | - Aplicativo travou <br> - Celular sem bateria <br> - Celular não estar funcionando <br> - .gov está fora do ar       
 
-<p align="center"> Autor: Mayara Alves</p>
+<p align="center"> Fonte: Mayara Alves</p>
 </center>
 
 ### C07 - Consultar histórico de inflações por inflator 
@@ -174,13 +174,13 @@ A tabela 8 descreve o cenário que tem como objetivo consultar histórico de inf
 | Restrições |  Usuário não conseguir fazer login no .gov <br> |
 | Exceção    | - Aplicativo travou <br> - Celular sem bateria <br> - Celular não estar funcionando <br> - .gov está fora do ar       
 
-<p align="center"> Autor: Mayara Alves</p>
+<p align="center"> Fonte: Mayara Alves</p>
 </center>
 
 ## Referências Bibliográfica
-> 1.  ENHANCING A REQUIREMENTS BASELINE WITH SCENARIOS, Leite, Julio & Rossi, Gustavo & Balaguer, Federico & Maiorana, Vanesa & Kaplan, Gladys & Hadad, Graciela & Oliveros, Alejandro. (1997).. Requirements Engineering. 2. 184-198.
+> 1. <a id="REF1"></a> ENHANCING A REQUIREMENTS BASELINE WITH SCENARIOS, Leite, Julio & Rossi, Gustavo & Balaguer, Federico & Maiorana, Vanesa & Kaplan, Gladys & Hadad, Graciela & Oliveros, Alejandro. (1997).. Requirements Engineering. 2. 184-198.
 >
-> 2. CENÁRIOS: Rastreamento de Cenários. [S. l.]. Disponível em: <http://www-di.inf.puc-rio.br/~julio/bnncap3.pdf>.
+> 2. <a id="REF2"></a> CENÁRIOS: Rastreamento de Cenários. [S. l.]. Disponível em: <http://www-di.inf.puc-rio.br/~julio/bnncap3.pdf>.
 
 ## Bibliografia
 > BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador. Editora Elsevier, Rio de Janeiro, 2010.
@@ -192,4 +192,4 @@ A tabela 8 descreve o cenário que tem como objetivo consultar histórico de inf
 
 Versão  |   Data   | Descrição | Autor(es) | Revisor(es)
 --------- | ------ | ------ | ---------- | ----------
-`1.0` | 25/10/2023| Criação dos cenários  | [Mayara Alves](https://github.com/Mayara-tech)  |  |
+`1.0` | 25/10/2023| Criação dos cenários  | [Mayara Alves](https://github.com/Mayara-tech) |[Breno Queiroz](https://github.com/brenob6)  |
