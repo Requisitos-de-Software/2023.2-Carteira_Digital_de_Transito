@@ -114,6 +114,16 @@ A seguir, serão apresentados as todas as descrições de léxicos identificados
 
 <p align="center"><b>Fonte</b>: <a href=https://github.com/LuisMiranda10>Luis Miranda </p>
 
+### L09 - Restrições e Indicadores
+
+<p align="center"><b>Tabela 09</b> - Léxico 09 - Restrições e Indicadores (L09)</p>
+
+| **Símbolo** | **Tipo** | **Noção** | **Impacto** | **Dicionário** |
+|---------|------|--------|----------|------------|
+| Restrições e Indicadores |Objeto | - Responsável por mostrar as |  |  |
+
+<p align="center"><b>Fonte</b>: <a href=https://github.com/LuisMiranda10>Luis Miranda </p>
+
 ## Bibliografia
 > SERRANO, Milene. Requisitos – Aula 10. 2017. Apresentação de slides. Disponível em: [https://aprender3.unb.br/pluginfile.php/2523091/mod_resource/content/1/Aula%2010.pdf](https://aprender3.unb.br/pluginfile.php/2523091/mod_resource/content/1/Aula%2010.pdf). 
 
