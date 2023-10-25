@@ -82,6 +82,8 @@ A seguir, serão apresentados as todas as descrições de léxicos identificados
 |---------|------|--------|----------|------------|
 | Consultar Exames Toxicológicos | Verbo | - Tarefa realizada pelo condutor </br> - Acontece quando o condutor quer visualizar algum exame toxicológico feito pelo mesmo </br> - O sistema divide as informações sobre os exames toxicológicos em categorias de Data de Coleta, Prazo para nova realização de exame e Laboratórios credenciados| - O condutor consegue verificar inforações sobre os exames | Inspecionar Data de Coleta e Prazos para novo exame |
 
+<p align="center"><b>Fonte</b>: <a href=https://github.com/LuisMiranda10>Luis Miranda </p>
+
 ### L06 - Cadastro positivo está inativo
 
 <p align="center"><b>Tabela 07</b> - Léxico 06 - Cadatro positivo está inativo (L06)</p>
