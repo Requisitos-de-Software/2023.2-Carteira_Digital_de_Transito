@@ -116,13 +116,24 @@ A seguir, serão apresentados as todas as descrições de léxicos identificados
 
 ### L09 - Restrições e Indicadores
 
-<p align="center"><b>Tabela 09</b> - Léxico 09 - Restrições e Indicadores (L09)</p>
+<p align="center"><b>Tabela 10</b> - Léxico 09 - Restrições e Indicadores (L09)</p>
 
 | **Símbolo** | **Tipo** | **Noção** | **Impacto** | **Dicionário** |
 |---------|------|--------|----------|------------|
-| Restrições e Indicadores |Objeto | - Responsável por mostrar algumas informações do seu próprio veículo | - O propietário do veiculo pode consultar os indicadores e restrições de seu veiculo  | Informar restrições e indicadores |
+| Restrições e Indicadores |Objeto | - Responsável por mostrar algumas informações do seu próprio veículo | - O propietário do veiculo pode consultar os indicadores e restrições de seu veiculo  | Informar restrições e |
 
 <p align="center"><b>Fonte</b>: <a href=https://github.com/LuisMiranda10>Luis Miranda </p>
+
+### L10 - Transferência
+
+<p align="center"><b>Tabela 11</b> - Léxico 10 - Transferência (L10)</p>
+
+| **Símbolo** | **Tipo** | **Noção** | **Impacto** | **Dicionário** |
+|---------|------|--------|----------|------------|
+| Transferência | Verbo | - Tarefa realizada pelo condutor </br> - Ocorre quando o condutor quer transferir a propriedade de um veículo para outra pessoa | - O veículo se torna propriedade de outra pessoa  | Realiza troca de proprietário |
+
+<p align="center"><b>Fonte</b>: <a href=https://github.com/LuisMiranda10>Luis Miranda </p>
+
 
 ## Bibliografia
 > SERRANO, Milene. Requisitos – Aula 10. 2017. Apresentação de slides. Disponível em: [https://aprender3.unb.br/pluginfile.php/2523091/mod_resource/content/1/Aula%2010.pdf](https://aprender3.unb.br/pluginfile.php/2523091/mod_resource/content/1/Aula%2010.pdf). 
