@@ -32,21 +32,41 @@ Para utilizar esta técnica, utilizamos o aplicativo e em conjunto com o [gloss�
 
 ## Tabelas de Léxicos
 
-A seguir, serão apresentados as todas as descrições de léxicos identificados na aplicação, onde os representamos em um template da Tabela 2.
+A seguir, serão apresentados todas as descrições de léxicos identificados na aplicação,  seguindo a seguinte ordem: Léxico de Estado, Léxico de Objeto, Léxico de Verbo. Os representamos em um template da Tabela 2.
 
-### L01 - Condutor
+### L01 - Cadastro positivo está inativo
 
-<p align="center"><b>Tabela 03</b> - Léxico 01 - Condutor (L01)</p>
+<p align="center"><b>Tabela 03</b> - Léxico 01 - Cadatro positivo está inativo (L01)</p>
+
+| **Símbolo** | **Tipo** | **Noção** | **Impacto** | **Dicionário** |
+|---------|------|--------|----------|------------|
+| Cadastro positivo está inativo | Estado | - O condutor autorizou participar voluntariamente no cadastro positivo </br> - Ocorre quando o condutor quebrou alguma regra do código de trânsito brasileiro  | - O condutor fica sem receber benefícios do Cadastro Positivo </br> - O cadastro só ficará ativo quando o condutor resolver a causa da situação | Cadastro positivo está desligado, Cadastro positivo está desativado|
+
+<p align="center"><b>Fonte</b>: <a href=https://github.com/yabamiah>Vinicius Mendes </p>
+
+### L02 - Condutor
+
+<p align="center"><b>Tabela 04</b> - Léxico 02 - Condutor (L02)</p>
 
 | **Símbolo** | **Tipo** | **Noção** | **Impacto** | **Dicionário** |
 |---------|------|--------|----------|------------|
 | Condutor | Objeto | - Pessoa que conduz um automóvel </br> - Responsável pelo veículo </br> - Responsável pelas infrações </br> - Condutor pode ser alguém que queira visualizar sua CNH digital </br> - O condutor pode ser alguém que queira visualizar a CRLV digital | - O condutor pode baixar sua CNH digital </br> - O condutor pode visualizar seu histórico de emissões da CNH  </br> - O condutor pode adicionar os seus veículos </br> - O condutor pode consultar as suas infrações| Motorista, volante, guia, piloto |
 
 <p align="center"><b>Fonte</b>: <a href=https://github.com/yabamiah>Vinicius Mendes </p>
-  
-### L02 - Cadastrar CNH
 
-<p align="center"><b>Tabela 04</b> - Léxico 02 - Cadastrar CNH (L02)</p>
+ ### L03 - Sistema de Notificação Eletrônica
+
+<p align="center"><b>Tabela 05</b> - Léxico 03 -Sistema de Notificação Eletrônica (L03)</p>
+
+| **Símbolo** | **Tipo** | **Noção** | **Impacto** | **Dicionário** |
+|---------|------|--------|----------|------------|
+| Sistema de Notificação Eletrônica | Objeto | - Sistema de responsável por notificar infrações de trânsito aos proprietários de veículos | - Sistema que dá o direito a descontos no pagamento de multas de trânsitos | Sistema de Intimação Eletrônica |
+
+<p align="center"><b>Fonte</b>: <a href=https://github.com/yabamiah>Vinicius Mendes </p>
+
+### L04 - Cadastrar CNH
+
+<p align="center"><b>Tabela 06</b> - Léxico 04 - Cadastrar CNH (L04)</p>
 
 | **Símbolo** | **Tipo** | **Noção** | **Impacto** | **Dicionário** |
 |---------|------|--------|----------|------------|
@@ -54,9 +74,9 @@ A seguir, serão apresentados as todas as descrições de léxicos identificados
 
 <p align="center"><b>Fonte</b>: <a href=https://github.com/yabamiah>Vinicius Mendes </p>
 
-### L03 - Consultar infrações
+### L05 - Consultar infrações
 
-<p align="center"><b>Tabela 05</b> - Léxico 03 - Consultar infrações (L03)</p>
+<p align="center"><b>Tabela 07</b> - Léxico 05- - Consultar infrações (L05)</p>
 
 | **Símbolo** | **Tipo** | **Noção** | **Impacto** | **Dicionário** |
 |---------|------|--------|----------|------------|
@@ -64,39 +84,19 @@ A seguir, serão apresentados as todas as descrições de léxicos identificados
 
 <p align="center"><b>Fonte</b>: <a href=https://github.com/yabamiah>Vinicius Mendes </p>
   
-### L04 - Sistema de Notificação Eletrônica
+### L06 - Consultar Exames Toxicológicos
 
-<p align="center"><b>Tabela 05</b> - Léxico 04 -Sistema de Notificação Eletrônica (L04)</p>
-
-| **Símbolo** | **Tipo** | **Noção** | **Impacto** | **Dicionário** |
-|---------|------|--------|----------|------------|
-| Sistema de Notificação Eletrônica | Objeto | - Sistema de responsável por notificar infrações de trânsito aos proprietários de veículos | - Sistema que dá o direito a descontos no pagamento de multas de trânsitos | Sistema de Intimação Eletrônica |
-
-<p align="center"><b>Fonte</b>: <a href=https://github.com/yabamiah>Vinicius Mendes </p>
-  
-### L05 - Consultar Exames Toxicológicos
-
-<p align="center"><b>Tabela 06</b> - Léxico 05 - Consultar Exames Toxicológicos (L05)</p>
+<p align="center"><b>Tabela 08</b> - Léxico 06 - Consultar Exames Toxicológicos (L06)</p>
 
 | **Símbolo** | **Tipo** | **Noção** | **Impacto** | **Dicionário** |
 |---------|------|--------|----------|------------|
 | Consultar Exames Toxicológicos | Verbo | - Tarefa realizada pelo condutor </br> - Acontece quando o condutor quer visualizar algum exame toxicológico feito pelo mesmo </br> - O sistema divide as informações sobre os exames toxicológicos em categorias de Data de Coleta, Prazo para nova realização de exame e Laboratórios credenciados| - O condutor consegue verificar infrações sobre os exames | Inspecionar Data de Coleta e Prazos para novo exame |
 
 <p align="center"><b>Fonte</b>: <a href=https://github.com/LuisMiranda10>Luis Miranda </p>
-
-### L06 - Cadastro positivo está inativo
-
-<p align="center"><b>Tabela 07</b> - Léxico 06 - Cadatro positivo está inativo (L06)</p>
-
-| **Símbolo** | **Tipo** | **Noção** | **Impacto** | **Dicionário** |
-|---------|------|--------|----------|------------|
-| Cadastro positivo está inativo | Estado | - O condutor autorizou participar voluntariamente no cadastro positivo </br> - Ocorre quando o condutor quebrou alguma regra do código de trânsito brasileiro  | - O condutor fica sem receber benefícios do Cadastro Positivo </br> - O cadastro só ficará ativo quando o condutor resolver a causa da situação | Cadastro positivo está desligado, Cadastro positivo está desativado|
-
-<p align="center"><b>Fonte</b>: <a href=https://github.com/yabamiah>Vinicius Mendes </p>
   
 ### L07 - Visualizar recall
 
-<p align="center"><b>Tabela 08</b> - Léxico 07 - Visualizar recall (L07)</p>
+<p align="center"><b>Tabela 09</b> - Léxico 07 - Visualizar recall (L07)</p>
 
 | **Símbolo** | **Tipo** | **Noção** | **Impacto** | **Dicionário** |
 |---------|------|--------|----------|------------|
@@ -106,7 +106,7 @@ A seguir, serão apresentados as todas as descrições de léxicos identificados
 
 ### L08 - Visualizar CRLV
 
-<p align="center"><b>Tabela 09</b> - Léxico 08 - Visualizar CRLV (L08)</p>
+<p align="center"><b>Tabela 10</b> - Léxico 08 - Visualizar CRLV (L08)</p>
 
 | **Símbolo** | **Tipo** | **Noção** | **Impacto** | **Dicionário** |
 |---------|------|--------|----------|------------|
@@ -116,7 +116,7 @@ A seguir, serão apresentados as todas as descrições de léxicos identificados
 
 ### L09 - Restrições e Indicadores
 
-<p align="center"><b>Tabela 10</b> - Léxico 09 - Restrições e Indicadores (L09)</p>
+<p align="center"><b>Tabela 11</b> - Léxico 09 - Restrições e Indicadores (L09)</p>
 
 | **Símbolo** | **Tipo** | **Noção** | **Impacto** | **Dicionário** |
 |---------|------|--------|----------|------------|
@@ -126,7 +126,7 @@ A seguir, serão apresentados as todas as descrições de léxicos identificados
 
 ### L10 - Transferência
 
-<p align="center"><b>Tabela 11</b> - Léxico 10 - Transferência (L10)</p>
+<p align="center"><b>Tabela 12</b> - Léxico 10 - Transferência (L10)</p>
 
 | **Símbolo** | **Tipo** | **Noção** | **Impacto** | **Dicionário** |
 |---------|------|--------|----------|------------|
