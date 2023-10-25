@@ -69,59 +69,9 @@ Os representamos em um template da Tabela 2.
 
 <p align="center"><b>Fonte</b>: <a href=https://github.com/yabamiah>Vinicius Mendes </p>
 
-### L04 - Cadastrar CNH
+### L04 - Restrições e Indicadores
 
-<p align="center"><b>Tabela 06</b> - Léxico 04 - Cadastrar CNH (L04)</p>
-
-| **Símbolo** | **Tipo** | **Noção** | **Impacto** | **Dicionário** |
-|---------|------|--------|----------|------------|
-| Cadastrar CNH | Verbo | - Tarefa realizada pelo conduor </br> - Acontece quando o condutor precisa visualizar sua CNH pela primeira vez </br> - Condutor valida o cadastro com uma foto de sua CNH  | - O condutor consegue visualizar a sua CNH  | Registrar CNH, Inscrever CNH, Fichar CNH |
-
-<p align="center"><b>Fonte</b>: <a href=https://github.com/yabamiah>Vinicius Mendes </p>
-
-### L05 - Consultar infrações
-
-<p align="center"><b>Tabela 07</b> - Léxico 05- - Consultar infrações (L05)</p>
-
-| **Símbolo** | **Tipo** | **Noção** | **Impacto** | **Dicionário** |
-|---------|------|--------|----------|------------|
-| Consultar infrações | Verbo | - Tarefa realizada pelo condutor </br> - Acontece quando o condutor quer visualizar alguma infração </br> - Condutor pode escolher consultar infrações por condutor ou por veículo </br> - O sistema divide as infrações em categorias de vencidas, a vencer e pagas | - O condutor consegue verificar infrações vencidas e as não pagas </br> - O condutor pode visualizar uma infração </br> - O sistema pode gerar o boleto da infração </br> - O sistema pode gerar PDF da infração|  Examinar infrações, Estudar infrações, Ler infrações|
-
-<p align="center"><b>Fonte</b>: <a href=https://github.com/yabamiah>Vinicius Mendes </p>
-  
-### L06 - Consultar Exames Toxicológicos
-
-<p align="center"><b>Tabela 08</b> - Léxico 06 - Consultar Exames Toxicológicos (L06)</p>
-
-| **Símbolo** | **Tipo** | **Noção** | **Impacto** | **Dicionário** |
-|---------|------|--------|----------|------------|
-| Consultar Exames Toxicológicos | Verbo | - Tarefa realizada pelo condutor </br> - Acontece quando o condutor quer visualizar algum exame toxicológico feito pelo mesmo </br> - O sistema divide as informações sobre os exames toxicológicos em categorias de Data de Coleta, Prazo para nova realização de exame e Laboratórios credenciados| - O condutor consegue verificar infrações sobre os exames | Inspecionar Data de Coleta e Prazos para novo exame |
-
-<p align="center"><b>Fonte</b>: <a href=https://github.com/LuisMiranda10>Luis Miranda </p>
-  
-### L07 - Visualizar recall
-
-<p align="center"><b>Tabela 09</b> - Léxico 07 - Visualizar recall (L07)</p>
-
-| **Símbolo** | **Tipo** | **Noção** | **Impacto** | **Dicionário** |
-|---------|------|--------|----------|------------|
-| Visualizar recall | Verbo | - Tarefa realizada pelo condutor </br> - Ocorre quando o condutor quer consultar se foi feita uma notificação de regularização do seu veículo | - O condutor consegue visualizar se o seu veículo recebeu algum recall </br>  | Verificar recall, Constatar recall, Captar recall |
-
-<p align="center"><b>Fonte</b>: <a href=https://github.com/yabamiah>Vinicius Mendes </p>
-
-### L08 - Visualizar CRLV
-
-<p align="center"><b>Tabela 10</b> - Léxico 08 - Visualizar CRLV (L08)</p>
-
-| **Símbolo** | **Tipo** | **Noção** | **Impacto** | **Dicionário** |
-|---------|------|--------|----------|------------|
-| Visualizar Licenciamento | Verbo | - Tarefa realizada pelo condutor </br> - Ocorre quando o condutor quer consultar o CRLV do seu veículo | - O condutor consegue visualizar as informações do licenciamento do seu carro </br> - O condutor consegue compartilhar seu licenciamento com outras pessoas </br> - O condutor consegue exportar seu licenciamento para algum tipo de arquivo selecionado </br> | Analisar informações sobre o veículo |
-
-<p align="center"><b>Fonte</b>: <a href=https://github.com/LuisMiranda10>Luis Miranda </p>
-
-### L09 - Restrições e Indicadores
-
-<p align="center"><b>Tabela 11</b> - Léxico 09 - Restrições e Indicadores (L09)</p>
+<p align="center"><b>Tabela 06</b> - Léxico 04 - Restrições e Indicadores (L04)</p>
 
 | **Símbolo** | **Tipo** | **Noção** | **Impacto** | **Dicionário** |
 |---------|------|--------|----------|------------|
@@ -129,9 +79,59 @@ Os representamos em um template da Tabela 2.
 
 <p align="center"><b>Fonte</b>: <a href=https://github.com/LuisMiranda10>Luis Miranda </p>
 
-### L10 - Transferência
+### L05 - Cadastrar CNH
 
-<p align="center"><b>Tabela 12</b> - Léxico 10 - Transferência (L10)</p>
+<p align="center"><b>Tabela 07</b> - Léxico 05 - Cadastrar CNH (L05)</p>
+
+| **Símbolo** | **Tipo** | **Noção** | **Impacto** | **Dicionário** |
+|---------|------|--------|----------|------------|
+| Cadastrar CNH | Verbo | - Tarefa realizada pelo conduor </br> - Acontece quando o condutor precisa visualizar sua CNH pela primeira vez </br> - Condutor valida o cadastro com uma foto de sua CNH  | - O condutor consegue visualizar a sua CNH  | Registrar CNH, Inscrever CNH, Fichar CNH |
+
+<p align="center"><b>Fonte</b>: <a href=https://github.com/yabamiah>Vinicius Mendes </p>
+
+### L06 - Consultar infrações
+
+<p align="center"><b>Tabela 08</b> - Léxico 06- - Consultar infrações (L06)</p>
+
+| **Símbolo** | **Tipo** | **Noção** | **Impacto** | **Dicionário** |
+|---------|------|--------|----------|------------|
+| Consultar infrações | Verbo | - Tarefa realizada pelo condutor </br> - Acontece quando o condutor quer visualizar alguma infração </br> - Condutor pode escolher consultar infrações por condutor ou por veículo </br> - O sistema divide as infrações em categorias de vencidas, a vencer e pagas | - O condutor consegue verificar infrações vencidas e as não pagas </br> - O condutor pode visualizar uma infração </br> - O sistema pode gerar o boleto da infração </br> - O sistema pode gerar PDF da infração|  Examinar infrações, Estudar infrações, Ler infrações|
+
+<p align="center"><b>Fonte</b>: <a href=https://github.com/yabamiah>Vinicius Mendes </p>
+  
+### L07 - Consultar Exames Toxicológicos
+
+<p align="center"><b>Tabela 09</b> - Léxico 07 - Consultar Exames Toxicológicos (L07)</p>
+
+| **Símbolo** | **Tipo** | **Noção** | **Impacto** | **Dicionário** |
+|---------|------|--------|----------|------------|
+| Consultar Exames Toxicológicos | Verbo | - Tarefa realizada pelo condutor </br> - Acontece quando o condutor quer visualizar algum exame toxicológico feito pelo mesmo </br> - O sistema divide as informações sobre os exames toxicológicos em categorias de Data de Coleta, Prazo para nova realização de exame e Laboratórios credenciados| - O condutor consegue verificar infrações sobre os exames | Inspecionar Data de Coleta e Prazos para novo exame |
+
+<p align="center"><b>Fonte</b>: <a href=https://github.com/LuisMiranda10>Luis Miranda </p>
+  
+### L08 - Visualizar recall
+
+<p align="center"><b>Tabela 10</b> - Léxico 08 - Visualizar recall (L08)</p>
+
+| **Símbolo** | **Tipo** | **Noção** | **Impacto** | **Dicionário** |
+|---------|------|--------|----------|------------|
+| Visualizar recall | Verbo | - Tarefa realizada pelo condutor </br> - Ocorre quando o condutor quer consultar se foi feita uma notificação de regularização do seu veículo | - O condutor consegue visualizar se o seu veículo recebeu algum recall </br>  | Verificar recall, Constatar recall, Captar recall |
+
+<p align="center"><b>Fonte</b>: <a href=https://github.com/yabamiah>Vinicius Mendes </p>
+
+### 9 - Visualizar CRLV
+
+<p align="center"><b>Tabela 11</b> - Léxico 09 - Visualizar CRLV (L09)</p>
+
+| **Símbolo** | **Tipo** | **Noção** | **Impacto** | **Dicionário** |
+|---------|------|--------|----------|------------|
+| Visualizar Licenciamento | Verbo | - Tarefa realizada pelo condutor </br> - Ocorre quando o condutor quer consultar o CRLV do seu veículo | - O condutor consegue visualizar as informações do licenciamento do seu carro </br> - O condutor consegue compartilhar seu licenciamento com outras pessoas </br> - O condutor consegue exportar seu licenciamento para algum tipo de arquivo selecionado </br> | Analisar informações sobre o veículo |
+
+<p align="center"><b>Fonte</b>: <a href=https://github.com/LuisMiranda10>Luis Miranda </p>
+
+### L11 - Transferência
+
+<p align="center"><b>Tabela 13</b> - Léxico 11 - Transferência (L11)</p>
 
 | **Símbolo** | **Tipo** | **Noção** | **Impacto** | **Dicionário** |
 |---------|------|--------|----------|------------|
