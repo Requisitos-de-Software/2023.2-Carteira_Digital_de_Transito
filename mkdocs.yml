@@ -42,6 +42,7 @@ nav:
     - Ata 02: atas/ata2.md
     - Ata 03: atas/ata 3.md
     - Ata 04: atas/ata4.md
+    - Ata 05: atas/ata5.md
   - Apresentações:
     - Apresentação 01: apresentação/apresentação 1
     - Apresentação 02: apresentação/apresentacao 2
@@ -69,8 +70,13 @@ nav:
       - First Things First: elicitação/priorização/first_things_first
       - Three Level Scale: elicitação/priorização/three_level_scale
       - $100: elicitação/priorização/100
-  - Modelagem:
-    - Cenários: modelagem/cenarios.md  
-    - Casos de uso: modelagem/casosDeUso.md
-    - Léxicos: modelagem/léxicos.md
+    - Modelagem:
+      - Cenários: modelagem/cenarios.md  
+      - Casos de Uso: modelagem/casosDeUso.md
+      - Léxicos: modelagem/léxicos.md
+      - Ágil:
+        - Product Backlog: modelagem/agil/backlog.md
+        - NFR Framework: modelagem/agil/framework.md
+        - Histórias de Usuário: modelagem/agil/historiasUsuario.md
+
  
