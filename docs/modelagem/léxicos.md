@@ -85,7 +85,7 @@ Os representamos em um template da Tabela 2.
 
 | **Símbolo** | **Tipo** | **Noção** | **Impacto** | **Dicionário** |
 |---------|------|--------|----------|------------|
-| Restrições e Indicadores |Objeto | - Responsável por mostrar algumas informações do seu próprio veículo | - O propietário do veiculo pode consultar os indicadores e restrições de seu veiculo  | Informar restrições e |
+| Restrições e Indicadores |Objeto | - Responsável por mostrar se existe multa, restrição judicial, ocorrência de roubo, novo padrão na placa, comunicações de venda ativa e restrições do seu próprio veículo | - O propietário do veiculo pode consultar os indicadores e restrições de seu veiculo  | Informar restrições e |
 
 <p align="center"><b>Fonte</b>: <a href=https://github.com/LuisMiranda10>Luis Miranda </p>
 
