@@ -112,7 +112,7 @@ A seguir, serão apresentados as todas as descrições de léxicos identificados
 |---------|------|--------|----------|------------|
 | Visualizar Licenciamento | Verbo | - Tarefa realizada pelo condutor </br> - Ocorre quando o condutor quer consultar o CRLV do seu veículo | - O condutor consegue visualizar as informações do licenciamento do seu carro </br> - O condutor consegue compartilhar seu licenciamento com outras pessoas </br> - O condutor consegue exportar seu licenciamento para algum tipo de arquivo selecionado </br> | Analisar informações sobre o veículo |
 
-<p align="center"><b>Fonte</b>: <a href=https://github.com/yabamiah>Vinicius Mendes </p>
+<p align="center"><b>Fonte</b>: <a href=https://github.com/LuisMiranda10>Luis Miranda </p>
 
 ## Bibliografia
 > SERRANO, Milene. Requisitos – Aula 10. 2017. Apresentação de slides. Disponível em: [https://aprender3.unb.br/pluginfile.php/2523091/mod_resource/content/1/Aula%2010.pdf](https://aprender3.unb.br/pluginfile.php/2523091/mod_resource/content/1/Aula%2010.pdf). 
