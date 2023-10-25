@@ -79,9 +79,19 @@ Os representamos em um template da Tabela 2.
 
 <p align="center"><b>Fonte</b>: <a href=https://github.com/LuisMiranda10>Luis Miranda </p>
 
-### L05 - Cadastrar CNH
+### L05 - Tutorial
 
-<p align="center"><b>Tabela 07</b> - Léxico 05 - Cadastrar CNH (L05)</p>
+<p align="center"><b>Tabela 07</b> - Léxico 05 - Tutorial (L05)</p>
+
+| **Símbolo** | **Tipo** | **Noção** | **Impacto** | **Dicionário** |
+|---------|------|--------|----------|------------|
+| Tutorial | Objeto | - Documentação para orientar o condutor ao utilizar o app | - Aumenta a eficiência de aprendizado do condutor  | Auxílio, Orientação, Documentação |
+
+<p align="center"><b>Fonte</b>: <a href=https://github.com/LuisMiranda10>Luis Miranda </p>
+
+### L06 - Cadastrar CNH
+
+<p align="center"><b>Tabela 08</b> - Léxico 06 - Cadastrar CNH (L06)</p>
 
 | **Símbolo** | **Tipo** | **Noção** | **Impacto** | **Dicionário** |
 |---------|------|--------|----------|------------|
@@ -89,9 +99,9 @@ Os representamos em um template da Tabela 2.
 
 <p align="center"><b>Fonte</b>: <a href=https://github.com/yabamiah>Vinicius Mendes </p>
 
-### L06 - Consultar infrações
+### L07 - Consultar infrações
 
-<p align="center"><b>Tabela 08</b> - Léxico 06- - Consultar infrações (L06)</p>
+<p align="center"><b>Tabela 09</b> - Léxico 07- - Consultar infrações (L07)</p>
 
 | **Símbolo** | **Tipo** | **Noção** | **Impacto** | **Dicionário** |
 |---------|------|--------|----------|------------|
@@ -99,9 +109,9 @@ Os representamos em um template da Tabela 2.
 
 <p align="center"><b>Fonte</b>: <a href=https://github.com/yabamiah>Vinicius Mendes </p>
   
-### L07 - Exames Toxicológicos
+### L08 - Exames Toxicológicos
 
-<p align="center"><b>Tabela 09</b> - Léxico 07 - Consultar Exames Toxicológicos (L07)</p>
+<p align="center"><b>Tabela 10</b> - Léxico 08- Consultar Exames Toxicológicos (L08)</p>
 
 | **Símbolo** | **Tipo** | **Noção** | **Impacto** | **Dicionário** |
 |---------|------|--------|----------|------------|
@@ -109,9 +119,9 @@ Os representamos em um template da Tabela 2.
 
 <p align="center"><b>Fonte</b>: <a href=https://github.com/LuisMiranda10>Luis Miranda </p>
   
-### L08 - Visualizar recall
+### L09 - Visualizar recall
 
-<p align="center"><b>Tabela 10</b> - Léxico 08 - Visualizar recall (L08)</p>
+<p align="center"><b>Tabela 11</b> - Léxico 09 - Visualizar recall (L09)</p>
 
 | **Símbolo** | **Tipo** | **Noção** | **Impacto** | **Dicionário** |
 |---------|------|--------|----------|------------|
@@ -119,9 +129,9 @@ Os representamos em um template da Tabela 2.
 
 <p align="center"><b>Fonte</b>: <a href=https://github.com/yabamiah>Vinicius Mendes </p>
 
-### L09 - Visualizar CRLV
+### L10 - Visualizar CRLV
 
-<p align="center"><b>Tabela 11</b> - Léxico 09 - Visualizar CRLV (L09)</p>
+<p align="center"><b>Tabela 12</b> - Léxico 10 - Visualizar CRLV (L10)</p>
 
 | **Símbolo** | **Tipo** | **Noção** | **Impacto** | **Dicionário** |
 |---------|------|--------|----------|------------|
@@ -129,9 +139,9 @@ Os representamos em um template da Tabela 2.
 
 <p align="center"><b>Fonte</b>: <a href=https://github.com/LuisMiranda10>Luis Miranda </p>
 
-### L10 - Transferência
+### L11 - Transferência
 
-<p align="center"><b>Tabela 12</b> - Léxico 10 - Transferência (L10)</p>
+<p align="center"><b>Tabela 13</b> - Léxico 11 - Transferência (L11)</p>
 
 | **Símbolo** | **Tipo** | **Noção** | **Impacto** | **Dicionário** |
 |---------|------|--------|----------|------------|
