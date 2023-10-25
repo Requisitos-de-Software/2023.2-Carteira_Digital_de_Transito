@@ -36,7 +36,7 @@ A seguir, serão apresentados todas as descrições de léxicos identificados na
 - Léxico de Estado 
 - Léxico de Objeto
 - Léxico de Verbo 
-Os representamos em um template da Tabela 2.
+</br> Os representamos em um template da Tabela 2.
 
 ### L01 - Cadastro positivo está inativo
 
