@@ -81,11 +81,11 @@ Os representamos em um template da Tabela 2.
 
 ### L05 - Restrições e Indicadores
 
-<p align="center"><b>Tabela 07</b> - Léxico 05 - Restrições e Indicadores (L05)</p>
+<p align="center"><b>Tabela 07</b> - Léxico 05 - Restrições e Indicadores do veículo do condutor(L05)</p>
 
 | **Símbolo** | **Tipo** | **Noção** | **Impacto** | **Dicionário** |
 |---------|------|--------|----------|------------|
-| Restrições e Indicadores |Objeto | - Responsável por mostrar se existe multa, restrição judicial, ocorrência de roubo, novo padrão na placa, comunicações de venda ativa e restrições do seu próprio veículo | - O propietário do veiculo pode consultar os indicadores e restrições de seu veiculo  | Informar restrições e |
+| Restrições e Indicadores |Objeto | - Responsável por mostrar se existe multa, restrição judicial, ocorrência de roubo, novo padrão na placa, comunicações de venda ativa e restrições do seu próprio veículo | - O propietário do veiculo pode consultar os indicadores e restrições de seu veiculo  | Limitações, Indicativos |
 
 <p align="center"><b>Fonte</b>: <a href=https://github.com/LuisMiranda10>Luis Miranda </p>
 
