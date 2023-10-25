@@ -59,9 +59,19 @@ Os representamos em um template da Tabela 2.
 
 <p align="center"><b>Fonte</b>: <a href=https://github.com/yabamiah>Vinicius Mendes </p>
 
- ### L03 - Sistema de Notificação Eletrônica
+### L03 - Infração
 
-<p align="center"><b>Tabela 05</b> - Léxico 03 -Sistema de Notificação Eletrônica (L03)</p>
+<p align="center"><b>Tabela 05</b> - Léxico 03 - Infração (L03)</p>
+
+| **Símbolo** | **Tipo** | **Noção** | **Impacto** | **Dicionário** |
+|---------|------|--------|----------|------------|
+| Infração | Objeto | - Violação de alguma lei de trânsito </br> - A infração é visualizada pelo condutor | - O condutor pode visualizar as infrações cometidas filtrando infrator ou veículo </br> - O condutor pode visualizar a situação da infração </br> - O condutor pode visualizar o motivo da infração </br> - O condutor pode consultar o valor da infração a ser paga| Infração, valor |
+
+<p align="center"><b>Fonte</b>: <a href=https://github.com/LuisMiranda10>Luis Miranda </p>
+
+ ### L04 - Sistema de Notificação Eletrônica
+
+<p align="center"><b>Tabela 06</b> - Léxico 04 -Sistema de Notificação Eletrônica (L04)</p>
 
 | **Símbolo** | **Tipo** | **Noção** | **Impacto** | **Dicionário** |
 |---------|------|--------|----------|------------|
@@ -69,9 +79,9 @@ Os representamos em um template da Tabela 2.
 
 <p align="center"><b>Fonte</b>: <a href=https://github.com/yabamiah>Vinicius Mendes </p>
 
-### L04 - Restrições e Indicadores
+### L05 - Restrições e Indicadores
 
-<p align="center"><b>Tabela 06</b> - Léxico 04 - Restrições e Indicadores (L04)</p>
+<p align="center"><b>Tabela 07</b> - Léxico 05 - Restrições e Indicadores (L05)</p>
 
 | **Símbolo** | **Tipo** | **Noção** | **Impacto** | **Dicionário** |
 |---------|------|--------|----------|------------|
@@ -79,9 +89,9 @@ Os representamos em um template da Tabela 2.
 
 <p align="center"><b>Fonte</b>: <a href=https://github.com/LuisMiranda10>Luis Miranda </p>
 
-### L05 - Tutorial
+### L06 - Tutorial
 
-<p align="center"><b>Tabela 07</b> - Léxico 05 - Tutorial (L05)</p>
+<p align="center"><b>Tabela 08</b> - Léxico 06 - Tutorial (L06)</p>
 
 | **Símbolo** | **Tipo** | **Noção** | **Impacto** | **Dicionário** |
 |---------|------|--------|----------|------------|
@@ -89,9 +99,9 @@ Os representamos em um template da Tabela 2.
 
 <p align="center"><b>Fonte</b>: <a href=https://github.com/LuisMiranda10>Luis Miranda </p>
 
-### L06 - Cadastrar CNH
+### L07 - Cadastrar CNH
 
-<p align="center"><b>Tabela 08</b> - Léxico 06 - Cadastrar CNH (L06)</p>
+<p align="center"><b>Tabela 09</b> - Léxico 07 - Cadastrar CNH (L07)</p>
 
 | **Símbolo** | **Tipo** | **Noção** | **Impacto** | **Dicionário** |
 |---------|------|--------|----------|------------|
@@ -99,9 +109,9 @@ Os representamos em um template da Tabela 2.
 
 <p align="center"><b>Fonte</b>: <a href=https://github.com/yabamiah>Vinicius Mendes </p>
 
-### L07 - Consultar infrações
+### L08 - Consultar infrações
 
-<p align="center"><b>Tabela 09</b> - Léxico 07- - Consultar infrações (L07)</p>
+<p align="center"><b>Tabela 10</b> - Léxico 08- - Consultar infrações (L08)</p>
 
 | **Símbolo** | **Tipo** | **Noção** | **Impacto** | **Dicionário** |
 |---------|------|--------|----------|------------|
@@ -109,9 +119,9 @@ Os representamos em um template da Tabela 2.
 
 <p align="center"><b>Fonte</b>: <a href=https://github.com/yabamiah>Vinicius Mendes </p>
   
-### L08 - Exames Toxicológicos
+### L09 - Exames Toxicológicos
 
-<p align="center"><b>Tabela 10</b> - Léxico 08- Consultar Exames Toxicológicos (L08)</p>
+<p align="center"><b>Tabela 11</b> - Léxico 09- Consultar Exames Toxicológicos (L09)</p>
 
 | **Símbolo** | **Tipo** | **Noção** | **Impacto** | **Dicionário** |
 |---------|------|--------|----------|------------|
@@ -119,9 +129,9 @@ Os representamos em um template da Tabela 2.
 
 <p align="center"><b>Fonte</b>: <a href=https://github.com/LuisMiranda10>Luis Miranda </p>
   
-### L09 - Visualizar recall
+### L010 - Visualizar recall
 
-<p align="center"><b>Tabela 11</b> - Léxico 09 - Visualizar recall (L09)</p>
+<p align="center"><b>Tabela 12</b> - Léxico 10 - Visualizar recall (L10)</p>
 
 | **Símbolo** | **Tipo** | **Noção** | **Impacto** | **Dicionário** |
 |---------|------|--------|----------|------------|
@@ -129,9 +139,9 @@ Os representamos em um template da Tabela 2.
 
 <p align="center"><b>Fonte</b>: <a href=https://github.com/yabamiah>Vinicius Mendes </p>
 
-### L10 - Visualizar CRLV
+### L11 - Visualizar CRLV
 
-<p align="center"><b>Tabela 12</b> - Léxico 10 - Visualizar CRLV (L10)</p>
+<p align="center"><b>Tabela 13</b> - Léxico 11 - Visualizar CRLV (L11)</p>
 
 | **Símbolo** | **Tipo** | **Noção** | **Impacto** | **Dicionário** |
 |---------|------|--------|----------|------------|
@@ -139,9 +149,9 @@ Os representamos em um template da Tabela 2.
 
 <p align="center"><b>Fonte</b>: <a href=https://github.com/LuisMiranda10>Luis Miranda </p>
 
-### L11 - Transferência
+### L12 - Transferência
 
-<p align="center"><b>Tabela 13</b> - Léxico 11 - Transferência (L11)</p>
+<p align="center"><b>Tabela 14</b> - Léxico 12 - Transferência (L12)</p>
 
 | **Símbolo** | **Tipo** | **Noção** | **Impacto** | **Dicionário** |
 |---------|------|--------|----------|------------|
