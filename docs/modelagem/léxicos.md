@@ -99,7 +99,7 @@ Os representamos em um template da Tabela 2.
 
 <p align="center"><b>Fonte</b>: <a href=https://github.com/yabamiah>Vinicius Mendes </p>
   
-### L07 - Consultar Exames Toxicológicos
+### L07 - Exames Toxicológicos
 
 <p align="center"><b>Tabela 09</b> - Léxico 07 - Consultar Exames Toxicológicos (L07)</p>
 
