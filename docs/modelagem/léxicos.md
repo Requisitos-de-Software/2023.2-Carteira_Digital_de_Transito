@@ -47,7 +47,7 @@ Os representamos em um template da Tabela 2.
 |---------|------|--------|----------|------------|
 | Cadastro positivo está inativo | Estado | - O condutor autorizou participar voluntariamente no cadastro positivo </br> - Ocorre quando o condutor quebrou alguma regra do código de trânsito brasileiro  | - O condutor fica sem receber benefícios do Cadastro Positivo </br> - O cadastro só ficará ativo quando o condutor resolver a causa da situação | Cadastro positivo está desligado, Cadastro positivo está desativado|
 
-<p align="center"><b>Fonte</b>: <a href=https://github.com/yabamiah>Vinicius Mendes </p>
+<p align="center"><b>Fonte</b>: <a href=https://github.com/yabamiah>Vinicius Mendes</a> </p>
 
 ### L02 - Condutor
 
@@ -57,7 +57,7 @@ Os representamos em um template da Tabela 2.
 |---------|------|--------|----------|------------|
 | Condutor | Objeto | - Pessoa que conduz um automóvel </br> - Responsável pelo veículo </br> - Responsável pelas infrações </br> - Condutor pode ser alguém que queira visualizar sua CNH digital </br> - O condutor pode ser alguém que queira visualizar a CRLV digital | - O condutor pode baixar sua CNH digital </br> - O condutor pode visualizar seu histórico de emissões da CNH  </br> - O condutor pode adicionar os seus veículos </br> - O condutor pode consultar as suas infrações| Motorista, volante, guia, piloto |
 
-<p align="center"><b>Fonte</b>: <a href=https://github.com/yabamiah>Vinicius Mendes </p>
+<p align="center"><b>Fonte</b>: <a href=https://github.com/yabamiah>Vinicius Mendes</a> </p>
 
 ### L03 - Infração
 
@@ -67,7 +67,7 @@ Os representamos em um template da Tabela 2.
 |---------|------|--------|----------|------------|
 | Infração | Objeto | - Violação de alguma lei de trânsito </br> - A infração é visualizada pelo condutor | - O condutor pode visualizar as infrações cometidas filtrando infrator ou veículo </br> - O condutor pode visualizar a situação da infração </br> - O condutor pode visualizar o motivo da infração </br> - O condutor pode consultar o valor da infração a ser paga| Desobediência, Violação |
 
-<p align="center"><b>Fonte</b>: <a href=https://github.com/LuisMiranda10>Luis Miranda </p>
+<p align="center"><b>Fonte</b>: <a href=https://github.com/LuisMiranda10>Luis Miranda</a> </p>
 
  ### L04 - Sistema de Notificação Eletrônica
 
@@ -77,7 +77,7 @@ Os representamos em um template da Tabela 2.
 |---------|------|--------|----------|------------|
 | Sistema de Notificação Eletrônica | Objeto | - Sistema de responsável por notificar infrações de trânsito aos proprietários de veículos | - Sistema que dá o direito a descontos no pagamento de multas de trânsitos | Sistema de Intimação Eletrônica |
 
-<p align="center"><b>Fonte</b>: <a href=https://github.com/yabamiah>Vinicius Mendes </p>
+<p align="center"><b>Fonte</b>: <a href=https://github.com/yabamiah>Vinicius Mendes</a> </p>
 
 ### L05 - Restrições e Indicadores
 
@@ -87,7 +87,7 @@ Os representamos em um template da Tabela 2.
 |---------|------|--------|----------|------------|
 | Restrições e Indicadores |Objeto | - Responsável por mostrar se existe multa, restrição judicial, ocorrência de roubo, novo padrão na placa, comunicações de venda ativa e restrições do seu próprio veículo | - O propietário do veiculo pode consultar os indicadores e restrições de seu veiculo  | Limitações, Indicativos |
 
-<p align="center"><b>Fonte</b>: <a href=https://github.com/LuisMiranda10>Luis Miranda </p>
+<p align="center"><b>Fonte</b>: <a href=https://github.com/LuisMiranda10>Luis Miranda</a> </p>
 
 ### L06 - Tutorial
 
@@ -97,7 +97,7 @@ Os representamos em um template da Tabela 2.
 |---------|------|--------|----------|------------|
 | Tutorial | Objeto | - Documentação para orientar o condutor ao utilizar o app | - Aumenta a eficiência de aprendizado do condutor  | Auxílio, Orientação, Documentação |
 
-<p align="center"><b>Fonte</b>: <a href=https://github.com/LuisMiranda10>Luis Miranda </p>
+<p align="center"><b>Fonte</b>: <a href=https://github.com/LuisMiranda10>Luis Miranda</a> </p>
 
 ### L07 - Cadastrar CNH
 
@@ -107,7 +107,7 @@ Os representamos em um template da Tabela 2.
 |---------|------|--------|----------|------------|
 | Cadastrar CNH | Verbo | - Tarefa realizada pelo conduor </br> - Acontece quando o condutor precisa visualizar sua CNH pela primeira vez </br> - Condutor valida o cadastro com uma foto de sua CNH  | - O condutor consegue visualizar a sua CNH  | Registrar CNH, Inscrever CNH, Fichar CNH |
 
-<p align="center"><b>Fonte</b>: <a href=https://github.com/yabamiah>Vinicius Mendes </p>
+<p align="center"><b>Fonte</b>: <a href=https://github.com/yabamiah>Vinicius Mendes</a> </p>
 
 ### L08 - Consultar infrações
 
@@ -117,7 +117,7 @@ Os representamos em um template da Tabela 2.
 |---------|------|--------|----------|------------|
 | Consultar infrações | Verbo | - Tarefa realizada pelo condutor </br> - Acontece quando o condutor quer visualizar alguma infração </br> - Condutor pode escolher consultar infrações por condutor ou por veículo </br> - O sistema divide as infrações em categorias de vencidas, a vencer e pagas | - O condutor consegue verificar infrações vencidas e as não pagas </br> - O condutor pode visualizar uma infração </br> - O sistema pode gerar o boleto da infração </br> - O sistema pode gerar PDF da infração|  Examinar infrações, Estudar infrações, Ler infrações|
 
-<p align="center"><b>Fonte</b>: <a href=https://github.com/yabamiah>Vinicius Mendes </p>
+<p align="center"><b>Fonte</b>: <a href=https://github.com/yabamiah>Vinicius Mendes</a> </p>
   
 ### L09 - Consultar exames Toxicológicos
 
@@ -127,7 +127,7 @@ Os representamos em um template da Tabela 2.
 |---------|------|--------|----------|------------|
 | Consultar Exames Toxicológicos | Verbo | - Tarefa realizada pelo condutor </br> - Acontece quando o condutor quer visualizar algum exame toxicológico feito pelo mesmo </br> - O sistema divide as informações sobre os exames toxicológicos em categorias de Data de Coleta, Prazo para nova realização de exame e Laboratórios credenciados| - O condutor consegue verificar infrações sobre os exames | Inspecionar Data de Coleta e Prazos para novo examexames toxicológicos |
 
-<p align="center"><b>Fonte</b>: <a href=https://github.com/LuisMiranda10>Luis Miranda </p>
+<p align="center"><b>Fonte</b>: <a href=https://github.com/LuisMiranda10>Luis Miranda</a> </p>
   
 ### L010 - Visualizar recall
 
@@ -137,7 +137,7 @@ Os representamos em um template da Tabela 2.
 |---------|------|--------|----------|------------|
 | Visualizar recall | Verbo | - Tarefa realizada pelo condutor </br> - Ocorre quando o condutor quer consultar se foi feita uma notificação de regularização do seu veículo | - O condutor consegue visualizar se o seu veículo recebeu algum recall </br>  | Verificar recall, Constatar recall, Captar recall |
 
-<p align="center"><b>Fonte</b>: <a href=https://github.com/yabamiah>Vinicius Mendes </p>
+<p align="center"><b>Fonte</b>: <a href=https://github.com/yabamiah>Vinicius Mendes</a> </p>
 
 ### L11 - Visualizar CRLV
 
@@ -147,7 +147,7 @@ Os representamos em um template da Tabela 2.
 |---------|------|--------|----------|------------|
 | Visualizar Licenciamento | Verbo | - Tarefa realizada pelo condutor </br> - Ocorre quando o condutor quer consultar o CRLV do seu veículo | - O condutor consegue visualizar as informações do licenciamento do seu carro </br> - O condutor consegue compartilhar seu licenciamento com outras pessoas </br> - O condutor consegue exportar seu licenciamento para algum tipo de arquivo selecionado </br> | Analisar informações sobre o veículo |
 
-<p align="center"><b>Fonte</b>: <a href=https://github.com/LuisMiranda10>Luis Miranda </p>
+<p align="center"><b>Fonte</b>: <a href=https://github.com/LuisMiranda10>Luis Miranda</a> </p>
 
 ### L12 - Transferência
 
@@ -157,7 +157,7 @@ Os representamos em um template da Tabela 2.
 |---------|------|--------|----------|------------|
 | Transferência | Verbo | - Tarefa realizada pelo condutor </br> - Ocorre quando o condutor quer transferir a propriedade de um veículo para outra pessoa | - O veículo se torna propriedade de outra pessoa  | Realiza troca de proprietário |
 
-<p align="center"><b>Fonte</b>: <a href=https://github.com/LuisMiranda10>Luis Miranda </p>
+<p align="center"><b>Fonte</b>: <a href=https://github.com/LuisMiranda10>Luis Miranda</a> </p>
 
 
 ## Bibliografia
