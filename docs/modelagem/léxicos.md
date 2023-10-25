@@ -69,7 +69,7 @@ Os representamos em um template da Tabela 2.
 
 <p align="center"><b>Fonte</b>: <a href=https://github.com/LuisMiranda10>Luis Miranda</a> </p>
 
- ### L04 - Sistema de Notificação Eletrônica
+### L04 - Sistema de Notificação Eletrônica
 
 <p align="center"><b>Tabela 06</b> - Léxico 04 -Sistema de Notificação Eletrônica (L04)</p>
 
