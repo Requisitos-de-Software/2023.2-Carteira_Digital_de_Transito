@@ -74,9 +74,11 @@ nav:
       - Cenários: modelagem/cenarios.md  
       - Casos de Uso: modelagem/casosDeUso.md
       - Léxicos: modelagem/léxicos.md
+      - Elicitação Suplementar: modelagem/especificacao-suplementar
       - Ágil:
         - Product Backlog: modelagem/agil/backlog.md
         - NFR Framework: modelagem/agil/framework.md
         - Histórias de Usuário: modelagem/agil/historiasUsuario.md
+
 
  
