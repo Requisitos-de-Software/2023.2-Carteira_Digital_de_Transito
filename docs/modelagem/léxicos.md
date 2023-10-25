@@ -32,7 +32,11 @@ Para utilizar esta técnica, utilizamos o aplicativo e em conjunto com o [gloss�
 
 ## Tabelas de Léxicos
 
-A seguir, serão apresentados todas as descrições de léxicos identificados na aplicação,  seguindo a seguinte ordem: Léxico de Estado, Léxico de Objeto, Léxico de Verbo. Os representamos em um template da Tabela 2.
+A seguir, serão apresentados todas as descrições de léxicos identificados na aplicação,  seguindo a seguinte ordem: 
+- Léxico de Estado 
+- Léxico de Objeto
+- Léxico de Verbo 
+Os representamos em um template da Tabela 2.
 
 ### L01 - Cadastro positivo está inativo
 
