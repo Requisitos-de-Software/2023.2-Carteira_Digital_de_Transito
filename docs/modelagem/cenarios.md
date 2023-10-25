@@ -177,3 +177,19 @@ A tabela 8 descreve o cenário que tem como objetivo consultar histórico de inf
 <p align="center"> Autor: Mayara Alves</p>
 </center>
 
+## Referências Bibliográfica
+> 1.  ENHANCING A REQUIREMENTS BASELINE WITH SCENARIOS, Leite, Julio & Rossi, Gustavo & Balaguer, Federico & Maiorana, Vanesa & Kaplan, Gladys & Hadad, Graciela & Oliveros, Alejandro. (1997).. Requirements Engineering. 2. 184-198.
+>
+> 2. CENÁRIOS: Rastreamento de Cenários. [S. l.]. Disponível em: <http://www-di.inf.puc-rio.br/~julio/bnncap3.pdf>.
+
+## Bibliografia
+> BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador. Editora Elsevier, Rio de Janeiro, 2010.
+>
+> SIMPLENOTE. Cenários. Grupo Simplenote da disciplina Requisitos de Software, dispoível em: <https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/cenarios/>. Acesso em: 25 de outubro de 2023.
+
+
+## 📑 Histórico de versões 
+
+Versão  |   Data   | Descrição | Autor(es) | Revisor(es)
+--------- | ------ | ------ | ---------- | ----------
+`1.0` | 25/10/2023| Criação dos cenários  | [Mayara Alves](https://github.com/Mayara-tech)  |  |
