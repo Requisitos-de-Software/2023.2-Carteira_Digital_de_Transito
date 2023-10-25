@@ -80,7 +80,7 @@ A seguir, serão apresentados as todas as descrições de léxicos identificados
 
 | **Símbolo** | **Tipo** | **Noção** | **Impacto** | **Dicionário** |
 |---------|------|--------|----------|------------|
-| Consultar Exames Toxicológicos | Verbo | - Tarefa realizada pelo condutor </br> - Acontece quando o condutor quer visualizar algum exame toxicológico feito pelo mesmo </br> - O sistema divide as informações sobre os exames toxicológicos em categorias de Data de Coleta, Prazo para nova realização de exame e Laboratórios credenciados| - O condutor consegue verificar inforações sobre os exames | Inspecionar Data de Coleta e Prazos para novo exame |
+| Consultar Exames Toxicológicos | Verbo | - Tarefa realizada pelo condutor </br> - Acontece quando o condutor quer visualizar algum exame toxicológico feito pelo mesmo </br> - O sistema divide as informações sobre os exames toxicológicos em categorias de Data de Coleta, Prazo para nova realização de exame e Laboratórios credenciados| - O condutor consegue verificar infrações sobre os exames | Inspecionar Data de Coleta e Prazos para novo exame |
 
 <p align="center"><b>Fonte</b>: <a href=https://github.com/LuisMiranda10>Luis Miranda </p>
 
@@ -101,6 +101,16 @@ A seguir, serão apresentados as todas as descrições de léxicos identificados
 | **Símbolo** | **Tipo** | **Noção** | **Impacto** | **Dicionário** |
 |---------|------|--------|----------|------------|
 | Visualizar recall | Verbo | - Tarefa realizada pelo condutor </br> - Ocorre quando o condutor quer consultar se foi feita uma notificação de regularização do seu veículo | - O condutor consegue visualizar se o seu veículo recebeu algum recall </br>  | Verificar recall, Constatar recall, Captar recall |
+
+<p align="center"><b>Fonte</b>: <a href=https://github.com/yabamiah>Vinicius Mendes </p>
+
+### L08 - Visualizar CRLV
+
+<p align="center"><b>Tabela 09</b> - Léxico 08 - Visualizar Licenciamento (L08)</p>
+
+| **Símbolo** | **Tipo** | **Noção** | **Impacto** | **Dicionário** |
+|---------|------|--------|----------|------------|
+| Visualizar Licenciamento | Verbo | - Tarefa realizada pelo condutor </br> - Ocorre quando o condutor quer consultar o CRLV do seu veículo | - O condutor consegue visualizar as informações do licenciamento do seu carro </br> - O condutor consegue compartilhar seu licenciamento com outras pessoas </br> - O condutor consegue exportar seu licenciamento para algum tipo de arquivo selecionado </br> | Analisar informações sobre o veículo |
 
 <p align="center"><b>Fonte</b>: <a href=https://github.com/yabamiah>Vinicius Mendes </p>
 
