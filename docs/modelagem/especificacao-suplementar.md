@@ -191,4 +191,4 @@ O aplicativo deve está disponível para dispositivos móveis.
 
  Versão  |    Data    |Descrição|Autor(es)|Revisor(es)|                 
  :-----: | :--------: | :-----: | :-----: | :--------:| 
-  `1.0`  | 22/10/23|Criação do documento| [Breno](https://github.com/brenob6) | [](https://github.com/)
+  `1.0`  | 22/10/23|Criação do documento| [Breno](https://github.com/brenob6) | [Mayara Alves](https://github.com/Mayara-tech)
