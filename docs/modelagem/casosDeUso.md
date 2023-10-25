@@ -12,7 +12,7 @@ O artefato que foi criado é um diagrama de casos de uso UML, que representa as 
 
 Um diagrama de casos de uso é uma forma poderosa de capturar requisitos, definindo as interações entre um sistema e seus usuários, conhecidos como "atores". Neste glossário, você encontrará explicações detalhadas de cada um dos elementos que compõem um diagrama de casos de uso. Vamos explorar os conceitos-chave que possibilitam a representação visual de sistemas de forma eficaz e compreensível.
 
-<center>
+
 <p align="center"> <b>Tabela 1</b>.   Elementos do diagrama de casos de uso</p>
 
 |    Símbolo    |     Nome     |    Descrição    |
@@ -24,15 +24,18 @@ Um diagrama de casos de uso é uma forma poderosa de capturar requisitos, defini
 
 <p align="center"><b>Fonte</b>:  <a href="https://github.com/LimirioGuimaraes">Limírio Guimarães</a></p>
 
-<center/>
 
 ## Diagrama de Casos de Uso
 
 A figura 1 demonstra o diagrama de casos de uso.
 
 <font size="3"><p style="text-align: center">Figura 1: Casos de uso do app Carteira Digital de Trânsito</p></font>
+<center>
 
-<img src="../assets/diagramaDeCasosDeUso.png" class="usecaseElement">
+![](../assets/diagramaDeCasosDeUso.png)
+
+</center>
+
 
 <p align="center"><b>Fonte</b>:  <a href="https://github.com/LimirioGuimaraes">Limírio Guimarães</a></p>
 
@@ -168,7 +171,8 @@ As tabelas de 2 a 8 mostram a especialização dos casos de uso identificados.
 | Data de criação       | 21/10/2023                           |
 | Rastreabilidade       |  [RF19](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/elicitação/requisitos_elicitados/),  [RNF8](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/elicitação/requisitos_elicitados/)   |
 
-<p align="center"><b>Fonte</b>:  <a href="https://github.com/LimirioGuimaraes">Limírio Guimarães</a></p>
+<p align="center"><b>Fonte</b>:  <a href="https://github.com/LimirioGuimaraes">Limírio Guimarães</a> </p>
+
 
 ## Bibliografia
 
@@ -180,11 +184,11 @@ As tabelas de 2 a 8 mostram a especialização dos casos de uso identificados.
 
 
 
-## Histórico de Versões
+## 📑Histórico de Versões
 
 | Versão |    Data    |      Descrição      |       Autor     | Revisor(es)  |
 | ------ | ---------- | ------------------- | --------------- | ------------ |
-| 1.0    | 19/10/2023 | Criação do template | [Limirio Guimarães](https://github.com/LimirioGuimaraes) |  |
-| 1.1    | 21/10/2023 | Adicionado introdução, metodologia e glossário | [Limirio Guimarães](https://github.com/LimirioGuimaraes) |  |
-| 1.2    | 21/10/2023 | Adicionado diagrama de casos de uso | [Limirio Guimarães](https://github.com/LimirioGuimaraes) |  |
-| 1.3    | 21/10/2023 | Adicionada as tabelas de especialização dos casos de uso| [Limirio Guimarães](https://github.com/LimirioGuimaraes) |  |
+| 1.0    | 19/10/2023 | Criação do template | [Limirio Guimarães](https://github.com/LimirioGuimaraes) |[Breno Queiroz](https://github.com/brenob6) |
+| 1.1    | 21/10/2023 | Adicionado introdução, metodologia e glossário | [Limirio Guimarães](https://github.com/LimirioGuimaraes) |[Breno Queiroz](https://github.com/brenob6)|
+| 1.2    | 21/10/2023 | Adicionado diagrama de casos de uso | [Limirio Guimarães](https://github.com/LimirioGuimaraes) |[Breno Queiroz](https://github.com/brenob6)|
+| 1.3    | 21/10/2023 | Adicionada as tabelas de especialização dos casos de uso| [Limirio Guimarães](https://github.com/LimirioGuimaraes) | [Breno Queiroz](https://github.com/brenob6)|
