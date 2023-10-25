@@ -40,7 +40,7 @@ A seguir, serão apresentados as todas as descrições de léxicos identificados
 
 | **Símbolo** | **Tipo** | **Noção** | **Impacto** | **Dicionário** |
 |---------|------|--------|----------|------------|
-| Condutor | Objeto | - Pessoa que conduz um automóvel </br> - Responsável pelo veículo </br> - Responsável pelas infrações </br> - Condutor pode ser alguém que queira visualizar sua CNH digital </br> - O condutor pode ser alguém que queira visualizar a CRLV digital | - O condutor pode baixar sua CNH digital </br> - O condutor pode visualizar seu histórico de emissões da CNH  </br> - O condutor pode adicionar os seus veíclos </br> - O condutor pode consultar as suas infrações| Motorista, volante, guia, piloto |
+| Condutor | Objeto | - Pessoa que conduz um automóvel </br> - Responsável pelo veículo </br> - Responsável pelas infrações </br> - Condutor pode ser alguém que queira visualizar sua CNH digital </br> - O condutor pode ser alguém que queira visualizar a CRLV digital | - O condutor pode baixar sua CNH digital </br> - O condutor pode visualizar seu histórico de emissões da CNH  </br> - O condutor pode adicionar os seus veículos </br> - O condutor pode consultar as suas infrações| Motorista, volante, guia, piloto |
 
 <p align="center"><b>Fonte</b>: <a href=https://github.com/yabamiah>Vinicius Mendes </p>
   
@@ -120,7 +120,7 @@ A seguir, serão apresentados as todas as descrições de léxicos identificados
 
 | **Símbolo** | **Tipo** | **Noção** | **Impacto** | **Dicionário** |
 |---------|------|--------|----------|------------|
-| Restrições e Indicadores |Objeto | - Responsável por mostrar as |  |  |
+| Restrições e Indicadores |Objeto | - Responsável por mostrar algumas informações do seu próprio veículo | - O propietário do veiculo pode consultar os indicadores e restrições de seu veiculo  | Informar restrições e indicadores |
 
 <p align="center"><b>Fonte</b>: <a href=https://github.com/LuisMiranda10>Luis Miranda </p>
 
