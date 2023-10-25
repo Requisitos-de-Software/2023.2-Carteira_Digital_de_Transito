@@ -77,7 +77,7 @@ O aplicativo deve seguir as normas de acessibilidade da WCAG.
 
 A avaliação de usabilidade seguirá os critérios estabelecidos pela WCAG 2.1: "A", "AA", "AAA".
 A W3C Web Accessibility Initiative (WAI), disponibiliza ferramentas de teste automatizado, mas
-é fundamental a avalliação humana por usuários e especialistas [colocar numero].
+é fundamental a avalliação humana por usuários e especialistas <a href="#REF2">^2^</a>.
 
 ## Confiabilidade
 
