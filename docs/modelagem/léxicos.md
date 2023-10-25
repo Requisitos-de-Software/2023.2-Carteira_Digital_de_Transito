@@ -65,7 +65,7 @@ Os representamos em um template da Tabela 2.
 
 | **Símbolo** | **Tipo** | **Noção** | **Impacto** | **Dicionário** |
 |---------|------|--------|----------|------------|
-| Infração | Objeto | - Violação de alguma lei de trânsito </br> - A infração é visualizada pelo condutor | - O condutor pode visualizar as infrações cometidas filtrando infrator ou veículo </br> - O condutor pode visualizar a situação da infração </br> - O condutor pode visualizar o motivo da infração </br> - O condutor pode consultar o valor da infração a ser paga| Infração, valor |
+| Infração | Objeto | - Violação de alguma lei de trânsito </br> - A infração é visualizada pelo condutor | - O condutor pode visualizar as infrações cometidas filtrando infrator ou veículo </br> - O condutor pode visualizar a situação da infração </br> - O condutor pode visualizar o motivo da infração </br> - O condutor pode consultar o valor da infração a ser paga| Desobediência, Violação |
 
 <p align="center"><b>Fonte</b>: <a href=https://github.com/LuisMiranda10>Luis Miranda </p>
 
