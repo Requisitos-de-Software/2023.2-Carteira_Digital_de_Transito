@@ -119,7 +119,7 @@ Os representamos em um template da Tabela 2.
 
 <p align="center"><b>Fonte</b>: <a href=https://github.com/yabamiah>Vinicius Mendes </p>
 
-### 9 - Visualizar CRLV
+### L09 - Visualizar CRLV
 
 <p align="center"><b>Tabela 11</b> - Léxico 09 - Visualizar CRLV (L09)</p>
 
@@ -129,9 +129,9 @@ Os representamos em um template da Tabela 2.
 
 <p align="center"><b>Fonte</b>: <a href=https://github.com/LuisMiranda10>Luis Miranda </p>
 
-### L11 - Transferência
+### L10 - Transferência
 
-<p align="center"><b>Tabela 13</b> - Léxico 11 - Transferência (L11)</p>
+<p align="center"><b>Tabela 12</b> - Léxico 10 - Transferência (L10)</p>
 
 | **Símbolo** | **Tipo** | **Noção** | **Impacto** | **Dicionário** |
 |---------|------|--------|----------|------------|
