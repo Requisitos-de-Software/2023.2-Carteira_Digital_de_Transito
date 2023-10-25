@@ -4,6 +4,12 @@
 
 Dado que a priorização de requisitos é um processo crítico que envolve a classificação e seleção dos requisitos do sistema de acordo com sua importância, impacto e viabilidade, a abordagem _First Things First_ visa enfatizar a importância de focar nas tarefas e atividades mais cruciais e significativas antes de se dedicar a tarefas menos importantes. Assim, temos como ideia central que para ter mais prosutividade deve-se identificar e dedicar tempo significativo às atividades que tem mais impacto no projeto.
 
+## Cronograma da Reunião
+
+| Data | Hora | Local | Assunto | Participantes |
+| :--: | :--: | :---: | ------- | ------------ |
+| //2023 | h | Teams | Priorização de requisitos elicitados |   | 
+
 ## Metodologia
 
 Para elaborar uma tabela em _First Things First_ deve-se seguir oito passos:
@@ -51,14 +57,18 @@ Funcionalidades | Benefício Relativo | Penalidade Relativa | Valor Total | Cust
 9. O usuário deve ser capaz de visualizar suas infrações
 10. O usuário deve ser capaz conhecer as campanhas do governo
 
-## Referências Bibliográficas
+## Link da Gravação
+
+Gravação -> [Priorização do First Thing First](https://youtu.be/)
+
+## Bibliografia
 
 > SERRANO, Milene; SERRANO, Maurício. Requisitos - Aula 07: Elicitação, Modelagem e Análise. Apresentação Power Point. Disponível em: <https://aprender3.unb.br/pluginfile.php/2692779/mod_resource/content/2/Requisitos%20-%20Aula%2007.pdf>. Acesso em: 03 out. 2023.</br>
-> SOARES, Matheus. 2022.1-TikTok. Elicitação, First Things First. 2022. Disponível em: <https://requisitos-de-software.github.io/2022.1-TikTok/first_things_first/>. Acesso em: 03 out. 2023.</br>
-
 
 ## Histórico de versão
 
 Versão  |   Data   | Descrição | Autor(es) | Revisor(es)
 --------- | ------ | ------ | ---------- | ----------
 1.0 | 19/09/2023| Criação do documento | [Milena Baruc](https://github.com/MilenaBaruc) | [Luis Eduardo](https://github.com/LuisMiranda10)|
+1.1 | 20/10/2023| Adição do Cronograma e Link da gravação | [Luis Eduardo](https://github.com/LuisMiranda10) |  |
+

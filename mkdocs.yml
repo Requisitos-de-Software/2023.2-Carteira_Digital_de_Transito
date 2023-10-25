@@ -41,8 +41,10 @@ nav:
     - Ata 01: atas/ata 1.md
     - Ata 02: atas/ata2.md
     - Ata 03: atas/ata 3.md
+    - Ata 04: atas/ata4.md
   - Apresentações:
     - Apresentação 01: apresentação/apresentação 1
+    - Apresentação 02: apresentação/apresentacao 2
   - Planejamento: 
     - Ferramentas: planejamento/ferramenta
     - Cronograma: planejamento/cronograma
@@ -52,17 +54,29 @@ nav:
   - Pré-rastreabilidade:
     - Rich picture: pré-rastreabilidade/rich picture
   - Elicitação:
-    - Storyboard: elicitação/storyboard
-    - Perfil de Usuário: elicitação/perfil_de_usuário
+    - Definição Perfil de Usuário:
+      - Questionário: elicitação/PerfildeUsuario/Questionario.md
+      - Análise de documento: elicitação/PerfildeUsuario/AnaliseDocumento.md
+      - Perfil de Usuário: elicitação/PerfildeUsuario/PerfilUsuario.md
     - Personas: elicitação/personas
     - Elicitação de Requisito: 
-      - Questionário: elicitação/questionario
+      - Storyboard: elicitação/storyboard
       - Glossário: elicitação/glossario
+      - Entrevista: elicitação/entrevista.md
+      - Introspecção: elicitação/Introspeccao.md
       - Requisitos Elicitados: elicitação/requisitos_elicitados
     - Priorização: 
       - First Things First: elicitação/priorização/first_things_first
       - Three Level Scale: elicitação/priorização/three_level_scale
       - $100: elicitação/priorização/100
-  - Modelagem:
-    - Elicitação Suplementar: modelagem/especificacao-suplementar
+    - Modelagem:
+      - Casos de Uso: modelagem\casosDeUso.md
+      - Léxicos: modelagem\léxicos.md
+      - Elicitação Suplementar: modelagem/especificacao-suplementar
+      - Ágil:
+        - Product Backlog: modelagem\agil\backlog.md
+        - NFR Framework: modelagem\agil\framework.md
+        - Histórias de Usuário: modelagem\agil\historiasUsuario.md
+
+
  
