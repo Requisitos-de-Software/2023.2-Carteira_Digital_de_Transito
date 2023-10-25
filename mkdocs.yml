@@ -71,6 +71,7 @@ nav:
       - Three Level Scale: elicitação/priorização/three_level_scale
       - $100: elicitação/priorização/100
     - Modelagem:
+      - Cenários: modelagem/cenarios.md  
       - Casos de Uso: modelagem/casosDeUso.md
       - Léxicos: modelagem/léxicos.md
       - Ágil:
