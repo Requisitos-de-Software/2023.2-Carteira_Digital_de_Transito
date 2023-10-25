@@ -125,7 +125,7 @@ Os representamos em um template da Tabela 2.
 
 | **Símbolo** | **Tipo** | **Noção** | **Impacto** | **Dicionário** |
 |---------|------|--------|----------|------------|
-| Consultar Exames Toxicológicos | Verbo | - Tarefa realizada pelo condutor </br> - Acontece quando o condutor quer visualizar algum exame toxicológico feito pelo mesmo </br> - O sistema divide as informações sobre os exames toxicológicos em categorias de Data de Coleta, Prazo para nova realização de exame e Laboratórios credenciados| - O condutor consegue verificar infrações sobre os exames | Inspecionar Data de Coleta e Prazos para novo exame |
+| Consultar Exames Toxicológicos | Verbo | - Tarefa realizada pelo condutor </br> - Acontece quando o condutor quer visualizar algum exame toxicológico feito pelo mesmo </br> - O sistema divide as informações sobre os exames toxicológicos em categorias de Data de Coleta, Prazo para nova realização de exame e Laboratórios credenciados| - O condutor consegue verificar infrações sobre os exames | Inspecionar Data de Coleta e Prazos para novo examexames toxicológicos |
 
 <p align="center"><b>Fonte</b>: <a href=https://github.com/LuisMiranda10>Luis Miranda </p>
   
