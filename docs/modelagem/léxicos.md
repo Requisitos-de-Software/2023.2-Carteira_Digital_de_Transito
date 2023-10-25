@@ -106,7 +106,7 @@ A seguir, serão apresentados as todas as descrições de léxicos identificados
 
 ### L08 - Visualizar CRLV
 
-<p align="center"><b>Tabela 09</b> - Léxico 08 - Visualizar Licenciamento (L08)</p>
+<p align="center"><b>Tabela 09</b> - Léxico 08 - Visualizar CRLV (L08)</p>
 
 | **Símbolo** | **Tipo** | **Noção** | **Impacto** | **Dicionário** |
 |---------|------|--------|----------|------------|
