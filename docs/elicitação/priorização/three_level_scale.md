@@ -40,33 +40,28 @@ Legenda das tabelas:
 
 |Requisito| Tipo | Priorização 
 |----|-----|-----|
-|Login pelo gov  		|RF | Alta 
-|Obter versão digital da habilitação 						|RF | Alta
-|Obter versão digital dos veiculos que você é principal condultor 		|RF | Alta
-|Obter versão digital do CRLV												            |RF | Alta
-|Consultar multas associadas a sua habilitação					                        |RF | Alta
-|Consultar multas do seu veículo								                        |RF | Alta
-|Consultar multas dos veículos que você é principal condutor	                        |RF | Alta
-|O Aplicativo possui diferentes meios de pagamento de multa		                        |RF | Baixa
-|Renvidicar a multa																		|RF | Baixa
-|O aplicativo permite solicitar renvidicação da multa para outro condutor				|RF | Baixa
-|Contato com suporte																	|RF | Média
-|Indicar principal condutor do veículo 													|RF | Baixa
-|Permite ao condutor verificar exames (toxicológico) 									|RF | Baixa
-|Permite que o usuario acesse cursos especializados associados a sua habilitação 	    |RF | Baixa
-|Permite o acompanhamento do status da multa (a cobrar e pago)						    |RF | Média
-|Permite visualizar histórico de multas do condutor									    |RF | Média
-|Permite ao condutor participar do cadastro positivo 							        |RF | Baixa
-|Permite ao usuário fazer transferência de veículo							            |RF | Média
-|Aplicativo deve possuir um FAQ 														|RF | Média
-|Aplicativo mostra restrições e indicadores (restrição no veiculo, multa, judicial) 	|RF | Alta
-|O aplicativo permite visualizar a politica de privicidade								|RF | Alta
-|O aplicativo deve divulgar campanhas e projetos do DETRAN								|RF | Baixa
-|Validar cadastro de CNH																|RNF | Alta
-|Aplicativo funciona em multisistemas (android e IOS) 									|RNF | Alta
-|Aplicativo possui interface simple 													|RNF | Alta
-|Aplicativo deve evitar erros e telas brancas durante o uso 							|RNF | Alta
-|Possui modo escuro/claro																|RNF | Baixa
+|Login pelo gov  		|RF1 | Alta 
+|Obter versão digital da habilitação 						|RF2 | Alta
+|Obter versão digital dos veiculos que você é principal condultor 		|RF3 | Alta
+|Obter versão digital do CRLV												            |RF4 | Alta
+|Consultar multas associadas a sua habilitação					                        |RF5 | Alta
+|Consultar multas do seu veículo								                        |RF6 | Alta
+|Consultar multas dos veículos que você é principal condutor	                        |RF7 | Alta
+|O Aplicativo possui diferentes meios de pagamento de multa		                        |RF8 | Baixa
+|Renvidicar a multa																		|RF9 | Baixa
+|Contato com suporte																	|RF10 | Média
+|Permite o acompanhamento do status da multa (a cobrar e pago)						    |RF12 | Média
+|Permite visualizar histórico de multas do condutor									    |RF13 | Média
+|Permite ao usuário fazer transferência de veículo							            |RF14 | Média
+|Aplicativo deve possuir um FAQ 														|RF15 | Média
+|Aplicativo mostra restrições e indicadores (restrição no veiculo, multa, judicial) 	|RF16 | Alta
+|O aplicativo permite visualizar a politica de privicidade								|RNF1 | Alta
+|O aplicativo deve divulgar campanhas e projetos do DETRAN								|RF17 | Baixa
+|Validar cadastro de CNH																|RNF2 | Alta
+|Aplicativo funciona em multisistemas (android e IOS) 									|RNF3 | Alta
+|Aplicativo possui interface simple 													|RNF4 | Alta
+|Aplicativo deve evitar erros e telas brancas durante o uso 							|RNF5 | Alta
+|Possui modo escuro/claro																|RNF6 | Baixa
 </center>
 
 
