@@ -39,7 +39,7 @@ A tabela 2 descreve o cenário que tem como objetivo obter a versão digital da 
 <center>
 <p align="center"> Tabela 2: C01 - Obter versão digital da habilitação </p>
 
-|  Elemento  |         Descição      |
+|  Elemento  |         Descrição      |
 |------------|-----------------------|
 | Título     |  Obter versão digital da habilitação      |
 | Objetivo   |  Obter versão digital da habilitação utilizando o aplicativo da Carteira Digital de Trânsito   |
@@ -59,7 +59,7 @@ A tabela 3 descreve o cenário que tem como objetivo obter a versão digital do 
 <center>
 <p align="center"> Tabela 3: C02 - Obter versão digital do CRLV </p>
 
-|  Elemento  |         Descição      |
+|  Elemento  |         Descrição      |
 |------------|-----------------------|
 | Título     |  Obter versão digital do CRLV      |
 | Objetivo   |  Obter versão digital do CRLV utilizando o aplicativo da Carteira Digital de Trânsito   |
@@ -79,7 +79,7 @@ A tabela 4 descreve o cenário que tem como objetivo consulta as inflações de 
 <center>
 <p align="center"> Tabela 4: C03 - Consultar inflações do veículo  </p>
 
-|  Elemento  |         Descição      |
+|  Elemento  |         Descrição      |
 |------------|-----------------------|
 | Título     |  Consultar inflações do veículo    |
 | Objetivo   |  Consultar inflações do veículo utilizando o aplicativo da Carteira Digital de Trânsito   |
@@ -100,7 +100,7 @@ A tabela 5 descreve o cenário que tem como objetivo acessar o suporte do veícu
 <center>
 <p align="center"> Tabela 5: C04 - Acessar suporte do sistema  </p>
 
-|  Elemento  |         Descição      |
+|  Elemento  |         Descrição      |
 |------------|-----------------------|
 | Título     |  Acessar suporte do sistema (Assistente Virtual)    |
 | Objetivo   |  Acessar suporte do sistema (Assistente Virtual) utilizando o aplicativo da Carteira Digital de Trânsito   |
@@ -121,7 +121,7 @@ A tabela 6 descreve o cenário que tem como objetivo acessar o tutorial do aplic
 <center>
 <p align="center"> Tabela 6: C05 - Acessar tutorial do aplicativo  </p>
 
-|  Elemento  |         Descição      |
+|  Elemento  |         Descrição      |
 |------------|-----------------------|
 | Título     |  Acessar tutorial do aplicativo    |
 | Objetivo   |  Acessar tutorial do aplicativo utilizando o aplicativo da Carteira Digital de Trânsito   |
@@ -142,7 +142,7 @@ A tabela 7 descreve o cenário que tem como objetivo realizar transferência do 
 <center>
 <p align="center"> Tabela 7: C06 - Realizar Transferência do Veículo  </p>
 
-|  Elemento  |         Descição      |
+|  Elemento  |         Descrição      |
 |------------|-----------------------|
 | Título     |  Realizar Transferência do Veículo    |
 | Objetivo   |  Realizar Transferência do Veículo utilizando o aplicativo da Carteira Digital de Trânsito   |
@@ -163,14 +163,14 @@ A tabela 8 descreve o cenário que tem como objetivo consultar histórico de inf
 <center>
 <p align="center"> Tabela 8: C07 - Consultar histórico de inflações por inflator  </p>
 
-|  Elemento  |         Descição      |
+|  Elemento  |         Descrição      |
 |------------|-----------------------|
 | Título     |  Consultar histórico de inflações por inflator    |
 | Objetivo   |  Consultar histórico de inflações por inflator utilizando o aplicativo da Carteira Digital de Trânsito   |
 | Contexto   | - Pré condição: ter o aplicativo instalado, possuí cadastro no .gov <br> - Local: No carro <br> - Tempo: Aproximadamente 5 minutos |
 | Recursos   | - Celular <br> - Aplicativo <br> - Internet                                         |
 | Ator       |  Usuário que possua veículo                                                         |
-| Episódios  | - Usuário faz login no .gov <br> - Usuário clica em "Inflação" <br> - Usuário clica em "Por inflator" <br> - Usuário adiciona os filtros de sua preferência <br> - Usuário seleciona período da busca <br> - Usuário clica em "filtar"|
+| Episódios  | - Usuário faz login no .gov <br> - Usuário clica em "Inflação" <br> - Usuário clica em "Por inflator" <br> - Usuário adiciona os filtros de sua preferência <br> - Usuário seleciona período da busca <br> - Usuário clica em "filtrar"|
 | Restrições |  Usuário não conseguir fazer login no .gov <br> |
 | Exceção    | - Aplicativo travou <br> - Celular sem bateria <br> - Celular não estar funcionando <br> - .gov está fora do ar       
 
