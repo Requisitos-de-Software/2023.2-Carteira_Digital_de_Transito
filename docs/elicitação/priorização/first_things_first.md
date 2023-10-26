@@ -68,7 +68,7 @@ Para a produção da tabela 3, foi utilizado os dados da tabela 2 em <a href="..
 
 Tabela 3 - Resultado da priorização
 
-![Tabela FTF](../assets/)
+![Tabela FTF](/docs/assets/TabelaFTF.jpg)
 
 **Fonte:** [Milena Baruc](https://github.com/MilenaBaruc)
 
@@ -86,4 +86,5 @@ Tabela 3 - Resultado da priorização
 | `2.0` | 20/10/2023| Adição do Cronograma e Link da gravação | [Luis Eduardo](https://github.com/LuisMiranda10) | [Milena Baruc](https://github.com/MilenaBaruc) |
 | `2.1` | 25/10/2023| Arrumando erros apresentação | [Milena Baruc](https://github.com/MilenaBaruc) | [Luis Eduardo](https://github.com/LuisMiranda10)|
 | `2.2` | 25/10/2023| Adicionando reuniões e cronograma | [Milena Baruc](https://github.com/MilenaBaruc) | [Luis Eduardo](https://github.com/LuisMiranda10)|
+| `2.3` | 25/10/2023| Adicionando tabela priorização | [Milena Baruc](https://github.com/MilenaBaruc) | [Luis Eduardo](https://github.com/LuisMiranda10)|
 
