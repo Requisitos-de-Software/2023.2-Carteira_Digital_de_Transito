@@ -4,13 +4,44 @@
 
 Dado que a priorização de requisitos é um processo crítico que envolve a classificação e seleção dos requisitos do sistema de acordo com sua importância, impacto e viabilidade, a abordagem _First Things First_ visa enfatizar a importância de focar nas tarefas e atividades mais cruciais e significativas antes de se dedicar a tarefas menos importantes. Assim, temos como ideia central que para ter mais prosutividade deve-se identificar e dedicar tempo significativo às atividades que tem mais impacto no projeto.
 
-## Cronograma da Reunião
+## Metodologia
+
+A seguir, apresentamos as pessoas que contribuíram para o desenvolvimento desta abordagem, com seus nomes relacionados na Tabela 1:
+
+- *Mediador*: Encarregado de expor os requisitos listados;
+-  *Usuário*: Encarregado de classificar benefícios e penalidades na implementação de cada requisito;
+- *Desenvolvedor*: Encarregado de classificar custos e riscos na implementação de cada requisito.
+
+<center>
+
+Tabela 1 - Participantes
+
+|**Nome**                                        |**Função**          |
+|:----------------------------------------------:| :----------------: |
+|[Milena Baruc](https://github.com/MilenaBaruc)  | Mediador           |
+|[Luis Eduardo](https://github.com/LuisMiranda10)| Desenvolvedor      |
+|[Victor Hugo](https://github.com/ViictorHugoo)  | Usuário            |
+
+**Fonte:** [Milena Baruc](https://github.com/MilenaBaruc)
+ 
+</center>
+
+Foram realizadas duas reuniões na plataforma Teams, como podemos ver na tabela 2:
+- Entre a Mediadora e o Desenvolvedor, na data de 25/10/23 às 20h. [Gravação da reunião](https://youtu.be/hrjwQEOtv-c).
+- Entre a Mediadora e o Cliente, na data de 25/10/23 às 20:30. [Gravação da reunião](https://youtu.be/K3dSjsBsxDA).
+
+<center>
+
+Tabela 2 - Cronograma reuniões
 
 | Data | Hora | Local | Assunto | Participantes |
 | :--: | :--: | :---: | ------- | ------------ |
-| //2023 | h | Teams | Priorização de requisitos elicitados |   | 
+| 25/10/2023 | 21:20h | Teams | Classificar benefícios e penalidades na implementação de cada requisito | [Milena Baruc](https://github.com/MilenaBaruc) e [Victor Hugo](https://github.com/ViictorHugoo)| 
+| 25/10/2023 | 21:40h | Teams | Classificar custos e riscos na implementação de cada requisito | [Milena Baruc](https://github.com/MilenaBaruc) e [Luis Eduardo](https://github.com/LuisMiranda10)| 
 
-## Metodologia
+**Fonte:** [Milena Baruc](https://github.com/MilenaBaruc)
+ 
+</center>
 
 Para elaborar uma tabela em _First Things First_ deve-se seguir oito passos:
 
@@ -26,49 +57,34 @@ Para elaborar uma tabela em _First Things First_ deve-se seguir oito passos:
 ### Tabela das funcionalidades
 
 Utilizando os passos acima foi possível produzir a Tabela 1 abaixo. Tendo os seguintes pesos: 
-* **Benefício Relativo**: peso 1
+* **Benefício Relativo**: peso 2
 * **Penalidade Relativa**: peso 1
 * **Custo Relativo**: peso 1
-* **Risco Relativo**: peso 1
+* **Risco Relativo**: peso 0,5
 
-Funcionalidades | Benefício Relativo | Penalidade Relativa | Valor Total | Custo Relativo | Risco Relativo | Prioridade
--------------- | ------------------ | ------------------- | ----------- | -------------- | --------------- | ----------
-9 | 9 | 9 | 18 | 3 | 1  | 3.00
-7 | 9 | 9 | 18 | 6 | 1  | 2.00
-8 | 9 | 9 | 18 | 6 | 1  | 2.00
-10| 3 | 3 | 9  | 2 | 1  | 1.92
-6 | 9 | 9 | 18 | 5 | 6  | 1.89
-1 | 9 | 7 | 16 | 4 | 5  | 1.38
-5 | 6 | 4 | 10 | 1 | 7  | 1.38
-2 | 4 | 2 | 5  | 6 | 3  | 0.70
-4 | 3 | 1 | 4  | 3 | 9  | 0.08
-3 | 1 | 1 | 2  | 1 | 9  | 0.06
+Para a produção da tabela 3, foi utilizado os dados da tabela 2 em <a href="../requisitos_elicitados.md"> requisitos elicitados </a>.
 
-### Descrição das funcionalidades
+<center>
 
-1. O aplicativo permite o cadastro e login do usuário
-2. O aplicativo permite a criação de uma chave de acesso
-3. O aplicativo permite sair da conta
-4. O aplicativo notifica o usuário sobre atualizações
-5. O aplicativo possui um tutorial de utilização
-6. O aplicativo permite o usuário adicionar seus documentos
-7. O usuário deve ser capaz de gerenciar sua habilitação
-8. O usuário deve ser capaz de acessar os documentos de seus veículos
-9. O usuário deve ser capaz de visualizar suas infrações
-10. O usuário deve ser capaz conhecer as campanhas do governo
+Tabela 3 - Resultado da priorização
 
-## Link da Gravação
+![Tabela FTF](/docs/assets/TabelaFTF.jpg)
 
-Gravação -> [Priorização do First Thing First](https://youtu.be/)
+**Fonte:** [Milena Baruc](https://github.com/MilenaBaruc)
+
+</center>
 
 ## Bibliografia
 
 > SERRANO, Milene; SERRANO, Maurício. Requisitos - Aula 07: Elicitação, Modelagem e Análise. Apresentação Power Point. Disponível em: <https://aprender3.unb.br/pluginfile.php/2692779/mod_resource/content/2/Requisitos%20-%20Aula%2007.pdf>. Acesso em: 03 out. 2023.</br>
 
-## Histórico de versão
+## 📑 Histórico de versões:
 
-Versão  |   Data   | Descrição | Autor(es) | Revisor(es)
---------- | ------ | ------ | ---------- | ----------
-1.0 | 19/09/2023| Criação do documento | [Milena Baruc](https://github.com/MilenaBaruc) | [Luis Eduardo](https://github.com/LuisMiranda10)|
-1.1 | 20/10/2023| Adição do Cronograma e Link da gravação | [Luis Eduardo](https://github.com/LuisMiranda10) | [Milena Baruc](https://github.com/MilenaBaruc) |
+| Versão |    Data    |    Descrição         | Autor(es)  |    Revisor(es) |                  
+|:-----: | :--------: | :-------------:      | :--------: | :-------------:| 
+| `1.0` | 19/09/2023| Criação do documento | [Milena Baruc](https://github.com/MilenaBaruc) | [Luis Eduardo](https://github.com/LuisMiranda10)|
+| `2.0` | 20/10/2023| Adição do Cronograma e Link da gravação | [Luis Eduardo](https://github.com/LuisMiranda10) | [Mayara Alves](https://github.com/Mayara-tech) |
+| `2.1` | 25/10/2023| Arrumando erros apresentação | [Milena Baruc](https://github.com/MilenaBaruc) | [Mayara Alves](https://github.com/Mayara-tech) |
+| `2.2` | 25/10/2023| Adicionando reuniões e cronograma | [Milena Baruc](https://github.com/MilenaBaruc) | [Mayara Alves](https://github.com/Mayara-tech)|
+| `2.3` | 25/10/2023| Adicionando tabela priorização | [Milena Baruc](https://github.com/MilenaBaruc) | [Mayara Alves](https://github.com/Mayara-tech)|
 
