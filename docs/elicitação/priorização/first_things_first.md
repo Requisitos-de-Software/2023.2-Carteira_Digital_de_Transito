@@ -83,8 +83,8 @@ Tabela 3 - Resultado da priorização
 | Versão |    Data    |    Descrição         | Autor(es)  |    Revisor(es) |                  
 |:-----: | :--------: | :-------------:      | :--------: | :-------------:| 
 | `1.0` | 19/09/2023| Criação do documento | [Milena Baruc](https://github.com/MilenaBaruc) | [Luis Eduardo](https://github.com/LuisMiranda10)|
-| `2.0` | 20/10/2023| Adição do Cronograma e Link da gravação | [Luis Eduardo](https://github.com/LuisMiranda10) | [Milena Baruc](https://github.com/MilenaBaruc) |
-| `2.1` | 25/10/2023| Arrumando erros apresentação | [Milena Baruc](https://github.com/MilenaBaruc) | [Luis Eduardo](https://github.com/LuisMiranda10)|
-| `2.2` | 25/10/2023| Adicionando reuniões e cronograma | [Milena Baruc](https://github.com/MilenaBaruc) | [Luis Eduardo](https://github.com/LuisMiranda10)|
-| `2.3` | 25/10/2023| Adicionando tabela priorização | [Milena Baruc](https://github.com/MilenaBaruc) | [Luis Eduardo](https://github.com/LuisMiranda10)|
+| `2.0` | 20/10/2023| Adição do Cronograma e Link da gravação | [Luis Eduardo](https://github.com/LuisMiranda10) | [Mayara Alves](https://github.com/Mayara-tech) |
+| `2.1` | 25/10/2023| Arrumando erros apresentação | [Milena Baruc](https://github.com/MilenaBaruc) | [Mayara Alves](https://github.com/Mayara-tech) |
+| `2.2` | 25/10/2023| Adicionando reuniões e cronograma | [Milena Baruc](https://github.com/MilenaBaruc) | [Mayara Alves](https://github.com/Mayara-tech)|
+| `2.3` | 25/10/2023| Adicionando tabela priorização | [Milena Baruc](https://github.com/MilenaBaruc) | [Mayara Alves](https://github.com/Mayara-tech)|
 
