@@ -6,7 +6,7 @@ O propósito desta página consiste em arquivar os elementos pertinentes à terc
 
 ## Apresentação 3 - 25/10/2023
 
-<p style="text-align: center"><a href="https://youtu.be/fwnilCMhktQ?si=-gzGJJkNhZOEhSKR" target="blanket">Vídeo apresentação 3</a></p>
+<p style="text-align: center"><a href="https://youtu.be/z4zOVNcRbrI" target="blanket">Vídeo apresentação 3</a></p>
 
 <p style="text-align: center"><iframe width="560" height="315" src="https://www.youtube.com/embed/fwnilCMhktQ?si=skG-3-fa_WKiKIiS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
 
