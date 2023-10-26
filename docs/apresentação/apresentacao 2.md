@@ -41,5 +41,5 @@ Corrigir Metodos de priorização             | Luis Eduardo, Milena Baruc, Limi
 
 |   Versão  |    Data   | Descrição | Autor(es) | Revisor(es)|
 | --------- | --------- | --------- | --------- | ---------- |
-|   `1.0`   | 28/09/2023| Criação da página de apresentação 2 | [Limirio Guimarães](https://github.com/LimirioGuimaraes) | [Mayara Alves](https://github.com/Mayara-tecj)|
+|   `1.0`   | 28/09/2023| Criação da página de apresentação 2 | [Limirio Guimarães](https://github.com/LimirioGuimaraes) | [Mayara Alves](https://github.com/Mayara-tech)|
 
