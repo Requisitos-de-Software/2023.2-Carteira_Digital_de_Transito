@@ -6,9 +6,22 @@ Nesta página está listado todos requisitos obtidos com a etapa de elicitação
 
 ## Metodologia 
 
-A metodologia adotada envolveu a consolidação de todos os requisitos funcionais (RF) e requisitos não funcionais (RNF) obtidos por meio de diversas técnicas de elicitação em uma tabela estruturada (Tabela 2). Nesta tabela, cada requisito é identificado por um ID exclusivo descrito na tabela 1, categorizado como RF ou RNF para indicar seu tipo e acompanhado de um status de implementação. Além disso, a tabela também rastreia a origem de cada requisito, destacando se ele foi obtido por meio de técnicas como o Glossario, StoryBoard, Introspecção e Entrevista.
+A metodologia adotada envolveu a consolidação de todos os requisitos funcionais (RF) e requisitos não funcionais (RNF) obtidos por meio de diversas técnicas de elicitação em uma tabela estruturada (Tabela 3). Nesta tabela, cada requisito é identificado por um ID exclusivo descrito na tabela 2, categorizado como RF ou RNF para indicar seu tipo e acompanhado de um status de implementação. Além disso, a tabela também rastreia a origem de cada requisito, destacando se ele foi obtido por meio de técnicas como o Glossario, StoryBoard, Introspecção e Entrevista. Na Tabela 1, encontramos o cronograma de execução da elicitação de requisitos, que apresenta as datas de realização do levantamento de requisitos.
 
-<p align="center"><b>Tabela 01</b> - Legenda de identificação de ID.</p>
+<p align="center"><b>Tabela 01</b> - Cronograma de elicitação de requisitos .</p>
+<center>
+
+| Método | Data da elicitação        |
+|------ |-------------------------------------|
+| Glossário  | 22/10/2023               |
+| StoryBoard  |  20/10/2023             |
+| Entrevista  | 20/10/2023 |
+| Introspecção  | 21/10/2023 |
+
+Fonte: [Mayara Alves](https://github.com/Mayara-tech)
+</center>
+
+<p align="center"><b>Tabela 02</b> - Legenda de identificação de ID.</p>
 <center>
 
 | Tipo | Descrição                           |
@@ -25,7 +38,7 @@ Fonte: [Luis Miranda](https://github.com/LuisMiranda10) e [Mayara Alves](https:/
 </center>
 
 
-<p align="center"><b>Tabela 02</b> - Requisitos elicitados no aplicativo Carteira Digital de Trânsito.</p>
+<p align="center"><b>Tabela 03</b> - Requisitos elicitados no aplicativo Carteira Digital de Trânsito.</p>
 <center>
 
 |Rastreabilidade |Requisito| Tipo | Implementação|
