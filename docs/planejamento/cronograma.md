@@ -45,7 +45,7 @@ Na Tabela 2, tem-se o cronograma planejado para todas as atividades da primeira 
 <font size="3"><p style="text-align: center">Fonte: [Mayara Alves](https://github.com/Mayara-tech).</p></font>
 
 
-### Cronograma executado
+### Cronograma executado entrega 1
 
 Na Tabela 3, está explicitado o cronograma executado das atividades da primeira entrega.
 
@@ -122,12 +122,25 @@ Na Tabela 6, tem-se o cronograma planejado para todas as atividades da terceira 
 | Gravar reunião    | 25/10/2023| 25/10/2023 | Altino, Breno, Limírio, Luis, Mayara, Milena, Vinícius  |  Altino, Breno, Limírio, Luis, Mayara, Milena, Vinícius  |
 | Correção após a Entrega 3  | 26/10/2023 | 29/10/2023 |    Altino, Breno, Limírio, Luis, Mayara, Milena, Vinícius   | Altino, Breno, Limírio, Luis, Mayara, Milena, Vinícius   | 
 
+### Cronograma executado entrega 3.
+Na Tabela 7, tem-se o cronograma executado para todas as atividades da terceira entrega.
+
+<p align="center"><b>Tabela 07</b> - Cronograma executado entrega etapa 3 - Modelagem de Requisitos</p>
+
+| **Atividade** | **Início** | **Fim** | **Responsáveis** |  **Revisores** |
+|---------------|------------|---------|------------------|----------------|
+| Modelagen de requisitos: Cenários           | 05/10/2023| 25/10/2023 | Mayara  |     Breno    |
+| Modelagen de requisitos: Léxico | 05/10/2023| 22/10/2023 | Vinícius e Luis | Breno |
+| Modelagen de requisitos: Use case           | 05/10/2023| 21/10/2023 | Limírio | Breno |
+| Modelagen de requisitos: Especificação suplementar | 05/10/2023| 22/10/2023 | Breno | Mayara |
+| Gravar reunião    | 25/10/2023| 25/10/2023 | Altino, Breno, Limírio, Luis, Mayara, Milena, Vinícius  |  Altino, Breno, Limírio, Luis, Mayara, Milena, Vinícius  |
+| Correção após a Entrega 3  | 26/10/2023 | 29/10/2023 |    Altino, Breno, Limírio, Luis, Mayara, Milena, Vinícius   | Altino, Breno, Limírio, Luis, Mayara, Milena, Vinícius   | 
 
 ### Cronograma planejado entrega 4.
 
-Na Tabela 7, tem-se o cronograma planejado para todas as atividades da quarta entrega.
+Na Tabela 8, tem-se o cronograma planejado para todas as atividades da quarta entrega.
 
-<p align="center"><b>Tabela 07</b> - Planejamento do cronograma etapa 4 - Modelagem de Requisitos</p>
+<p align="center"><b>Tabela 08</b> - Planejamento do cronograma etapa 4 - Modelagem de Requisitos</p>
 
 | **Atividade** | **Início** | **Fim** | **Responsáveis** |  **Revisores** |
 |---------------|------------|---------|------------------|----------------|
@@ -139,9 +152,9 @@ Na Tabela 7, tem-se o cronograma planejado para todas as atividades da quarta en
 
 ### Cronograma planejado entrega 5.1.
 
-Na Tabela 8, tem-se o cronograma planejado para todas as atividades da entrega 5.1.
+Na Tabela 9, tem-se o cronograma planejado para todas as atividades da entrega 5.1.
 
-<p align="center"><b>Tabela 08</b>  - Planejamento do cronograma etapa 5.1 - Análise de Requisitos </p>
+<p align="center"><b>Tabela 09</b>  - Planejamento do cronograma etapa 5.1 - Análise de Requisitos </p>
 
 | **Atividade** | **Início** | **Fim** | **Responsáveis** |  **Revisores** |
 |---------------|------------|---------|------------------|----------------|
@@ -152,9 +165,9 @@ Na Tabela 8, tem-se o cronograma planejado para todas as atividades da entrega 5
 
 ### Cronograma planejado entrega 6.
 
-Na Tabela 9, tem-se o cronograma planejado para todas as atividades da sexta entrega.
+Na Tabela 10, tem-se o cronograma planejado para todas as atividades da sexta entrega.
 
-<p align="center"><b>Tabela 09</b> - Planejamento do cronograma etapa 6 - Pós-Rastreabilidade </p>
+<p align="center"><b>Tabela 10</b> - Planejamento do cronograma etapa 6 - Pós-Rastreabilidade </p>
 
 
 | **Atividade** | **Início** | **Fim** | **Responsáveis** |  **Revisores** |
@@ -167,9 +180,9 @@ Na Tabela 9, tem-se o cronograma planejado para todas as atividades da sexta ent
 
 ### Cronograma planejado entrega 5.2
 
-Na Tabela 10, tem-se o cronograma planejado para todas as atividades da entrega 5.2.
+Na Tabela 11, tem-se o cronograma planejado para todas as atividades da entrega 5.2.
 
-<p align="center"><b>Tabela 10</b> - Planejamento do cronograma etapa 5.2 - Análise de Requisitos </p>
+<p align="center"><b>Tabela 11</b> - Planejamento do cronograma etapa 5.2 - Análise de Requisitos </p>
 
 | **Atividade** | **Início** | **Fim** | **Responsáveis** |  **Revisores** |
 |---------------|------------|---------|------------------|----------------|
@@ -178,7 +191,6 @@ Na Tabela 10, tem-se o cronograma planejado para todas as atividades da entrega 
 | Gravar reunião     | 14/11/2023| 29/11/2023 |  Altino, Breno, Limírio, Luis, Mayara, Milena, Vinícius    |  Altino, Breno, Limírio, Luis, Mayara, Milena, Vinícius |
 | Correção após a Entrega 5.2  | 30/11/2023 | 05/12/2023 |     Altino, Breno, Limírio, Luis, Mayara, Milena, Vinícius   | Altino, Breno, Limírio, Luis, Mayara, Milena, Vinícius  | 
 
-<p align="center"><b>Tabela 08</b> - Cronograma etapa 5.2 - Análise de Requisitos</p>
 
 
 ## Referências Bibliográficas
