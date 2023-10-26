@@ -74,10 +74,11 @@ Legenda das tabelas:
 > <a id="FTF2Ref" href="#FTF2">2.</a> HENRIQUE, Matheus. FERREIRA, Rafael. Perfil do Usuário. Repositório da disciplina de Requisitos de Software da Universidade de Brasília, 1/2023. Disponível em: [https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/elicitacao/perfil_de_usuario/](https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/elicitacao/perfil_de_usuario/). Acesso em: 29 setembro de 2023.
 
 
-## Histórico de Versões
+## 📑 Histórico de Versões
 
 | Versão  | Data | Descrição | Autor(es) | Revisor(es) |
 | ---------- | -----  | ------ | ---------- | ---------- |
-| 1.0 | 04/10/2023 | Criação da página | [Mayara Alves](https://github.com/Mayara-tech) | [Breno Queiroz](https://github.com/brenob6) |
+| `1.0` | 04/10/2023 | Criação da página | [Mayara Alves](https://github.com/Mayara-tech) | [Breno Queiroz](https://github.com/brenob6) |
+| `1.0` | 25/10/2023 | Adicionando rastreabilidade | [Mayara Alves](https://github.com/Mayara-tech) | [Breno Queiroz](https://github.com/brenob6) |
 
  
