@@ -64,4 +64,4 @@ Fonte: [Vinícius Mendes](https://github.com/yabamiah).
 |`1.0`| 04/09/2023 | Criação da página de glossário | [Vinícius Mendes](https://github.com/yabamiah)| [Luís Miranda](https://github.com/LuisMiranda10) |
 |`1.1`| 07/09/2023 | Arrumando tabela de requisitos e adicionais mais informações| [Vinícius Mendes](https://github.com/yabamiah)| [Mayara Alves](https://github.com/Mayara-tech) |
 |`1.1`| 07/09/2023 | Arrumando a seção de metodologia | [Vinícius Mendes](https://github.com/yabamiah)| [Luís Miranda](https://github.com/LuisMiranda10) |
-|`1.2`| 22/10/2023| Atualizando req elicitados na Tabela 2 | [Vinícius Mendes](https://github.com/yabamiah) | |
+|`1.2`| 22/10/2023| Atualizando req elicitados na Tabela 2 | [Vinícius Mendes](https://github.com/yabamiah) | [Mayara Alves](https://github.com/Mayara-tech) |
