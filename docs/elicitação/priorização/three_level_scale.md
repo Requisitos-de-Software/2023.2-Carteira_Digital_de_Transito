@@ -79,6 +79,6 @@ Legenda das tabelas:
 | Versão  | Data | Descrição | Autor(es) | Revisor(es) |
 | ---------- | -----  | ------ | ---------- | ---------- |
 | `1.0` | 04/10/2023 | Criação da página | [Mayara Alves](https://github.com/Mayara-tech) | [Breno Queiroz](https://github.com/brenob6) |
-| `1.0` | 25/10/2023 | Adicionando rastreabilidade | [Mayara Alves](https://github.com/Mayara-tech) | [Breno Queiroz](https://github.com/brenob6) |
+| `1.1` | 25/10/2023 | Adicionando rastreabilidade | [Mayara Alves](https://github.com/Mayara-tech) | [Breno Queiroz](https://github.com/brenob6) |
 
  
