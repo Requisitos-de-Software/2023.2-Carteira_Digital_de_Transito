@@ -4,12 +4,6 @@
 
 Dado que a priorização de requisitos é um processo crítico que envolve a classificação e seleção dos requisitos do sistema de acordo com sua importância, impacto e viabilidade, a abordagem _First Things First_ visa enfatizar a importância de focar nas tarefas e atividades mais cruciais e significativas antes de se dedicar a tarefas menos importantes. Assim, temos como ideia central que para ter mais prosutividade deve-se identificar e dedicar tempo significativo às atividades que tem mais impacto no projeto.
 
-## Cronograma da Reunião
-
-| Data | Hora | Local | Assunto | Participantes |
-| :--: | :--: | :---: | ------- | ------------ |
-| //2023 | h | Teams | Priorização de requisitos elicitados |   | 
-
 ## Metodologia
 
 A seguir, apresentamos as pessoas que contribuíram para o desenvolvimento desta abordagem, com seus nomes relacionados na Tabela 1:
@@ -25,16 +19,29 @@ Tabela 1 - Participantes
 |**Nome**                                        |**Função**          |
 |:----------------------------------------------:| :----------------: |
 |[Milena Baruc](https://github.com/MilenaBaruc)  | Mediador           |
-|[Luis Eduardo](https://github.com/LuisMiranda10)| Usuário            |
-|[Victor Hugo](https://github.com/ViictorHugoo)  | Desenvolvedor      |
+|[Luis Eduardo](https://github.com/LuisMiranda10)| Desenvolvedor      |
+|[Victor Hugo](https://github.com/ViictorHugoo)  | Usuário            |
 
 **Fonte:** [Milena Baruc](https://github.com/MilenaBaruc)
  
 </center>
 
-Foram realizadas duas reuniões na plataforma Teams:
-- Entre a Mediadora e o Desenvolvedor, na data de 25/10/23 às 20h. [Gravação da reunião]().
-- Entre a Mediadora e o Cliente, na data de 25/10/23 às 20:30. [Gravação da reunião]().
+Foram realizadas duas reuniões na plataforma Teams, como podemos ver na tabela 2:
+- Entre a Mediadora e o Desenvolvedor, na data de 25/10/23 às 20h. [Gravação da reunião](https://youtu.be/hrjwQEOtv-c).
+- Entre a Mediadora e o Cliente, na data de 25/10/23 às 20:30. [Gravação da reunião](https://youtu.be/K3dSjsBsxDA).
+
+<center>
+
+Tabela 2 - Cronograma reuniões
+
+| Data | Hora | Local | Assunto | Participantes |
+| :--: | :--: | :---: | ------- | ------------ |
+| 25/10/2023 | 21:20h | Teams | Classificar benefícios e penalidades na implementação de cada requisito | [Milena Baruc](https://github.com/MilenaBaruc) e [Victor Hugo](https://github.com/ViictorHugoo)| 
+| 25/10/2023 | 21:40h | Teams | Classificar custos e riscos na implementação de cada requisito | [Milena Baruc](https://github.com/MilenaBaruc) e [Luis Eduardo](https://github.com/LuisMiranda10)| 
+
+**Fonte:** [Milena Baruc](https://github.com/MilenaBaruc)
+ 
+</center>
 
 Para elaborar uma tabela em _First Things First_ deve-se seguir oito passos:
 
@@ -55,11 +62,11 @@ Utilizando os passos acima foi possível produzir a Tabela 1 abaixo. Tendo os se
 * **Custo Relativo**: peso 1
 * **Risco Relativo**: peso 0,5
 
-Para a produção da tabela 2, foi utilizado os dados da tabela 2 em <a href="../requisitos_elicitados.md"> requisitos elicitados </a>.
+Para a produção da tabela 3, foi utilizado os dados da tabela 2 em <a href="../requisitos_elicitados.md"> requisitos elicitados </a>.
 
 <center>
 
-Tabela 2 - Resultado da priorização
+Tabela 3 - Resultado da priorização
 
 ![Tabela FTF](../assets/)
 
@@ -78,4 +85,5 @@ Tabela 2 - Resultado da priorização
 | `1.0` | 19/09/2023| Criação do documento | [Milena Baruc](https://github.com/MilenaBaruc) | [Luis Eduardo](https://github.com/LuisMiranda10)|
 | `2.0` | 20/10/2023| Adição do Cronograma e Link da gravação | [Luis Eduardo](https://github.com/LuisMiranda10) | [Milena Baruc](https://github.com/MilenaBaruc) |
 | `2.1` | 25/10/2023| Arrumando erros apresentação | [Milena Baruc](https://github.com/MilenaBaruc) | [Luis Eduardo](https://github.com/LuisMiranda10)|
+| `2.2` | 25/10/2023| Adicionando reuniões e cronograma | [Milena Baruc](https://github.com/MilenaBaruc) | [Luis Eduardo](https://github.com/LuisMiranda10)|
 
