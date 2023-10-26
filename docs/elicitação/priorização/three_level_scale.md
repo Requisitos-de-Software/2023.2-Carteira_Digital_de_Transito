@@ -22,7 +22,7 @@ Portanto, é aconselhável considerar cuidadosamente as interdependências ao av
 
 ## Participantes
 O usuário da aplicativo da Carteira Digital de Trânsito Igor Luna Almeida foi convidado para participar do presente método de priorização, informada dos fins de pesquisa deste e concordou com o uso das informações no projeto e com o termo de consertimento. Na data de 01/10/2023, das 10h às 10:18, foi realizada uma reunião presencial entre a usuária e o desenvolvedor Mayara Alves, 
-na qual toda a dinâmica do Three Level Scale foi explicada e a usuário categorizou os requisitos de acordo com sua visão. As tabelas 1 e 2 apresentam os resultados dessa priorização.
+na qual toda a dinâmica do Three Level Scale foi explicada e a usuário categorizou os requisitos de acordo com sua visão. Para a priorização foram escolhidos apenas alguns requisitos elicitados, que coincidiam com o entendimento do usuário e que facilitariam o entendimento do usuário na priorização. A tabela 1 apresentam os resultados dessa priorização.
 
 ## Requisitos priorizados
 
