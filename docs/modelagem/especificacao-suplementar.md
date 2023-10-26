@@ -35,7 +35,7 @@ prévia de treinamento para utilização do sistema.
 ### Requisito de Usabilidade 2 e 3
 
 Os usuários devem realizar as atividades críticas em um curto período de tempo, de no máximo
-um minuto. Além disso, os objetivos críticos deve ser alcançados por um caminho curto, necessitando
+um minuto. Além disso, os objetivos críticos devem ser alcançados por um caminho curto, necessitando
 uma pequena quantidade de ações do usuário, cerca de 5 ações.
 
 ### Requisito de usabilidade 4 e 5
@@ -46,7 +46,7 @@ ou bordões técnicos.
 
 ### Requisito de usabilidade 6
 
-O Art. 63 do Estatuto da Pessoa <a href="#REF1">^1^</a> com Deficiência esbelece:
+O Art. 63 do Estatuto da Pessoa com Deficiência<a href="#REF1">^1^</a> esbelece:
 
 > Art. 63. É obrigatória a acessibilidade nos sítios da internet mantidos por empresas
 > com sede ou representação comercial no País ou por órgãos de governo, para uso da pessoa
@@ -56,7 +56,7 @@ O Art. 63 do Estatuto da Pessoa <a href="#REF1">^1^</a> com Deficiência esbelec
 As diretrizes adotadas internacionalmente são as Diretrizes de Acessibilidade para Conteúdo Web (WCAG),
 desenvolvidas pela World Wide Web Consortium (W3C).
 
-A WCAG 2.1 possui 4 princípios, com 13 diretrizes com 78 critérios de sucesso.
+A WCAG 2.1 possui 4 princípios, 13 diretrizes e 78 critérios de sucesso.
 Os critérios de sucesso atingidos vão definir os níveis de conformidade entre A, AA ou AAA.
 
 A figura 1 mostra a estrutura da WCAG 2.1.
@@ -77,9 +77,11 @@ O aplicativo deve seguir as normas de acessibilidade da WCAG.
 
 A avaliação de usabilidade seguirá os critérios estabelecidos pela WCAG 2.1: "A", "AA", "AAA".
 A W3C Web Accessibility Initiative (WAI), disponibiliza ferramentas de teste automatizado, mas
-é fundamental a avalliação humana por usuários e especialistas <a href="#REF2">^2^</a>.
+é fundamental a avaliação humana por usuários e especialistas <a href="#REF2">^2^</a>.
 
 ## Confiabilidade
+
+O quão confiável é o sistema.
 
 0. Disponibilidade integral.
 1. Políticas de privacidade.
@@ -103,7 +105,7 @@ com o caso de uso em questão <a href="#REF3">^3^</a>.
 
 ### Requisito de desempenho 1
 
-- O aplicativo não deve utilizar mais do que 90MB de armazenamento interno do aplicativo.
+- O aplicativo não deve utilizar mais do que 90MB de armazenamento interno do dispositivo.
 
 ### Requisito de desempenho 2
 
@@ -121,7 +123,7 @@ em dispositiveis móveis.
 
 ### Requisito de suportabilidade 1
 
-O aplicativo deve está disponpivel para Android e iOS, inclusive em versões mais antigas dos
+O aplicativo deve está disponível para Android e iOS, inclusive em versões mais antigas dos
 SOs. De forma que 90% dos dispositivos ativos de cada SO sejam atendidos. <a href="#REF3">^4^</a>
 
 ## + Restrições
