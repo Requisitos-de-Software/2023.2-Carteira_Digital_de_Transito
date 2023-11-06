@@ -28,6 +28,13 @@ Cada um desses tipos de Softgoals pode ser desdobrado seguindo os seguintes mét
 - **Priorização:** Refina um Softgoal em outro com o mesmo tipo e tópico, atribuindo uma prioridade associada a cada um, o que é útil para determinar a importância relativa dos objetivos e suas contribuições para o sistema.
 
 Esse processo de desdobramento e priorização dos Softgoals é essencial para alcançar uma modelagem precisa e eficaz, especialmente em contextos nos quais os objetivos não são facilmente quantificáveis ou têm várias nuances.
+<center>
+<p align="center"> Figura 1: Tipos de Decomposição </p>
+ ![TiposDeDecomposicao](../../assets/imagem_2023-11-06_164643478.png)
+<p align="center"> Fonte: CHUNG et al.; 2000  </p>
+ 
+  
+</center>
 
 ## Metodologia
 A abordagem adotada para a concepção do artefato foi fundamentada nos requisitos não funcionais, os quais foram delineados com base no nosso documento de especificação suplementar. Que, por sua vez, se pautou no modelo FURPS+ para a criação de 13 NFRs. Para melhor entendimento de cada categoria, foi feito um SIG (Softgoal Interdependency Graph), um diagrama da propagação de impactos e um cartão de especificação, que possui informações sobre o NFR, como a descrição, a categoria, os conflitos, a origem, os critérios e outras informações, que foram divididos em 4 aspectos: Usabilidade, confiabilidade, desempenho e suportabilidade, como demonstrado na tabela 1. 
@@ -74,6 +81,8 @@ A abordagem adotada para a concepção do artefato foi fundamentada nos requisit
 > REQUISITOS DE SOFTWARE. Bilheteria Digital. Distrito Federal, 2023. Disponível em: <https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/>. Acesso em: 06/11/2023.
 
 > REQUISITOS DE SOFTWARE. MEI - Microempreendedor Individual. Distrito Federal, 2022. Disponível em:  <https://requisitos-de-software.github.io/2022.2-MEI/>. Acesso em: 06/11/2023
+
+> CHUNG, L.; NIXON, B. A.; YU, E.; MYLOPOULOS, J. Non-functional requirements in software engineering. Springer Science & Business Media: [s.n.], 2000. v. 5.
 
 
 ## 📑Histórico de Versões
