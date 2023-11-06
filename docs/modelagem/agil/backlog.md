@@ -79,27 +79,60 @@ A seguir, apresentamos o backlog do produto elaborado em colaboração com o PO,
 | --- | ----------------------------------------------------------------------- | ----------------------------------------- |
 | RE30 | O aplicativo deve garantir a segurança dos dados do usuário.           |                                           |
 
-### 3.1. Funcionalidades
+### Épicos e User Stories
 
-| ID   | Requisito                                              | User Story                                                                                                            |
-| ---  | ------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------- |
-| US01 | Fazer Login com GOV                                   | Como um usuário, desejo poder fazer login na aplicação usando o GOV para acessar meus recursos.                     |
-| US02 | Fazer Logoff com GOV                                  | Como um usuário, desejo poder fazer logoff da aplicação usando o GOV para garantir minha segurança.                  |
-| US03 | Acessar Carteira de Habilitação                       | Como um usuário, desejo poder acessar minha carteira de habilitação eletrônica para visualizar suas informações.    |
-| US04 | Adicionar Documento CLRV-e                            | Como um usuário, desejo poder adicionar o documento CLRV-e (Certificado de Registro e Licenciamento de Veículo eletrônico) à minha conta. |
-| US05 | Acessar Documento CLRV-e                              | Como um usuário, desejo poder acessar o documento CLRV-e associado à minha conta.                                 |
-| US06 | Visualizar Exames Toxicológicos                       | Como um usuário, desejo poder visualizar os resultados dos meus exames toxicológicos.                                |
-| US07 | Acessar Infração                                      | Como um usuário, desejo poder acessar informações sobre infrações relacionadas à minha carteira de motorista.     |
-| US08 | Pagar Infração                                        | Como um usuário, desejo poder pagar infrações diretamente através da aplicação.                                    |
-| US09 | Consultar Campanhas e Projetos                        | Como um usuário, desejo poder consultar informações sobre campanhas e projetos relacionados à segurança no trânsito. |
-| US10 | Visualizar Cadastro Positivo                          | Como um usuário, desejo poder visualizar meu cadastro positivo de trânsito para entender meu histórico.             |
-| US11 | Aderir ao Sistema de Notificação Eletrônica           | Como um usuário, desejo poder aderir ao sistema de notificação eletrônica para receber atualizações e alertas importantes. |
-| US12 | Central de Mensagens                                  | Como um usuário, desejo ter acesso a uma central de mensagens onde posso receber comunicações e notificações importantes. |
-| US13 | Tirar Foto para o Perfil                              | Como um usuário, desejo poder tirar uma foto para usar como minha imagem de perfil na aplicação.                  |
-| US14 | Remover Foto de Perfil                                | Como um usuário, desejo poder remover minha foto de perfil, se desejar.                                              |
-| US15 | Escolher Foto da Galeria                              | Como um usuário, desejo poder escolher uma foto da minha galeria de imagens para usar como minha foto de perfil.    |
-| US16 | Visualizar Cursos Especializados                      | Como um usuário, desejo poder visualizar informações sobre cursos especializados relacionados à segurança no trânsito. |
-| US17 | Permitir Biometria Para Desbloquear a Carteira        | Como um usuário, desejo poder usar minha biometria para desbloquear minha carteira de habilitação eletrônica para maior segurança. |
+#### Épico: Gerenciamento de Conta do Usuário
+
+| ID   | Requisito                        | User Story                                                                                                            |
+| ---  | ------------------------------- | --------------------------------------------------------------------------------------------------------------------- |
+| US01 | Fazer Login com GOV             | Como um usuário, desejo poder fazer login na aplicação usando o GOV para acessar meus recursos.                     |
+| US02 | Fazer Logoff com GOV            | Como um usuário, desejo poder fazer logoff da aplicação usando o GOV para garantir minha segurança.                  |
+| US03 | Acessar Carteira de Habilitação  | Como um usuário, desejo poder acessar minha carteira de habilitação eletrônica para visualizar suas informações.    |
+| US12 | Central de Mensagens            | Como um usuário, desejo ter acesso a uma central de mensagens onde posso receber comunicações e notificações importantes. |
+| US13 | Tirar Foto para o Perfil        | Como um usuário, desejo poder tirar uma foto para usar como minha imagem de perfil na aplicação.                  |
+| US14 | Remover Foto de Perfil          | Como um usuário, desejo poder remover minha foto de perfil, se desejar.                                              |
+| US15 | Escolher Foto da Galeria        | Como um usuário, desejo poder escolher uma foto da minha galeria de imagens para usar como minha foto de perfil.    |
+
+#### Épico: Documentos e Certificados
+
+| ID   | Requisito                   | User Story                                                                                                            |
+| ---  | --------------------------  | --------------------------------------------------------------------------------------------------------------------- |
+| US04 | Adicionar Documento CLRV-e   | Como um usuário, desejo poder adicionar o documento CLRV-e (Certificado de Registro e Licenciamento de Veículo eletrônico) à minha conta. |
+| US05 | Acessar Documento CLRV-e     | Como um usuário, desejo poder acessar o documento CLRV-e associado à minha conta.                                 |
+
+#### Épico: Exames e Infrações
+
+| ID   | Requisito                      | User Story                                                                                                            |
+| ---  | -----------------------------  | --------------------------------------------------------------------------------------------------------------------- |
+| US06 | Visualizar Exames Toxicológicos | Como um usuário, desejo poder visualizar os resultados dos meus exames toxicológicos.                                |
+| US07 | Acessar Infração                | Como um usuário, desejo poder acessar informações sobre infrações relacionadas à minha carteira de motorista.     |
+| US08 | Pagar Infração                  | Como um usuário, desejo poder pagar infrações diretamente através da aplicação.                                    |
+
+#### Épico: Campanhas e Projetos
+
+| ID   | Requisito                      | User Story                                                                                                            |
+| ---  | -----------------------------  | --------------------------------------------------------------------------------------------------------------------- |
+| US09 | Consultar Campanhas e Projetos  | Como um usuário, desejo poder consultar informações sobre campanhas e projetos relacionados à segurança no trânsito. |
+
+#### Épico: Cadastro Positivo e Notificações
+
+| ID   | Requisito                        | User Story                                                                                                            |
+| ---  | -------------------------------   | --------------------------------------------------------------------------------------------------------------------- |
+| US10 | Visualizar Cadastro Positivo     | Como um usuário, desejo poder visualizar meu cadastro positivo de trânsito para entender meu histórico.             |
+| US11 | Aderir ao Sistema de Notificação Eletrônica | Como um usuário, desejo poder aderir ao sistema de notificação eletrônica para receber atualizações e alertas importantes. |
+
+#### Épico: Cursos Especializados
+
+| ID   | Requisito                              | User Story                                                                                                            |
+| ---  | ------------------------------------- | --------------------------------------------------------------------------------------------------------------------- |
+| US16 | Visualizar Cursos Especializados        | Como um usuário, desejo poder visualizar informações sobre cursos especializados relacionados à segurança no trânsito. |
+
+#### Épico: Segurança e Autenticação
+
+| ID   | Requisito                                        | User Story                                                                                                            |
+| ---  | -----------------------------------------------   | --------------------------------------------------------------------------------------------------------------------- |
+| US17 | Permitir Biometria Para Desbloquear a Carteira  | Como um usuário, desejo poder usar minha biometria para desbloquear minha carteira de habilitação eletrônica para maior segurança. |
+
 
 
 
