@@ -39,8 +39,9 @@ A seguir, apresentamos o backlog do produto elaborado em colaboração com o PO,
 |                                   | Feature 7 - Funcionamento Offline | US07 - Acesso Offline a Documentos e Infrações | Alta |
 |                                   | Feature 2 - Facilidade de Acesso| US02 - Atualização Rápida de Documentos de Veículos | Média       |
 |                                   | Feature 6 - Transferência de Veículos Simplificada | US06 - Transferência Simplificada de Veículos | Média |
-| Épico 2 - Reconhecimento Facial    | Feature 8 - Reconhecimento Facial | US08 - Aprimoramento do Reconhecimento Facial | Alta |
-| Épico 4 - Atualização Automática de Documentos | Feature 10 - Atualização Automática de Documentos | US11 - Atualização Automática de Documentos | Média |
+| Épico 2 - Reconhecimento Facial   | Feature 8 - Reconhecimento Facial | US08 - Aprimoramento do Reconhecimento Facial | Alta |
+|                                   |                                   | US0 - Correção de Erros no Reconhecimento Facial | Alta |
+| Épico 4 - Atualização de Documentos | Feature 10 - Atualização de Documentos | US11 - Atualização Automática de Documentos | Média |
 |                                   | Feature 12 - Autenticação de Dois Fatores | US13 - Autenticação de Dois Fatores para Segurança | Média |
 |                                   | Feature 14 - Suporte Técnico    | US15 - Suporte Técnico para Atualizações e Erros | Baixa |
 | Épico 3 - Integração com Órgãos Municipais | Feature 9 - Integração com Órgãos Municipais | US10 - Integração de dados com Órgãos Municipais | Alta |
@@ -58,6 +59,22 @@ Analisando as histórias de usuário, foi possível organizá-las inicialmente e
 ## Épicos
 
 Após a definição dos temas, eles são "quebrados" em épicos de modo a diminuir ainda mais a abstração das atividades que deverão ser realizadas no projeto. Para esse projeto, os épicos foram descritos utilizando o padrão de escrita das histórias de usuário e possuem um nível de abstração a mais chamado de _Features_.
+
+### Épico 1 - Praticidade
+
+Esse épico apresenta as funcionalidades que permite aos usuários acessarem funções do aplicativo de forma mais rápida.
+
+### Épico 2 - Reconhecimento Facial
+
+Este épico aborda melhorias e correções no reconhecimento facial e na atualização de documentos do aplicativo.
+
+<center>
+*"Como usuário típico, eu desejo modificar o site de acordo com as minhas preferências"*
+</center>
+
+<center>
+*"Como usuário típico, eu desejo funcionalidades que me permitam categorizar os eventos"*
+</center>
 
 ## Features
 
