@@ -164,7 +164,7 @@ Usabilidade, de acordo com a definição de Jakob Nielsen, é a medida que avali
 <center>
 <p align="center"> Figura 5: SIG Disponibilidade Contínua </p>
 
- ![disponibilidadeContinua](../../assets/confiabilidadeDiagrama1)
+ ![disponibilidadeContinua](../../assets/confiabilidadeDiagrama1.png)
  
 <p align="center"><b>Fonte</b>:  <a href="https://github.com/LimirioGuimaraes">Limírio Guimarães</a></p>
 </center>
