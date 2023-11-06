@@ -32,7 +32,7 @@ A seguir, apresentamos o backlog do produto elaborado em colaboração com o PO,
 
 | Épico                             | Feature                         | História de Usuário                                                                           | Priorização |
 |-----------------------------------|---------------------------------|----------------------------------------------------------------------------------------------|-------------|
-| Épico 1 - Categorizar              | Feature 1 - Praticidade         | US01 - Lembrar login do usuário | Alta        |
+| Épico 1 - Praticidade              | Feature 1 - Praticidade         | US01 - Lembrar login do usuário | Alta        |
 |                                   |                                 | US03 - Acesso Fácil a Documentos Offline | Alta        |
 |                                   |                                 | US04 - Atalho para Documentos | Alta        |
 |                                   | Feature 5 - Previsão de Atualização | US05 - Previsão de Atualizações de Documentos | Alta        |
