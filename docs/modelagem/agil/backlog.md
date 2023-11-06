@@ -34,7 +34,6 @@ A seguir, apresentamos o backlog do produto elaborado em colaboração com o PO,
 |----------------------------------------|--------------------------------------|----------------------------------------------------------------------|-------------|
 | Épico 1 - Praticidade                 | Feature 1 - Praticidade              | US01 - Lembrar login do usuário                                       | Alta        |
 |                                        |                                      | US02 - Atualização Rápida de Documentos de Veículos                    | Média       |
-|                                        |                                      | US03 - Acesso Fácil a Documentos Offline                              | Alta        |
 |                                        |                                      | US04 - Atalho para Documentos                                         | Alta        |
 |                                        | Feature 5 - Previsão de Atualização   | US05 - Previsão de Atualizações de Documentos                         | Alta        |
 |                                        | Feature 7 - Funcionamento Offline    | US07 - Acesso Offline a Documentos e Infrações                        | Alta        |
