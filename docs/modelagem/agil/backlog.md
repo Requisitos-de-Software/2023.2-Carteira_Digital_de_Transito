@@ -70,15 +70,6 @@ Este épico aborda melhorias e correções no reconhecimento facial e na atualiz
 
 ### Épico 3 - Atualização de Documentos
 
-Este épico tem como objetivo melhorar a atualização dos documentos no aplicativo, tornando-a mais eficiente e confiável para os usuários.
-
-<center>
-*"Como usuário típico, eu desejo modificar o site de acordo com as minhas preferências"*
-</center>
-
-<center>
-*"Como usuário típico, eu desejo funcionalidades que me permitam categorizar os eventos"*
-</center>
 
 ## Features
 
