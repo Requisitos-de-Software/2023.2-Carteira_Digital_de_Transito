@@ -63,15 +63,19 @@ A seguir, apresentamos o backlog do produto elaborado em colaboração com o PO,
 
 | ID  | Requisito                                                               | Rastreabilidade                           |
 | --- | ----------------------------------------------------------------------- | ----------------------------------------- |
-| RNF | O aplicativo deve ocupar um espaço de armazenamento razoável.            | [ST](https://requisitos-de-software.github.io/2023.1-VLC/#/elicitacao/storytelling) |
+| RNF | O aplicativo deve ocupar um espaço de armazenamento razoável.           |                                           |
 
+### 3.4. Desempenho
 
 | ID  | Requisito                                                               | Rastreabilidade                           |
 | --- | ----------------------------------------------------------------------- | ----------------------------------------- |
-| RE10 | Eu, como usuário, gostaria que o aplicativo seja rápido ao carregar e reproduzir vídeos. | [ST](https://requisitos-de-software.github.io/2023.1-VLC/#/elicitacao/storytelling) |
-| RE16 | Eu, como usuário, gostaria que o aplicativo não consuma muita bateria do dispositivo. | [ST](https://requisitos-de-software.github.io/2023.1-VLC/#/elicitacao/storytelling) |
-| RE26 | Deve ter um bom desempenho de reprodução, mesmo para arquivos grandes.  | [INT](https://requisitos-de-software.github.io/2023.1-VLC/#/elicitacao/introspeccao) |
+| RE10 | O Aplicativo deve ser rápido ao carregar                               |                                           |
 
+### 3.5. Segurança e Privacidade
+
+| ID  | Requisito                                                               | Rastreabilidade                           |
+| --- | ----------------------------------------------------------------------- | ----------------------------------------- |
+| RE30 | O aplicativo deve garantir a segurança dos dados do usuário.           |                                           |
 
 
 
