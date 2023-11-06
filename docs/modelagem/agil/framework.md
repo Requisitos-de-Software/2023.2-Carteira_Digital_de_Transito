@@ -11,21 +11,21 @@ O Gráfico de Interdependência de Softgoals (SIG) é uma representação visual
 
 Os Softgoals podem ser categorizados em três tipos distintos:
 
-1. **Softgoals NFR:** São requisitos não funcionais, que incluem critérios e atributos de qualidade desejados na análise, permitindo determinar sua implementação ou não implementação.
+- **Softgoals NFR:** São requisitos não funcionais, que incluem critérios e atributos de qualidade desejados na análise, permitindo determinar sua implementação ou não implementação.
 
-2. **Softgoals de Operacionalização:** Representam funcionalidades concretas que servem como uma maneira de viabilizar ou não as características abstratas do sistema.
+- **Softgoals de Operacionalização:** Representam funcionalidades concretas que servem como uma maneira de viabilizar ou não as características abstratas do sistema.
 
-3. **Softgoals de Afirmação:** São declarações em linguagem natural que podem ser incorporadas ao modelo para argumentar sobre pontos específicos de modelagem.
+- **Softgoals de Afirmação:** São declarações em linguagem natural que podem ser incorporadas ao modelo para argumentar sobre pontos específicos de modelagem.
 
 Cada um desses tipos de Softgoals pode ser desdobrado seguindo os seguintes métodos de decomposição:
 
-1. **Decomposição de Softgoals NFR:** Refina ou divide um Softgoal NFR em subobjetivos, ajudando a segmentar problemas complexos em partes menores, o que é útil para lidar com ambiguidades e prioridades.
+- **Decomposição de Softgoals NFR:** Refina ou divide um Softgoal NFR em subobjetivos, ajudando a segmentar problemas complexos em partes menores, o que é útil para lidar com ambiguidades e prioridades.
 
-2. **Decomposição de Operacionalização:** Subdivide um Softgoal de Operacionalização em objetivos mais específicos, permitindo a definição de soluções gerais que podem ser transformadas em soluções mais específicas.
+- **Decomposição de Operacionalização:** Subdivide um Softgoal de Operacionalização em objetivos mais específicos, permitindo a definição de soluções gerais que podem ser transformadas em soluções mais específicas.
 
-3. **Decomposição de Afirmação (Claims):** Refina um Softgoal de Afirmação em subobjetivos adicionais. Isso é útil para fornecer justificativas sólidas para as decisões de projeto, apoiando ou refutando argumentos.
+- **Decomposição de Afirmação (Claims):** Refina um Softgoal de Afirmação em subobjetivos adicionais. Isso é útil para fornecer justificativas sólidas para as decisões de projeto, apoiando ou refutando argumentos.
 
-4. **Priorização:** Refina um Softgoal em outro com o mesmo tipo e tópico, atribuindo uma prioridade associada a cada um, o que é útil para determinar a importância relativa dos objetivos e suas contribuições para o sistema.
+- **Priorização:** Refina um Softgoal em outro com o mesmo tipo e tópico, atribuindo uma prioridade associada a cada um, o que é útil para determinar a importância relativa dos objetivos e suas contribuições para o sistema.
 
 Esse processo de desdobramento e priorização dos Softgoals é essencial para alcançar uma modelagem precisa e eficaz, especialmente em contextos nos quais os objetivos não são facilmente quantificáveis ou têm várias nuances.
 
