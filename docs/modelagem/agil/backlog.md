@@ -120,7 +120,7 @@ Elas especificam ainda mais as _features_ e serão detalhadas melhor na seção 
 | ---  | ------------------------------- | ---------------------------------------------------------------------------------------------------------------------  | ---------- |
 | US01 | Fazer Login com GOV             | Como um usuário, desejo poder fazer login na aplicação usando o GOV para acessar meus recursos.                        | Alta       |
 | US02 | Fazer Logoff com GOV            | Como um usuário, desejo poder fazer logoff da aplicação usando o GOV para garantir minha segurança.                    | Alta       |
-| US03 | Acessar Carteira de Habilitação  | Como um usuário, desejo poder acessar minha carteira de habilitação eletrônica para visualizar suas informações.      | Alta       |
+| US03 | Acessar Carteira de Habilitação | Como um usuário, desejo poder acessar minha carteira de habilitação eletrônica para visualizar suas informações.       | Alta       |
 | US12 | Central de Mensagens            | Como um usuário, desejo ter acesso a uma central de mensagens onde posso receber comunicações e notificações importantes. | Média   |
 | US13 | Tirar Foto para o Perfil        | Como um usuário, desejo poder tirar uma foto para usar como minha imagem de perfil na aplicação.                         | Média    |
 | US14 | Remover Foto de Perfil          | Como um usuário, desejo poder remover minha foto de perfil, se desejar.                                                  | Média    |
@@ -134,8 +134,8 @@ Elas especificam ainda mais as _features_ e serão detalhadas melhor na seção 
 
 | ID   | Requisito                   | User Story                                                                                                            | Prioridade |
 | ---  | --------------------------  | --------------------------------------------------------------------------------------------------------------------- | ---------- |
-| US04 | Adicionar Documento CLRV-e   | Como um usuário, desejo poder adicionar o documento CLRV-e (Certificado de Registro e Licenciamento de Veículo eletrônico) à minha conta. | Média    |
-| US05 | Acessar Documento CLRV-e     | Como um usuário, desejo poder acessar o documento CLRV-e associado à minha conta.                                    |Média       |
+| US04 | Adicionar Documento CLRV-e  | Como um usuário, desejo poder adicionar o documento CLRV-e (Certificado de Registro e Licenciamento de Veículo eletrônico) à minha conta. | Média    |
+| US05 | Acessar Documento CLRV-e    | Como um usuário, desejo poder acessar o documento CLRV-e associado à minha conta.                                     |Média       |
 
 
 <p align="center"> Fonte: Altino Arthur</p>
@@ -158,7 +158,7 @@ Elas especificam ainda mais as _features_ e serão detalhadas melhor na seção 
  
 | ID   | Requisito                      | User Story                                                                                                            | Prioridade |
 | ---  | -----------------------------  | --------------------------------------------------------------------------------------------------------------------- | ---------- |
-| US09 | Consultar Campanhas e Projetos  | Como um usuário, desejo poder consultar informações sobre campanhas e projetos relacionados à segurança no trânsito. | Baixa      |
+| US09 | Consultar Campanhas e Projetos | Como um usuário, desejo poder consultar informações sobre campanhas e projetos relacionados à segurança no trânsito.  | Baixa      |
 
 
 <p align="center"> Fonte: Altino Arthur</p>
@@ -167,8 +167,8 @@ Elas especificam ainda mais as _features_ e serão detalhadas melhor na seção 
 #### Épico 5: Cadastro Positivo e Notificações
 
 | ID   | Requisito                        | User Story                                                                                                            | Prioridade |
-| ---  | -------------------------------   | --------------------------------------------------------------------------------------------------------------------- | ---------- |
-| US10 | Visualizar Cadastro Positivo     | Como um usuário, desejo poder visualizar meu cadastro positivo de trânsito para entender meu histórico.             | Média    |
+| ---  | -------------------------------  | --------------------------------------------------------------------------------------------------------------------- | ---------- |
+| US10 | Visualizar Cadastro Positivo     | Como um usuário, desejo poder visualizar meu cadastro positivo de trânsito para entender meu histórico.               | Média      |
 | US11 | Aderir ao Sistema de Notificação Eletrônica | Como um usuário, desejo poder aderir ao sistema de notificação eletrônica para receber atualizações e alertas importantes. | Média    |
 
 
@@ -179,7 +179,7 @@ Elas especificam ainda mais as _features_ e serão detalhadas melhor na seção 
 
 | ID   | Requisito                              | User Story                                                                                                            | Prioridade |
 | ---  | -------------------------------------  | --------------------------------------------------------------------------------------------------------------------- | ---------- |
-| US16 | Visualizar Cursos Especializados        | Como um usuário, desejo poder visualizar informações sobre cursos especializados relacionados à segurança no trânsito. | Baixa    |
+| US16 | Visualizar Cursos Especializados       | Como um usuário, desejo poder visualizar informações sobre cursos especializados relacionados à segurança no trânsito. | Baixa     |
 
 
 <p align="center"> Fonte: Altino Arthur</p>
@@ -188,8 +188,8 @@ Elas especificam ainda mais as _features_ e serão detalhadas melhor na seção 
 #### Épico 7: Segurança e Autenticação
 
 | ID   | Requisito                                        | User Story                                                                                                            | Prioridade |
-| ---  | -----------------------------------------------   | --------------------------------------------------------------------------------------------------------------------- | ---------- |
-| US17 | Permitir Biometria Para Desbloquear a Carteira  | Como um usuário, desejo poder usar minha biometria para desbloquear minha carteira de habilitação eletrônica para maior segurança. | Alta    |
+| ---  | -----------------------------------------------  | --------------------------------------------------------------------------------------------------------------------- | ---------- |
+| US17 | Permitir Biometria Para Desbloquear a Carteira   | Como um usuário, desejo poder usar minha biometria para desbloquear minha carteira de habilitação eletrônica para maior segurança. | Alta    |
 
 
 <p align="center"> Fonte: Altino Arthur</p>
