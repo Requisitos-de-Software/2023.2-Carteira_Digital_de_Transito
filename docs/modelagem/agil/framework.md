@@ -30,8 +30,9 @@ Cada um desses tipos de Softgoals pode ser desdobrado seguindo os seguintes mét
 Esse processo de desdobramento e priorização dos Softgoals é essencial para alcançar uma modelagem precisa e eficaz, especialmente em contextos nos quais os objetivos não são facilmente quantificáveis ou têm várias nuances.
 <center>
 <p align="center"> Figura 1: Tipos de Decomposição </p>
- ![Elipse](../../assets/elipseCasosDeUso.png).
- ![TiposDeDecomposicao](../../assets/imagem_2023-11-06_164643478.png).
+
+ ![decomposicao](../../assets/imagem_2023-11-06_164643478.png)
+ 
 <p align="center"> Fonte: CHUNG et al.; 2000  </p>
  
   
