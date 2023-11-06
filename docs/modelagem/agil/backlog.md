@@ -31,24 +31,24 @@ A seguir, apresentamos o backlog do produto elaborado em colaboração com o PO,
 
 
 | Épico                                  | Feature                              | História de Usuário                                                   | Priorização |
-|----------------------------------------|--------------------------------------|----------------------------------------------------------------------|-------------|
-| Épico 1 - Praticidade                 | Feature 1 - Praticidade              | US01 - Lembrar login do usuário                                       | Alta        |
-|                                        |                                      | US02 - Atualização Rápida de Documentos de Veículos                    | Média       |
-|                                        |                                      | US04 - Atalho para Documentos                                         | Alta        |
-|                                        | Feature 5 - Previsão de Atualização   | US05 - Previsão de Atualizações de Documentos                         | Alta        |
+|----------------------------------------|--------------------------------------|---------------------------------------------------------------------- |-------------|
+| Épico 1 - Praticidade                  | Feature 1 - Praticidade              | US01 - Lembrar login                                                  | Alta        |
+|                                        |                                      | US02 - Atualização Rápida de Documentos de Veículos                   | Média       |
+|                                        |                                      | US04 - Atalho para acessar Documentos                                 | Alta        |
 |                                        | Feature 7 - Funcionamento Offline    | US07 - Acesso Offline a Documentos e Infrações                        | Alta        |
-|                                        | Feature 6 - Transferência de Veículos Simplificada | US06 - Transferência Simplificada de Veículos          | Média       |
-| Épico 2 - Reconhecimento Facial        | Feature 8 - Reconhecimento Facial     | US08 - Aprimoramento do Reconhecimento Facial                         | Alta        |
+|                                        | Feature 6 - Transferência de Veículos Simplificada | US06 - Transferência Simplificada de Veículos           | Média       |
+| Épico 2 - Reconhecimento Facial        | Feature 8 - Reconhecimento Facial    | US08 - Aprimoramento do Reconhecimento Facial                         | Alta        |
 |                                        |                                      | US09 - Correção de Erros no Reconhecimento Facial                     | Alta        |
 | Épico 3 - Integração com Órgãos Municipais | Feature 9 - Integração com Órgãos Municipais | US10 - Integração de dados com Órgãos Municipais          | Alta        |
-| Épico 4 - Atualização de Documentos     | Feature 10 - Atualização de Documentos | US11 - Atualização Automática de Documentos                           | Média       |
-| Épico X - Segurança                     | Feature 12 - Autenticação de Dois Fatores | US13 - Autenticação de Dois Fatores para Segurança                   | Média       |
-|                                        |                                      | US14 - Inclusão da Identificação Facial como Opção Adicional        | Alta        |
-|                                        | Feature 14 - Suporte Técnico        | US15 - Suporte Técnico para Atualizações e Erros                     | Baixa       |
-| Épico 5 - Manutenção de Documentos     | Feature 15 - Manutenção de Documentos no Celular | US16 - Manter Documentos Digitais no Celular         | Média       |
+| Épico 4 - Atualização de Documentos     | Feature 10 - Atualização de Documentos | US11 - Atualização Automática de Documentos                        | Média       |
+|                                        | Feature 5 - Previsão de Atualização  | US05 - Previsão de Atualizações de Documentos                         | Alta        |
+|                                        | Feature 14 - Suporte Técnico         | US15 - Suporte Técnico para Atualizações e Erros                      | Baixa       |
+| Épico X - Segurança                     | Feature 12 - Autenticação de Dois Fatores | US13 - Autenticação de Dois Fatores                             | Média       |
+|                                        |                                      | US14 - Inclusão da Identificação Facial como Opção Adicional          | Alta        |
+| Épico 5 - Manutenção de Documentos     | Feature 15 - Manutenção de Documentos no Celular | US16 - Manter Documentos Digitais no Celular              | Média       |
 | Épico 6 - Alertas                      | Feature 16 - Alerta de Multas        | US17 - Alertas Eficazes de Multas                                     | Média       |
-|                                        | Feature 17 - Alerta de Vencimento da CNH | US18 - Alertas de Vencimento da CNH                  | Média       |
-
+|                                        | Feature 17 - Alerta de Vencimento da CNH | US18 - Alertas de Vencimento da CNH                               | Média       |
+ 
 ## Temas
 
 Analisando as histórias de usuário, foi possível organizá-las inicialmente em dois grandes temas.
