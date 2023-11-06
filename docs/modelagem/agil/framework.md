@@ -35,7 +35,7 @@ Esse processo de desdobramento e priorização dos Softgoals é essencial para a
  
 <p align="center"> Fonte: CHUNG et al.; 2000  </p>
 </center>
-#### Contribuições entre Softgoals em um NFR Framework
+### Contribuições entre Softgoals em um NFR Framework
 
 Um aspecto fundamental é a relação de contribuição entre os Softgoals, que descreve como as mudanças nos estados de um Softgoal filho podem afetar o Softgoal pai. Essas contribuições são classificadas em diversos tipos, conforme apresentado na tabela a seguir:
 
