@@ -159,14 +159,14 @@ Usabilidade, de acordo com a definição de Jakob Nielsen, é a medida que avali
 | Conflito              | Nenhum |
 | Historia              | 06 de novembro de 2023 |
 
-<p align="center"> Fonte: [Limirio Guimarães](https://github.com/LimirioGuimaraes)</p>
+<p align="center"><b>Fonte</b>:  <a href="https://github.com/LimirioGuimaraes">Limírio Guimarães</a></p>
 
 <center>
 <p align="center"> Figura 5: SIG Disponibilidade Contínua </p>
 
- ![decomposicao](../../assets/confiabilidadeDiagrama1)
+ ![disponibilidadeContinua](../../assets/confiabilidadeDiagrama1)
  
-<p align="center"> Fonte: CHUNG et al.; 2000  </p>
+<p align="center"><b>Fonte</b>:  <a href="https://github.com/LimirioGuimaraes">Limírio Guimarães</a></p>
 </center>
 
 
