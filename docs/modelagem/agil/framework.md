@@ -13,7 +13,7 @@ A abordagem adotada para a concepção do artefato foi fundamentada nos requisit
 
 |   Tipo  | Requisito                                                                                       | ID  |
 | ---------- | --------------------------------------------------------------------------------             | ---------       |
-| Usabilidade| O sistema não deve exigir que seus usuários sejam tecnófilos. Deve ser de fácil uso, sem necessidade prévia de treinamento para utilização do sistema.                                                                   | NFR01
+| Usabilidade| O sistema não deve exigir que seus usuários sejam tecnófilos. Deve ser de fácil uso, sem necessidade prévia de treinamento para utilização do sistema.                                                                   | [NFR01](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/elicitação/requisitos_elicitados/) 
 | Usabilidade|Os usuários devem realizar as atividades críticas em um curto período de tempo, de no máximo um minuto.                                                                   | NFR02
 | Usabilidade|Os objetivos críticos deve ser alcançados por um caminho curto, necessitando uma pequena quantidade de ações do usuário, cerca de 5 ações.                                                                   | NFR03
 | Usabilidade|O sistema deve possuir design minimalista, evitando que sejam mostradas infomações irrelevantes ou pouco consultadas.                                                                   | NFR04
