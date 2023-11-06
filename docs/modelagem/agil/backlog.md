@@ -92,4 +92,4 @@ Elas especificam ainda mais as _features_ e serão detalhadas melhor na seção 
 
 | Versão | Data       | Descrição                              | Autor(es)                        | Revisor(es)                       |
 | ------ | ---------- | -------------------------------------- | -------------------------------- | --------------------------------- |
-| 1.0    | 22/05/2023 | Criação da página inicial.             | [Altino Arthur](https://github.com/arthurrochamoreira) | [Nome do Revisor](https://github.com/) |
+| 1.0    | 05/11/2023 | Criação da página inicial.             | [Altino Arthur](https://github.com/arthurrochamoreira) | [Nome do Revisor](https://github.com/) |
