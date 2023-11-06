@@ -84,7 +84,7 @@ A seguir, apresentamos o backlog do produto elaborado em colaboração com o PO,
 | ID   | Requisito                                              | User Story                                                                                                            |
 | ---  | ------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------- |
 | US01 | Fazer Login com GOV                                   | Como um usuário, desejo poder fazer login na aplicação usando o GOV para acessar meus recursos.                     |
-| US02 | FAzer Logoff com GOV                                  | Como um usuário, desejo poder fazer logoff da aplicação usando o GOV para garantir minha segurança.                  |
+| US02 | Fazer Logoff com GOV                                  | Como um usuário, desejo poder fazer logoff da aplicação usando o GOV para garantir minha segurança.                  |
 | US03 | Acessar Carteira de Habilitação                       | Como um usuário, desejo poder acessar minha carteira de habilitação eletrônica para visualizar suas informações.    |
 | US04 | Adicionar Documento CLRV-e                            | Como um usuário, desejo poder adicionar o documento CLRV-e (Certificado de Registro e Licenciamento de Veículo eletrônico) à minha conta. |
 | US05 | Acessar Documento CLRV-e                              | Como um usuário, desejo poder acessar o documento CLRV-e associado à minha conta.                                 |
