@@ -30,24 +30,25 @@ Essa abordagem metódica e colaborativa na construção e organização do Backl
 A seguir, apresentamos o backlog do produto elaborado em colaboração com o PO, detalhando cada história de usuário e sua priorização.
 
 
-| Épico                             | Feature                         | História de Usuário                                                                           | Priorização |
-|-----------------------------------|---------------------------------|----------------------------------------------------------------------------------------------|-------------|
-| Épico 1 - Praticidade              | Feature 1 - Praticidade         | US01 - Lembrar login do usuário | Alta        |
-|                                   |                                 | US03 - Acesso Fácil a Documentos Offline | Alta        |
-|                                   |                                 | US04 - Atalho para Documentos | Alta        |
-|                                   | Feature 5 - Previsão de Atualização | US05 - Previsão de Atualizações de Documentos | Alta        |
-|                                   | Feature 7 - Funcionamento Offline | US07 - Acesso Offline a Documentos e Infrações | Alta |
-|                                   | Feature 2 - Facilidade de Acesso| US02 - Atualização Rápida de Documentos de Veículos | Média       |
-|                                   | Feature 6 - Transferência de Veículos Simplificada | US06 - Transferência Simplificada de Veículos | Média |
-| Épico 2 - Reconhecimento Facial   | Feature 8 - Reconhecimento Facial | US08 - Aprimoramento do Reconhecimento Facial | Alta |
-|                                   |                                   | US0 - Correção de Erros no Reconhecimento Facial | Alta |
-| Épico 4 - Atualização de Documentos | Feature 10 - Atualização de Documentos | US11 - Atualização Automática de Documentos | Média |
-|                                   | Feature 12 - Autenticação de Dois Fatores | US13 - Autenticação de Dois Fatores para Segurança | Média |
-|                                   | Feature 14 - Suporte Técnico    | US15 - Suporte Técnico para Atualizações e Erros | Baixa |
-| Épico 3 - Integração com Órgãos Municipais | Feature 9 - Integração com Órgãos Municipais | US10 - Integração de dados com Órgãos Municipais | Alta |
-| Épico 5 - Manutenção de Documentos  | Feature 15 - Manutenção de Documentos no Celular | US16 - Manter Documentos Digitais no Celular | Média |
-| Épico 6 - Alertas                  | Feature 16 - Alerta de Multas  | US17 - Alertas Eficazes de Multas | Média |
-|                                   | Feature 17 - Alerta de Vencimento da CNH | US18 - Alertas de Vencimento da CNH | Média |
+| Épico                                  | Feature                              | História de Usuário                                                   | Priorização |
+|----------------------------------------|--------------------------------------|----------------------------------------------------------------------|-------------|
+| Épico 1 - Praticidade                 | Feature 1 - Praticidade              | US01 - Lembrar login do usuário                                       | Alta        |
+|                                        |                                      | US02 - Atualização Rápida de Documentos de Veículos                    | Média       |
+|                                        |                                      | US03 - Acesso Fácil a Documentos Offline                              | Alta        |
+|                                        |                                      | US04 - Atalho para Documentos                                         | Alta        |
+|                                        | Feature 5 - Previsão de Atualização   | US05 - Previsão de Atualizações de Documentos                         | Alta        |
+|                                        | Feature 7 - Funcionamento Offline    | US07 - Acesso Offline a Documentos e Infrações                        | Alta        |
+|                                        | Feature 6 - Transferência de Veículos Simplificada | US06 - Transferência Simplificada de Veículos          | Média       |
+| Épico 2 - Reconhecimento Facial        | Feature 8 - Reconhecimento Facial     | US08 - Aprimoramento do Reconhecimento Facial                         | Alta        |
+|                                        |                                      | US09 - Correção de Erros no Reconhecimento Facial                     | Alta        |
+| Épico 3 - Integração com Órgãos Municipais | Feature 9 - Integração com Órgãos Municipais | US10 - Integração de dados com Órgãos Municipais          | Alta        |
+| Épico 4 - Atualização de Documentos     | Feature 10 - Atualização de Documentos | US11 - Atualização Automática de Documentos                           | Média       |
+| Épico X - Segurança                     | Feature 12 - Autenticação de Dois Fatores | US13 - Autenticação de Dois Fatores para Segurança                   | Média       |
+|                                        |                                      | US14 - Inclusão da Identificação Facial como Opção Adicional        | Alta        |
+|                                        | Feature 14 - Suporte Técnico        | US15 - Suporte Técnico para Atualizações e Erros                     | Baixa       |
+| Épico 5 - Manutenção de Documentos     | Feature 15 - Manutenção de Documentos no Celular | US16 - Manter Documentos Digitais no Celular         | Média       |
+| Épico 6 - Alertas                      | Feature 16 - Alerta de Multas        | US17 - Alertas Eficazes de Multas                                     | Média       |
+|                                        | Feature 17 - Alerta de Vencimento da CNH | US18 - Alertas de Vencimento da CNH                  | Média       |
 
 ## Temas
 
@@ -67,6 +68,10 @@ Esse épico apresenta as funcionalidades que permite aos usuários acessarem fun
 ### Épico 2 - Reconhecimento Facial
 
 Este épico aborda melhorias e correções no reconhecimento facial e na atualização de documentos do aplicativo.
+
+### Épico 3 - Atualização de Documentos
+
+Este épico tem como objetivo melhorar a atualização dos documentos no aplicativo, tornando-a mais eficiente e confiável para os usuários.
 
 <center>
 *"Como usuário típico, eu desejo modificar o site de acordo com as minhas preferências"*
