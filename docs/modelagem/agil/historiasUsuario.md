@@ -21,12 +21,14 @@ As tabelas a seguir descrevem as histórias de usuário elicitadas.
 <center>
 
 Tabela 1 - História de Usuário XX
+
 | **ID**                   | **Nome**  |
 | ------------------------ | --------- |
 | US01                     | blablabla |
 | Descrição                | blablabla |
 | Critérios de avaliação   | blablabla |
 | Prioridade               | blablabla |
+
 Fonte: [Milena Baruc](https://github.com/MilenaBaruc)
 
 </center>
