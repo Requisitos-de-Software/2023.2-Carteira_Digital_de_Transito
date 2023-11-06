@@ -147,6 +147,28 @@ Usabilidade, de acordo com a definição de Jakob Nielsen, é a medida que avali
 </center>
 
 ## NFR Confiabilidade 
+<p align="center"> Cartão especificação NFRX - O sistema deve está disponível durante os 7 dias da semana, 24 horas por dia.</p>
+ 
+| Classificação         |Disponibilidade Contínua | 
+| ----------------------|--|
+| Descrição             | O sistema deve manter-se disponível ininterruptamente, durante os 7 dias da semana, 24 horas por dia, para atender às necessidades dos usuários e garantir um serviço confiável.           |
+| Justificativa         | A disponibilidade ininterrupta é crucial para atender às expectativas dos usuários e garantir a confiabilidade do sistema. Os usuários podem precisar acessar o sistema a qualquer momento, independentemente do dia da semana ou da hora do dia. Portanto, é essencial que o sistema esteja sempre disponível para evitar interrupções nos serviços e proporcionar uma experiência satisfatória aos usuários. |
+| Origem do requisito   | RNFX - Especificação suplementar |
+| Critério de aceitação | Nenhum |
+| Prioridade            | Alta prioridade|
+| Conflito              | Nenhum |
+| Historia              | 06 de novembro de 2023 |
+
+<p align="center"> Fonte: [Limirio Guimarães](https://github.com/LimirioGuimaraes)</p>
+
+<center>
+<p align="center"> Figura 5: SIG Disponibilidade Contínua </p>
+
+ ![decomposicao](../../assets/confiabilidadeDiagrama1)
+ 
+<p align="center"> Fonte: CHUNG et al.; 2000  </p>
+</center>
+
 
 ## NFR Desempenho
 
