@@ -43,11 +43,11 @@ A seguir, apresentamos o backlog do produto elaborado em colaboração com o PO,
 | Épico 4 - Atualização de Documentos     | Feature 10 - Atualização de Documentos | US11 - Atualização Automática de Documentos                        | Média       |
 |                                        | Feature 5 - Previsão de Atualização  | US05 - Previsão de Atualizações de Documentos                         | Alta        |
 |                                        | Feature 14 - Suporte Técnico         | US15 - Suporte Técnico para Atualizações e Erros                      | Baixa       |
-| Épico X - Segurança                     | Feature 12 - Autenticação de Dois Fatores | US13 - Autenticação de Dois Fatores                             | Média       |
-|                                        |                                      | US14 - Inclusão da Identificação Facial como Opção Adicional          | Alta        |
 | Épico 5 - Manutenção de Documentos     | Feature 15 - Manutenção de Documentos no Celular | US16 - Manter Documentos Digitais no Celular              | Média       |
 | Épico 6 - Alertas                      | Feature 16 - Alerta de Multas        | US17 - Alertas Eficazes de Multas                                     | Média       |
 |                                        | Feature 17 - Alerta de Vencimento da CNH | US18 - Alertas de Vencimento da CNH                               | Média       |
+| Épico 7 - Segurança                    | Feature 12 - Autenticação de Dois Fatores | US13 - Autenticação de Dois Fatores                             | Média       |
+|                                        |                                      | US14 - Inclusão da Identificação Facial como Opção Adicional          | Alta        |
  
 ## Temas
 
@@ -68,8 +68,15 @@ Esse épico apresenta as funcionalidades que permite aos usuários acessarem fun
 
 Este épico aborda melhorias e correções no reconhecimento facial e na atualização de documentos do aplicativo.
 
-### Épico 3 - Atualização de Documentos
+### Épico 3 - Integração com Órgãos Municipais
 
+### Épico 4 - Atualização de Documentos 
+
+### Épico 5 - Manutenção de Documentos
+
+### Épico 6 - Alertas    
+
+### Épico 7 - Segurança 
 
 ## Features
 
