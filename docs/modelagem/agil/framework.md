@@ -54,6 +54,25 @@ Um aspecto fundamental é a relação de contribuição entre os Softgoals, que 
 | SOME | SOME + | Um Softgoal filho contribui de forma positiva, mas a intensidade dessa contribuição é desconhecida.
 
 Esses conceitos de contribuição entre Softgoals são essenciais para a compreensão e modelagem de sistemas complexos, especialmente quando se lida com requisitos não funcionais e objetivos de qualidade. Eles proporcionam um meio preciso de descrever como as relações entre os Softgoals afetam o sistema como um todo.
+
+
+### Propagação de Impactos 
+
+Ao considerar a propagação de impactos, os engenheiros de requisitos podem tomar decisões informadas sobre mudanças e gerenciar eficazmente os possíveis efeitos colaterais. Para representar as relações de impacto, são utilizados diversos tipos de Softgoals de Impacto, cada um com sua notação específica:
+
+✓ (satisfeito): Essa notação indica que um requisito não funcional contribui positivamente para a satisfação de outro requisito. Em outras palavras, atender a um requisito tem um efeito benéfico em relação ao outro.
+
+𝒲+ (fracamente satisfeito): Similar à notação ✓, porém representa uma relação de impacto positiva, embora menos intensa do que a representada por ✓.
+
+X (negado): Essa notação denota que um requisito não funcional tem um efeito negativo sobre outro requisito, negando ou contradizendo sua realização. Em outras palavras, atender a um requisito pode prejudicar o atendimento do outro.
+
+𝒲- (fracamente negado): Semelhante à notação X, mas representa uma relação de negação mais fraca. Isso significa que um requisito afeta negativamente outro, mas de forma menos intensa do que a notação X.
+
+🗲 (conflitante): Essa notação indica uma relação de conflito entre requisitos não funcionais. Significa que os requisitos em questão têm características positivas e negativas, o que pode resultar em uma competição entre eles.
+
+u (indeterminado): Esta notação representa uma relação indeterminada ou desconhecida entre requisitos não funcionais. Isso ocorre quando não há informações suficientes para determinar o impacto de um requisito em outro, tornando a relação incerta.
+
+A compreensão e uso dessas notações são essenciais para a análise de impacto e a tomada de decisões informadas na gestão de requisitos não funcionais, garantindo que as mudanças planejadas não causem efeitos colaterais indesejados no sistema como um todo.
  
   
 </center>
