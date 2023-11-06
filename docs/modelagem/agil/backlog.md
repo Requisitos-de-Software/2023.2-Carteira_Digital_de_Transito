@@ -48,6 +48,24 @@ A seguir, apresentamos o backlog do produto elaborado em colaboração com o PO,
 | Épico 6 - Alertas                  | Feature 16 - Alerta de Multas  | US17 - Alertas Eficazes de Multas | Média |
 |                                   | Feature 17 - Alerta de Vencimento da CNH | US18 - Alertas de Vencimento da CNH | Média |
 
+## Temas
+
+Analisando as histórias de usuário, foi possível organizá-las inicialmente em dois grandes temas.
+
+- **Funcionalidades**: Agrupa funcionalidades que o sistema precisa oferecer para que o usuário consiga realizar com sucesso suas tarefas.
+- **Perfil**: Agrupa funcionalidades relacionadas a como o usuário se apropria do sistema e o modifica de acordo com seus gostos e desejos.
+
+## Épicos
+
+Após a definição dos temas, eles são "quebrados" em épicos de modo a diminuir ainda mais a abstração das atividades que deverão ser realizadas no projeto. Para esse projeto, os épicos foram descritos utilizando o padrão de escrita das histórias de usuário e possuem um nível de abstração a mais chamado de _Features_.
+
+## Features
+
+Definido um épico, são geradas _features_, que são descrições simplificadas do que o produto faz para atender os objetivos dos usuários.  Elas representam as funcionalidades em um nível de abstração maior que as histórias de usuário.
+
+### Histórias de Usuário
+
+Elas especificam ainda mais as _features_ e serão detalhadas melhor na seção de [Histórias de Usuário](../historia-de-usuario). Se apresentam como descrições concisas e de alto nível de uma funcionalidade desejada em termos do cliente. Usualmente seguem a forma "Eu, como \_\_\_, desejo \_\_\_ para ___."
 
 
 
