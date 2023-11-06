@@ -150,11 +150,25 @@ Na Tabela 8, tem-se o cronograma planejado para todas as atividades da quarta en
 | Gravar reunião    | 06/11/2023 | 06/11/2023 | Altino, Breno, Limírio, Luis, Mayara, Milena, Vinícius | Altino, Breno, Limírio, Luis, Mayara, Milena, Vinícius | 
 | Correção após a Entrega 4  | 07/11/2023 | 10/11/2023 |     Altino, Breno, Limírio, Luis, Mayara, Milena, Vinícius  | Altino, Breno, Limírio, Luis, Mayara, Milena, Vinícius  | 
 
+### Cronograma executado entrega 4.
+
+Na Tabela 9, tem-se o cronograma executado para todas as atividades da quarta entrega.
+
+<p align="center"><b>Tabela 09</b> - Cronograma executado da etapa 4 - Modelagem de Requisitos</p>
+
+| **Atividade** | **Início** | **Fim** | **Responsáveis** |  **Revisores** |
+|---------------|------------|---------|------------------|----------------|
+| Modelagem de Requisitos - Ágil: Histórias de usuário         | 26/10/2023| 06/11/2023 | Milena  |   Arthur     |
+| Modelagem de Requisitos - Ágil: Backlogs  | 26/10/2023| 06/11/2023 | Arthur  | Milena |
+| Modelagem de Requisitos - Ágil: NFR Framework | 26/10/2023| 06/11/2023 | Mayara    | Breno |
+| Gravar reunião    | 06/11/2023 | 06/11/2023 | Mayara, Milena, Arthur | 
+| Correção após a Entrega 4  | 07/11/2023 | 10/11/2023 |     Altino, Breno, Limírio, Luis, Mayara, Milena, Vinícius  | Altino, Breno, Limírio, Luis, Mayara, Milena, Vinícius  | 
+
 ### Cronograma planejado entrega 5.1.
 
-Na Tabela 9, tem-se o cronograma planejado para todas as atividades da entrega 5.1.
+Na Tabela 10, tem-se o cronograma planejado para todas as atividades da entrega 5.1.
 
-<p align="center"><b>Tabela 09</b>  - Planejamento do cronograma etapa 5.1 - Análise de Requisitos </p>
+<p align="center"><b>Tabela 10</b>  - Planejamento do cronograma etapa 5.1 - Análise de Requisitos </p>
 
 | **Atividade** | **Início** | **Fim** | **Responsáveis** |  **Revisores** |
 |---------------|------------|---------|------------------|----------------|
@@ -165,9 +179,9 @@ Na Tabela 9, tem-se o cronograma planejado para todas as atividades da entrega 5
 
 ### Cronograma planejado entrega 6.
 
-Na Tabela 10, tem-se o cronograma planejado para todas as atividades da sexta entrega.
+Na Tabela 11, tem-se o cronograma planejado para todas as atividades da sexta entrega.
 
-<p align="center"><b>Tabela 10</b> - Planejamento do cronograma etapa 6 - Pós-Rastreabilidade </p>
+<p align="center"><b>Tabela 11</b> - Planejamento do cronograma etapa 6 - Pós-Rastreabilidade </p>
 
 
 | **Atividade** | **Início** | **Fim** | **Responsáveis** |  **Revisores** |
@@ -180,9 +194,9 @@ Na Tabela 10, tem-se o cronograma planejado para todas as atividades da sexta en
 
 ### Cronograma planejado entrega 5.2
 
-Na Tabela 11, tem-se o cronograma planejado para todas as atividades da entrega 5.2.
+Na Tabela 12, tem-se o cronograma planejado para todas as atividades da entrega 5.2.
 
-<p align="center"><b>Tabela 11</b> - Planejamento do cronograma etapa 5.2 - Análise de Requisitos </p>
+<p align="center"><b>Tabela 12</b> - Planejamento do cronograma etapa 5.2 - Análise de Requisitos </p>
 
 | **Atividade** | **Início** | **Fim** | **Responsáveis** |  **Revisores** |
 |---------------|------------|---------|------------------|----------------|
@@ -207,3 +221,4 @@ Na Tabela 11, tem-se o cronograma planejado para todas as atividades da entrega 
 | `1.0` |18/09/2023 |Criação da página de cronogramas | [Altino Arthur](https://github.com/arthurrochamoreira) , [Breno Queiroz](https://github.com/brenob6) e [Luis Eduardo](https://github.com/LuisMiranda10) | [Vinicius Mendes](https://github.com/yabamiah) |
 | `1.1` |04/09/2023 |Atualizando a página de cronograma | [Vinicius Mendes](https://github.com/yabamiah) | [Altino Arthur](https://github.com/arthurrochamoreira) 
 | `1.2` |09/10/2023 | adicionando cronograma executavel e detalhando tarefas | [Mayara Alves](https://github.com/Mayara-tech) | [Luis Eduardo](https://github.com/LuisMiranda10)
+| `1.3` |06/11/2023 | adicionando cronograma executado e detalhando tarefas | [Milena Baruc](https://github.com/MilenaBaruc) | [Luis Eduardo](https://github.com/LuisMiranda10)
