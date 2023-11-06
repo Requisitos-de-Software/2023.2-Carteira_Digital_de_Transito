@@ -34,6 +34,25 @@ Esse processo de desdobramento e priorização dos Softgoals é essencial para a
  ![decomposicao](../../assets/imagem_2023-11-06_164643478.png)
  
 <p align="center"> Fonte: CHUNG et al.; 2000  </p>
+</center>
+#### Contribuições entre Softgoals em um NFR Framework
+
+Um aspecto fundamental é a relação de contribuição entre os Softgoals, que descreve como as mudanças nos estados de um Softgoal filho podem afetar o Softgoal pai. Essas contribuições são classificadas em diversos tipos, conforme apresentado na tabela a seguir:
+
+| Contribuição | Representação | Descrição |
+| :----------: | :-----------: | :-------: |
+| AND | AND | O Softgoal pai é satisfeito somente se todos os Softgoals filhos forem satisfeitos, de acordo com a perspectiva dos envolvidos. |
+| OR | OR | O Softgoal pai é satisfeito se pelo menos um dos Softgoals filhos for satisfeito, de acordo com a perspectiva dos envolvidos. |
+| MAKE | ++ | Um Softgoal filho contribui de forma tão positiva que, sozinho, é capaz de satisfazer o Softgoal pai, de acordo com a perspectiva dos envolvidos. |
+| HELP | + | Um Softgoal filho contribui de forma positiva, mas parcial, de modo que sozinho não é capaz de satisfazer o Softgoal pai, de acordo com a perspectiva dos envolvidos. |
+| BREAK | -- | Um Softgoal filho contribui de forma tão negativa que, sozinho, nega o Softgoal pai, de acordo com a perspectiva dos envolvidos. |
+| HURT | - | Um Softgoal filho contribui de forma negativa, mas parcial, de modo que sozinho não nega o Softgoal pai, de acordo com a perspectiva dos envolvidos. |
+| UNKNOWN | ? | O Softgoal filho não afeta o Softgoal pai, e a relação é incerta. |
+| EQUALS | = | Ambos compartilham o mesmo rótulo e estão intrinsecamente relacionados. |
+| SOME | SOME - | Um Softgoal filho contribui de forma negativa, mas a intensidade dessa contribuição é desconhecida. |
+| SOME | SOME + | Um Softgoal filho contribui de forma positiva, mas a intensidade dessa contribuição é desconhecida.
+
+Esses conceitos de contribuição entre Softgoals são essenciais para a compreensão e modelagem de sistemas complexos, especialmente quando se lida com requisitos não funcionais e objetivos de qualidade. Eles proporcionam um meio preciso de descrever como as relações entre os Softgoals afetam o sistema como um todo.
  
   
 </center>
