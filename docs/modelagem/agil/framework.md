@@ -109,6 +109,43 @@ A abordagem adotada para a concepção do artefato foi fundamentada nos requisit
 
 ## NFR Usabilidade
 
+Usabilidade, de acordo com a definição de Jakob Nielsen, é a medida que avalia quão fácil e agradável é a interação dos usuários com um sistema, seja um site, aplicativo ou software, no contexto de alcançar seus objetivos e realizar tarefas com eficácia. Na tabela 2 podemos observar os requisitos de usabilidade de o grupo elicitou, e nas figuras 2 e 3 podemos observar Softgoal Interdependency Grap do softgoal "Usabilidade" e a Propagação de impactos do softgoal "Usabilidade" 
+
+<center>
+<p align="center"> Tabela 2: Requisitos de Usabilidade - RNF</p>
+
+| Requisito                                                                                       | ID  |
+| --------------------------------------------------------------------------------             | ---------       |
+| O sistema não deve exigir que seus usuários sejam tecnófilos. Deve ser de fácil uso, sem necessidade prévia de treinamento para utilização do sistema.                                                                   | [NFR01](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/especificacao-suplementar/) 
+|Os usuários devem realizar as atividades críticas em um curto período de tempo, de no máximo um minuto.                                                                   | [NFR02](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/especificacao-suplementar/) 
+|Os objetivos críticos deve ser alcançados por um caminho curto, necessitando uma pequena quantidade de ações do usuário, cerca de 5 ações.                                                                   | [NFR03](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/especificacao-suplementar/) 
+|O sistema deve possuir design minimalista, evitando que sejam mostradas infomações irrelevantes ou pouco consultadas.                                                                   | [NFR04](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/especificacao-suplementar/) 
+|O sistema deve conter uma linguagem simples, evitando utilização de termos ou bordões técnicos.                                                                   | [NFR05](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/especificacao-suplementar/) 
+|O aplicativo deve seguir as normas de acessibilidade da WCAG        .                                                | [NFR06](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/especificacao-suplementar/) 
+
+<p align="center"> Fonte: Mayara Alves</p>
+</center>
+
+### Cartão de especificação 
+
+#### Cartão especificação NFR1 - Facilidade no uso. 
+
+<center>
+<p align="center"> Cartão especificação NFR1 - Facilidade no uso</p>
+ 
+| Classificação         | Fácil Aprendizagem / Usabilidade | 
+| ----------------------|--|
+| Descrição             | O sistema não deve exigir que seus usuários sejam tecnófilos. Deve ser de fácil uso, sem necessidade prévia de treinamento para utilização do sistema.           |
+| Justificativa         | Com um sistema simples o usuario não vai ter dificuldade em aprender a usar o aplicativo, assim terá menos chances dele abandonar o uso e te uma experiencia melhor com o app. |
+| Origem do requisito   | RNF01 - Especificação suplementar |
+| Critério de aceitação | Nenhum |
+| Prioridade            | Alta prioridade. Fonte: [TLS](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/elicita%C3%A7%C3%A3o/prioriza%C3%A7%C3%A3o/three_level_scale/)|
+| Conflito              | Nenhum |
+| Historia              | 06 de novembro de 2023 |
+
+<p align="center"> Fonte: Mayara Alves</p>
+</center>
+
 ## NFR Confiabilidade 
 
 ## NFR Desempenho
