@@ -42,21 +42,12 @@ A seguir, apresentamos o backlog do produto elaborado em colaboração com o PO,
 | Épico 2 - Reconhecimento Facial    | Feature 8 - Reconhecimento Facial | US08 - Aprimoramento do Reconhecimento Facial | Alta |
 | Épico 4 - Atualização Automática de Documentos | Feature 10 - Atualização Automática de Documentos | US11 - Atualização Automática de Documentos | Média |
 |                                   | Feature 12 - Autenticação de Dois Fatores | US13 - Autenticação de Dois Fatores para Segurança | Média |
-|                                   | Feature 14 - Suporte Técnico    | US15 - Suporte Técnico para Atualizações e Erros | Média |
+|                                   | Feature 14 - Suporte Técnico    | US15 - Suporte Técnico para Atualizações e Erros | Baixa |
 | Épico 3 - Integração com Órgãos Municipais | Feature 9 - Integração com Órgãos Municipais | US10 - Integração de dados com Órgãos Municipais | Alta |
 | Épico 5 - Manutenção de Documentos  | Feature 15 - Manutenção de Documentos no Celular | US16 - Manter Documentos Digitais no Celular | Média |
 | Épico 6 - Alertas                  | Feature 16 - Alerta de Multas  | US17 - Alertas Eficazes de Multas | Média |
 |                                   | Feature 17 - Alerta de Vencimento da CNH | US18 - Alertas de Vencimento da CNH | Média |
 
-
-
-
-
-## Temas, Épicos e Features
-
-
-
-## Referências
 
 
 
