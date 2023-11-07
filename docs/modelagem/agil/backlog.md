@@ -60,7 +60,7 @@ Essa abordagem metódica e colaborativa na construção e organização do Backl
 
 ## Product Backlog
 
-A seguir, apresentamos tabelas de 1 a 3 do o backlog do produto elaborado em colaboração com o PO, detalhando cada história de usuário e sua priorização.
+A seguir, apresentamos tabelas de 1 a 3 do backlog do produto elaborado em colaboração com o PO, detalhando cada funcionalidade que ira gerar as histórias de usuário e sua priorização.
 
 <br>
 
