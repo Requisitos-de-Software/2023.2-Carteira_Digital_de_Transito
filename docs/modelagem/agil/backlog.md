@@ -134,15 +134,10 @@ Fonte: [Altino Arthur](https://github.com/arthurrochamoreira)
   
 ## Épicos
 
-<p align="justify">
 Para tornar o conteúdo mais concreto e menos abstrato, introduzimos os épicos. Os épicos são histórias de usuário de alto nível que representam funcionalidades ou requisitos significativos do produto. Eles englobam aspectos amplos e estratégicos do projeto, geralmente não sendo passíveis de implementação em um único ciclo de desenvolvimento. A função dos épicos é agrupar e organizar histórias de usuário relacionadas a objetivos maiores ou a áreas funcionais do produto. A seguir, apresentamos a especificação dos épicos para facilitar a compreensão do backlog.
-</p>
-
-<p align="justify">
   
 As tabelas de 4 a 10 especificam as _features_ que serão detalhadas melhor na seção de [Histórias de Usuário](../agil/historiasUsuario.md).  Elas se apresentam como descrições concisas e de alto nível de uma funcionalidade desejada em termos do cliente. Usualmente seguem a forma "Eu, como \_\_\_, desejo \_\_\_ para ___."
 
-</p>
 
 <br>
   
