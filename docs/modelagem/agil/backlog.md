@@ -63,7 +63,7 @@ Tabela 1: Funcionalidades
 | ITP23         | Notificação de multas e informações importantes do fabricante do veículo | [ENT](../../elicitação/entrevista.md) |
 | ENT01         | Pesquisa de informações sobre veículos por meio do número da placa | [ENT](../../elicitação/entrevista.md) |
 | ENT02         | Configuração de alertas de vencimento da CNH e do licenciamento do veículo | [ENT](../../elicitação/entrevista.md) |
-| ENT03         | Notificação ao usuário sobre recalls e informações importantes do fabricante do veículo | [ENT](../../elicitação/entrevista.md) ||
+| ENT03         | Notificação ao usuário sobre recalls e informações importantes do fabricante do veículo | [ENT](../../elicitação/entrevista.md) |
 
 Fonte: [Altino Arthur](https://github.com/arthurrochamoreira)
 
@@ -75,12 +75,12 @@ Fonte: [Altino Arthur](https://github.com/arthurrochamoreira)
 
 Tabela 2: Interface de Usuário
 
-| ID    | Requisito                                                                                        | Rastreabilidade |
-| ---   | -------------------------------------------------------------------------------------------------| --------------- |
-| ITP19 | Aplicativo deve possuir interface simples                                                              | [ITP](../../elicitação/Introspeccao.md) |
-| ITP21 | Modo escuro/claro                                                                                | [ITP](../../elicitação/Introspeccao.md) |
-| UI03  | Responsividade da interface de usuário em diferentes tamanhos de tela                            | [ITP](../../elicitação/Introspeccao.md) | 
-| RNF   | Evitar erros e telas brancas durante o uso | Não implementado |
+| Identificador | Requisitos                                                                                       | Rastreabilidade |
+| ---           | -------------------------------------------------------------------------------------------------| --------------- |
+| ITP19         | Aplicativo deve possuir interface simples                                                        | [ITP](../../elicitação/Introspeccao.md) |
+| ITP21         | Modo escuro/claro                                                                                | [ITP](../../elicitação/Introspeccao.md) |
+| UI03          | Responsividade da interface de usuário em diferentes tamanhos de tela                            | [ITP](../../elicitação/Introspeccao.md) | 
+| RNF           | Evitar erros e telas brancas durante o uso | Não implementado |
 
 Fonte: [Altino Arthur](https://github.com/arthurrochamoreira)
 
@@ -92,12 +92,12 @@ Fonte: [Altino Arthur](https://github.com/arthurrochamoreira)
 
 Tabela 3: Não Funcionais
 
-| ID    | Requisito                                                             | Rastreabilidade                           |
-| ---   | ----------------------------------------------------------------------| ----------------------------------------- |
-| RNF01 | O aplicativo deve ocupar um espaço de armazenamento razoável.         | [ITP](../../elicitação/Introspeccao.md)   |
-| ITP   | Backup seguro de documentos e dados do usuário                        | [ITP](../../elicitação/Introspeccao.md)   |
-| RNF02 | O Aplicativo deve ser rápido ao carregar                              | [ITP](../../elicitação/Introspeccao.md)   |
-| RNF03 | O aplicativo deve garantir a segurança dos dados do usuário.          | [ITPT](../../elicitação/Introspeccao.md)  | 
+| Identificador | Requisitos                                                             | Rastreabilidade                           |
+| ---           | ---------------------------------------------------------------------- | ----------------------------------------- |
+| RNF01         | O aplicativo deve ocupar um espaço de armazenamento razoável.          | [ITP](../../elicitação/Introspeccao.md)   |
+| ITP           | Backup seguro de documentos e dados do usuário                         | [ITP](../../elicitação/Introspeccao.md)   |
+| RNF02         | O Aplicativo deve ser rápido ao carregar                               | [ITP](../../elicitação/Introspeccao.md)   |
+| RNF03         | O aplicativo deve garantir a segurança dos dados do usuário.           | [ITPT](../../elicitação/Introspeccao.md)  | 
 
 Fonte: [Altino Arthur](https://github.com/arthurrochamoreira)
 
@@ -119,17 +119,17 @@ As tabelas de 6 a 12 especificam ainda mais as _features_ e serão detalhadas me
 
 Tabela 6: Gerenciamento de Conta do Usuário
 
-| ID   | Requisito                        | User Story                                                                                                            | Prioridade |
-| ---  | ------------------------------- | ---------------------------------------------------------------------------------------------------------------------  | ---------- |
-| US01 | Fazer Login com GOV             | Como um usuário, desejo poder fazer login na aplicação usando o GOV para acessar meus recursos.                        | Alta       |
-| US02 | Fazer Logoff com GOV            | Como um usuário, desejo poder fazer logoff da aplicação usando o GOV para garantir minha segurança.                    | Alta       |
-| US03 | Acessar Carteira de Habilitação  | Como um usuário, desejo poder acessar minha carteira de habilitação eletrônica para visualizar suas informações.      | Alta       |
-| US12 | Central de Mensagens            | Como um usuário, desejo ter acesso a uma central de mensagens onde posso receber comunicações e notificações importantes. | Média   |
-| US13 | Tirar Foto para o Perfil        | Como um usuário, desejo poder tirar uma foto para usar como minha imagem de perfil na aplicação.                         | Média    |
-| US14 | Remover Foto de Perfil          | Como um usuário, desejo poder remover minha foto de perfil, se desejar.                                                  | Média    |
-| US15 | Escolher Foto da Galeria        | Como um usuário, desejo poder escolher uma foto da minha galeria de imagens para usar como minha foto de perfil.         | Média    |
-| US18 | Visualizar Informações da Conta  | Como um usuário, desejo poder visualizar informações sobre a minha conta, como nome, e-mail e informações pessoais.     | Média    |
-| US19 | Editar Informações da Conta     | Como um usuário, desejo poder editar as informações da minha conta para mantê-las atualizadas.                       | Média    |
+| Identificador  | Requisitos                        | User Story                                                                                                            | Prioridade |
+| ---            | ------------------------------- | ---------------------------------------------------------------------------------------------------------------------   | ---------- |
+| US01           | Fazer Login com GOV             | Como um usuário, desejo poder fazer login na aplicação usando o GOV para acessar meus recursos.                         | Alta       |
+| US02           | Fazer Logoff com GOV            | Como um usuário, desejo poder fazer logoff da aplicação usando o GOV para garantir minha segurança.                     | Alta       |
+| US03           | Acessar Carteira de Habilitação  | Como um usuário, desejo poder acessar minha carteira de habilitação eletrônica para visualizar suas informações.       | Alta       |
+| US12           | Central de Mensagens            | Como um usuário, desejo ter acesso a uma central de mensagens onde posso receber comunicações e notificações importantes.  | Média   |
+| US13           | Tirar Foto para o Perfil        | Como um usuário, desejo poder tirar uma foto para usar como minha imagem de perfil na aplicação.                          | Média    |
+| US14           | Remover Foto de Perfil          | Como um usuário, desejo poder remover minha foto de perfil, se desejar.                                                   | Média    |
+| US15           | Escolher Foto da Galeria        | Como um usuário, desejo poder escolher uma foto da minha galeria de imagens para usar como minha foto de perfil.          | Média    |
+| US18           | Visualizar Informações da Conta  | Como um usuário, desejo poder visualizar informações sobre a minha conta, como nome, e-mail e informações pessoais.      | Média    |
+| US19           | Editar Informações da Conta     | Como um usuário, desejo poder editar as informações da minha conta para mantê-las atualizadas.                            | Média    |
 
 </center>
 
@@ -139,11 +139,11 @@ Tabela 6: Gerenciamento de Conta do Usuário
 
 Tabela 7: Documentos e Certificados
 
-| ID   | Requisito                   | User Story                                                                                                            | Prioridade |
-| ---  | --------------------------  | ---------------------------------------------------------------------------------------------------------------------  | ---------- |
-| US04 | Adicionar Documento CLRV-e   | Como um usuário, desejo poder adicionar o documento CLRV-e (Certificado de Registro e Licenciamento de Veículo eletrônico) à minha conta. | Média    |
-| US05 | Acessar Documento CLRV-e     | Como um usuário, desejo poder acessar o documento CLRV-e associado à minha conta.                                    | Média       |
-| US20 | Visualizar Certificados       | Como um usuário, desejo poder visualizar e gerenciar todos os certificados e documentos associados à minha conta.    | Média    |
+| Identificador | Requisitos                   | User Story                                                                                                            | Prioridade |
+| ---           | --------------------------  | ---------------------------------------------------------------------------------------------------------------------  | ---------- |
+| US04          | Adicionar Documento CLRV-e   | Como um usuário, desejo poder adicionar o documento CLRV-e (Certificado de Registro e Licenciamento de Veículo eletrônico) à minha conta. | Média|
+| US05          | Acessar Documento CLRV-e     | Como um usuário, desejo poder acessar o documento CLRV-e associado à minha conta.                                     | Média       |
+| US20          | Visualizar Certificados       | Como um usuário, desejo poder visualizar e gerenciar todos os certificados e documentos associados à minha conta.    | Média       |
 
 </center>
 
@@ -153,12 +153,12 @@ Tabela 7: Documentos e Certificados
 
 Tabela 8: Exames e Infrações
 
-| ID   | Requisito                      | User Story                                                                                                            | Prioridade |
-| ---  | -----------------------------  | ---------------------------------------------------------------------------------------------------------------------  | ---------- |
-| US06 | Visualizar Exames Toxicológicos | Como um usuário, desejo poder visualizar os resultados dos meus exames toxicológicos.                                | Média      |
-| US07 | Acessar Infração                | Como um usuário, desejo poder acessar informações sobre infrações relacionadas à minha carteira de motorista.        | Média      |
-| US08 | Pagar Infração                  | Como um usuário, desejo poder pagar infrações diretamente através da aplicação.                                      | Média      |
-| US21 | Receber Notificações de Infrações | Como um usuário, desejo receber notificações sobre infrações relacionadas à minha carteira de motorista.             | Média      |
+| Identificador | Requisitos                      | User Story                                                                                                            | Prioridade |
+| ---           | -----------------------------  | ---------------------------------------------------------------------------------------------------------------------  | ---------- |
+| US06          | Visualizar Exames Toxicológicos | Como um usuário, desejo poder visualizar os resultados dos meus exames toxicológicos.                                 | Média      |
+| US07          | Acessar Infração                | Como um usuário, desejo poder acessar informações sobre infrações relacionadas à minha carteira de motorista.         | Média      |
+| US08          | Pagar Infração                  | Como um usuário, desejo poder pagar infrações diretamente através da aplicação.                                       | Média      |
+| US21          | Receber Notificações de Infrações | Como um usuário, desejo receber notificações sobre infrações relacionadas à minha carteira de motorista.            | Média      |
 
 </center>
 
@@ -169,9 +169,9 @@ Tabela 8: Exames e Infrações
 Tabela 9: Campanhas e Projetos
  
 | ID   | Requisito                      | User Story                                                                                                            | Prioridade |
-| ---  | -----------------------------  | ---------------------------------------------------------------------------------------------------------------------  | ---------- |
+| ---  | -----------------------------  | --------------------------------------------------------------------------------------------------------------------- | ---------- |
 | US09 | Consultar Campanhas e Projetos  | Como um usuário, desejo poder consultar informações sobre campanhas e projetos relacionados à segurança no trânsito. | Baixa      |
-| US22 | Participar de Campanhas e Projetos | Como um usuário, desejo poder participar ativamente de campanhas e projetos relacionados à segurança no trânsito. | Média    |
+| US22 | Participar de Campanhas e Projetos | Como um usuário, desejo poder participar ativamente de campanhas e projetos relacionados à segurança no trânsito. | Média      |
 
 </center>
 
@@ -182,8 +182,8 @@ Tabela 9: Campanhas e Projetos
 Tabela 10: Cadastro Positivo e Notificações
 
 | ID   | Requisito                        | User Story                                                                                                            | Prioridade |
-| ---  | -------------------------------   | ---------------------------------------------------------------------------------------------------------------------  | ---------- |
-| US10 | Visualizar Cadastro Positivo     | Como um usuário, desejo poder visualizar meu cadastro positivo de trânsito para entender meu histórico.             | Média    |
+| ---  | -------------------------------   | ---------------------------------------------------------------------------------------------------------------------| ---------- |
+| US10 | Visualizar Cadastro Positivo     | Como um usuário, desejo poder visualizar meu cadastro positivo de trânsito para entender meu histórico.                 | Média    |
 | US11 | Aderir ao Sistema de Notificação Eletrônica | Como um usuário, desejo poder aderir ao sistema de notificação eletrônica para receber atualizações e alertas importantes. | Média    |
 | US23 | Gerenciar Preferências de Notificação | Como um usuário, desejo poder gerenciar minhas preferências de notificação, escolhendo quais tipos de alertas desejo receber. | Média    |
 
@@ -196,9 +196,9 @@ Tabela 10: Cadastro Positivo e Notificações
 Tabela 11: Cursos Especializados
 
 | ID   | Requisito                              | User Story                                                                                                            | Prioridade |
-| ---  | -------------------------------------  | ---------------------------------------------------------------------------------------------------------------------  | ---------- |
+| ---  | -------------------------------------  | --------------------------------------------------------------------------------------------------------------------- | ---------- |
 | US16 | Visualizar Cursos Especializados        | Como um usuário, desejo poder visualizar informações sobre cursos especializados relacionados à segurança no trânsito. | Baixa    |
-| US24 | Inscrever-se em Cursos Especializados  | Como um usuário, desejo poder inscrever-me em cursos especializados relacionados à segurança no trânsito. | Média    |
+| US24 | Inscrever-se em Cursos Especializados  | Como um usuário, desejo poder inscrever-me em cursos especializados relacionados à segurança no trânsito.               | Média    |
 
 </center>
 
