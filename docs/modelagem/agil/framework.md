@@ -56,7 +56,7 @@ Um aspecto fundamental é a relação de contribuição entre os Softgoals, que 
 Esses conceitos de contribuição entre Softgoals são essenciais para a compreensão e modelagem de sistemas complexos, especialmente quando se lida com requisitos não funcionais e objetivos de qualidade. Eles proporcionam um meio preciso de descrever como as relações entre os Softgoals afetam o sistema como um todo.
 
 ## Metodologia
-A abordagem adotada para a concepção do artefato foi fundamentada nos requisitos não funcionais, os quais foram delineados com base no nosso documento de especificação suplementar. Que, por sua vez, se pautou no modelo FURPS+ para a criação de 13 NFRs. Para melhor entendimento de cada categoria, foi feito um SIG (Softgoal Interdependency Graph), um diagrama da propagação de impactos e um cartão de especificação, que possui informações sobre o NFR, como a descrição, a categoria, os conflitos, a origem, os critérios e outras informações, que foram divididos em 4 aspectos: Usabilidade, confiabilidade, desempenho e suportabilidade, como demonstrado na tabela 1. 
+A abordagem adotada para a concepção do artefato foi fundamentada nos requisitos não funcionais, os quais foram delineados com base no nosso documento de especificação suplementar. Que, por sua vez, se pautou no modelo FURPS+ para a criação de 6 NFRs. Para melhor entendimento de cada categoria, foi feito um SIG (Softgoal Interdependency Graph), que possui informações sobre o NFR, como a descrição, a categoria, os conflitos, a origem, os critérios e outras informações, que foram divididos em 4 aspectos: Usabilidade, confiabilidade, desempenho e suportabilidade, como demonstrado na tabela 1. 
 
 <center>
 <p align="center"> Tabela 1: Requisitos Não Funcionais - RNF</p>
@@ -99,7 +99,7 @@ Usabilidade, de acordo com a definição de Jakob Nielsen, é a medida que avali
 | Descrição             | O sistema não deve exigir que seus usuários sejam tecnófilos. Deve ser de fácil uso, sem necessidade prévia de treinamento para utilização do sistema.           |
 | Justificativa         | Com um sistema simples o usuario não vai ter dificuldade em aprender a usar o aplicativo, assim terá menos chances dele abandonar o uso e te uma experiencia melhor com o app. |
 | Origem do requisito   | RNF01 - Especificação suplementar |
-| Critério de aceitação | Nenhum |
+| Critério de aceitação |- Os usuários novos devem ser capazes de realizar tarefas básicas no sistema sem a necessidade de treinamento formal ou extensas instruções. <br> - A interface do sistema deve ser intuitiva e autoexplicativa, com ícones e elementos de design facilmente compreensíveis. <br> - O sistema deve fornecer dicas ou orientações contextuais para auxiliar os usuários em tarefas mais complexas ou menos óbvias. <br> - A linguagem utilizada no sistema, incluindo rótulos de botões e mensagens de erro, deve ser clara e compreensível para o público-alvo. <br> - Os usuários devem ser capazes de realizar tarefas comuns, como criar um perfil, fazer login, buscar informações e concluir transações, de forma simples e direta |
 | Prioridade            | Alta prioridade. Fonte: [TLS](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/elicita%C3%A7%C3%A3o/prioriza%C3%A7%C3%A3o/three_level_scale/)|
 | Conflito              | Nenhum |
 | Historia              | 06 de novembro de 2023 |
