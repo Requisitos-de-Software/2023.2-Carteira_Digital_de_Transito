@@ -315,6 +315,8 @@ Esta seção oferece uma visão mais detalhada das funcionalidades que compõem 
 Para criar essas features, partimos dos épicos, que, por sua vez, são histórias de usuário de alto nível que podem ser mais detalhadas. Organizar as funcionalidades dessa maneira simplifica o planejamento, desenvolvimento e gerenciamento do projeto ágil. Cada feature está vinculada a um épico correspondente, garantindo uma rastreabilidade clara das funcionalidades em relação aos objetivos gerais do produto, como mencionado acima.
 </p>
 
+<br>
+
 #### Feature 1: Autenticação e Conta do Usuário
 
 | Feature                            | Descrição                                                                                                       | Épico                              | Prioridade |
