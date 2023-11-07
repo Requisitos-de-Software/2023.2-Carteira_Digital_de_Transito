@@ -109,7 +109,7 @@ Para diminuir o nível de abstração expresso nos temas, foram registrados os �
 
 ### Histórias de Usuário
 
-As tabelas de 6 a 12 especificam ainda mais as _features_ e serão detalhadas melhor na seção de [Histórias de Usuário](../agil/historiasUsuario.md). Se apresentam como descrições concisas e de alto nível de uma funcionalidade desejada em termos do cliente. Usualmente seguem a forma "Eu, como \_\_\_, desejo \_\_\_ para ___."
+As tabelas de 4 a 10 especificam ainda mais as _features_ e serão detalhadas melhor na seção de [Histórias de Usuário](../agil/historiasUsuario.md). Se apresentam como descrições concisas e de alto nível de uma funcionalidade desejada em termos do cliente. Usualmente seguem a forma "Eu, como \_\_\_, desejo \_\_\_ para ___."
 
 ### Épicos e User Stories
 
@@ -117,7 +117,7 @@ As tabelas de 6 a 12 especificam ainda mais as _features_ e serão detalhadas me
 
 <center>
 
-Tabela 6: Gerenciamento de Conta do Usuário
+Tabela 4: Gerenciamento de Conta do Usuário
 
 | Identificador  | Requisitos                        | User Story                                                                                                            | Prioridade |
 | ---            | ------------------------------- | ---------------------------------------------------------------------------------------------------------------------   | ---------- |
@@ -137,7 +137,7 @@ Tabela 6: Gerenciamento de Conta do Usuário
 
 <center>
 
-Tabela 7: Documentos e Certificados
+Tabela 5: Documentos e Certificados
 
 | Identificador | Requisitos                   | User Story                                                                                                            | Prioridade |
 | ---           | --------------------------  | ---------------------------------------------------------------------------------------------------------------------  | ---------- |
@@ -151,7 +151,7 @@ Tabela 7: Documentos e Certificados
 
 <center>
 
-Tabela 8: Exames e Infrações
+Tabela 6: Exames e Infrações
 
 | Identificador | Requisitos                      | User Story                                                                                                            | Prioridade |
 | ---           | -----------------------------  | ---------------------------------------------------------------------------------------------------------------------  | ---------- |
@@ -166,7 +166,7 @@ Tabela 8: Exames e Infrações
 
 <center>
 
-Tabela 9: Campanhas e Projetos
+Tabela 7: Campanhas e Projetos
  
 | Identificador  | Requisitos                         | User Story                                                                                                        | Prioridade |
 | ---            | -----------------------------      | ------------------------------------------------------------------------------------------------------------------ | ---------- |
@@ -179,7 +179,7 @@ Tabela 9: Campanhas e Projetos
 
 <center>
 
-Tabela 10: Cadastro Positivo e Notificações
+Tabela 8: Cadastro Positivo e Notificações
 
 | Identificador  | Requisitos                       | User Story                                                                                                            | Prioridade |
 | ---            | -------------------------------   | ---------------------------------------------------------------------------------------------------------------------| ---------- |
@@ -193,7 +193,7 @@ Tabela 10: Cadastro Positivo e Notificações
 
 <center>
 
-Tabela 11: Cursos Especializados
+Tabela 9: Cursos Especializados
 
 | Identificador   | Requisitos                              | User Story                                                                                                            | Prioridade |
 | ---  | -------------------------------------  | --------------------------------------------------------------------------------------------------------------------- | ---------- |
@@ -206,7 +206,7 @@ Tabela 11: Cursos Especializados
 
 <center>
 
-Tabela 12: Segurança e Autenticação
+Tabela 10: Segurança e Autenticação
 
 | Identificador   | Requisitos                            | User Story                                                                                                      |Prioridade |
 | ---  | -----------------------------------------------   | ---------------------------------------------------------------------------------------------------------------------  | ---------- |
