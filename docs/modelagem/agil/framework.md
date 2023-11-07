@@ -104,13 +104,13 @@ Usabilidade, de acordo com a definição de Jakob Nielsen, é a medida que avali
 | Conflito              | Nenhum |
 | Historia              | 06 de novembro de 2023 |
 
-<p align="center"> Fonte: Mayara Alves</p>
+<p align="center"><b>Fonte</b>:  <a href="https://github.com/Mayara-tech">Mayara Alves</a></p>
 </center>
 
 <center>
 <p align="center"> Figura 2: SIG Facilidade no uso </p>
 
-![disponibilidadeContinua](../../assets/NFR01.png)
+![Facilidade no uso](../../assets/NFR01.png)
  
 <p align="center"><b>Fonte</b>:  <a href="https://github.com/Mayara-tech">Mayara Alves</a></p>
 </center>
@@ -130,6 +130,14 @@ Usabilidade, de acordo com a definição de Jakob Nielsen, é a medida que avali
 | Conflito              | Nenhum |
 | Historia              | 06 de novembro de 2023 |
 
+<p align="center"><b>Fonte</b>:  <a href="https://github.com/Mayara-tech">Mayara Alves</a></p>
+</center>
+
+<center>
+<p align="center"> Figura 3: SIG Acessibilidade </p>
+
+![Acessibilidade](../../assets/NFR02.png)
+ 
 <p align="center"><b>Fonte</b>:  <a href="https://github.com/Mayara-tech">Mayara Alves</a></p>
 </center>
 
