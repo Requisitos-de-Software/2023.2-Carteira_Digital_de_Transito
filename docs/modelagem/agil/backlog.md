@@ -37,25 +37,25 @@ A seguir, apresentamos tabelas de 1 a 5 do o backlog do produto elaborado em col
  
 Tabela 1: Funcionalidades
 
-| ID    | Requisito                                                   | Rastreabilidade |
-| ----- | ----------------------------------------------------------- | --------------- |
-| RF01  | Fazer Login com GOV                                         |                 |
-| RF02  | Fazer Logoff com GOV                                        |                 |
-| RF03  | Acessar Carteira de Habilitação                             |                 |
-| RF04  | Adicionar Documento CLRV-e                                  |                 |
-| RF05  | Acessar Documento CLRV-e                                    |                 |
-| RF06  | Visualizar Exames Toxicológicos                             |                 |
-| RF07  | Acessar Infração                                            |                 |
-| RF08  | Pagar Infração                                              |                 |
-| RF09  | Consultar Campanhas e Projetos                              |                 |
-| RF10  | Visualizar Cadastro Positivo                                |                 |
-| RF11  | Aderir ao Sistema de Notificação Eletrônica                 |                 |
-| RF12  | Central de Mensagens                                        |                 |
-| RF13  | Tirar Foto para o Perfil                                    |                 |
-| RF14  | Remover Foto de Perfil                                      |                 |
-| RF15  | Escolher Foto da Galeria                                    |                 |
-| RF16  | Visualizar Cursos Especializados                            |                 |
-| RF17  | Permitir Biometria Para Desbloquear a Carteira              |                 |
+| ID    | Requisito                                                                                        | Rastreabilidade |
+| ----- | -------------------------------------------------------------------------------------------------| --------------- |
+| RF01  | Fazer Login com GOV                                                                              |                 |
+| RF02  | Fazer Logoff com GOV                                                                             |                 |
+| RF03  | Acessar Carteira de Habilitação                                                                  |                 |
+| RF04  | Adicionar Documento CLRV-e                                                                       |                 |
+| RF05  | Acessar Documento CLRV-e                                                                         |                 |
+| RF06  | Visualizar Exames Toxicológicos                                                                  |                 |
+| RF07  | Acessar Infração                                                                                 |                 |
+| RF08  | Pagar Infração                                                                                   |                 |
+| RF09  | Consultar Campanhas e Projetos                                                                   |                 |
+| RF10  | Visualizar Cadastro Positivo                                                                     |                 |
+| RF11  | Aderir ao Sistema de Notificação Eletrônica                                                      |                 |
+| RF12  | Central de Mensagens                                                                             |                 |
+| RF13  | Tirar Foto para o Perfil                                                                         |                 |
+| RF14  | Remover Foto de Perfil                                                                           |                 |
+| RF15  | Escolher Foto da Galeria                                                                         |                 |
+| RF16  | Visualizar Cursos Especializados                                                                 |                 |
+| RF17  | Permitir Biometria Para Desbloquear a Carteira                                                   |                 |
 
 Fonte: [Altino Arthur](https://github.com/arthurrochamoreira)
 
@@ -65,11 +65,11 @@ Fonte: [Altino Arthur](https://github.com/arthurrochamoreira)
 
 Tabela 2: Interface de Usuário
 
-| ID    | Requisito                                                   | Rastreabilidade |
-| ---   | ----------------------------------------------------------- | --------------- |
-| UI01  | Interface de usuário intuitiva e fácil de usar              |                 |
-| UI02  | Interface de usuário personalizável                         |                 |
-| UI03  | Responsividade da interface de usuário em diferentes tamanhos de tela |       |
+| ID    | Requisito                                                                                        | Rastreabilidade |
+| ---   | -------------------------------------------------------------------------------------------------| --------------- |
+| UI01  | Interface de usuário intuitiva e fácil de usar                                                   |                 |
+| UI02  | Interface de usuário personalizável                                                              |                 |
+| UI03  | Responsividade da interface de usuário em diferentes tamanhos de tela                            |                 |
 
 Fonte: [Altino Arthur](https://github.com/arthurrochamoreira)
 
