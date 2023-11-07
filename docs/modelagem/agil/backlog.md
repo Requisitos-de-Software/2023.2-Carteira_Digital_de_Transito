@@ -6,7 +6,11 @@
 O Backlog do Produto desempenha um papel fundamental na gestão de projetos ágeis, funcionando como um repositório dinâmico que armazena todas as tarefas pendentes relacionadas ao projeto. O Product Owner (PO) é o responsável por sugerir, priorizar e gerenciar os itens contidos no backlog. Esse documento é o resultado de uma estreita colaboração com o Product Owner do projeto. Através dessa interação, o PO e a equipe de desenvolvimento podem manter uma visão clara e atualizada das demandas do projeto, facilitando a tomada de decisões e a adaptação às mudanças à medida que o projeto avança. Essa abordagem ágil proporciona flexibilidade e agilidade, permitindo que o projeto evolua de acordo com as necessidades e prioridades em constante evolução.
 </p>
 
+<center>
+  
 ## Metodologia
+
+</center>
 
 <p align="justify">
 A entrevista com o Product Owner (PO), que aconteceu via Microsoft Teams em 05 de novembro de 2023, teve como objetivo central a identificação das funcionalidades desejadas para o produto. Durante esse processo, os desenvolvedores e entrevistadores trabalharam em conjunto para documentar histórias de usuários que descrevem as necessidades e os cenários de uso do sistema. Além disso, foram estabelecidos critérios de aceitação para cada história de usuário, detalhando as condições que precisam ser atendidas para considerar uma funcionalidade como concluída com sucesso.
@@ -146,7 +150,7 @@ Para tornar o conteúdo mais concreto e menos abstrato, introduzimos os épicos.
 </p>
 
 <br>
-
+  
 ### Épico 1: Gerenciamento de Conta do Usuário
 
 - Requisitos relacionados: US01, US02, US03, US12, US13, US14, US15, US18, US19.
