@@ -91,7 +91,6 @@ Tabela 1: Funcionalidades
 | ENT01         | Pesquisa de informações sobre veículos por meio do número da placa | [ENT](../../elicitação/entrevista.md) |
 | ENT02         | Configuração de alertas de vencimento da CNH e do licenciamento do veículo | [ENT](../../elicitação/entrevista.md) |
 | ENT03         | Notificação ao usuário sobre recalls e informações importantes do fabricante do veículo | [ENT](../../elicitação/entrevista.md) |
-
 Fonte: [Altino Arthur](https://github.com/arthurrochamoreira)
 
 </center>
@@ -108,7 +107,6 @@ Tabela 2: Interface de Usuário
 | ITP21         | Modo escuro/claro                                                                                | [ITP](../../elicitação/Introspeccao.md) |
 | UI03          | Responsividade da interface de usuário em diferentes tamanhos de tela                            | [ITP](../../elicitação/Introspeccao.md) | 
 | RNF           | Evitar erros e telas brancas durante o uso                                                       | [ITP](../../elicitação/Introspeccao.md) | 
-
 Fonte: [Altino Arthur](https://github.com/arthurrochamoreira)
 
 </center>
@@ -125,7 +123,6 @@ Tabela 3: Não Funcionais
 | ITP           | Backup seguro de documentos e dados do usuário                         | [ITP](../../elicitação/Introspeccao.md)   |
 | RNF02         | O Aplicativo deve ser rápido ao carregar                               | [ITP](../../elicitação/Introspeccao.md)   |
 | RNF03         | O aplicativo deve garantir a segurança dos dados do usuário.           | [ITP](../../elicitação/Introspeccao.md)   | 
-
 Fonte: [Altino Arthur](https://github.com/arthurrochamoreira)
 
 </center>
@@ -168,6 +165,7 @@ Tabela 4: Gerenciamento de Conta do Usuário
 | US15           | Escolher Foto da Galeria        | Como um usuário, desejo poder escolher uma foto da minha galeria de imagens para usar como minha foto de perfil.          | Média    |
 | US18           | Visualizar Informações da Conta  | Como um usuário, desejo poder visualizar informações sobre a minha conta, como nome, e-mail e informações pessoais.      | Média    |
 | US19           | Editar Informações da Conta     | Como um usuário, desejo poder editar as informações da minha conta para mantê-las atualizadas.                            | Média    |
+Fonte: [Altino Arthur](https://github.com/arthurrochamoreira)
 
 <br>
 
@@ -191,6 +189,7 @@ Tabela 5: Documentos e Certificados
 | US04          | Adicionar Documento CLRV-e   | Como um usuário, desejo poder adicionar o documento CLRV-e (Certificado de Registro e Licenciamento de Veículo eletrônico) à minha conta. | Média|
 | US05          | Acessar Documento CLRV-e     | Como um usuário, desejo poder acessar o documento CLRV-e associado à minha conta.                                     | Média       |
 | US20          | Visualizar Certificados       | Como um usuário, desejo poder visualizar e gerenciar todos os certificados e documentos associados à minha conta.    | Média       |
+Fonte: [Altino Arthur](https://github.com/arthurrochamoreira)
 
 <br>
 
@@ -215,6 +214,7 @@ Tabela 6: Exames e Infrações
 | US07          | Acessar Infração                | Como um usuário, desejo poder acessar informações sobre infrações relacionadas à minha carteira de motorista.         | Média      |
 | US08          | Pagar Infração                  | Como um usuário, desejo poder pagar infrações diretamente através da aplicação.                                       | Média      |
 | US21          | Receber Notificações de Infrações | Como um usuário, desejo receber notificações sobre infrações relacionadas à minha carteira de motorista.            | Média      |
+Fonte: [Altino Arthur](https://github.com/arthurrochamoreira)
 
 <br>
 
@@ -237,6 +237,7 @@ Tabela 7: Campanhas e Projetos
 | ---            | -----------------------------      | ------------------------------------------------------------------------------------------------------------------ | ---------- |
 | US09           | Consultar Campanhas e Projetos     | Como um usuário, desejo poder consultar informações sobre campanhas e projetos relacionados à segurança no trânsito. | Baixa      |
 | US22           | Participar de Campanhas e Projetos | Como um usuário, desejo poder participar ativamente de campanhas e projetos relacionados à segurança no trânsito. | Média      |
+Fonte: [Altino Arthur](https://github.com/arthurrochamoreira)
 
 <br>
 
@@ -260,6 +261,7 @@ Tabela 8: Cadastro Positivo e Notificações
 | US10           | Visualizar Cadastro Positivo     | Como um usuário, desejo poder visualizar meu cadastro positivo de trânsito para entender meu histórico.                 | Média    |
 | US11 | Aderir ao Sistema de Notificação Eletrônica | Como um usuário, desejo poder aderir ao sistema de notificação eletrônica para receber atualizações e alertas importantes. | Média    |
 | US23 | Gerenciar Preferências de Notificação | Como um usuário, desejo poder gerenciar minhas preferências de notificação, escolhendo quais tipos de alertas desejo receber. | Média    |
+Fonte: [Altino Arthur](https://github.com/arthurrochamoreira)
 
 <br>
 
@@ -282,6 +284,7 @@ Tabela 9: Cursos Especializados
 | ---  | -------------------------------------  | --------------------------------------------------------------------------------------------------------------------- | ---------- |
 | US16 | Visualizar Cursos Especializados        | Como um usuário, desejo poder visualizar informações sobre cursos especializados relacionados à segurança no trânsito. | Baixa    |
 | US24 | Inscrever-se em Cursos Especializados  | Como um usuário, desejo poder inscrever-me em cursos especializados relacionados à segurança no trânsito.               | Média    |
+Fonte: [Altino Arthur](https://github.com/arthurrochamoreira)
 
 <br>
 
@@ -302,6 +305,7 @@ Tabela 10: Segurança e Autenticação
 | ---  | -----------------------------------------------   | ---------------------------------------------------------------------------------------------------------------------  | ---------- |
 | US17 | Permitir Biometria Para Desbloquear a Carteira  | Como um usuário, desejo poder usar minha biometria para desbloquear minha carteira de habilitação eletrônica para maior segurança. | Alta    |
 | US25 | Recuperar Senha Perdida                         | Como um usuário, desejo poder recuperar minha senha perdida por meio de um processo seguro de redefinição de senha. | Média    |
+Fonte: [Altino Arthur](https://github.com/arthurrochamoreira)
 
 </center>
 
@@ -328,6 +332,7 @@ Para criar essas features, partimos dos épicos, que, por sua vez, são históri
 | Remover Foto de Perfil             | Possibilitar aos usuários remover a foto de perfil, se desejarem.                                                | Gerenciamento de Conta do Usuário | Média     |
 | Escolher Foto da Galeria           | Permitir que os usuários escolham uma foto da galeria de imagens para usar como imagem de perfil.            | Gerenciamento de Conta do Usuário | Média     |
 | Visualização de Informações da Conta | Permitir que os usuários visualizem informações sobre suas contas, como nome, e-mail e informações pessoais. | Gerenciamento de Conta do Usuário | Média     |
+Fonte: [Altino Arthur](https://github.com/arthurrochamoreira)
 
 #### Feature 2: Documentos e Certificados
 
@@ -336,6 +341,7 @@ Para criar essas features, partimos dos épicos, que, por sua vez, são históri
 | Adicionar Documento CLRV-e         | Permitir que os usuários adicionem o documento CLRV-e (Certificado de Registro e Licenciamento de Veículo eletrônico) às suas contas. | Documentos e Certificados | Média |
 | Acesso ao Documento CLRV-e         | Permitir que os usuários acessem o documento CLRV-e associado às suas contas. | Documentos e Certificados | Média |
 | Visualização de Certificados       | Oferecer aos usuários a capacidade de visualizar e gerenciar todos os certificados e documentos associados às suas contas. | Documentos e Certificados | Média |
+Fonte: [Altino Arthur](https://github.com/arthurrochamoreira)
 
 #### Feature 3: Exames e Infrações
 
@@ -345,6 +351,7 @@ Para criar essas features, partimos dos épicos, que, por sua vez, são históri
 | Acesso a Informações de Infração    | Permitir que os usuários acessem informações sobre infrações relacionadas às suas carteiras de motorista. | Exames e Infrações | Média |
 | Pagamento de Infrações              | Oferecer aos usuários a capacidade de pagar infrações diretamente pela aplicação. | Exames e Infrações | Média |
 | Receber Notificações de Infrações   | Permitir que os usuários recebam notificações sobre infrações relacionadas às suas carteiras de motorista. | Exames e Infrações | Média |
+Fonte: [Altino Arthur](https://github.com/arthurrochamoreira)
 
 #### Feature 4: Campanhas e Projetos
 
@@ -352,6 +359,7 @@ Para criar essas features, partimos dos épicos, que, por sua vez, são históri
 | ---------------------------------- | -----------------------------------------------------------------------------------------------------------------  | ------------------- | ---------- |
 | Consulta de Campanhas e Projetos     | Possibilitar que os usuários consultem informações sobre campanhas e projetos relacionados à segurança no trânsito. | Campanhas e Projetos | Baixa |
 | Participação em Campanhas e Projetos | Permitir que os usuários participem ativamente de campanhas e projetos relacionados à segurança no trânsito. | Campanhas e Projetos | Média |
+Fonte: [Altino Arthur](https://github.com/arthurrochamoreira)
 
 #### Feature 5: Cadastro Positivo e Notificações
 
@@ -360,6 +368,7 @@ Para criar essas features, partimos dos épicos, que, por sua vez, são históri
 | Visualização de Cadastro Positivo     | Oferecer aos usuários a capacidade de visualizar seu cadastro positivo de trânsito para entender seu histórico. | Cadastro Positivo e Notificações | Média |
 | Adesão ao Sistema de Notificação Eletrônica | Permitir que os usuários adiram ao sistema de notificação eletrônica para receber atualizações e alertas importantes. | Cadastro Positivo e Notificações | Média |
 | Gerenciamento de Preferências de Notificação | Permitir que os usuários gerenciem suas preferências de notificação, escolhendo quais tipos de alertas desejam receber. | Cadastro Positivo e Notificações | Média |
+Fonte: [Altino Arthur](https://github.com/arthurrochamoreira)
 
 #### Feature 6: Cursos Especializados
 
@@ -367,6 +376,7 @@ Para criar essas features, partimos dos épicos, que, por sua vez, são históri
 | ---------------------------------- | -----------------------------------------------------------------------------------------------------------------  | ----------------------- | ---------- |
 | Visualização de Cursos Especializados | Possibilitar que os usuários visualizem informações sobre cursos especializados relacionados à segurança no trânsito. | Cursos Especializados | Baixa |
 | Inscrição em Cursos Especializados | Permitir que os usuários se inscrevam em cursos especializados relacionados à segurança no trânsito. | Cursos Especializados | Média |
+Fonte: [Altino Arthur](https://github.com/arthurrochamoreira)
 
 #### Feature 7: Segurança e Autenticação
 
@@ -374,6 +384,7 @@ Para criar essas features, partimos dos épicos, que, por sua vez, são históri
 | ---------------------------------- | -----------------------------------------------------------------------------------------------------------------  | ----------------------- | ---------- |
 | Uso de Biometria para Desbloquear a Carteira | Permitir que os usuários usem biometria para desbloquear suas carteiras de habilitação eletrônicas para maior segurança. | Segurança e Autenticação | Alta |
 | Recuperação de Senha Perdida | Oferecer aos usuários a capacidade de recuperar senhas perdidas por meio de um processo seguro de redefinição de senha. | Segurança e Autenticação | Média |
+Fonte: [Altino Arthur](https://github.com/arthurrochamoreira)
 
 <br>
   
