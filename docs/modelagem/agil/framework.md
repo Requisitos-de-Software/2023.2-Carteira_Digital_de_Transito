@@ -266,3 +266,8 @@ A suportabilidade defini que o aplicativo deve ser projetado e desenvolvido de f
 | Versão |    Data    |      Descrição      |       Autor     | Revisor(es)  |
 | ------ | ---------- | ------------------- | --------------- | ------------ |
 | 1.0    | 06/11/2023 | Criação do template | [Limirio Guimarães](https://github.com/LimirioGuimaraes) |[Mayara Alves](https://github.com/Mayara-tech) |
+| 1.1   | 06/11/2023 | Criação do NFR de usabilidade |  [Mayara Alves](https://github.com/Mayara-tech) |[Limirio Guimarães](https://github.com/LimirioGuimaraes) |
+| 1.2    | 06/11/2023 | Criação do NFR de Confiabilidade| [Limirio Guimarães](https://github.com/LimirioGuimaraes) |[Mayara Alves](https://github.com/Mayara-tech) |
+| 1.3    | 06/11/2023 | Criação do NFR de Desempenho | [Limirio Guimarães](https://github.com/LimirioGuimaraes) |[Mayara Alves](https://github.com/Mayara-tech) |
+| 1.4   | 06/11/2023 | Criação do NFR de suportabilidade |  [Mayara Alves](https://github.com/Mayara-tech) |[Limirio Guimarães](https://github.com/LimirioGuimaraes) |
+
