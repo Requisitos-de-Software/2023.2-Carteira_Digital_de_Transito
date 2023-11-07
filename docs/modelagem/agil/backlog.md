@@ -80,7 +80,7 @@ Tabela 2: Interface de Usuário
 | ITP19         | Aplicativo deve possuir interface simples                                                        | [ITP](../../elicitação/Introspeccao.md) |
 | ITP21         | Modo escuro/claro                                                                                | [ITP](../../elicitação/Introspeccao.md) |
 | UI03          | Responsividade da interface de usuário em diferentes tamanhos de tela                            | [ITP](../../elicitação/Introspeccao.md) | 
-| RNF           | Evitar erros e telas brancas durante o uso | Não implementado |
+| RNF           | Evitar erros e telas brancas durante o uso                                                       | [ITP](../../elicitação/Introspeccao.md) | 
 
 Fonte: [Altino Arthur](https://github.com/arthurrochamoreira)
 
@@ -97,7 +97,7 @@ Tabela 3: Não Funcionais
 | RNF01         | O aplicativo deve ocupar um espaço de armazenamento razoável.          | [ITP](../../elicitação/Introspeccao.md)   |
 | ITP           | Backup seguro de documentos e dados do usuário                         | [ITP](../../elicitação/Introspeccao.md)   |
 | RNF02         | O Aplicativo deve ser rápido ao carregar                               | [ITP](../../elicitação/Introspeccao.md)   |
-| RNF03         | O aplicativo deve garantir a segurança dos dados do usuário.           | [ITPT](../../elicitação/Introspeccao.md)  | 
+| RNF03         | O aplicativo deve garantir a segurança dos dados do usuário.           | [ITP](../../elicitação/Introspeccao.md)   | 
 
 Fonte: [Altino Arthur](https://github.com/arthurrochamoreira)
 
@@ -168,10 +168,10 @@ Tabela 8: Exames e Infrações
 
 Tabela 9: Campanhas e Projetos
  
-| Identificador  | Requisitos                      | User Story                                                                                                            | Prioridade |
-| ---  | -----------------------------  | --------------------------------------------------------------------------------------------------------------------- | ---------- |
-| US09 | Consultar Campanhas e Projetos  | Como um usuário, desejo poder consultar informações sobre campanhas e projetos relacionados à segurança no trânsito. | Baixa      |
-| US22 | Participar de Campanhas e Projetos | Como um usuário, desejo poder participar ativamente de campanhas e projetos relacionados à segurança no trânsito. | Média      |
+| Identificador  | Requisitos                         | User Story                                                                                                        | Prioridade |
+| ---            | -----------------------------      | ------------------------------------------------------------------------------------------------------------------ | ---------- |
+| US09           | Consultar Campanhas e Projetos     | Como um usuário, desejo poder consultar informações sobre campanhas e projetos relacionados à segurança no trânsito. | Baixa      |
+| US22           | Participar de Campanhas e Projetos | Como um usuário, desejo poder participar ativamente de campanhas e projetos relacionados à segurança no trânsito. | Média      |
 
 </center>
 
@@ -182,8 +182,8 @@ Tabela 9: Campanhas e Projetos
 Tabela 10: Cadastro Positivo e Notificações
 
 | Identificador  | Requisitos                       | User Story                                                                                                            | Prioridade |
-| ---  | -------------------------------   | ---------------------------------------------------------------------------------------------------------------------| ---------- |
-| US10 | Visualizar Cadastro Positivo     | Como um usuário, desejo poder visualizar meu cadastro positivo de trânsito para entender meu histórico.                 | Média    |
+| ---            | -------------------------------   | ---------------------------------------------------------------------------------------------------------------------| ---------- |
+| US10           | Visualizar Cadastro Positivo     | Como um usuário, desejo poder visualizar meu cadastro positivo de trânsito para entender meu histórico.                 | Média    |
 | US11 | Aderir ao Sistema de Notificação Eletrônica | Como um usuário, desejo poder aderir ao sistema de notificação eletrônica para receber atualizações e alertas importantes. | Média    |
 | US23 | Gerenciar Preferências de Notificação | Como um usuário, desejo poder gerenciar minhas preferências de notificação, escolhendo quais tipos de alertas desejo receber. | Média    |
 
@@ -208,7 +208,7 @@ Tabela 11: Cursos Especializados
 
 Tabela 12: Segurança e Autenticação
 
-| Identificador   | Requisitos                                        | User Story                                                                                                            | Prioridade |
+| Identificador   | Requisitos                            | User Story                                                                                                      |Prioridade |
 | ---  | -----------------------------------------------   | ---------------------------------------------------------------------------------------------------------------------  | ---------- |
 | US17 | Permitir Biometria Para Desbloquear a Carteira  | Como um usuário, desejo poder usar minha biometria para desbloquear minha carteira de habilitação eletrônica para maior segurança. | Alta    |
 | US25 | Recuperar Senha Perdida                         | Como um usuário, desejo poder recuperar minha senha perdida por meio de um processo seguro de redefinição de senha. | Média    |
