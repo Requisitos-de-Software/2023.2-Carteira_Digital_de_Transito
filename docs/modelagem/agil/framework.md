@@ -70,7 +70,7 @@ A abordagem adotada para a concepção do artefato foi fundamentada nos requisit
 | Desempenho | O aplicativo deve realizar suas operações em um tempo máximo de 2 segundos, caso não seja possível deve haver um feedback com indicador de progresso.                                  | [NFR05](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/especificacao-suplementar/) 
 | Suportabilidade  |O aplicativo deve está disponível nas lojas virtuais dos principais sistemas operacionais (SO) utilizados em dispositiveis móveis.                                     | [NFR06](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/especificacao-suplementar/) 
 
-<p align="center"> Fonte: Mayara Alves</p>
+<p align="center"><b>Fonte</b>:  <a href="https://github.com/Mayara-tech">Mayara Alves</a></p>
 </center>
 
 
@@ -86,7 +86,7 @@ Usabilidade, de acordo com a definição de Jakob Nielsen, é a medida que avali
 | O sistema não deve exigir que seus usuários sejam tecnófilos. Deve ser de fácil uso, sem necessidade prévia de treinamento para utilização do sistema.                                                                   | [NFR01](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/especificacao-suplementar/) 
 |O aplicativo deve seguir as normas de acessibilidade da WCAG.                                                | [NFR02](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/especificacao-suplementar/) 
 
-<p align="center"> Fonte: Mayara Alves</p>
+<p align="center"><b>Fonte</b>:  <a href="https://github.com/Mayara-tech">Mayara Alves</a></p>
 </center>
 
 #### Cartão especificação NFR1 - Facilidade no uso. 
@@ -107,6 +107,13 @@ Usabilidade, de acordo com a definição de Jakob Nielsen, é a medida que avali
 <p align="center"> Fonte: Mayara Alves</p>
 </center>
 
+<center>
+<p align="center"> Figura 2: SIG Facilidade no uso </p>
+
+![disponibilidadeContinua](../../assets/NFR01.png)
+ 
+<p align="center"><b>Fonte</b>:  <a href="https://github.com/Mayara-tech">Mayara Alves</a></p>
+</center>
 
 #### Cartão especificação NFR2 - Acessibilidade. 
 
@@ -123,7 +130,7 @@ Usabilidade, de acordo com a definição de Jakob Nielsen, é a medida que avali
 | Conflito              | Nenhum |
 | Historia              | 06 de novembro de 2023 |
 
-<p align="center"> Fonte: Mayara Alves</p>
+<p align="center"><b>Fonte</b>:  <a href="https://github.com/Mayara-tech">Mayara Alves</a></p>
 </center>
 
 ## NFR Confiabilidade 
@@ -204,7 +211,7 @@ A suportabilidade defini que o aplicativo deve ser projetado e desenvolvido de f
 | O aplicativo deve está disponível nas lojas virtuais dos principais sistemas operacionais (SO) utilizados em dispositiveis móveis.          | [NFR13](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/especificacao-suplementar/) 
 
 
-<p align="center"> Fonte: Mayara Alves</p>
+<p align="center"><b>Fonte</b>:  <a href="https://github.com/Mayara-tech">Mayara Alves</a></p>
 </center>
 
 #### Cartão especificação NFR6 - Suportabilidade. 
