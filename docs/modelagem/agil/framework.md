@@ -147,7 +147,7 @@ Usabilidade, de acordo com a definição de Jakob Nielsen, é a medida que avali
 </center>
 
 ## NFR Confiabilidade 
-<p align="center"> Cartão especificação NFRX - O sistema deve está disponível durante os 7 dias da semana, 24 horas por dia.</p>
+<p align="center"> Cartão especificação NFR03 - O sistema deve está disponível durante os 7 dias da semana, 24 horas por dia.</p>
  
 | Classificação         |Disponibilidade Contínua | 
 | ----------------------|--|
@@ -164,12 +164,12 @@ Usabilidade, de acordo com a definição de Jakob Nielsen, é a medida que avali
 <center>
 <p align="center"> Figura 5: SIG Disponibilidade Contínua </p>
 
-<center>![disponibilidadeContinua](../../assets/confiabilidadeDiagrama1.png)</center> 
+![disponibilidadeContinua](../../assets/confiabilidadeDiagrama1.png)
  
 <p align="center"><b>Fonte</b>:  <a href="https://github.com/LimirioGuimaraes">Limírio Guimarães</a></p>
 </center>
 
-<p align="center"> Cartão especificação NFRX - O aplicativo deve apresentar as políticas de privacidade, descrevendo quais dados serão coletados do usuário.</p>
+<p align="center"> Cartão especificação NFR04 - O aplicativo deve apresentar as políticas de privacidade, descrevendo quais dados serão coletados do usuário.</p>
 
 | Classificação         | Política de Privacidade e Transparência de Dados |
 | ---------------------- | ----------------------------------------------- |
@@ -189,8 +189,9 @@ Usabilidade, de acordo com a definição de Jakob Nielsen, é a medida que avali
 <p align="center"><b>Fonte</b>:  <a href="https://github.com/LimirioGuimaraes">Limírio Guimarães</a></p>
 </center>
 
-
 ## NFR Desempenho
+
+
 
 ## NFR Suportabilidade
 
