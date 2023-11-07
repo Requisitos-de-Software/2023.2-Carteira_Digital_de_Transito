@@ -17,10 +17,14 @@ Essa abordagem metódica e colaborativa na construção e organização do Backl
 
 <p align="center"><b>Tabela 01</b> - Participantes da Entrevista.</p>
 
+<center>
+ 
 | Participante     | Função        |
 | ---------------- | ------------- |
 | Rômulo           | Product Owner |
 | Altino Arthur    | Entrevistador |
+
+<center>
 
 <p align="center"><b>Fonte</b>: <a href=https://github.com/arthurrochamoreira>Altino Arthur</a> </p>
 
@@ -65,7 +69,10 @@ A seguir, apresentamos tabelas de 1 a 5 do o backlog do produto elaborado em col
 <br>
 
 <center>
+ 
+<br>
 
+<p align="center"><b>Tabela 03</b> - Interface de Usuário.</p>
 Tabela 2: Interface de Usuário
 
 | ID    | Requisito                                                                                        | Rastreabilidade |
@@ -74,7 +81,9 @@ Tabela 2: Interface de Usuário
 | UI02  | Interface de usuário personalizável                                                              |                 |
 | UI03  | Responsividade da interface de usuário em diferentes tamanhos de tela                            |                 |
 
-Fonte: [Altino Arthur](https://github.com/arthurrochamoreira)
+<p align="center"><b>Fonte</b>: <a href=https://github.com/arthurrochamoreira>Altino Arthur</a> </p>
+
+<br>
 
 </center>
 
