@@ -181,6 +181,15 @@ Usabilidade, de acordo com a definição de Jakob Nielsen, é a medida que avali
 | Conflito              | Nenhum |
 | Data da História      | 06 de novembro de 2023 |
 
+<center>
+<p align="center"> Figura 5: Política de Privacidade e Transparência de Dados </p>
+
+ ![politicaPrivacidade](../../assets/diagrama2confiabilidade.png)
+ 
+<p align="center"><b>Fonte</b>:  <a href="https://github.com/LimirioGuimaraes">Limírio Guimarães</a></p>
+</center>
+
+
 ## NFR Desempenho
 
 ## NFR Suportabilidade
