@@ -1,8 +1,5 @@
-<center>
 
 # Backlog do Produto
-
-</center>
   
 ## Introdução
 
@@ -61,11 +58,7 @@ Essa abordagem metódica e colaborativa na construção e organização do Backl
 
 <br>
 
-<center>
-  
 ## Product Backlog
-
-</center>
 
 A seguir, apresentamos tabelas de 1 a 3 do o backlog do produto elaborado em colaboração com o PO, detalhando cada história de usuário e sua priorização.
 
@@ -138,22 +131,14 @@ Fonte: [Altino Arthur](https://github.com/arthurrochamoreira)
 </center>
 
 <br>
-
-<center>
   
 ## Histórias de Usuário
-
-</center>
 
 <p align="justify">
 As tabelas de 4 a 10 especificam ainda mais as _features_ e serão detalhadas melhor na seção de [Histórias de Usuário](../agil/historiasUsuario.md). Se apresentam como descrições concisas e de alto nível de uma funcionalidade desejada em termos do cliente. Usualmente seguem a forma "Eu, como \_\_\_, desejo \_\_\_ para ___."
 </p>
-
-<center>
   
 ## Épicos
-
-</center>
 
 <p align="justify">
 Para tornar o conteúdo mais concreto e menos abstrato, introduzimos os épicos. Os épicos são histórias de usuário de alto nível que representam funcionalidades ou requisitos significativos do produto. Eles englobam aspectos amplos e estratégicos do projeto, geralmente não sendo passíveis de implementação em um único ciclo de desenvolvimento. A função dos épicos é agrupar e organizar histórias de usuário relacionadas a objetivos maiores ou a áreas funcionais do produto. A seguir, apresentamos a especificação dos épicos para facilitar a compreensão do backlog.
@@ -286,12 +271,8 @@ Tabela 10: Segurança e Autenticação
 </center>
 
 <br>
-
-<center>
   
 ## Features
-
-</center>
 
 <p align="justify">
 Esta seção oferece uma visão mais detalhada das funcionalidades que compõem o Backlog do Produto. Cada feature representa uma descrição simplificada das capacidades do produto, projetadas para atender às necessidades e objetivos dos usuários. Essas funcionalidades são apresentadas em um nível de abstração mais alto do que as histórias de usuário.
@@ -358,12 +339,8 @@ Para criar essas features, partimos dos épicos, que, por sua vez, são históri
 | Recuperação de Senha Perdida | Oferecer aos usuários a capacidade de recuperar senhas perdidas por meio de um processo seguro de redefinição de senha. | Segurança e Autenticação | Média |
 
 <br>
-
-<center> 
   
 ## Bibliografia
-
-</center>
 
 <p align="justify">
   
