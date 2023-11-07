@@ -10,7 +10,27 @@ A entrevista com o Product Owner (PO), que aconteceu via Microsoft Teams em 05 d
 
 Para priorizar as histórias de usuário, a equipe utilizou o método Three Level Scale, que é uma abordagem eficaz para classificar as funcionalidades com base em sua importância e complexidade. Isso permitiu definir uma ordem de prioridade clara, garantindo que as funcionalidades mais críticas ou valiosas para o cliente fossem desenvolvidas primeiro.
 
-Após a priorização das histórias de usuário, a equipe avançou para a organização do Backlog do Produto. Nesse estágio, as histórias de usuário foram agrupadas em épicos, proporcionando uma visão hierárquica e organizada das funcionalidades a serem desenvolvidas. Essa estrutura facilita a gestão e o planejamento do projeto, além de permitir uma visão mais ampla das metas e entregas ao longo do tempo.
+Após a priorização das histórias de usuário, a equipe avançou para a organização do Backlog do Produto. Nesse estágio, as histórias de usuário foram agrupadas em épicos e features, proporcionando uma visão hierárquica e organizada das funcionalidades a serem desenvolvidas. Essa estrutura facilita a gestão e o planejamento do projeto, além de permitir uma visão mais ampla das metas e entregas ao longo do tempo.
+
+### Épicos
+
+Os Épicos desempenham um papel fundamental na organização do Backlog do Produto em projetos ágeis. Eles representam histórias de usuário de alto nível que abrangem objetivos estratégicos e amplas áreas funcionais do produto. Os Épicos são valiosos por várias razões:
+
+- **Visão Estratégica:** Os Épicos proporcionam uma visão geral das metas do projeto, alinhando o desenvolvimento com os objetivos gerais.
+
+- **Organização Hierárquica:** Eles permitem uma organização hierárquica das funcionalidades, ajudando a entender como as partes do sistema se relacionam.
+
+- **Priorização Eficiente:** A classificação dos Épicos ajuda a priorizar as partes mais significativas do projeto, garantindo que as funcionalidades críticas sejam abordadas primeiro.
+
+### Features
+
+As Features são descrições simplificadas das capacidades do produto em um nível mais detalhado. Elas detalham as funcionalidades desejadas em um formato que é facilmente transformado em tarefas de desenvolvimento práticas. As Features têm sua importância:
+
+- **Detalhamento Específico:** Elas representam descrições específicas das capacidades do produto, tornando o processo de desenvolvimento mais direto.
+
+- **Implementação Prática:** As Features descrevem o que deve ser entregue de forma tangível, facilitando a implementação.
+
+- **Rastreabilidade Clara:** Cada Feature está vinculada a um Épico correspondente, garantindo uma rastreabilidade clara das funcionalidades em relação aos objetivos estratégicos do produto.
 
 Essa abordagem metódica e colaborativa na construção e organização do Backlog do Produto é fundamental para o sucesso de um projeto ágil, garantindo que as necessidades do cliente sejam atendidas de maneira eficiente e priorizada de acordo com seu valor.
 
@@ -105,21 +125,25 @@ Fonte: [Altino Arthur](https://github.com/arthurrochamoreira)
 
 </center>
 
-Para diminuir o nível de abstração expresso nos temas, foram registrados os épicos, que são histórias de usuário que ainda podem ser mais especificadas. Para facilitar a leitura do backlog, os épicos estão especificados a seguir.
 
 ### Histórias de Usuário
 
 As tabelas de 4 a 10 especificam ainda mais as _features_ e serão detalhadas melhor na seção de [Histórias de Usuário](../agil/historiasUsuario.md). Se apresentam como descrições concisas e de alto nível de uma funcionalidade desejada em termos do cliente. Usualmente seguem a forma "Eu, como \_\_\_, desejo \_\_\_ para ___."
 
-## Épicos e User Stories
+## Épicos
+
+Para tornar o conteúdo mais concreto e menos abstrato, introduzimos os épicos. Os épicos são histórias de usuário de alto nível que representam funcionalidades ou requisitos significativos do produto. Eles englobam aspectos amplos e estratégicos do projeto, geralmente não sendo passíveis de implementação em um único ciclo de desenvolvimento. A função dos épicos é agrupar e organizar histórias de usuário relacionadas a objetivos maiores ou a áreas funcionais do produto. A seguir, apresentamos a especificação dos épicos para facilitar a compreensão do backlog.
 
 ### Épico 1: Gerenciamento de Conta do Usuário
+
+- Requisitos relacionados: US01, US02, US03, US12, US13, US14, US15, US18, US19.
+- Descrição: Este épico concentra-se no gerenciamento das contas de usuário na aplicação. Ele abrange funcionalidades relacionadas à autenticação, personalização do perfil do usuário e acesso a informações pessoais. Os objetivos incluem permitir que os usuários façam login usando a autenticação do GOV, acessem sua carteira de habilitação eletrônica, gerenciem mensagens, configurem fotos de perfil e visualizem informações da conta.
 
 <center>
 
 Tabela 4: Gerenciamento de Conta do Usuário
 
-| Identificador  | Requisitos                        | User Story                                                                                                            | Prioridade |
+| Identificador  | Requisitos                      | User Story                                                                                                              | Prioridade |
 | ---            | ------------------------------- | ---------------------------------------------------------------------------------------------------------------------   | ---------- |
 | US01           | Fazer Login com GOV             | Como um usuário, desejo poder fazer login na aplicação usando o GOV para acessar meus recursos.                         | Alta       |
 | US02           | Fazer Logoff com GOV            | Como um usuário, desejo poder fazer logoff da aplicação usando o GOV para garantir minha segurança.                     | Alta       |
@@ -135,6 +159,9 @@ Tabela 4: Gerenciamento de Conta do Usuário
 
 ### Épico 2: Documentos e Certificados
 
+- Requisitos relacionados: US04, US05, US20
+- Descrição: Este épico trata da gestão de documentos e certificados dos usuários. Inclui a capacidade de adicionar, acessar e gerenciar documentos como o Certificado de Registro e Licenciamento de Veículo eletrônico (CLRV-e).
+
 <center>
 
 Tabela 5: Documentos e Certificados
@@ -148,6 +175,9 @@ Tabela 5: Documentos e Certificados
 </center>
 
 ### Épico 3: Exames e Infrações
+
+- Requisitos relacionados: US06, US07, US08, US21
+- Descrição: Este épico envolve a visualização de resultados de exames toxicológicos, acesso a informações sobre infrações de trânsito e pagamento de infrações diretamente pela aplicação, bem como receber notificações sobre infrações relacionadas à carteira de motorista.
 
 <center>
 
@@ -164,6 +194,8 @@ Tabela 6: Exames e Infrações
 
 ### Épico 4: Campanhas e Projetos
 
+- Requisitos relacionados: US09, US22
+- Descrição: Neste épico, os usuários podem consultar informações sobre campanhas e projetos relacionados à segurança no trânsito, e têm a capacidade de participar ativamente dessas iniciativas.
 <center>
 
 Tabela 7: Campanhas e Projetos
@@ -176,6 +208,9 @@ Tabela 7: Campanhas e Projetos
 </center>
 
 ### Épico 5: Cadastro Positivo e Notificações
+
+- Requisitos relacionados: US10, US11, US23
+- Descrição: Este épico inclui a visualização do cadastro positivo de trânsito, a adesão ao sistema de notificação eletrônica para receber atualizações e alertas importantes, e a possibilidade de gerenciar as preferências de notificação.
 
 <center>
 
@@ -191,6 +226,9 @@ Tabela 8: Cadastro Positivo e Notificações
 
 ### Épico 6: Cursos Especializados
 
+- Requisitos relacionados: US16, US24
+- Descrição: Neste épico, os usuários podem visualizar informações sobre cursos especializados relacionados à segurança no trânsito e inscrever-se nesses cursos.
+
 <center>
 
 Tabela 9: Cursos Especializados
@@ -204,6 +242,9 @@ Tabela 9: Cursos Especializados
 
 ### Épico 7: Segurança e Autenticação
 
+- Requisitos relacionados: US17, US25
+- Descrição: Este épico aborda a segurança e autenticação dos usuários, permitindo o uso de biometria para desbloquear a carteira de habilitação eletrônica e a recuperação segura de senhas perdidas.
+
 <center>
 
 Tabela 10: Segurança e Autenticação
@@ -214,6 +255,72 @@ Tabela 10: Segurança e Autenticação
 | US25 | Recuperar Senha Perdida                         | Como um usuário, desejo poder recuperar minha senha perdida por meio de um processo seguro de redefinição de senha. | Média    |
 
 </center>
+
+<br>
+
+## Features
+
+Esta seção oferece uma visão mais detalhada das funcionalidades que compõem o Backlog do Produto. Cada feature representa uma descrição simplificada das capacidades do produto, projetadas para atender às necessidades e objetivos dos usuários. Essas funcionalidades são apresentadas em um nível de abstração mais alto do que as histórias de usuário.
+
+Para criar essas features, partimos dos épicos, que, por sua vez, são histórias de usuário de alto nível que podem ser mais detalhadas. Organizar as funcionalidades dessa maneira simplifica o planejamento, desenvolvimento e gerenciamento do projeto ágil. Cada feature está vinculada a um épico correspondente, garantindo uma rastreabilidade clara das funcionalidades em relação aos objetivos gerais do produto, como mencionado acima.
+
+#### Feature 1: Autenticação e Conta do Usuário
+
+| Feature                            | Descrição                                                                                                       | Épico                              | Prioridade |
+| ---------------------------------- | ---------------------------------------------------------------------------------------------------------------- | ---------------------------------- | ---------- |
+| Autenticação com GOV               | Permitir que os usuários façam login na aplicação usando a autenticação do GOV.                                | Gerenciamento de Conta do Usuário | Alta       |
+| Acesso à Carteira de Habilitação   | Possibilitar aos usuários acessar a versão digital de suas carteiras de habilitação eletrônicas.             | Gerenciamento de Conta do Usuário | Alta       |
+| Central de Mensagens               | Oferecer uma central de mensagens para que os usuários recebam comunicações e notificações importantes.      | Gerenciamento de Conta do Usuário | Média     |
+| Tirar Foto para o Perfil           | Permitir que os usuários tirem uma foto para usar como imagem de perfil na aplicação.                         | Gerenciamento de Conta do Usuário | Média     |
+| Remover Foto de Perfil             | Possibilitar aos usuários remover a foto de perfil, se desejarem.                                                | Gerenciamento de Conta do Usuário | Média     |
+| Escolher Foto da Galeria           | Permitir que os usuários escolham uma foto da galeria de imagens para usar como imagem de perfil.            | Gerenciamento de Conta do Usuário | Média     |
+| Visualização de Informações da Conta | Permitir que os usuários visualizem informações sobre suas contas, como nome, e-mail e informações pessoais. | Gerenciamento de Conta do Usuário | Média     |
+
+#### Feature 2: Documentos e Certificados
+
+| Feature                            | Descrição                                                                                                        | Épico                   | Prioridade |
+| ---------------------------------- | -----------------------------------------------------------------------------------------------------------------  | ----------------------- | ---------- |
+| Adicionar Documento CLRV-e         | Permitir que os usuários adicionem o documento CLRV-e (Certificado de Registro e Licenciamento de Veículo eletrônico) às suas contas. | Documentos e Certificados | Média |
+| Acesso ao Documento CLRV-e         | Permitir que os usuários acessem o documento CLRV-e associado às suas contas. | Documentos e Certificados | Média |
+| Visualização de Certificados       | Oferecer aos usuários a capacidade de visualizar e gerenciar todos os certificados e documentos associados às suas contas. | Documentos e Certificados | Média |
+
+#### Feature 3: Exames e Infrações
+
+| Feature                            | Descrição                                                                                                        | Épico              | Prioridade |
+| ---------------------------------- | -----------------------------------------------------------------------------------------------------------------  | ------------------ | ---------- |
+| Visualização de Exames Toxicológicos | Possibilitar aos usuários visualizar os resultados de exames toxicológicos. | Exames e Infrações | Média |
+| Acesso a Informações de Infração    | Permitir que os usuários acessem informações sobre infrações relacionadas às suas carteiras de motorista. | Exames e Infrações | Média |
+| Pagamento de Infrações              | Oferecer aos usuários a capacidade de pagar infrações diretamente pela aplicação. | Exames e Infrações | Média |
+| Receber Notificações de Infrações   | Permitir que os usuários recebam notificações sobre infrações relacionadas às suas carteiras de motorista. | Exames e Infrações | Média |
+
+#### Feature 4: Campanhas e Projetos
+
+| Feature                            | Descrição                                                                                                        | Épico               | Prioridade |
+| ---------------------------------- | -----------------------------------------------------------------------------------------------------------------  | ------------------- | ---------- |
+| Consulta de Campanhas e Projetos     | Possibilitar que os usuários consultem informações sobre campanhas e projetos relacionados à segurança no trânsito. | Campanhas e Projetos | Baixa |
+| Participação em Campanhas e Projetos | Permitir que os usuários participem ativamente de campanhas e projetos relacionados à segurança no trânsito. | Campanhas e Projetos | Média |
+
+#### Feature 5: Cadastro Positivo e Notificações
+
+| Feature                            | Descrição                                                                                                        | Épico                            | Prioridade |
+| ---------------------------------- | -----------------------------------------------------------------------------------------------------------------  | ------------------- | ---------- |
+| Visualização de Cadastro Positivo     | Oferecer aos usuários a capacidade de visualizar seu cadastro positivo de trânsito para entender seu histórico. | Cadastro Positivo e Notificações | Média |
+| Adesão ao Sistema de Notificação Eletrônica | Permitir que os usuários adiram ao sistema de notificação eletrônica para receber atualizações e alertas importantes. | Cadastro Positivo e Notificações | Média |
+| Gerenciamento de Preferências de Notificação | Permitir que os usuários gerenciem suas preferências de notificação, escolhendo quais tipos de alertas desejam receber. | Cadastro Positivo e Notificações | Média |
+
+#### Feature 6: Cursos Especializados
+
+| Feature                            | Descrição                                                                                                        | Épico                  | Prioridade |
+| ---------------------------------- | -----------------------------------------------------------------------------------------------------------------  | ----------------------- | ---------- |
+| Visualização de Cursos Especializados | Possibilitar que os usuários visualizem informações sobre cursos especializados relacionados à segurança no trânsito. | Cursos Especializados | Baixa |
+| Inscrição em Cursos Especializados | Permitir que os usuários se inscrevam em cursos especializados relacionados à segurança no trânsito. | Cursos Especializados | Média |
+
+#### Feature 7: Segurança e Autenticação
+
+| Feature                            | Descrição                                                                                                        | Épico                   | Prioridade |
+| ---------------------------------- | -----------------------------------------------------------------------------------------------------------------  | ----------------------- | ---------- |
+| Uso de Biometria para Desbloquear a Carteira | Permitir que os usuários usem biometria para desbloquear suas carteiras de habilitação eletrônicas para maior segurança. | Segurança e Autenticação | Alta |
+| Recuperação de Senha Perdida | Oferecer aos usuários a capacidade de recuperar senhas perdidas por meio de um processo seguro de redefinição de senha. | Segurança e Autenticação | Média |
 
 <br>
 
