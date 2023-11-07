@@ -421,8 +421,12 @@ Fonte: [Altino Arthur](https://github.com/arthurrochamoreira)
 
 <br>
 
+<center>
+
 ## Histórico de Versões
 
 | Versão | Data       | Descrição                              | Autor(es)                        | Revisor(es)                       |
 | ------ | ---------- | -------------------------------------- | -------------------------------- | --------------------------------- |
 | 1.0    | 05/11/2023 | Criação da página inicial.             | [Altino Arthur](https://github.com/arthurrochamoreira) | [Milena Baruc](https://github.com/MilenaBaruc) |
+
+</center>
