@@ -168,7 +168,7 @@ Tabela 8: Exames e Infrações
 
 Tabela 9: Campanhas e Projetos
  
-| ID   | Requisito                      | User Story                                                                                                            | Prioridade |
+| Identificador  | Requisitos                      | User Story                                                                                                            | Prioridade |
 | ---  | -----------------------------  | --------------------------------------------------------------------------------------------------------------------- | ---------- |
 | US09 | Consultar Campanhas e Projetos  | Como um usuário, desejo poder consultar informações sobre campanhas e projetos relacionados à segurança no trânsito. | Baixa      |
 | US22 | Participar de Campanhas e Projetos | Como um usuário, desejo poder participar ativamente de campanhas e projetos relacionados à segurança no trânsito. | Média      |
@@ -181,7 +181,7 @@ Tabela 9: Campanhas e Projetos
 
 Tabela 10: Cadastro Positivo e Notificações
 
-| ID   | Requisito                        | User Story                                                                                                            | Prioridade |
+| Identificador  | Requisitos                       | User Story                                                                                                            | Prioridade |
 | ---  | -------------------------------   | ---------------------------------------------------------------------------------------------------------------------| ---------- |
 | US10 | Visualizar Cadastro Positivo     | Como um usuário, desejo poder visualizar meu cadastro positivo de trânsito para entender meu histórico.                 | Média    |
 | US11 | Aderir ao Sistema de Notificação Eletrônica | Como um usuário, desejo poder aderir ao sistema de notificação eletrônica para receber atualizações e alertas importantes. | Média    |
@@ -195,7 +195,7 @@ Tabela 10: Cadastro Positivo e Notificações
 
 Tabela 11: Cursos Especializados
 
-| ID   | Requisito                              | User Story                                                                                                            | Prioridade |
+| Identificador   | Requisitos                              | User Story                                                                                                            | Prioridade |
 | ---  | -------------------------------------  | --------------------------------------------------------------------------------------------------------------------- | ---------- |
 | US16 | Visualizar Cursos Especializados        | Como um usuário, desejo poder visualizar informações sobre cursos especializados relacionados à segurança no trânsito. | Baixa    |
 | US24 | Inscrever-se em Cursos Especializados  | Como um usuário, desejo poder inscrever-me em cursos especializados relacionados à segurança no trânsito.               | Média    |
@@ -208,7 +208,7 @@ Tabela 11: Cursos Especializados
 
 Tabela 12: Segurança e Autenticação
 
-| ID   | Requisito                                        | User Story                                                                                                            | Prioridade |
+| Identificador   | Requisitos                                        | User Story                                                                                                            | Prioridade |
 | ---  | -----------------------------------------------   | ---------------------------------------------------------------------------------------------------------------------  | ---------- |
 | US17 | Permitir Biometria Para Desbloquear a Carteira  | Como um usuário, desejo poder usar minha biometria para desbloquear minha carteira de habilitação eletrônica para maior segurança. | Alta    |
 | US25 | Recuperar Senha Perdida                         | Como um usuário, desejo poder recuperar minha senha perdida por meio de um processo seguro de redefinição de senha. | Média    |
