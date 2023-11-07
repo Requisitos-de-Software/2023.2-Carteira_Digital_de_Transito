@@ -160,8 +160,8 @@ Na Tabela 9, tem-se o cronograma executado para todas as atividades da quarta en
 |---------------|------------|---------|------------------|----------------|
 | Modelagem de Requisitos - Ágil: Histórias de usuário         | 26/10/2023| 06/11/2023 | Milena  |   Arthur     |
 | Modelagem de Requisitos - Ágil: Backlogs  | 26/10/2023| 06/11/2023 | Arthur  | Milena |
-| Modelagem de Requisitos - Ágil: NFR Framework | 26/10/2023| 06/11/2023 | Mayara    | Breno |
-| Gravar reunião    | 06/11/2023 | 06/11/2023 | Mayara, Milena, Arthur | 
+| Modelagem de Requisitos - Ágil: NFR Framework | 26/10/2023| 06/11/2023 | Mayara, Altino | Breno |
+| Gravar reunião    | 06/11/2023 | 06/11/2023 | Mayara, Milena, Arthur, Altino | 
 | Correção após a Entrega 4  | 07/11/2023 | 10/11/2023 |     Altino, Breno, Limírio, Luis, Mayara, Milena, Vinícius  | Altino, Breno, Limírio, Luis, Mayara, Milena, Vinícius  | 
 
 ### Cronograma planejado entrega 5.1.
