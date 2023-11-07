@@ -1,6 +1,10 @@
 # Backlog do Produto
 
+<center>
+  
 ## Introdução
+
+</center>
 
 <p align="justify">
 O Backlog do Produto desempenha um papel fundamental na gestão de projetos ágeis, funcionando como um repositório dinâmico que armazena todas as tarefas pendentes relacionadas ao projeto. O Product Owner (PO) é o responsável por sugerir, priorizar e gerenciar os itens contidos no backlog. Esse documento é o resultado de uma estreita colaboração com o Product Owner do projeto. Através dessa interação, o PO e a equipe de desenvolvimento podem manter uma visão clara e atualizada das demandas do projeto, facilitando a tomada de decisões e a adaptação às mudanças à medida que o projeto avança. Essa abordagem ágil proporciona flexibilidade e agilidade, permitindo que o projeto evolua de acordo com as necessidades e prioridades em constante evolução.
@@ -45,8 +49,6 @@ As Features são descrições simplificadas das capacidades do produto em um ní
 <p align="justify">
 Essa abordagem metódica e colaborativa na construção e organização do Backlog do Produto é fundamental para o sucesso de um projeto ágil, garantindo que as necessidades do cliente sejam atendidas de maneira eficiente e priorizada de acordo com seu valor.
 </p>
-
-<center>
   
 ### Participantes da Entrevista
 
@@ -59,15 +61,15 @@ Essa abordagem metódica e colaborativa na construção e organização do Backl
 
 **Vídeo da Entrevista**: [Assista aqui](https://www.youtube.com/embed/)
 
-<center>
-
 <br>
 
+<center>
+  
 ## Product Backlog
 
-A seguir, apresentamos tabelas de 1 a 3 do o backlog do produto elaborado em colaboração com o PO, detalhando cada história de usuário e sua priorização.
+</center>
 
-<center>
+A seguir, apresentamos tabelas de 1 a 3 do o backlog do produto elaborado em colaboração com o PO, detalhando cada história de usuário e sua priorização.
  
 Tabela 1: Funcionalidades
 
@@ -135,15 +137,23 @@ Fonte: [Altino Arthur](https://github.com/arthurrochamoreira)
 
 <br>
 
+<center>
+  
 ## Histórias de Usuário
+
+</center>
 
 <p align="justify">
 As tabelas de 4 a 10 especificam ainda mais as _features_ e serão detalhadas melhor na seção de [Histórias de Usuário](../agil/historiasUsuario.md). Se apresentam como descrições concisas e de alto nível de uma funcionalidade desejada em termos do cliente. Usualmente seguem a forma "Eu, como \_\_\_, desejo \_\_\_ para ___."
 </p>
 
 <br>
+
+<center>
   
 ## Épicos
+
+</center>
 
 <p align="justify">
 Para tornar o conteúdo mais concreto e menos abstrato, introduzimos os épicos. Os épicos são histórias de usuário de alto nível que representam funcionalidades ou requisitos significativos do produto. Eles englobam aspectos amplos e estratégicos do projeto, geralmente não sendo passíveis de implementação em um único ciclo de desenvolvimento. A função dos épicos é agrupar e organizar histórias de usuário relacionadas a objetivos maiores ou a áreas funcionais do produto. A seguir, apresentamos a especificação dos épicos para facilitar a compreensão do backlog.
@@ -249,7 +259,11 @@ Tabela 10: Segurança e Autenticação
 
 <br>
 
+<center>
+  
 ## Features
+
+</center>
 
 <p align="justify">
 Esta seção oferece uma visão mais detalhada das funcionalidades que compõem o Backlog do Produto. Cada feature representa uma descrição simplificada das capacidades do produto, projetadas para atender às necessidades e objetivos dos usuários. Essas funcionalidades são apresentadas em um nível de abstração mais alto do que as histórias de usuário.
@@ -317,8 +331,14 @@ Para criar essas features, partimos dos épicos, que, por sua vez, são históri
 
 <br>
 
+<center> 
+  
 ## Bibliografia
 
+</center>
+
+<p align="justify">
+  
 > SOUZA, Nicolas; MACEDO, Lucas. Backlog do Produto. Repositório do Grupo Lichess da disciplina de Requisitos de Software da Universidade de Brasília, 2022. Disponível em: <<https://requisitos-de-software.github.io/2022.2-Lichess/modelagem/agil/backlog/>>. Acesso em: 18 maio 2023.
 
 > POPOV, Arthur Taylor de Jesus; SANTOS, Eduardo Schuindt. Backlog do Produto. Repositório do Grupo MEI da disciplina de Requisitos de Software da Universidade de Brasília, 2022. Disponível em: <<https://requisitos-de-software.github.io/2022.2-MEI/Modelagem/Agil/BacklogDoProduto/>>. Acesso em: 18 maio 2023.
@@ -326,6 +346,8 @@ Para criar essas features, partimos dos épicos, que, por sua vez, são históri
 > PRESSMAN, Roger S.; MAXIM, Bruce R.. Engenharia de software: uma abordagem profissional. 8 Porto Alegre: AMGH, 2016, 940 p.
 
 > Bourque, P., Fairley, R. E. Guide to the Software Engineering Body of Knowledge, Version 3.0. SWEBOK. IEEE Computer Society, 2014. Disponível em: http://www.computer.org/web/swebok/v3. p. 38.
+> 
+</p>
 
 <br>
 
