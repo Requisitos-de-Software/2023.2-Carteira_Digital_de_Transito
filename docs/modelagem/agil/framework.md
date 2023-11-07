@@ -127,7 +127,7 @@ Usabilidade, de acordo com a definição de Jakob Nielsen, é a medida que avali
 </center>
 
 ## NFR Confiabilidade 
-<p align="center"> Cartão especificação NFR03 - O sistema deve está disponível durante os 7 dias da semana, 24 horas por dia.</p>
+<p align="center"> Tabela 03: Cartão especificação NFR03 - O sistema deve está disponível durante os 7 dias da semana, 24 horas por dia.</p>
  
 | Classificação         |Disponibilidade Contínua | 
 | ----------------------|--|
@@ -149,7 +149,7 @@ Usabilidade, de acordo com a definição de Jakob Nielsen, é a medida que avali
 <p align="center"><b>Fonte</b>:  <a href="https://github.com/LimirioGuimaraes">Limírio Guimarães</a></p>
 </center>
 
-<p align="center"> Cartão especificação NFR04 - O aplicativo deve apresentar as políticas de privacidade, descrevendo quais dados serão coletados do usuário.</p>
+<p align="center"> Tabela 04: Cartão especificação NFR04 - O aplicativo deve apresentar as políticas de privacidade, descrevendo quais dados serão coletados do usuário.</p>
 
 | Classificação         | Política de Privacidade e Transparência de Dados |
 | ---------------------- | ----------------------------------------------- |
@@ -171,7 +171,7 @@ Usabilidade, de acordo com a definição de Jakob Nielsen, é a medida que avali
 
 ## NFR Desempenho
 
-<p align="center"> Cartão especificação NFR05 - O aplicativo deve realizar suas operações em um tempo máximo de 2 segundos, caso não seja possível deve haver um feedback com indicador de progresso.</p>
+<p align="center"> Tabela 05: Cartão especificação NFR05 - O aplicativo deve realizar suas operações em um tempo máximo de 2 segundos, caso não seja possível deve haver um feedback com indicador de progresso.</p>
 
 | Classificação         | Desempenho e Feedback do Tempo de Resposta |
 | ----------------------|------------------------------------------|
@@ -182,6 +182,7 @@ Usabilidade, de acordo com a definição de Jakob Nielsen, é a medida que avali
 | Prioridade            | Alta |
 | Conflito              | Pode haver conflito com requisitos de desempenho de hardware e redes. |
 | História              | 06 de novembro de 2023 |
+<p align="center"><b>Fonte</b>:  <a href="https://github.com/LimirioGuimaraes">Limírio Guimarães</a></p>
 
 
 ## NFR Suportabilidade
