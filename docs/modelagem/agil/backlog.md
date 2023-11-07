@@ -23,15 +23,13 @@ Essa abordagem metódica e colaborativa na construção e organização do Backl
 | Rômulo           | Product Owner |
 | Altino Arthur    | Entrevistador |
 
-</div>
-
 ### Registro da Entrevista
 
 - **Vídeo da Entrevista**: [Assista aqui](https://www.youtube.com/embed/)
 
 ### Product Backlog
 
-<div align="center">
+<p align="center"> </p>
 <br>
 
 #### Tabela 1: Funcionalidades
