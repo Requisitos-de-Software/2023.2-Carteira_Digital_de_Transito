@@ -157,7 +157,7 @@ Usabilidade, de acordo com a definição de Jakob Nielsen, é a medida que avali
 <p align="center"><b>Fonte</b>:  <a href="https://github.com/LimirioGuimaraes">Limírio Guimarães</a></p>
 
 <center>
-<p align="center"> Figura 5: SIG Disponibilidade Contínua </p>
+<p align="center"> Figura 4: SIG Disponibilidade Contínua </p>
 
 ![disponibilidadeContinua](../../assets/confiabilidadeDiagrama1.png)
  
@@ -177,7 +177,7 @@ Usabilidade, de acordo com a definição de Jakob Nielsen, é a medida que avali
 | Data da História      | 06 de novembro de 2023 |
 
 <center>
-<p align="center"> Figura 6: SIG Política de Privacidade e Transparência de Dados </p>
+<p align="center"> Figura 5: SIG Política de Privacidade e Transparência de Dados </p>
 
  ![politicaPrivacidade](../../assets/diagrama2confiabilidade.png)
  
@@ -200,7 +200,7 @@ Usabilidade, de acordo com a definição de Jakob Nielsen, é a medida que avali
 <p align="center"><b>Fonte</b>:  <a href="https://github.com/LimirioGuimaraes">Limírio Guimarães</a></p>
 
 <center>
-<p align="center"> Figura 7: SIG  Desempenho e Feedback do Tempo de Resposta  </p>
+<p align="center"> Figura 6: SIG  Desempenho e Feedback do Tempo de Resposta  </p>
 
  ![desempenhoFeedback](../../assets/diagramaDesempenho.png)
  
@@ -240,6 +240,13 @@ A suportabilidade defini que o aplicativo deve ser projetado e desenvolvido de f
 <p align="center"> Fonte: Mayara Alves</p>
 </center>
 
+<center>
+<p align="center"> Figura 7: SIG Suportabilidade </p>
+
+![Suportabilidade](../../assets/NFR06.png)
+ 
+<p align="center"><b>Fonte</b>:  <a href="https://github.com/Mayara-tech">Mayara Alves</a></p>
+</center>
 
 ## Bibliografia
 
