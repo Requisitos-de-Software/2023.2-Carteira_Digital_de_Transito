@@ -139,8 +139,6 @@ Para tornar o conteúdo mais concreto e menos abstrato, introduzimos os épicos.
 - Requisitos relacionados: US01, US02, US03, US12, US13, US14, US15, US18, US19.
 - Descrição: Este épico concentra-se no gerenciamento das contas de usuário na aplicação. Ele abrange funcionalidades relacionadas à autenticação, personalização do perfil do usuário e acesso a informações pessoais. Os objetivos incluem permitir que os usuários façam login usando a autenticação do GOV, acessem sua carteira de habilitação eletrônica, gerenciem mensagens, configurem fotos de perfil e visualizem informações da conta.
 
-<center>
-
 Tabela 4: Gerenciamento de Conta do Usuário
 
 | Identificador  | Requisitos                      | User Story                                                                                                              | Prioridade |
@@ -155,14 +153,10 @@ Tabela 4: Gerenciamento de Conta do Usuário
 | US18           | Visualizar Informações da Conta  | Como um usuário, desejo poder visualizar informações sobre a minha conta, como nome, e-mail e informações pessoais.      | Média    |
 | US19           | Editar Informações da Conta     | Como um usuário, desejo poder editar as informações da minha conta para mantê-las atualizadas.                            | Média    |
 
-</center>
-
 ### Épico 2: Documentos e Certificados
 
 - Requisitos relacionados: US04, US05, US20
 - Descrição: Este épico trata da gestão de documentos e certificados dos usuários. Inclui a capacidade de adicionar, acessar e gerenciar documentos como o Certificado de Registro e Licenciamento de Veículo eletrônico (CLRV-e).
-
-<center>
 
 Tabela 5: Documentos e Certificados
 
@@ -172,14 +166,10 @@ Tabela 5: Documentos e Certificados
 | US05          | Acessar Documento CLRV-e     | Como um usuário, desejo poder acessar o documento CLRV-e associado à minha conta.                                     | Média       |
 | US20          | Visualizar Certificados       | Como um usuário, desejo poder visualizar e gerenciar todos os certificados e documentos associados à minha conta.    | Média       |
 
-</center>
-
 ### Épico 3: Exames e Infrações
 
 - Requisitos relacionados: US06, US07, US08, US21
 - Descrição: Este épico envolve a visualização de resultados de exames toxicológicos, acesso a informações sobre infrações de trânsito e pagamento de infrações diretamente pela aplicação, bem como receber notificações sobre infrações relacionadas à carteira de motorista.
-
-<center>
 
 Tabela 6: Exames e Infrações
 
@@ -189,8 +179,6 @@ Tabela 6: Exames e Infrações
 | US07          | Acessar Infração                | Como um usuário, desejo poder acessar informações sobre infrações relacionadas à minha carteira de motorista.         | Média      |
 | US08          | Pagar Infração                  | Como um usuário, desejo poder pagar infrações diretamente através da aplicação.                                       | Média      |
 | US21          | Receber Notificações de Infrações | Como um usuário, desejo receber notificações sobre infrações relacionadas à minha carteira de motorista.            | Média      |
-
-</center>
 
 ### Épico 4: Campanhas e Projetos
 
@@ -205,14 +193,10 @@ Tabela 7: Campanhas e Projetos
 | US09           | Consultar Campanhas e Projetos     | Como um usuário, desejo poder consultar informações sobre campanhas e projetos relacionados à segurança no trânsito. | Baixa      |
 | US22           | Participar de Campanhas e Projetos | Como um usuário, desejo poder participar ativamente de campanhas e projetos relacionados à segurança no trânsito. | Média      |
 
-</center>
-
 ### Épico 5: Cadastro Positivo e Notificações
 
 - Requisitos relacionados: US10, US11, US23
 - Descrição: Este épico inclui a visualização do cadastro positivo de trânsito, a adesão ao sistema de notificação eletrônica para receber atualizações e alertas importantes, e a possibilidade de gerenciar as preferências de notificação.
-
-<center>
 
 Tabela 8: Cadastro Positivo e Notificações
 
@@ -222,14 +206,10 @@ Tabela 8: Cadastro Positivo e Notificações
 | US11 | Aderir ao Sistema de Notificação Eletrônica | Como um usuário, desejo poder aderir ao sistema de notificação eletrônica para receber atualizações e alertas importantes. | Média    |
 | US23 | Gerenciar Preferências de Notificação | Como um usuário, desejo poder gerenciar minhas preferências de notificação, escolhendo quais tipos de alertas desejo receber. | Média    |
 
-</center>
-
 ### Épico 6: Cursos Especializados
 
 - Requisitos relacionados: US16, US24
 - Descrição: Neste épico, os usuários podem visualizar informações sobre cursos especializados relacionados à segurança no trânsito e inscrever-se nesses cursos.
-
-<center>
 
 Tabela 9: Cursos Especializados
 
@@ -238,14 +218,10 @@ Tabela 9: Cursos Especializados
 | US16 | Visualizar Cursos Especializados        | Como um usuário, desejo poder visualizar informações sobre cursos especializados relacionados à segurança no trânsito. | Baixa    |
 | US24 | Inscrever-se em Cursos Especializados  | Como um usuário, desejo poder inscrever-me em cursos especializados relacionados à segurança no trânsito.               | Média    |
 
-</center>
-
 ### Épico 7: Segurança e Autenticação
 
 - Requisitos relacionados: US17, US25
 - Descrição: Este épico aborda a segurança e autenticação dos usuários, permitindo o uso de biometria para desbloquear a carteira de habilitação eletrônica e a recuperação segura de senhas perdidas.
-
-<center>
 
 Tabela 10: Segurança e Autenticação
 
@@ -253,8 +229,6 @@ Tabela 10: Segurança e Autenticação
 | ---  | -----------------------------------------------   | ---------------------------------------------------------------------------------------------------------------------  | ---------- |
 | US17 | Permitir Biometria Para Desbloquear a Carteira  | Como um usuário, desejo poder usar minha biometria para desbloquear minha carteira de habilitação eletrônica para maior segurança. | Alta    |
 | US25 | Recuperar Senha Perdida                         | Como um usuário, desejo poder recuperar minha senha perdida por meio de um processo seguro de redefinição de senha. | Média    |
-
-</center>
 
 <br>
 
