@@ -343,7 +343,13 @@ Para criar essas features, partimos dos épicos, que, por sua vez, são históri
 | Escolher Foto da Galeria           | Permitir que os usuários escolham uma foto da galeria de imagens para usar como imagem de perfil.            | Gerenciamento de Conta do Usuário | Média     |
 | Visualização de Informações da Conta | Permitir que os usuários visualizem informações sobre suas contas, como nome, e-mail e informações pessoais. | Gerenciamento de Conta do Usuário | Média     |
 
+<center>
+
 Fonte: [Altino Arthur](https://github.com/arthurrochamoreira)
+
+</center>
+
+<br>
 
 #### Feature 2: Documentos e Certificados
 
@@ -353,7 +359,13 @@ Fonte: [Altino Arthur](https://github.com/arthurrochamoreira)
 | Acesso ao Documento CLRV-e         | Permitir que os usuários acessem o documento CLRV-e associado às suas contas. | Documentos e Certificados | Média |
 | Visualização de Certificados       | Oferecer aos usuários a capacidade de visualizar e gerenciar todos os certificados e documentos associados às suas contas. | Documentos e Certificados | Média |
 
+<center>
+
 Fonte: [Altino Arthur](https://github.com/arthurrochamoreira)
+
+</center>
+
+<br>
 
 #### Feature 3: Exames e Infrações
 
@@ -364,7 +376,13 @@ Fonte: [Altino Arthur](https://github.com/arthurrochamoreira)
 | Pagamento de Infrações              | Oferecer aos usuários a capacidade de pagar infrações diretamente pela aplicação. | Exames e Infrações | Média |
 | Receber Notificações de Infrações   | Permitir que os usuários recebam notificações sobre infrações relacionadas às suas carteiras de motorista. | Exames e Infrações | Média |
 
+<center>
+
 Fonte: [Altino Arthur](https://github.com/arthurrochamoreira)
+
+</center>
+
+<br>
 
 #### Feature 4: Campanhas e Projetos
 
@@ -373,7 +391,13 @@ Fonte: [Altino Arthur](https://github.com/arthurrochamoreira)
 | Consulta de Campanhas e Projetos     | Possibilitar que os usuários consultem informações sobre campanhas e projetos relacionados à segurança no trânsito. | Campanhas e Projetos | Baixa |
 | Participação em Campanhas e Projetos | Permitir que os usuários participem ativamente de campanhas e projetos relacionados à segurança no trânsito. | Campanhas e Projetos | Média |
 
+<center>
+
 Fonte: [Altino Arthur](https://github.com/arthurrochamoreira)
+
+</center>
+
+<br>
 
 #### Feature 5: Cadastro Positivo e Notificações
 
@@ -383,7 +407,13 @@ Fonte: [Altino Arthur](https://github.com/arthurrochamoreira)
 | Adesão ao Sistema de Notificação Eletrônica | Permitir que os usuários adiram ao sistema de notificação eletrônica para receber atualizações e alertas importantes. | Cadastro Positivo e Notificações | Média |
 | Gerenciamento de Preferências de Notificação | Permitir que os usuários gerenciem suas preferências de notificação, escolhendo quais tipos de alertas desejam receber. | Cadastro Positivo e Notificações | Média |
 
+<center>
+
 Fonte: [Altino Arthur](https://github.com/arthurrochamoreira)
+
+</center>
+
+<br>
 
 #### Feature 6: Cursos Especializados
 
@@ -392,7 +422,13 @@ Fonte: [Altino Arthur](https://github.com/arthurrochamoreira)
 | Visualização de Cursos Especializados | Possibilitar que os usuários visualizem informações sobre cursos especializados relacionados à segurança no trânsito. | Cursos Especializados | Baixa |
 | Inscrição em Cursos Especializados | Permitir que os usuários se inscrevam em cursos especializados relacionados à segurança no trânsito. | Cursos Especializados | Média |
 
+<center>
+
 Fonte: [Altino Arthur](https://github.com/arthurrochamoreira)
+
+</center>
+
+<br>
 
 #### Feature 7: Segurança e Autenticação
 
@@ -401,7 +437,11 @@ Fonte: [Altino Arthur](https://github.com/arthurrochamoreira)
 | Uso de Biometria para Desbloquear a Carteira | Permitir que os usuários usem biometria para desbloquear suas carteiras de habilitação eletrônicas para maior segurança. | Segurança e Autenticação | Alta |
 | Recuperação de Senha Perdida | Oferecer aos usuários a capacidade de recuperar senhas perdidas por meio de um processo seguro de redefinição de senha. | Segurança e Autenticação | Média |
 
+<center>
+
 Fonte: [Altino Arthur](https://github.com/arthurrochamoreira)
+
+</center>
 
 <br>
   
@@ -411,19 +451,29 @@ Fonte: [Altino Arthur](https://github.com/arthurrochamoreira)
   
 > SOUZA, Nicolas; MACEDO, Lucas. Backlog do Produto. Repositório do Grupo Lichess da disciplina de Requisitos de Software da Universidade de Brasília, 2022. Disponível em: <<https://requisitos-de-software.github.io/2022.2-Lichess/modelagem/agil/backlog/>>. Acesso em: 18 maio 2023.
 
+</p>
+
 > POPOV, Arthur Taylor de Jesus; SANTOS, Eduardo Schuindt. Backlog do Produto. Repositório do Grupo MEI da disciplina de Requisitos de Software da Universidade de Brasília, 2022. Disponível em: <<https://requisitos-de-software.github.io/2022.2-MEI/Modelagem/Agil/BacklogDoProduto/>>. Acesso em: 18 maio 2023.
+
+<p align="justify">
 
 > PRESSMAN, Roger S.; MAXIM, Bruce R.. Engenharia de software: uma abordagem profissional. 8 Porto Alegre: AMGH, 2016, 940 p.
 
+</p>
+
+<p align="justify">
+  
 > Bourque, P., Fairley, R. E. Guide to the Software Engineering Body of Knowledge, Version 3.0. SWEBOK. IEEE Computer Society, 2014. Disponível em: http://www.computer.org/web/swebok/v3. p. 38.
 
 </p>
 
+
 <br>
 
-<center>
 
 ## Histórico de Versões
+
+<center>
 
 | Versão | Data       | Descrição                              | Autor(es)                        | Revisor(es)                       |
 | ------ | ---------- | -------------------------------------- | -------------------------------- | --------------------------------- |
