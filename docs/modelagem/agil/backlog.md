@@ -173,6 +173,8 @@ Tabela 4: Gerenciamento de Conta do Usuário
 
 </center>
 
+<br>
+
 ### Épico 2: Documentos e Certificados
 
 - Requisitos relacionados: US04, US05, US20
@@ -193,6 +195,8 @@ Tabela 5: Documentos e Certificados
 <br>
 
 </center>
+
+<br>
 
 ### Épico 3: Exames e Infrações
 
@@ -216,6 +220,8 @@ Tabela 6: Exames e Infrações
 
 </center>
 
+<br>
+
 ### Épico 4: Campanhas e Projetos
 
 - Requisitos relacionados: US09, US22
@@ -235,6 +241,8 @@ Tabela 7: Campanhas e Projetos
 <br>
 
 </center>
+
+<br>
 
 ### Épico 5: Cadastro Positivo e Notificações
 
@@ -256,6 +264,8 @@ Tabela 8: Cadastro Positivo e Notificações
 <br>
 
 </center>
+
+<br>
 
 ### Épico 6: Cursos Especializados
 
