@@ -37,25 +37,32 @@ A seguir, apresentamos tabelas de 1 a 5 do o backlog do produto elaborado em col
  
 Tabela 1: Funcionalidades
 
-| ID    | Requisito                                                                                        | Rastreabilidade |
-| ----- | -------------------------------------------------------------------------------------------------| --------------- |
-| RF01  | Fazer Login com GOV                                                                              | [INT](../../elicitação/Introspeccao.md) |
-| RF02  | Fazer Logoff com GOV                                                                             | [INT](../../elicitação/Introspeccao.md) |
-| RF03  | Acessar Carteira de Habilitação                                                                  | [INT](../../elicitação/Introspeccao.md) |
-| RF04  | Adicionar Documento CLRV-e                                                                       | [INT](../../elicitação/Introspeccao.md) |
-| RF05  | Acessar Documento CLRV-e                                                                         | [INT](../../elicitação/Introspeccao.md) |
-| RF06  | Visualizar Exames Toxicológicos                                                                  | [INT](../../elicitação/Introspeccao.md) |
-| RF07  | Acessar Infração                                                                                 | [INT](../../elicitação/Introspeccao.md) |
-| RF08  | Pagar Infração                                                                                   | [INT](../../elicitação/Introspeccao.md) |
-| RF09  | Consultar Campanhas e Projetos                                                                   | [INT](../../elicitação/Introspeccao.md) |
-| RF10  | Visualizar Cadastro Positivo                                                                     | [INT](../../elicitação/Introspeccao.md) |
-| RF11  | Aderir ao Sistema de Notificação Eletrônica                                                      | [INT](../../elicitação/Introspeccao.md) |
-| RF12  | Central de Mensagens                                                                             | [INT](../../elicitação/Introspeccao.md) |
-| RF13  | Tirar Foto para o Perfil                                                                         | [INT](../../elicitação/Introspeccao.md) |
-| RF14  | Remover Foto de Perfil                                                                           | [INT](../../elicitação/Introspeccao.md) |
-| RF15  | Escolher Foto da Galeria                                                                         | [INT](../../elicitação/Introspeccao.md) |
-| RF16  | Visualizar Cursos Especializados                                                                 | [INT](../../elicitação/Introspeccao.md) |
-| RF17  | Permitir Biometria Para Desbloquear a Carteira                                                   | [INT](../../elicitação/Introspeccao.md) |
+| Identificador | Requisitos                                                       | Rastreabilidade                         |
+| ------------- | -------------------------------------------------------------    | ----------------------------------------|
+| ITP01         | Fazer Login pelo GOV                                             | [ITP](../../elicitação/Introspeccao.md) |
+| ITP02         | Obter versão digital da habilitação                              | [ITP](../../elicitação/Introspeccao.md) |
+| ITP03         | Obter versão digital dos veículos que você é principal condutor  | [ITP](../../elicitação/Introspeccao.md) |
+| ITP04         | Obter versão digital do CRLV-e                                   | [ITP](../../elicitação/Introspeccao.md) |
+| ITP05         | Consultar multas associadas à sua habilitação                    | [ITP](../../elicitação/Introspeccao.md) |
+| ITP06         | Consultar multas do seu veículo                                  | [ITP](../../elicitação/Introspeccao.md) |
+| ITP07         | Consultar multas dos veículos que você é principal condutor      | [ITP](../../elicitação/Introspeccao.md) |
+| ITP09         | Renvidicar a multa                                               | [ITP](../../elicitação/Introspeccao.md) |
+| ITP11         | Indicar principal condutor do veículo                            | [ITP](../../elicitação/Introspeccao.md) |
+| ITP12         | Acompanhar status da multa (a cobrar e pago)                     | [ITP](../../elicitação/Introspeccao.md) |
+| ITP13         | Realizar transferência de veículo                                | [ITP](../../elicitação/Introspeccao.md) |
+| ITP14         | Consultar restrições e indicadores (restrição no veículo, multa, judicial) | [ITP](../../elicitação/Introspeccao.md) |
+| ITP16         | Consultar campanhas e projetos do DETRAN                         | [ITP](../../elicitação/Introspeccao.md) |
+| ITP17         | Validar cadastro de CNH                                          | [ITP](../../elicitação/Introspeccao.md) |
+| ITP20         | Aplicativo deve evitar erros e telas brancas durante o uso       | [ITP](../../elicitação/Introspeccao.md) |
+| ITP21         | Transferir veículo                                               | [ITP](../../elicitação/Introspeccao.md) |
+| ITP22         | Compartilhar documentos do veículo                               | [ITP](../../elicitação/Introspeccao.md) |
+| ITP23         | Notificação de multas e informações importantes do fabricante do veículo | [ENT](../../elicitação/entrevista.md) |
+| ENT01         | Pesquisa de informações sobre veículos por meio do número da placa | [ENT](../../elicitação/entrevista.md) |
+| ENT02         | Configuração de alertas de vencimento da CNH e do licenciamento do veículo | [ENT](../../elicitação/entrevista.md) |
+| ENT03         | Notificação ao usuário sobre recalls e informações importantes do fabricante do veículo | [ENT](../../elicitação/entrevista.md) ||
+
+
+
 
 Fonte: [Altino Arthur](https://github.com/arthurrochamoreira)
 
@@ -67,9 +74,10 @@ Tabela 2: Interface de Usuário
 
 | ID    | Requisito                                                                                        | Rastreabilidade |
 | ---   | -------------------------------------------------------------------------------------------------| --------------- |
-| UI01  | Interface de usuário intuitiva e fácil de usar                                                   | [INT](../../elicitação/Introspeccao.md) |
-| UI02  | Interface de usuário personalizável                                                              | [INT](../../elicitação/Introspeccao.md) |
-| UI03  | Responsividade da interface de usuário em diferentes tamanhos de tela                            | [INT](../../elicitação/Introspeccao.md) |
+| ITP19 | Aplicativo deve possuir interface simples                                                              | [ITP](../../elicitação/Introspeccao.md) |
+| ITP21 | Modo escuro/claro                                                                                | [ITP](../../elicitação/Introspeccao.md) |
+| UI03  | Responsividade da interface de usuário em diferentes tamanhos de tela                            | [ITP](../../elicitação/Introspeccao.md) | 
+| RNF   | Evitar erros e telas brancas durante o uso | Não implementado |
 
 Fonte: [Altino Arthur](https://github.com/arthurrochamoreira)
 
@@ -81,7 +89,8 @@ Tabela 3: Armazenamento
 
 | ID  | Requisito                                                               | Rastreabilidade                           |
 | --- | ----------------------------------------------------------------------- | ----------------------------------------- |
-| RNF01 | O aplicativo deve ocupar um espaço de armazenamento razoável.         | [INT](../../elicitação/Introspeccao.md) |
+| RNF01 | O aplicativo deve ocupar um espaço de armazenamento razoável.         | [ITP](../../elicitação/Introspeccao.md)   |
+| ITP   | Backup seguro de documentos e dados do usuário                        | [ITP](../../elicitação/Introspeccao.md)   |
 
 Fonte: [Altino Arthur](https://github.com/arthurrochamoreira)
 
@@ -89,11 +98,11 @@ Fonte: [Altino Arthur](https://github.com/arthurrochamoreira)
 
 <center>
 
-Tabela 4: Desempenho
+Tabela 4: Desempenhp
 
 | ID  | Requisito                                                               | Rastreabilidade                           |
 | --- | ----------------------------------------------------------------------- | ----------------------------------------- |
-| RNF02 | O Aplicativo deve ser rápido ao carregar                              | [INT](../../elicitação/Introspeccao.md) |
+| RNF02 | O Aplicativo deve ser rápido ao carregar                              | [ITP](../../elicitação/Introspeccao.md)   |
 
 Fonte: [Altino Arthur](https://github.com/arthurrochamoreira)
 
@@ -105,7 +114,7 @@ Tabela 5: Segurança
 
 | ID  | Requisito                                                               | Rastreabilidade                           |
 | --- | ----------------------------------------------------------------------- | ----------------------------------------- |
-| RNF03 | O aplicativo deve garantir a segurança dos dados do usuário.          | [INT](../../elicitação/Introspeccao.md) |
+| RNF03 | O aplicativo deve garantir a segurança dos dados do usuário.          | [ITPT](../../elicitação/Introspeccao.md)  | 
 
 Fonte: [Altino Arthur](https://github.com/arthurrochamoreira)
 
@@ -134,8 +143,8 @@ Tabela 6: Gerenciamento de Conta do Usuário
 | US13 | Tirar Foto para o Perfil        | Como um usuário, desejo poder tirar uma foto para usar como minha imagem de perfil na aplicação.                         | Média    |
 | US14 | Remover Foto de Perfil          | Como um usuário, desejo poder remover minha foto de perfil, se desejar.                                                  | Média    |
 | US15 | Escolher Foto da Galeria        | Como um usuário, desejo poder escolher uma foto da minha galeria de imagens para usar como minha foto de perfil.         | Média    |
-
-Fonte: [Altino Arthur](https://github.com/arthurrochamoreira)
+| US18 | Visualizar Informações da Conta  | Como um usuário, desejo poder visualizar informações sobre a minha conta, como nome, e-mail e informações pessoais.     | Média    |
+| US19 | Editar Informações da Conta     | Como um usuário, desejo poder editar as informações da minha conta para mantê-las atualizadas.                       | Média    |
 
 </center>
 
@@ -146,11 +155,10 @@ Fonte: [Altino Arthur](https://github.com/arthurrochamoreira)
 Tabela 7: Documentos e Certificados
 
 | ID   | Requisito                   | User Story                                                                                                            | Prioridade |
-| ---  | --------------------------  | --------------------------------------------------------------------------------------------------------------------- | ---------- |
+| ---  | --------------------------  | ---------------------------------------------------------------------------------------------------------------------  | ---------- |
 | US04 | Adicionar Documento CLRV-e   | Como um usuário, desejo poder adicionar o documento CLRV-e (Certificado de Registro e Licenciamento de Veículo eletrônico) à minha conta. | Média    |
-| US05 | Acessar Documento CLRV-e     | Como um usuário, desejo poder acessar o documento CLRV-e associado à minha conta.                                    |Média       |
-
-Fonte: [Altino Arthur](https://github.com/arthurrochamoreira)
+| US05 | Acessar Documento CLRV-e     | Como um usuário, desejo poder acessar o documento CLRV-e associado à minha conta.                                    | Média       |
+| US20 | Visualizar Certificados       | Como um usuário, desejo poder visualizar e gerenciar todos os certificados e documentos associados à minha conta.    | Média    |
 
 </center>
 
@@ -161,12 +169,11 @@ Fonte: [Altino Arthur](https://github.com/arthurrochamoreira)
 Tabela 8: Exames e Infrações
 
 | ID   | Requisito                      | User Story                                                                                                            | Prioridade |
-| ---  | -----------------------------  | --------------------------------------------------------------------------------------------------------------------- | ---------- |
+| ---  | -----------------------------  | ---------------------------------------------------------------------------------------------------------------------  | ---------- |
 | US06 | Visualizar Exames Toxicológicos | Como um usuário, desejo poder visualizar os resultados dos meus exames toxicológicos.                                | Média      |
 | US07 | Acessar Infração                | Como um usuário, desejo poder acessar informações sobre infrações relacionadas à minha carteira de motorista.        | Média      |
 | US08 | Pagar Infração                  | Como um usuário, desejo poder pagar infrações diretamente através da aplicação.                                      | Média      |
-
-Fonte: [Altino Arthur](https://github.com/arthurrochamoreira)
+| US21 | Receber Notificações de Infrações | Como um usuário, desejo receber notificações sobre infrações relacionadas à minha carteira de motorista.             | Média      |
 
 </center>
 
@@ -177,10 +184,9 @@ Fonte: [Altino Arthur](https://github.com/arthurrochamoreira)
 Tabela 9: Campanhas e Projetos
  
 | ID   | Requisito                      | User Story                                                                                                            | Prioridade |
-| ---  | -----------------------------  | --------------------------------------------------------------------------------------------------------------------- | ---------- |
+| ---  | -----------------------------  | ---------------------------------------------------------------------------------------------------------------------  | ---------- |
 | US09 | Consultar Campanhas e Projetos  | Como um usuário, desejo poder consultar informações sobre campanhas e projetos relacionados à segurança no trânsito. | Baixa      |
-
-Fonte: [Altino Arthur](https://github.com/arthurrochamoreira)
+| US22 | Participar de Campanhas e Projetos | Como um usuário, desejo poder participar ativamente de campanhas e projetos relacionados à segurança no trânsito. | Média    |
 
 </center>
 
@@ -191,11 +197,10 @@ Fonte: [Altino Arthur](https://github.com/arthurrochamoreira)
 Tabela 10: Cadastro Positivo e Notificações
 
 | ID   | Requisito                        | User Story                                                                                                            | Prioridade |
-| ---  | -------------------------------   | --------------------------------------------------------------------------------------------------------------------- | ---------- |
+| ---  | -------------------------------   | ---------------------------------------------------------------------------------------------------------------------  | ---------- |
 | US10 | Visualizar Cadastro Positivo     | Como um usuário, desejo poder visualizar meu cadastro positivo de trânsito para entender meu histórico.             | Média    |
 | US11 | Aderir ao Sistema de Notificação Eletrônica | Como um usuário, desejo poder aderir ao sistema de notificação eletrônica para receber atualizações e alertas importantes. | Média    |
-
-Fonte: [Altino Arthur](https://github.com/arthurrochamoreira)
+| US23 | Gerenciar Preferências de Notificação | Como um usuário, desejo poder gerenciar minhas preferências de notificação, escolhendo quais tipos de alertas desejo receber. | Média    |
 
 </center>
 
@@ -206,10 +211,9 @@ Fonte: [Altino Arthur](https://github.com/arthurrochamoreira)
 Tabela 11: Cursos Especializados
 
 | ID   | Requisito                              | User Story                                                                                                            | Prioridade |
-| ---  | -------------------------------------  | --------------------------------------------------------------------------------------------------------------------- | ---------- |
+| ---  | -------------------------------------  | ---------------------------------------------------------------------------------------------------------------------  | ---------- |
 | US16 | Visualizar Cursos Especializados        | Como um usuário, desejo poder visualizar informações sobre cursos especializados relacionados à segurança no trânsito. | Baixa    |
-
-Fonte: [Altino Arthur](https://github.com/arthurrochamoreira)
+| US24 | Inscrever-se em Cursos Especializados  | Como um usuário, desejo poder inscrever-me em cursos especializados relacionados à segurança no trânsito. | Média    |
 
 </center>
 
@@ -220,12 +224,12 @@ Fonte: [Altino Arthur](https://github.com/arthurrochamoreira)
 Tabela 12: Segurança e Autenticação
 
 | ID   | Requisito                                        | User Story                                                                                                            | Prioridade |
-| ---  | -----------------------------------------------   | --------------------------------------------------------------------------------------------------------------------- | ---------- |
+| ---  | -----------------------------------------------   | ---------------------------------------------------------------------------------------------------------------------  | ---------- |
 | US17 | Permitir Biometria Para Desbloquear a Carteira  | Como um usuário, desejo poder usar minha biometria para desbloquear minha carteira de habilitação eletrônica para maior segurança. | Alta    |
-
-Fonte: [Altino Arthur](https://github.com/arthurrochamoreira)
+| US25 | Recuperar Senha Perdida                         | Como um usuário, desejo poder recuperar minha senha perdida por meio de um processo seguro de redefinição de senha. | Média    |
 
 </center>
+
 
 
 ## Bibliografia
