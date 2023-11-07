@@ -53,7 +53,7 @@ Essa abordagem metódica e colaborativa na construção e organização do Backl
 
 <br>
 
-### Product Backlog
+## Product Backlog
 
 A seguir, apresentamos tabelas de 1 a 3 do o backlog do produto elaborado em colaboração com o PO, detalhando cada história de usuário e sua priorização.
 
@@ -121,19 +121,19 @@ Tabela 3: Não Funcionais
 
 Fonte: [Altino Arthur](https://github.com/arthurrochamoreira)
 
-<br>
-
 </center>
 
+<br>
 
-### Histórias de Usuário
+## Histórias de Usuário
 
 As tabelas de 4 a 10 especificam ainda mais as _features_ e serão detalhadas melhor na seção de [Histórias de Usuário](../agil/historiasUsuario.md). Se apresentam como descrições concisas e de alto nível de uma funcionalidade desejada em termos do cliente. Usualmente seguem a forma "Eu, como \_\_\_, desejo \_\_\_ para ___."
+<br>
 
 ## Épicos
 
 Para tornar o conteúdo mais concreto e menos abstrato, introduzimos os épicos. Os épicos são histórias de usuário de alto nível que representam funcionalidades ou requisitos significativos do produto. Eles englobam aspectos amplos e estratégicos do projeto, geralmente não sendo passíveis de implementação em um único ciclo de desenvolvimento. A função dos épicos é agrupar e organizar histórias de usuário relacionadas a objetivos maiores ou a áreas funcionais do produto. A seguir, apresentamos a especificação dos épicos para facilitar a compreensão do backlog.
-
+<br>
 ### Épico 1: Gerenciamento de Conta do Usuário
 
 - Requisitos relacionados: US01, US02, US03, US12, US13, US14, US15, US18, US19.
