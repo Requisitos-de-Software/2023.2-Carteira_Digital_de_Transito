@@ -17,7 +17,6 @@ Essa abordagem metódica e colaborativa na construção e organização do Backl
 ### Participantes da Entrevista
 
 <div align="center">
-<br>
 
 | Participante     | Função        |
 | ---------------- | ------------- |
