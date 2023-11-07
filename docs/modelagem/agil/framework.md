@@ -155,7 +155,7 @@ Usabilidade, de acordo com a definição de Jakob Nielsen, é a medida que avali
 | ---------------------- | ----------------------------------------------- |
 | Descrição             | O aplicativo deve apresentar de maneira clara, acessível e proeminente uma política de privacidade que descreva detalhadamente quais tipos de dados serão coletados do usuário durante o uso do aplicativo. A política deve também explicar como esses dados serão utilizados, compartilhados e armazenados. |
 | Justificativa         | A privacidade do usuário é uma prioridade fundamental. A transparência na coleta e tratamento de dados é essencial para estabelecer a confiança do usuário e garantir a conformidade com regulamentos de proteção de dados. Além disso, a política de privacidade fornece aos usuários informações críticas para que eles possam tomar decisões informadas sobre o uso do aplicativo. |
-| Origem do requisito   | RNF01 - Especificação Suplementar |
+| Origem do requisito   | RNF04 - Especificação Suplementar |
 | Critério de aceitação | - A política de privacidade deve ser facilmente acessível no aplicativo, com um link direto na tela inicial ou uma seção de menu de fácil localização.<br/>- A política de privacidade deve ser redigida de maneira clara e compreensível, evitando linguagem técnica ou jurídica excessiva.<br/>- A política deve identificar todos os tipos de dados coletados, incluindo informações pessoais, dados de uso e quaisquer outros dados relevantes.<br/>- Deve ser especificado como os dados coletados serão usados, compartilhados e armazenados, incluindo detalhes sobre a segurança dos dados.<br/>- A política deve explicar os direitos do usuário em relação aos seus dados, incluindo o direito de acesso, retificação e exclusão.- Os usuários devem ser solicitados a aceitar a política de privacidade antes de usar o aplicativo, com a opção de recusar. |
 | Prioridade            | Alta |
 | Conflito              | Nenhum |
@@ -171,6 +171,17 @@ Usabilidade, de acordo com a definição de Jakob Nielsen, é a medida que avali
 
 ## NFR Desempenho
 
+<p align="center"> Cartão especificação NFR05 - O aplicativo deve realizar suas operações em um tempo máximo de 2 segundos, caso não seja possível deve haver um feedback com indicador de progresso.</p>
+
+| Classificação         | Desempenho e Feedback do Tempo de Resposta |
+| ----------------------|------------------------------------------|
+| Descrição             | O aplicativo deve realizar suas operações em um tempo máximo de 2 segundos, caso não seja possível deve haver um feedback com indicador de progresso. |
+| Justificativa         | Garantir que o aplicativo forneça uma experiência responsiva e informe os usuários quando as operações levam mais tempo do que o esperado, melhorando a satisfação do usuário. |
+| Origem do requisito   | RNF05 - Especificação Suplementar |
+| Critério de aceitação |- O aplicativo deve concluir todas as operações dentro de 2 segundos após a solicitação do usuário.<br/>- Em caso de operações que excedam o limite de tempo, o aplicativo deve fornecer feedback de progresso claro. <br/>- Priorizar o feedback para operações que excedem o limite de tempo.<br/>- Oferecer opções de cancelamento ou aguardo para operações que não cumpram o prazo.<br/>- Manter registros de desempenho para análise e otimização. |
+| Prioridade            | Alta |
+| Conflito              | Pode haver conflito com requisitos de desempenho de hardware e redes. |
+| História              | 06 de novembro de 2023 |
 
 
 ## NFR Suportabilidade
