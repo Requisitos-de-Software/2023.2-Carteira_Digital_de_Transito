@@ -6,7 +6,7 @@ Uma história de usuário é uma técnica de elicitação de requisitos usada co
 
 ## Objetivo
 
-Está parte do desenvolvimento ágil, apresenta trazer uma descrição detalhada e critérios de aceitação das histórias de usuário presentes no [product backlog](./backlog.md).
+Esta parte do desenvolvimento ágil, apresenta trazer uma descrição detalhada e critérios de aceitação das histórias de usuário presentes no [product backlog](./backlog.md).
 
 ## Metodologia
 
@@ -111,7 +111,7 @@ Tabela 6 - História de Usuário visualizar Exames Toxicológicos
 | ------------------------ | --------- |
 | US06                     | Visualizar Exames Toxicológicos |
 | Descrição                | Como um usuário, desejo poder visualizar os resultados dos meus exames toxicológicos |
-| Critérios de avaliação   | 1. Assim que abrir o aplicativo, deve haver um botão "CONDUTOR"; 2. Ao selecionar o botão, deve ser exibido as informações do condutor, assim como uma botão "EXAMES TOXICOLÓGICOS"; 3. Ao selecionar o botão, deve ser exibido os exames feitos.|
+| Critérios de avaliação   | 1. Assim que abrir o aplicativo, deve haver um botão "CONDUTOR"; 2. Ao selecionar o botão, deve ser exibido as informações do condutor, assim como um botão "EXAMES TOXICOLÓGICOS"; 3. Ao selecionar o botão, deve ser exibido os exames feitos.|
 | Prioridade               | Média |
 
 Fonte: [Milena Baruc](https://github.com/MilenaBaruc)
@@ -313,4 +313,4 @@ Fonte: [Milena Baruc](https://github.com/MilenaBaruc)
 
 | Versão |    Data    |      Descrição      |       Autor     | Revisor(es)  |
 | ------ | ---------- | ------------------- | --------------- | ------------ |
-| 1.0    | 06/10/2023 | Criação do template | [Milena Baruc](https://github.com/MilenaBaruc) |[revisor](https://github.com/) |
+| 1.0    | 06/10/2023 | Criação do template | [Milena Baruc](https://github.com/MilenaBaruc) |[Altino Arthur](https://github.com/arthurrochamoreira) |
