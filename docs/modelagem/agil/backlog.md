@@ -115,7 +115,7 @@ Para diminuir o nível de abstração expresso nos temas, foram registrados os �
 
 ### Histórias de Usuário
 
-As tabelas de 6 a 12 especificam ainda mais as _features_ e serão detalhadas melhor na seção de [Histórias de Usuário](../historia-de-usuario). Se apresentam como descrições concisas e de alto nível de uma funcionalidade desejada em termos do cliente. Usualmente seguem a forma "Eu, como \_\_\_, desejo \_\_\_ para ___."
+As tabelas de 6 a 12 especificam ainda mais as _features_ e serão detalhadas melhor na seção de [Histórias de Usuário](../agil/historiasUsuario.md). Se apresentam como descrições concisas e de alto nível de uma funcionalidade desejada em termos do cliente. Usualmente seguem a forma "Eu, como \_\_\_, desejo \_\_\_ para ___."
 
 ### Épicos e User Stories
 
