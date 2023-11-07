@@ -14,9 +14,9 @@ Após a priorização das histórias de usuário, a equipe avançou para a organ
 
 Essa abordagem metódica e colaborativa na construção e organização do Backlog do Produto é fundamental para o sucesso de um projeto ágil, garantindo que as necessidades do cliente sejam atendidas de maneira eficiente e priorizada de acordo com seu valor.
 
+<center>
+  
 ### Participantes da Entrevista
-
-<div align="center">
 
 | Participante     | Função        |
 | ---------------- | ------------- |
@@ -27,12 +27,15 @@ Essa abordagem metódica e colaborativa na construção e organização do Backl
 
 - **Vídeo da Entrevista**: [Assista aqui](https://www.youtube.com/embed/)
 
+<center>
+
 ### Product Backlog
 
-<p align="center"> </p>
-<br>
+A seguir, apresentamos tabelas de 1 a 5 do o backlog do produto elaborado em colaboração com o PO, detalhando cada história de usuário e sua priorização.
 
-#### Tabela 1: Funcionalidades
+<center>
+ 
+Tabela 1: Funcionalidades
 
 | ID    | Requisito                                                   | Rastreabilidade |
 | ----- | ----------------------------------------------------------- | --------------- |
@@ -54,11 +57,13 @@ Essa abordagem metódica e colaborativa na construção e organização do Backl
 | RF16  | Visualizar Cursos Especializados                            |                 |
 | RF17  | Permitir Biometria Para Desbloquear a Carteira              |                 |
 
-_Fonte: [Altino Arthur](https://github.com/arthurrochamoreira)_
+Fonte: [Altino Arthur](https://github.com/arthurrochamoreira)
 
-<br>
+</center>
 
-#### Tabela 2: Interface de Usuário
+<center>
+
+Tabela 2: Interface de Usuário
 
 | ID    | Requisito                                                   | Rastreabilidade |
 | ---   | ----------------------------------------------------------- | --------------- |
@@ -66,38 +71,45 @@ _Fonte: [Altino Arthur](https://github.com/arthurrochamoreira)_
 | UI02  | Interface de usuário personalizável                         |                 |
 | UI03  | Responsividade da interface de usuário em diferentes tamanhos de tela |       |
 
-_Fonte: [Altino Arthur](https://github.com/arthurrochamoreira)_
+Fonte: [Altino Arthur](https://github.com/arthurrochamoreira)
 
-<br>
+</center>
 
-#### Tabela 3: Armazenamento
+<center>
+
+Tabela 3: Armazenamento
 
 | ID  | Requisito                                                               | Rastreabilidade                           |
 | --- | ----------------------------------------------------------------------- | ----------------------------------------- |
 | RNF01 | O aplicativo deve ocupar um espaço de armazenamento razoável.         |                                           |
 
-_Fonte: [Altino Arthur](https://github.com/arthurrochamoreira)_
+Fonte: [Altino Arthur](https://github.com/arthurrochamoreira)
 
-<br>
+</center>
 
-#### Tabela 4: Desempenho
+<center>
+
+Tabela 4: Desempenho
 
 | ID  | Requisito                                                               | Rastreabilidade                           |
 | --- | ----------------------------------------------------------------------- | ----------------------------------------- |
 | RNF02 | O Aplicativo deve ser rápido ao carregar                              |                                           |
-_Fonte: [Altino Arthur](https://github.com/arthurrochamoreira)_
 
-<br>
+Fonte: [Altino Arthur](https://github.com/arthurrochamoreira)
 
-#### Tabela 5: Segurança
+</center>
+
+<center>
+ 
+Tabela 5: Segurança
 
 | ID  | Requisito                                                               | Rastreabilidade                           |
 | --- | ----------------------------------------------------------------------- | ----------------------------------------- |
 | RNF03 | O aplicativo deve garantir a segurança dos dados do usuário.          |                                           |
 
-_Fonte: [Altino Arthur](https://github.com/arthurrochamoreira)_
+Fonte: [Altino Arthur](https://github.com/arthurrochamoreira)
 
-</div>
+</center>
 
 Para diminuir o nível de abstração expresso nos temas, foram registrados os épicos, que são histórias de usuário que ainda podem ser mais especificadas. Para facilitar a leitura do backlog, os épicos estão especificados a seguir.
 
@@ -107,10 +119,11 @@ As tabelas de 6 a 12 especificam ainda mais as _features_ e serão detalhadas me
 
 ### Épicos e User Stories
 
-<div align="center">
-<br>
-
 #### Épico 1: Gerenciamento de Conta do Usuário
+
+<center>
+
+Tabela 6: Gerenciamento de Conta do Usuário
 
 | ID   | Requisito                        | User Story                                                                                                            | Prioridade |
 | ---  | ------------------------------- | ---------------------------------------------------------------------------------------------------------------------  | ---------- |
@@ -122,22 +135,30 @@ As tabelas de 6 a 12 especificam ainda mais as _features_ e serão detalhadas me
 | US14 | Remover Foto de Perfil          | Como um usuário, desejo poder remover minha foto de perfil, se desejar.                                                  | Média    |
 | US15 | Escolher Foto da Galeria        | Como um usuário, desejo poder escolher uma foto da minha galeria de imagens para usar como minha foto de perfil.         | Média    |
 
-_Fonte: [Altino Arthur](https://github.com/arthurrochamoreira)_
+Fonte: [Altino Arthur](https://github.com/arthurrochamoreira)
 
-<br>
+</center>
 
 #### Épico 2: Documentos e Certificados
+
+<center>
+
+Tabela 7: Documentos e Certificados
 
 | ID   | Requisito                   | User Story                                                                                                            | Prioridade |
 | ---  | --------------------------  | --------------------------------------------------------------------------------------------------------------------- | ---------- |
 | US04 | Adicionar Documento CLRV-e   | Como um usuário, desejo poder adicionar o documento CLRV-e (Certificado de Registro e Licenciamento de Veículo eletrônico) à minha conta. | Média    |
 | US05 | Acessar Documento CLRV-e     | Como um usuário, desejo poder acessar o documento CLRV-e associado à minha conta.                                    |Média       |
 
-_Fonte: [Altino Arthur](https://github.com/arthurrochamoreira)_
+Fonte: [Altino Arthur](https://github.com/arthurrochamoreira)
 
-<br>
+</center>
 
 #### Épico 3: Exames e Infrações
+
+<center>
+
+Tabela 8: Exames e Infrações
 
 | ID   | Requisito                      | User Story                                                                                                            | Prioridade |
 | ---  | -----------------------------  | --------------------------------------------------------------------------------------------------------------------- | ---------- |
@@ -145,50 +166,67 @@ _Fonte: [Altino Arthur](https://github.com/arthurrochamoreira)_
 | US07 | Acessar Infração                | Como um usuário, desejo poder acessar informações sobre infrações relacionadas à minha carteira de motorista.        | Média      |
 | US08 | Pagar Infração                  | Como um usuário, desejo poder pagar infrações diretamente através da aplicação.                                      | Média      |
 
-_Fonte: [Altino Arthur](https://github.com/arthurrochamoreira)_
+Fonte: [Altino Arthur](https://github.com/arthurrochamoreira)
 
-<br>
+</center>
 
 #### Épico 4: Campanhas e Projetos
 
+<center>
+
+Tabela 9: Campanhas e Projetos
+ 
 | ID   | Requisito                      | User Story                                                                                                            | Prioridade |
 | ---  | -----------------------------  | --------------------------------------------------------------------------------------------------------------------- | ---------- |
 | US09 | Consultar Campanhas e Projetos  | Como um usuário, desejo poder consultar informações sobre campanhas e projetos relacionados à segurança no trânsito. | Baixa      |
 
-_Fonte: [Altino Arthur](https://github.com/arthurrochamoreira)_
+Fonte: [Altino Arthur](https://github.com/arthurrochamoreira)
 
-<br>
+</center>
 
 #### Épico 5: Cadastro Positivo e Notificações
+
+<center>
+
+Tabela 10: Cadastro Positivo e Notificações
 
 | ID   | Requisito                        | User Story                                                                                                            | Prioridade |
 | ---  | -------------------------------   | --------------------------------------------------------------------------------------------------------------------- | ---------- |
 | US10 | Visualizar Cadastro Positivo     | Como um usuário, desejo poder visualizar meu cadastro positivo de trânsito para entender meu histórico.             | Média    |
 | US11 | Aderir ao Sistema de Notificação Eletrônica | Como um usuário, desejo poder aderir ao sistema de notificação eletrônica para receber atualizações e alertas importantes. | Média    |
 
-_Fonte: [Altino Arthur](https://github.com/arthurrochamoreira)_
+Fonte: [Altino Arthur](https://github.com/arthurrochamoreira)
 
-<br>
+</center>
 
 #### Épico 6: Cursos Especializados
+
+<center>
+
+Tabela 11: Cursos Especializados
 
 | ID   | Requisito                              | User Story                                                                                                            | Prioridade |
 | ---  | -------------------------------------  | --------------------------------------------------------------------------------------------------------------------- | ---------- |
 | US16 | Visualizar Cursos Especializados        | Como um usuário, desejo poder visualizar informações sobre cursos especializados relacionados à segurança no trânsito. | Baixa    |
 
-_Fonte: [Altino Arthur](https://github.com/arthurrochamoreira)_
+Fonte: [Altino Arthur](https://github.com/arthurrochamoreira)
 
-<br>
+</center>
 
 #### Épico 7: Segurança e Autenticação
+
+<center>
+
+Tabela 12: Segurança e Autenticação
 
 | ID   | Requisito                                        | User Story                                                                                                            | Prioridade |
 | ---  | -----------------------------------------------   | --------------------------------------------------------------------------------------------------------------------- | ---------- |
 | US17 | Permitir Biometria Para Desbloquear a Carteira  | Como um usuário, desejo poder usar minha biometria para desbloquear minha carteira de habilitação eletrônica para maior segurança. | Alta    |
 
-_Fonte: [Altino Arthur](https://github.com/arthurrochamoreira)_
+Fonte: [Altino Arthur](https://github.com/arthurrochamoreira)
 
-</div>
+</center>
+
 
 ## Bibliografia
 
@@ -202,11 +240,6 @@ _Fonte: [Altino Arthur](https://github.com/arthurrochamoreira)_
 
 ## Histórico de Versões
 
-<div align="center">
-<br>
-
 | Versão | Data       | Descrição                              | Autor(es)                        | Revisor(es)                       |
 | ------ | ---------- | -------------------------------------- | -------------------------------- | --------------------------------- |
 | 1.0    | 05/11/2023 | Criação da página inicial.             | [Altino Arthur](https://github.com/arthurrochamoreira) | [Milena Baruc](https://github.com/MilenaBaruc) |
-
-</div>
