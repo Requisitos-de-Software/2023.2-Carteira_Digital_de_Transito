@@ -169,6 +169,17 @@ Usabilidade, de acordo com a definição de Jakob Nielsen, é a medida que avali
 <p align="center"><b>Fonte</b>:  <a href="https://github.com/LimirioGuimaraes">Limírio Guimarães</a></p>
 </center>
 
+<p align="center"> Cartão especificação NFRX - O aplicativo deve apresentar as políticas de privacidade, descrevendo quais dados serão coletados do usuário.</p>
+
+| Classificação         | Política de Privacidade e Transparência de Dados |
+| ---------------------- | ----------------------------------------------- |
+| Descrição             | O aplicativo deve apresentar de maneira clara, acessível e proeminente uma política de privacidade que descreva detalhadamente quais tipos de dados serão coletados do usuário durante o uso do aplicativo. A política deve também explicar como esses dados serão utilizados, compartilhados e armazenados. |
+| Justificativa         | A privacidade do usuário é uma prioridade fundamental. A transparência na coleta e tratamento de dados é essencial para estabelecer a confiança do usuário e garantir a conformidade com regulamentos de proteção de dados. Além disso, a política de privacidade fornece aos usuários informações críticas para que eles possam tomar decisões informadas sobre o uso do aplicativo. |
+| Origem do requisito   | RNF01 - Especificação Suplementar |
+| Critério de aceitação | - A política de privacidade deve ser facilmente acessível no aplicativo, com um link direto na tela inicial ou uma seção de menu de fácil localização.<br/>- A política de privacidade deve ser redigida de maneira clara e compreensível, evitando linguagem técnica ou jurídica excessiva.<br/>- A política deve identificar todos os tipos de dados coletados, incluindo informações pessoais, dados de uso e quaisquer outros dados relevantes.<br/>- Deve ser especificado como os dados coletados serão usados, compartilhados e armazenados, incluindo detalhes sobre a segurança dos dados.<br/>- A política deve explicar os direitos do usuário em relação aos seus dados, incluindo o direito de acesso, retificação e exclusão.- Os usuários devem ser solicitados a aceitar a política de privacidade antes de usar o aplicativo, com a opção de recusar. |
+| Prioridade            | Alta |
+| Conflito              | Nenhum |
+| Data da História      | 06 de novembro de 2023 |
 
 ## NFR Desempenho
 
