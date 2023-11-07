@@ -332,9 +332,11 @@ Fonte: [Altino Arthur](https://github.com/arthurrochamoreira)
 
 <p align="justify">
 Esta seção oferece uma visão mais detalhada das funcionalidades que compõem o Backlog do Produto. Cada feature representa uma descrição simplificada das capacidades do produto, projetadas para atender às necessidades e objetivos dos usuários. Essas funcionalidades são apresentadas em um nível de abstração mais alto do que as histórias de usuário.
+</p>
 
 <br>
-  
+
+<p align="justify">
 Para criar essas features, partimos dos épicos, que, por sua vez, são histórias de usuário de alto nível que podem ser mais detalhadas. Organizar as funcionalidades dessa maneira simplifica o planejamento, desenvolvimento e gerenciamento do projeto ágil. Cada feature está vinculada a um épico correspondente, garantindo uma rastreabilidade clara das funcionalidades em relação aos objetivos gerais do produto, como mencionado acima.
 </p>
 
