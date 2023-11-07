@@ -2,18 +2,23 @@
 
 ## Introdução
 
+<p align="justify">
 O Backlog do Produto desempenha um papel fundamental na gestão de projetos ágeis, funcionando como um repositório dinâmico que armazena todas as tarefas pendentes relacionadas ao projeto. O Product Owner (PO) é o responsável por sugerir, priorizar e gerenciar os itens contidos no backlog. Esse documento é o resultado de uma estreita colaboração com o Product Owner do projeto. Através dessa interação, o PO e a equipe de desenvolvimento podem manter uma visão clara e atualizada das demandas do projeto, facilitando a tomada de decisões e a adaptação às mudanças à medida que o projeto avança. Essa abordagem ágil proporciona flexibilidade e agilidade, permitindo que o projeto evolua de acordo com as necessidades e prioridades em constante evolução.
+</p>
 
 ## Metodologia
 
+<p align="justify">
 A entrevista com o Product Owner (PO), que aconteceu via Microsoft Teams em 05 de novembro de 2023, teve como objetivo central a identificação das funcionalidades desejadas para o produto. Durante esse processo, os desenvolvedores e entrevistadores trabalharam em conjunto para documentar histórias de usuários que descrevem as necessidades e os cenários de uso do sistema. Além disso, foram estabelecidos critérios de aceitação para cada história de usuário, detalhando as condições que precisam ser atendidas para considerar uma funcionalidade como concluída com sucesso.
 
 Para priorizar as histórias de usuário, a equipe utilizou o método Three Level Scale, que é uma abordagem eficaz para classificar as funcionalidades com base em sua importância e complexidade. Isso permitiu definir uma ordem de prioridade clara, garantindo que as funcionalidades mais críticas ou valiosas para o cliente fossem desenvolvidas primeiro.
 
 Após a priorização das histórias de usuário, a equipe avançou para a organização do Backlog do Produto. Nesse estágio, as histórias de usuário foram agrupadas em épicos e features, proporcionando uma visão hierárquica e organizada das funcionalidades a serem desenvolvidas. Essa estrutura facilita a gestão e o planejamento do projeto, além de permitir uma visão mais ampla das metas e entregas ao longo do tempo.
+</p>
 
 ### Épicos
 
+<p align="justify">
 Os Épicos desempenham um papel fundamental na organização do Backlog do Produto em projetos ágeis. Eles representam histórias de usuário de alto nível que abrangem objetivos estratégicos e amplas áreas funcionais do produto. Os Épicos são valiosos por várias razões:
 
 - **Visão Estratégica:** Os Épicos proporcionam uma visão geral das metas do projeto, alinhando o desenvolvimento com os objetivos gerais.
@@ -21,9 +26,11 @@ Os Épicos desempenham um papel fundamental na organização do Backlog do Produ
 - **Organização Hierárquica:** Eles permitem uma organização hierárquica das funcionalidades, ajudando a entender como as partes do sistema se relacionam.
 
 - **Priorização Eficiente:** A classificação dos Épicos ajuda a priorizar as partes mais significativas do projeto, garantindo que as funcionalidades críticas sejam abordadas primeiro.
+</p>
 
 ### Features
 
+<p align="justify">
 As Features são descrições simplificadas das capacidades do produto em um nível mais detalhado. Elas detalham as funcionalidades desejadas em um formato que é facilmente transformado em tarefas de desenvolvimento práticas. As Features têm sua importância:
 
 - **Detalhamento Específico:** Elas representam descrições específicas das capacidades do produto, tornando o processo de desenvolvimento mais direto.
@@ -33,8 +40,7 @@ As Features são descrições simplificadas das capacidades do produto em um ní
 - **Rastreabilidade Clara:** Cada Feature está vinculada a um Épico correspondente, garantindo uma rastreabilidade clara das funcionalidades em relação aos objetivos estratégicos do produto.
 
 Essa abordagem metódica e colaborativa na construção e organização do Backlog do Produto é fundamental para o sucesso de um projeto ágil, garantindo que as necessidades do cliente sejam atendidas de maneira eficiente e priorizada de acordo com seu valor.
-
-<br>
+</p>
 
 <center>
   
@@ -127,10 +133,11 @@ Fonte: [Altino Arthur](https://github.com/arthurrochamoreira)
 
 ## Histórias de Usuário
 
+<p align="justify">
 As tabelas de 4 a 10 especificam ainda mais as _features_ e serão detalhadas melhor na seção de [Histórias de Usuário](../agil/historiasUsuario.md). Se apresentam como descrições concisas e de alto nível de uma funcionalidade desejada em termos do cliente. Usualmente seguem a forma "Eu, como \_\_\_, desejo \_\_\_ para ___."
+</p>
+
 <br>
-
-
   
 ## Épicos
 
@@ -142,8 +149,10 @@ Para tornar o conteúdo mais concreto e menos abstrato, introduzimos os épicos.
 
 ### Épico 1: Gerenciamento de Conta do Usuário
 
+<p align="justify">
 - Requisitos relacionados: US01, US02, US03, US12, US13, US14, US15, US18, US19.
 - Descrição: Este épico concentra-se no gerenciamento das contas de usuário na aplicação. Ele abrange funcionalidades relacionadas à autenticação, personalização do perfil do usuário e acesso a informações pessoais. Os objetivos incluem permitir que os usuários façam login usando a autenticação do GOV, acessem sua carteira de habilitação eletrônica, gerenciem mensagens, configurem fotos de perfil e visualizem informações da conta.
+</p>
 
 Tabela 4: Gerenciamento de Conta do Usuário
 
@@ -161,8 +170,10 @@ Tabela 4: Gerenciamento de Conta do Usuário
 
 ### Épico 2: Documentos e Certificados
 
+<p align="justify">
 - Requisitos relacionados: US04, US05, US20
 - Descrição: Este épico trata da gestão de documentos e certificados dos usuários. Inclui a capacidade de adicionar, acessar e gerenciar documentos como o Certificado de Registro e Licenciamento de Veículo eletrônico (CLRV-e).
+</p>
 
 Tabela 5: Documentos e Certificados
 
@@ -174,8 +185,10 @@ Tabela 5: Documentos e Certificados
 
 ### Épico 3: Exames e Infrações
 
+<p align="justify">
 - Requisitos relacionados: US06, US07, US08, US21
 - Descrição: Este épico envolve a visualização de resultados de exames toxicológicos, acesso a informações sobre infrações de trânsito e pagamento de infrações diretamente pela aplicação, bem como receber notificações sobre infrações relacionadas à carteira de motorista.
+</p>
 
 Tabela 6: Exames e Infrações
 
@@ -188,9 +201,10 @@ Tabela 6: Exames e Infrações
 
 ### Épico 4: Campanhas e Projetos
 
+<p align="justify">
 - Requisitos relacionados: US09, US22
 - Descrição: Neste épico, os usuários podem consultar informações sobre campanhas e projetos relacionados à segurança no trânsito, e têm a capacidade de participar ativamente dessas iniciativas.
-<center>
+</p>
 
 Tabela 7: Campanhas e Projetos
  
@@ -201,8 +215,10 @@ Tabela 7: Campanhas e Projetos
 
 ### Épico 5: Cadastro Positivo e Notificações
 
+<p align="justify">
 - Requisitos relacionados: US10, US11, US23
 - Descrição: Este épico inclui a visualização do cadastro positivo de trânsito, a adesão ao sistema de notificação eletrônica para receber atualizações e alertas importantes, e a possibilidade de gerenciar as preferências de notificação.
+</p>
 
 Tabela 8: Cadastro Positivo e Notificações
 
@@ -214,8 +230,10 @@ Tabela 8: Cadastro Positivo e Notificações
 
 ### Épico 6: Cursos Especializados
 
+<p align="justify">
 - Requisitos relacionados: US16, US24
 - Descrição: Neste épico, os usuários podem visualizar informações sobre cursos especializados relacionados à segurança no trânsito e inscrever-se nesses cursos.
+</p>
 
 Tabela 9: Cursos Especializados
 
@@ -226,8 +244,10 @@ Tabela 9: Cursos Especializados
 
 ### Épico 7: Segurança e Autenticação
 
+<p align="justify">
 - Requisitos relacionados: US17, US25
 - Descrição: Este épico aborda a segurança e autenticação dos usuários, permitindo o uso de biometria para desbloquear a carteira de habilitação eletrônica e a recuperação segura de senhas perdidas.
+</p>
 
 Tabela 10: Segurança e Autenticação
 
@@ -240,9 +260,11 @@ Tabela 10: Segurança e Autenticação
 
 ## Features
 
+<p align="justify">
 Esta seção oferece uma visão mais detalhada das funcionalidades que compõem o Backlog do Produto. Cada feature representa uma descrição simplificada das capacidades do produto, projetadas para atender às necessidades e objetivos dos usuários. Essas funcionalidades são apresentadas em um nível de abstração mais alto do que as histórias de usuário.
-
+  
 Para criar essas features, partimos dos épicos, que, por sua vez, são histórias de usuário de alto nível que podem ser mais detalhadas. Organizar as funcionalidades dessa maneira simplifica o planejamento, desenvolvimento e gerenciamento do projeto ágil. Cada feature está vinculada a um épico correspondente, garantindo uma rastreabilidade clara das funcionalidades em relação aos objetivos gerais do produto, como mencionado acima.
+</p>
 
 #### Feature 1: Autenticação e Conta do Usuário
 
