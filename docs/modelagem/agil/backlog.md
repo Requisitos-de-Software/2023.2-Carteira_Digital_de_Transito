@@ -25,7 +25,7 @@ Essa abordagem metódica e colaborativa na construção e organização do Backl
 
 ### Registro da Entrevista
 
-- **Vídeo da Entrevista**: [Assista aqui](https://www.youtube.com/embed/)
+**Vídeo da Entrevista**: [Assista aqui](https://www.youtube.com/embed/)
 
 <center>
 
