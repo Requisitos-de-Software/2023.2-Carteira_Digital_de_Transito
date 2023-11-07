@@ -162,7 +162,7 @@ Usabilidade, de acordo com a definição de Jakob Nielsen, é a medida que avali
 | Data da História      | 06 de novembro de 2023 |
 
 <center>
-<p align="center"> Figura 5: Política de Privacidade e Transparência de Dados </p>
+<p align="center"> Figura 6: SIG Política de Privacidade e Transparência de Dados </p>
 
  ![politicaPrivacidade](../../assets/diagrama2confiabilidade.png)
  
@@ -184,6 +184,13 @@ Usabilidade, de acordo com a definição de Jakob Nielsen, é a medida que avali
 | História              | 06 de novembro de 2023 |
 <p align="center"><b>Fonte</b>:  <a href="https://github.com/LimirioGuimaraes">Limírio Guimarães</a></p>
 
+<center>
+<p align="center"> Figura 7: SIG  Desempenho e Feedback do Tempo de Resposta  </p>
+
+ ![desempenhoFeedback](../../assets/diagramaDesempenho.png)
+ 
+<p align="center"><b>Fonte</b>:  <a href="https://github.com/LimirioGuimaraes">Limírio Guimarães</a></p>
+</center>
 
 ## NFR Suportabilidade
 
