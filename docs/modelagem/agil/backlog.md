@@ -111,9 +111,9 @@ Para diminuir o nível de abstração expresso nos temas, foram registrados os �
 
 As tabelas de 4 a 10 especificam ainda mais as _features_ e serão detalhadas melhor na seção de [Histórias de Usuário](../agil/historiasUsuario.md). Se apresentam como descrições concisas e de alto nível de uma funcionalidade desejada em termos do cliente. Usualmente seguem a forma "Eu, como \_\_\_, desejo \_\_\_ para ___."
 
-### Épicos e User Stories
+## Épicos e User Stories
 
-#### Épico 1: Gerenciamento de Conta do Usuário
+### Épico 1: Gerenciamento de Conta do Usuário
 
 <center>
 
@@ -133,7 +133,7 @@ Tabela 4: Gerenciamento de Conta do Usuário
 
 </center>
 
-#### Épico 2: Documentos e Certificados
+### Épico 2: Documentos e Certificados
 
 <center>
 
@@ -147,7 +147,7 @@ Tabela 5: Documentos e Certificados
 
 </center>
 
-#### Épico 3: Exames e Infrações
+### Épico 3: Exames e Infrações
 
 <center>
 
@@ -162,7 +162,7 @@ Tabela 6: Exames e Infrações
 
 </center>
 
-#### Épico 4: Campanhas e Projetos
+### Épico 4: Campanhas e Projetos
 
 <center>
 
@@ -175,7 +175,7 @@ Tabela 7: Campanhas e Projetos
 
 </center>
 
-#### Épico 5: Cadastro Positivo e Notificações
+### Épico 5: Cadastro Positivo e Notificações
 
 <center>
 
@@ -189,7 +189,7 @@ Tabela 8: Cadastro Positivo e Notificações
 
 </center>
 
-#### Épico 6: Cursos Especializados
+### Épico 6: Cursos Especializados
 
 <center>
 
@@ -202,7 +202,7 @@ Tabela 9: Cursos Especializados
 
 </center>
 
-#### Épico 7: Segurança e Autenticação
+### Épico 7: Segurança e Autenticação
 
 <center>
 
