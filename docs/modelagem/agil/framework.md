@@ -64,26 +64,15 @@ A abordagem adotada para a concepção do artefato foi fundamentada nos requisit
 |   Tipo  | Requisito                                                                                       | ID  |
 | ---------- | --------------------------------------------------------------------------------             | ---------       |
 | Usabilidade| O sistema não deve exigir que seus usuários sejam tecnófilos. Deve ser de fácil uso, sem necessidade prévia de treinamento para utilização do sistema.                                                                   | [NFR01](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/especificacao-suplementar/) 
-| Usabilidade|Os usuários devem realizar as atividades críticas em um curto período de tempo, de no máximo um minuto.                                                                   | [NFR02](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/especificacao-suplementar/) 
-| Usabilidade|Os objetivos críticos deve ser alcançados por um caminho curto, necessitando uma pequena quantidade de ações do usuário, cerca de 5 ações.                                                                   | [NFR03](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/especificacao-suplementar/) 
-| Usabilidade|O sistema deve possuir design minimalista, evitando que sejam mostradas infomações irrelevantes ou pouco consultadas.                                                                   | [NFR04](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/especificacao-suplementar/) 
-| Usabilidade|O sistema deve conter uma linguagem simples, evitando utilização de termos ou bordões técnicos.                                                                   | [NFR05](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/especificacao-suplementar/) 
-| Usabilidade|O aplicativo deve seguir as normas de acessibilidade da WCAG        .                                                | [NFR06](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/especificacao-suplementar/) 
-| Confiabilidade   | O sistema deve está disponível durante os 7 dias da semana, 24 horas por dia.                                   | [NFR07](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/especificacao-suplementar/) 
-| Confiabilidade   | O aplicativo deve apresentar as políticas de privacidade, descrevendo quais dados serão coletados do usuário.                               | [NFR08](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/especificacao-suplementar/) 
-| Confiabilidade   | O aplicativo deve solicitar apenas o número mínimo de permissões necessárias para a compatibilidade com o caso de uso em questão.                               | [NFR09](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/especificacao-suplementar/) 
-| Desempenho  | O aplicativo não deve utilizar mais do que 90MB de armazenamento interno do aplicativo. | [NFR10](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/especificacao-suplementar/) 
-| Desempenho | O aplicativo deve realizar suas operações em um tempo máximo de 2 segundos, caso não seja possível deve haver um feedback com indicador de progresso.                                  | [NFR11](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/especificacao-suplementar/) 
-| Desempenho  | O sistema possuir uma integração eficiente API gov.                                     | [NFR12](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/especificacao-suplementar/) 
-| Suportabilidade  |O aplicativo deve está disponível nas lojas virtuais dos principais sistemas operacionais (SO) utilizados em dispositiveis móveis.                                     | [NFR13](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/especificacao-suplementar/) 
+| Usabilidade|O aplicativo deve seguir as normas de acessibilidade da WCAG        .                                                | [NFR02](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/especificacao-suplementar/) 
+| Confiabilidade   | O sistema deve está disponível durante os 7 dias da semana, 24 horas por dia.                                   | [NFR03](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/especificacao-suplementar/) 
+| Confiabilidade   | O aplicativo deve apresentar as políticas de privacidade, descrevendo quais dados serão coletados do usuário.                               | [NFR04](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/especificacao-suplementar/) 
+| Desempenho | O aplicativo deve realizar suas operações em um tempo máximo de 2 segundos, caso não seja possível deve haver um feedback com indicador de progresso.                                  | [NFR05](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/especificacao-suplementar/) 
+| Suportabilidade  |O aplicativo deve está disponível nas lojas virtuais dos principais sistemas operacionais (SO) utilizados em dispositiveis móveis.                                     | [NFR06](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/especificacao-suplementar/) 
 
 <p align="center"> Fonte: Mayara Alves</p>
 </center>
 
-
-## Cartão de Especificação
-
-## NFR Geral
 
 ## NFR Usabilidade
 
@@ -95,16 +84,10 @@ Usabilidade, de acordo com a definição de Jakob Nielsen, é a medida que avali
 | Requisito                                                                                       | ID  |
 | --------------------------------------------------------------------------------             | ---------       |
 | O sistema não deve exigir que seus usuários sejam tecnófilos. Deve ser de fácil uso, sem necessidade prévia de treinamento para utilização do sistema.                                                                   | [NFR01](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/especificacao-suplementar/) 
-|Os usuários devem realizar as atividades críticas em um curto período de tempo, de no máximo um minuto.                                                                   | [NFR02](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/especificacao-suplementar/) 
-|Os objetivos críticos deve ser alcançados por um caminho curto, necessitando uma pequena quantidade de ações do usuário, cerca de 5 ações.                                                                   | [NFR03](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/especificacao-suplementar/) 
-|O sistema deve possuir design minimalista, evitando que sejam mostradas infomações irrelevantes ou pouco consultadas.                                                                   | [NFR04](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/especificacao-suplementar/) 
-|O sistema deve conter uma linguagem simples, evitando utilização de termos ou bordões técnicos.                                                                   | [NFR05](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/especificacao-suplementar/) 
-|O aplicativo deve seguir as normas de acessibilidade da WCAG        .                                                | [NFR06](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/especificacao-suplementar/) 
+|O aplicativo deve seguir as normas de acessibilidade da WCAG.                                                | [NFR02](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/especificacao-suplementar/) 
 
 <p align="center"> Fonte: Mayara Alves</p>
 </center>
-
-### Cartão de especificação 
 
 #### Cartão especificação NFR1 - Facilidade no uso. 
 
@@ -117,6 +100,25 @@ Usabilidade, de acordo com a definição de Jakob Nielsen, é a medida que avali
 | Justificativa         | Com um sistema simples o usuario não vai ter dificuldade em aprender a usar o aplicativo, assim terá menos chances dele abandonar o uso e te uma experiencia melhor com o app. |
 | Origem do requisito   | RNF01 - Especificação suplementar |
 | Critério de aceitação | Nenhum |
+| Prioridade            | Alta prioridade. Fonte: [TLS](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/elicita%C3%A7%C3%A3o/prioriza%C3%A7%C3%A3o/three_level_scale/)|
+| Conflito              | Nenhum |
+| Historia              | 06 de novembro de 2023 |
+
+<p align="center"> Fonte: Mayara Alves</p>
+</center>
+
+
+#### Cartão especificação NFR2 - Acessibilidade. 
+
+<center>
+<p align="center"> Cartão especificação NFR2 - Acessibilidade</p>
+ 
+| Classificação         | Acessibilidade / Usabilidade | 
+| ----------------------|--|
+| Descrição             | O aplicativo deve seguir as normas de acessibilidade da WCAG           |
+| Justificativa         | A exigência de seguir as normas de acessibilidade da WCAG é fundamental para garantir que o aplicativo seja acessível a todas as pessoas, independentemente de suas habilidades ou necessidades especiais, cumprindo princípios éticos e legais. Além disso, a conformidade com a acessibilidade amplia o público-alvo e a qualidade do produto, promovendo inclusão e melhor experiência para todos os usuários. |
+| Origem do requisito   | RNF06 - Especificação suplementar |
+| Critério de aceitação | - Realizar testes de teclado para verificar a navegabilidade sem o uso do mouse. <br> -Testar a navegação e interação com o aplicativo usando leitores de tela, como o JAWS ou NVDA, para garantir que informações e funcionalidades sejam adequadamente comunicadas. <br> - Verificar o contraste de cores em todo o aplicativo, garantindo que o texto seja legível para pessoas com deficiência visual. <br> - Testar o redimensionamento de texto e layout para assegurar que o conteúdo se adapte a diferentes tamanhos de tela sem perda de funcionalidade. <br> - Verificar a presença de alternativas textuais em todas as imagens, gráficos e mídias não textuais. <br> - Garantir que os formulários e campos interativos sejam acessíveis e utilizáveis por meio de leitores de tela e teclado. <br> - Testar a consistência e clareza da estrutura de cabeçalhos e rótulos de formulários para melhorar a compreensão e a navegação. |
 | Prioridade            | Alta prioridade. Fonte: [TLS](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/elicita%C3%A7%C3%A3o/prioriza%C3%A7%C3%A3o/three_level_scale/)|
 | Conflito              | Nenhum |
 | Historia              | 06 de novembro de 2023 |
@@ -191,6 +193,38 @@ Usabilidade, de acordo com a definição de Jakob Nielsen, é a medida que avali
 </center>
 
 ## NFR Suportabilidade
+
+A suportabilidade defini que o aplicativo deve ser projetado e desenvolvido de forma a garantir a suportabilidade em diferentes ambientes e plataformas, visando a flexibilidade e a capacidade de adaptação para atender às necessidades dos usuários. deve ser projetado e desenvolvido de forma a garantir a suportabilidade em diferentes ambientes e plataformas, visando a flexibilidade e a capacidade de adaptação para atender às necessidades dos usuários.
+
+<center>
+<p align="center"> Tabela 2: Requisitos de Usabilidade - RNF</p>
+
+| Requisito                                                                                       | ID  |
+| --------------------------------------------------------------------------------             | ---------       |
+| O aplicativo deve está disponível nas lojas virtuais dos principais sistemas operacionais (SO) utilizados em dispositiveis móveis.          | [NFR13](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/especificacao-suplementar/) 
+
+
+<p align="center"> Fonte: Mayara Alves</p>
+</center>
+
+#### Cartão especificação NFR6 - Suportabilidade. 
+
+<center>
+<p align="center"> Cartão especificação NFR6 - Suportabilidade</p>
+ 
+| Classificação         | Acessibilidade / Usabilidade | 
+| ----------------------|--|
+| Descrição             | O aplicativo deve está disponível nas lojas virtuais dos principais sistemas operacionais (SO) utilizados em dispositiveis móveis.         |
+| Justificativa         |A disponibilidade do aplicativo nas principais lojas virtuais de sistemas operacionais móveis é crucial para ampliar o alcance de mercado, promover a acessibilidade universal e aumentar a credibilidade do aplicativo. |
+| Origem do requisito   | RNF13 - Especificação suplementar |
+| Critério de aceitação | - O aplicativo deve ser listado e disponível na loja de aplicativos da Apple (App Store) para dispositivos iOS e na loja de aplicativos do Google (Google Play) para dispositivos Android. <br> - A listagem do aplicativo deve cumprir todas as diretrizes e políticas estabelecidas pelas lojas virtuais, garantindo a aprovação e a permanência do aplicativo nas plataformas. <br> - O aplicativo deve ser atualizado regularmente para garantir a compatibilidade com as versões mais recentes dos sistemas operacionais e manter-se em conformidade com as políticas das lojas virtuais. |
+| Prioridade            | Alta prioridade. Fonte: [TLS](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/elicita%C3%A7%C3%A3o/prioriza%C3%A7%C3%A3o/three_level_scale/)|
+| Conflito              | Nenhum |
+| Historia              | 06 de novembro de 2023 |
+
+<p align="center"> Fonte: Mayara Alves</p>
+</center>
+
 
 ## Bibliografia
 
