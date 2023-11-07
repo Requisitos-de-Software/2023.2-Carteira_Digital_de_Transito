@@ -153,6 +153,8 @@ Para tornar o conteúdo mais concreto e menos abstrato, introduzimos os épicos.
 
 <center>
 
+<br>
+
 Tabela 4: Gerenciamento de Conta do Usuário
 
 | Identificador  | Requisitos                      | User Story                                                                                                              | Prioridade |
@@ -177,6 +179,8 @@ Tabela 4: Gerenciamento de Conta do Usuário
 
 <center>
 
+<br>
+
 Tabela 5: Documentos e Certificados
 
 | Identificador | Requisitos                   | User Story                                                                                                            | Prioridade |
@@ -187,12 +191,15 @@ Tabela 5: Documentos e Certificados
 
 </center>
 
+
 ### Épico 3: Exames e Infrações
 
 - Requisitos relacionados: US06, US07, US08, US21
 - Descrição: Este épico envolve a visualização de resultados de exames toxicológicos, acesso a informações sobre infrações de trânsito e pagamento de infrações diretamente pela aplicação, bem como receber notificações sobre infrações relacionadas à carteira de motorista.
 
 <center>
+
+<br>
 
 Tabela 6: Exames e Infrações
 
@@ -212,6 +219,8 @@ Tabela 6: Exames e Infrações
 
 <center>
 
+<br>
+
 Tabela 7: Campanhas e Projetos
  
 | Identificador  | Requisitos                         | User Story                                                                                                        | Prioridade |
@@ -227,6 +236,8 @@ Tabela 7: Campanhas e Projetos
 - Descrição: Este épico inclui a visualização do cadastro positivo de trânsito, a adesão ao sistema de notificação eletrônica para receber atualizações e alertas importantes, e a possibilidade de gerenciar as preferências de notificação.
 
 <center>
+
+<br>
 
 Tabela 8: Cadastro Positivo e Notificações
 
@@ -260,6 +271,8 @@ Tabela 9: Cursos Especializados
 - Descrição: Este épico aborda a segurança e autenticação dos usuários, permitindo o uso de biometria para desbloquear a carteira de habilitação eletrônica e a recuperação segura de senhas perdidas.
 
 <center>
+
+<br>
 
 Tabela 10: Segurança e Autenticação
 
