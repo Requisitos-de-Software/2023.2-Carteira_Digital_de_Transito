@@ -30,7 +30,7 @@ Os Épicos representam histórias de usuário de alto nível que abrangem objeti
 ### Features
 
 <p align="justify">
-As Features são descrições simplificadas das capacidades do produto em um nível mais detalhado. Elas detalham as funcionalidades desejadas em um formato que é facilmente transformado em tarefas de desenvolvimento práticas. As Features têm sua importância:
+As Features são descrições simplificadas das capacidades do produto em um nível mais detalhado. Elas detalham as funcionalidades desejadas em um formato que é facilmente transformado em tarefas de desenvolvimento práticas. As Features são importantes para:
 </p>
 
 - **Detalhamento Específico:** Elas representam descrições específicas das capacidades do produto, tornando o processo de desenvolvimento mais direto.
