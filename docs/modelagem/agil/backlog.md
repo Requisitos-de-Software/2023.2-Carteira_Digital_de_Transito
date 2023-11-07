@@ -14,6 +14,8 @@ Após a priorização das histórias de usuário, a equipe avançou para a organ
 
 Essa abordagem metódica e colaborativa na construção e organização do Backlog do Produto é fundamental para o sucesso de um projeto ágil, garantindo que as necessidades do cliente sejam atendidas de maneira eficiente e priorizada de acordo com seu valor.
 
+<br>
+
 <center>
   
 ### Participantes da Entrevista
@@ -29,9 +31,11 @@ Essa abordagem metódica e colaborativa na construção e organização do Backl
 
 <center>
 
+<br>
+
 ### Product Backlog
 
-A seguir, apresentamos tabelas de 1 a 5 do o backlog do produto elaborado em colaboração com o PO, detalhando cada história de usuário e sua priorização.
+A seguir, apresentamos tabelas de 1 a 3 do o backlog do produto elaborado em colaboração com o PO, detalhando cada história de usuário e sua priorização.
 
 <center>
  
@@ -61,12 +65,11 @@ Tabela 1: Funcionalidades
 | ENT02         | Configuração de alertas de vencimento da CNH e do licenciamento do veículo | [ENT](../../elicitação/entrevista.md) |
 | ENT03         | Notificação ao usuário sobre recalls e informações importantes do fabricante do veículo | [ENT](../../elicitação/entrevista.md) ||
 
-
-
-
 Fonte: [Altino Arthur](https://github.com/arthurrochamoreira)
 
 </center>
+
+<br>
 
 <center>
 
@@ -83,40 +86,22 @@ Fonte: [Altino Arthur](https://github.com/arthurrochamoreira)
 
 </center>
 
+<br>
+
 <center>
 
-Tabela 3: Armazenamento
+Tabela 3: Não Funcionais
 
-| ID  | Requisito                                                               | Rastreabilidade                           |
-| --- | ----------------------------------------------------------------------- | ----------------------------------------- |
+| ID    | Requisito                                                             | Rastreabilidade                           |
+| ---   | ----------------------------------------------------------------------| ----------------------------------------- |
 | RNF01 | O aplicativo deve ocupar um espaço de armazenamento razoável.         | [ITP](../../elicitação/Introspeccao.md)   |
 | ITP   | Backup seguro de documentos e dados do usuário                        | [ITP](../../elicitação/Introspeccao.md)   |
-
-Fonte: [Altino Arthur](https://github.com/arthurrochamoreira)
-
-</center>
-
-<center>
-
-Tabela 4: Desempenhp
-
-| ID  | Requisito                                                               | Rastreabilidade                           |
-| --- | ----------------------------------------------------------------------- | ----------------------------------------- |
 | RNF02 | O Aplicativo deve ser rápido ao carregar                              | [ITP](../../elicitação/Introspeccao.md)   |
-
-Fonte: [Altino Arthur](https://github.com/arthurrochamoreira)
-
-</center>
-
-<center>
- 
-Tabela 5: Segurança
-
-| ID  | Requisito                                                               | Rastreabilidade                           |
-| --- | ----------------------------------------------------------------------- | ----------------------------------------- |
 | RNF03 | O aplicativo deve garantir a segurança dos dados do usuário.          | [ITPT](../../elicitação/Introspeccao.md)  | 
 
 Fonte: [Altino Arthur](https://github.com/arthurrochamoreira)
+
+<br>
 
 </center>
 
@@ -230,7 +215,7 @@ Tabela 12: Segurança e Autenticação
 
 </center>
 
-
+<br>
 
 ## Bibliografia
 
@@ -241,6 +226,8 @@ Tabela 12: Segurança e Autenticação
 > PRESSMAN, Roger S.; MAXIM, Bruce R.. Engenharia de software: uma abordagem profissional. 8 Porto Alegre: AMGH, 2016, 940 p.
 
 > Bourque, P., Fairley, R. E. Guide to the Software Engineering Body of Knowledge, Version 3.0. SWEBOK. IEEE Computer Society, 2014. Disponível em: http://www.computer.org/web/swebok/v3. p. 38.
+
+<br>
 
 ## Histórico de Versões
 
