@@ -20,7 +20,7 @@ Após a priorização das histórias de usuário, a equipe avançou para a organ
 ### Épicos
 
 <p align="justify">
-Os Épicos desempenham um papel fundamental na organização do Backlog do Produto em projetos ágeis. Eles representam histórias de usuário de alto nível que abrangem objetivos estratégicos e amplas áreas funcionais do produto. Os Épicos são valiosos por várias razões:
+Os Épicos representam histórias de usuário de alto nível que abrangem objetivos estratégicos e amplas áreas funcionais do produto. Os Épicos são valiosos por várias razões:
 </p>
 
 - **Visão Estratégica:** Os Épicos proporcionam uma visão geral das metas do projeto, alinhando o desenvolvimento com os objetivos gerais.
