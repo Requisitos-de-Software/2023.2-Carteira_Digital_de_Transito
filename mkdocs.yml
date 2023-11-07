@@ -19,6 +19,7 @@ theme:
         name: Switch to light mode
   
 markdown_extensions:
+  - markdown_divs
   - admonition
   - attr_list
   - def_list
