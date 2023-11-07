@@ -148,8 +148,9 @@ Para tornar o conteúdo mais concreto e menos abstrato, introduzimos os épicos.
   
 ### Épico 1: Gerenciamento de Conta do Usuário
 
+Descrição: Este épico concentra-se no gerenciamento das contas de usuário na aplicação. Ele abrange funcionalidades relacionadas à autenticação, personalização do perfil do usuário e acesso a informações pessoais. Os objetivos incluem permitir que os usuários façam login usando a autenticação do GOV, acessem sua carteira de habilitação eletrônica, gerenciem mensagens, configurem fotos de perfil e visualizem informações da conta.
+
 - Requisitos relacionados: US01, US02, US03, US12, US13, US14, US15, US18, US19.
-- Descrição: Este épico concentra-se no gerenciamento das contas de usuário na aplicação. Ele abrange funcionalidades relacionadas à autenticação, personalização do perfil do usuário e acesso a informações pessoais. Os objetivos incluem permitir que os usuários façam login usando a autenticação do GOV, acessem sua carteira de habilitação eletrônica, gerenciem mensagens, configurem fotos de perfil e visualizem informações da conta.
 
 <center>
 
@@ -179,8 +180,9 @@ Fonte: [Altino Arthur](https://github.com/arthurrochamoreira)
 
 ### Épico 2: Documentos e Certificados
 
+Descrição: Este épico trata da gestão de documentos e certificados dos usuários. Inclui a capacidade de adicionar, acessar e gerenciar documentos como o Certificado de Registro e Licenciamento de Veículo eletrônico (CLRV-e).
+
 - Requisitos relacionados: US04, US05, US20
-- Descrição: Este épico trata da gestão de documentos e certificados dos usuários. Inclui a capacidade de adicionar, acessar e gerenciar documentos como o Certificado de Registro e Licenciamento de Veículo eletrônico (CLRV-e).
 
 <center>
 
@@ -204,8 +206,9 @@ Fonte: [Altino Arthur](https://github.com/arthurrochamoreira)
 
 ### Épico 3: Exames e Infrações
 
+Descrição: Este épico envolve a visualização de resultados de exames toxicológicos, acesso a informações sobre infrações de trânsito e pagamento de infrações diretamente pela aplicação, bem como receber notificações sobre infrações relacionadas à carteira de motorista.
+
 - Requisitos relacionados: US06, US07, US08, US21
-- Descrição: Este épico envolve a visualização de resultados de exames toxicológicos, acesso a informações sobre infrações de trânsito e pagamento de infrações diretamente pela aplicação, bem como receber notificações sobre infrações relacionadas à carteira de motorista.
 
 <center>
 
@@ -230,8 +233,9 @@ Fonte: [Altino Arthur](https://github.com/arthurrochamoreira)
 
 ### Épico 4: Campanhas e Projetos
 
+Descrição: Neste épico, os usuários podem consultar informações sobre campanhas e projetos relacionados à segurança no trânsito, e têm a capacidade de participar ativamente dessas iniciativas.
+
 - Requisitos relacionados: US09, US22
-- Descrição: Neste épico, os usuários podem consultar informações sobre campanhas e projetos relacionados à segurança no trânsito, e têm a capacidade de participar ativamente dessas iniciativas.
 
 <center>
 
@@ -254,8 +258,9 @@ Fonte: [Altino Arthur](https://github.com/arthurrochamoreira)
 
 ### Épico 5: Cadastro Positivo e Notificações
 
+Descrição: Este épico inclui a visualização do cadastro positivo de trânsito, a adesão ao sistema de notificação eletrônica para receber atualizações e alertas importantes, e a possibilidade de gerenciar as preferências de notificação.
+
 - Requisitos relacionados: US10, US11, US23
-- Descrição: Este épico inclui a visualização do cadastro positivo de trânsito, a adesão ao sistema de notificação eletrônica para receber atualizações e alertas importantes, e a possibilidade de gerenciar as preferências de notificação.
   
 <br>
 
@@ -279,8 +284,9 @@ Fonte: [Altino Arthur](https://github.com/arthurrochamoreira)
 
 ### Épico 6: Cursos Especializados
 
+Descrição: Neste épico, os usuários podem visualizar informações sobre cursos especializados relacionados à segurança no trânsito e inscrever-se nesses cursos.
+
 - Requisitos relacionados: US16, US24
-- Descrição: Neste épico, os usuários podem visualizar informações sobre cursos especializados relacionados à segurança no trânsito e inscrever-se nesses cursos.
 
 <center>
 
@@ -301,8 +307,9 @@ Fonte: [Altino Arthur](https://github.com/arthurrochamoreira)
 
 ### Épico 7: Segurança e Autenticação
 
+Descrição: Este épico aborda a segurança e autenticação dos usuários, permitindo o uso de biometria para desbloquear a carteira de habilitação eletrônica e a recuperação segura de senhas perdidas.
+
 - Requisitos relacionados: US17, US25
-- Descrição: Este épico aborda a segurança e autenticação dos usuários, permitindo o uso de biometria para desbloquear a carteira de habilitação eletrônica e a recuperação segura de senhas perdidas.
 
 <center>
 
@@ -325,6 +332,8 @@ Fonte: [Altino Arthur](https://github.com/arthurrochamoreira)
 
 <p align="justify">
 Esta seção oferece uma visão mais detalhada das funcionalidades que compõem o Backlog do Produto. Cada feature representa uma descrição simplificada das capacidades do produto, projetadas para atender às necessidades e objetivos dos usuários. Essas funcionalidades são apresentadas em um nível de abstração mais alto do que as histórias de usuário.
+
+<br>
   
 Para criar essas features, partimos dos épicos, que, por sua vez, são histórias de usuário de alto nível que podem ser mais detalhadas. Organizar as funcionalidades dessa maneira simplifica o planejamento, desenvolvimento e gerenciamento do projeto ágil. Cada feature está vinculada a um épico correspondente, garantindo uma rastreabilidade clara das funcionalidades em relação aos objetivos gerais do produto, como mencionado acima.
 </p>
