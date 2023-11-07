@@ -1,4 +1,5 @@
 # Backlog do Produto
+
 ## Introdução
 
 O Backlog do Produto desempenha um papel fundamental na gestão de projetos ágeis, funcionando como um repositório dinâmico que armazena todas as tarefas pendentes relacionadas ao projeto. O Product Owner (PO) é o responsável por sugerir, priorizar e gerenciar os itens contidos no backlog. Esse documento é o resultado de uma estreita colaboração com o Product Owner do projeto. Através dessa interação, o PO e a equipe de desenvolvimento podem manter uma visão clara e atualizada das demandas do projeto, facilitando a tomada de decisões e a adaptação às mudanças à medida que o projeto avança. Essa abordagem ágil proporciona flexibilidade e agilidade, permitindo que o projeto evolua de acordo com as necessidades e prioridades em constante evolução.
@@ -13,22 +14,14 @@ Após a priorização das histórias de usuário, a equipe avançou para a organ
 
 Essa abordagem metódica e colaborativa na construção e organização do Backlog do Produto é fundamental para o sucesso de um projeto ágil, garantindo que as necessidades do cliente sejam atendidas de maneira eficiente e priorizada de acordo com seu valor.
 
-<br>
-
-<p align="center"><b>Tabela 01</b> - Participantes da Entrevista.</p>
-
 <center>
- 
+  
+### Participantes da Entrevista
+
 | Participante     | Função        |
 | ---------------- | ------------- |
 | Rômulo           | Product Owner |
 | Altino Arthur    | Entrevistador |
-
-<center>
-
-<p align="center"><b>Fonte</b>: <a href=https://github.com/arthurrochamoreira>Altino Arthur</a> </p>
-
-<br>
 
 ### Registro da Entrevista
 
@@ -40,9 +33,9 @@ Essa abordagem metódica e colaborativa na construção e organização do Backl
 
 A seguir, apresentamos tabelas de 1 a 5 do o backlog do produto elaborado em colaboração com o PO, detalhando cada história de usuário e sua priorização.
 
-<br>
-
-<p align="center"><b>Tabela 02</b> - Funcionalidades.</p>
+<center>
+ 
+Tabela 1: Funcionalidades
 
 | ID    | Requisito                                                                                        | Rastreabilidade |
 | ----- | -------------------------------------------------------------------------------------------------| --------------- |
@@ -64,15 +57,12 @@ A seguir, apresentamos tabelas de 1 a 5 do o backlog do produto elaborado em col
 | RF16  | Visualizar Cursos Especializados                                                                 |                 |
 | RF17  | Permitir Biometria Para Desbloquear a Carteira                                                   |                 |
 
-<p align="center"><b>Fonte</b>: <a href=https://github.com/arthurrochamoreira>Altino Arthur</a> </p>
+Fonte: [Altino Arthur](https://github.com/arthurrochamoreira)
 
-<br>
+</center>
 
 <center>
- 
-<br>
 
-<p align="center"><b>Tabela 03</b> - Interface de Usuário.</p>
 Tabela 2: Interface de Usuário
 
 | ID    | Requisito                                                                                        | Rastreabilidade |
@@ -81,9 +71,7 @@ Tabela 2: Interface de Usuário
 | UI02  | Interface de usuário personalizável                                                              |                 |
 | UI03  | Responsividade da interface de usuário em diferentes tamanhos de tela                            |                 |
 
-<p align="center"><b>Fonte</b>: <a href=https://github.com/arthurrochamoreira>Altino Arthur</a> </p>
-
-<br>
+Fonte: [Altino Arthur](https://github.com/arthurrochamoreira)
 
 </center>
 
