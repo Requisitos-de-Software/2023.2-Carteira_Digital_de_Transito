@@ -446,34 +446,21 @@ Fonte: [Altino Arthur](https://github.com/arthurrochamoreira)
 <br>
   
 ## Bibliografia
-
-<p align="justify">
   
 > SOUZA, Nicolas; MACEDO, Lucas. Backlog do Produto. Repositório do Grupo Lichess da disciplina de Requisitos de Software da Universidade de Brasília, 2022. Disponível em: <<https://requisitos-de-software.github.io/2022.2-Lichess/modelagem/agil/backlog/>>. Acesso em: 18 maio 2023.
 
-</p>
 
 > POPOV, Arthur Taylor de Jesus; SANTOS, Eduardo Schuindt. Backlog do Produto. Repositório do Grupo MEI da disciplina de Requisitos de Software da Universidade de Brasília, 2022. Disponível em: <<https://requisitos-de-software.github.io/2022.2-MEI/Modelagem/Agil/BacklogDoProduto/>>. Acesso em: 18 maio 2023.
 
-<p align="justify">
-
 > PRESSMAN, Roger S.; MAXIM, Bruce R.. Engenharia de software: uma abordagem profissional. 8 Porto Alegre: AMGH, 2016, 940 p.
-
-</p>
-
-<p align="justify">
   
 > Bourque, P., Fairley, R. E. Guide to the Software Engineering Body of Knowledge, Version 3.0. SWEBOK. IEEE Computer Society, 2014. Disponível em: http://www.computer.org/web/swebok/v3. p. 38.
 
-</p>
-
-
 <br>
 
+<center>
 
 ## Histórico de Versões
-
-<center>
 
 | Versão | Data       | Descrição                              | Autor(es)                        | Revisor(es)                       |
 | ------ | ---------- | -------------------------------------- | -------------------------------- | --------------------------------- |
