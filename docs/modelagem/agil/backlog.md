@@ -169,8 +169,9 @@ Tabela 4: Gerenciamento de Conta do Usuário
 | US18           | Visualizar Informações da Conta  | Como um usuário, desejo poder visualizar informações sobre a minha conta, como nome, e-mail e informações pessoais.      | Média    |
 | US19           | Editar Informações da Conta     | Como um usuário, desejo poder editar as informações da minha conta para mantê-las atualizadas.                            | Média    |
 
-</center>
+<br>
 
+</center>
 
 ### Épico 2: Documentos e Certificados
 
@@ -189,8 +190,9 @@ Tabela 5: Documentos e Certificados
 | US05          | Acessar Documento CLRV-e     | Como um usuário, desejo poder acessar o documento CLRV-e associado à minha conta.                                     | Média       |
 | US20          | Visualizar Certificados       | Como um usuário, desejo poder visualizar e gerenciar todos os certificados e documentos associados à minha conta.    | Média       |
 
-</center>
+<br>
 
+</center>
 
 ### Épico 3: Exames e Infrações
 
@@ -210,6 +212,8 @@ Tabela 6: Exames e Infrações
 | US08          | Pagar Infração                  | Como um usuário, desejo poder pagar infrações diretamente através da aplicação.                                       | Média      |
 | US21          | Receber Notificações de Infrações | Como um usuário, desejo receber notificações sobre infrações relacionadas à minha carteira de motorista.            | Média      |
 
+<br>
+
 </center>
 
 ### Épico 4: Campanhas e Projetos
@@ -228,16 +232,18 @@ Tabela 7: Campanhas e Projetos
 | US09           | Consultar Campanhas e Projetos     | Como um usuário, desejo poder consultar informações sobre campanhas e projetos relacionados à segurança no trânsito. | Baixa      |
 | US22           | Participar de Campanhas e Projetos | Como um usuário, desejo poder participar ativamente de campanhas e projetos relacionados à segurança no trânsito. | Média      |
 
+<br>
+
 </center>
 
 ### Épico 5: Cadastro Positivo e Notificações
 
 - Requisitos relacionados: US10, US11, US23
 - Descrição: Este épico inclui a visualização do cadastro positivo de trânsito, a adesão ao sistema de notificação eletrônica para receber atualizações e alertas importantes, e a possibilidade de gerenciar as preferências de notificação.
+  
+<br>
 
 <center>
-
-<br>
 
 Tabela 8: Cadastro Positivo e Notificações
 
@@ -246,6 +252,8 @@ Tabela 8: Cadastro Positivo e Notificações
 | US10           | Visualizar Cadastro Positivo     | Como um usuário, desejo poder visualizar meu cadastro positivo de trânsito para entender meu histórico.                 | Média    |
 | US11 | Aderir ao Sistema de Notificação Eletrônica | Como um usuário, desejo poder aderir ao sistema de notificação eletrônica para receber atualizações e alertas importantes. | Média    |
 | US23 | Gerenciar Preferências de Notificação | Como um usuário, desejo poder gerenciar minhas preferências de notificação, escolhendo quais tipos de alertas desejo receber. | Média    |
+
+<br>
 
 </center>
 
@@ -256,12 +264,16 @@ Tabela 8: Cadastro Positivo e Notificações
 
 <center>
 
+<br>
+
 Tabela 9: Cursos Especializados
 
 | Identificador   | Requisitos                              | User Story                                                                                                            | Prioridade |
 | ---  | -------------------------------------  | --------------------------------------------------------------------------------------------------------------------- | ---------- |
 | US16 | Visualizar Cursos Especializados        | Como um usuário, desejo poder visualizar informações sobre cursos especializados relacionados à segurança no trânsito. | Baixa    |
 | US24 | Inscrever-se em Cursos Especializados  | Como um usuário, desejo poder inscrever-me em cursos especializados relacionados à segurança no trânsito.               | Média    |
+
+<br>
 
 </center>
 
