@@ -138,10 +138,13 @@ Fonte: [Altino Arthur](https://github.com/arthurrochamoreira)
   
 ## Épicos
 
-Para tornar o conteúdo mais concreto e menos abstrato, introduzimos os épicos. Os épicos são histórias de usuário de alto nível que representam funcionalidades ou requisitos significativos do produto. Eles englobam aspectos amplos e estratégicos do projeto, geralmente não sendo passíveis de implementação em um único ciclo de desenvolvimento. A função dos épicos é agrupar e organizar histórias de usuário relacionadas a objetivos maiores ou a áreas funcionais do produto. A seguir, apresentamos a especificação dos épicos para facilitar a compreensão do backlog.
-  
-As tabelas de 4 a 10 especificam as _features_ que serão detalhadas melhor na seção de [Histórias de Usuário](../agil/historiasUsuario.md).  Elas se apresentam como descrições concisas e de alto nível de uma funcionalidade desejada em termos do cliente. Usualmente seguem a forma "Eu, como \_\_\_, desejo \_\_\_ para ___."
+No desenvolvimento de software, 'épicos' são termos usados para descrever objetivos amplos ou funcionalidades de grande escala que precisam ser alcançados. Estes são compostos por múltiplas histórias de usuário, que são mais detalhadas e específicas, descrevendo as funcionalidades individuais necessárias para atingir a meta maior que o épico representa.
 
+Comparando com a estrutura de um livro, os épicos seriam semelhantes a capítulos, fornecendo um resumo do conteúdo que será abordado, enquanto as histórias de usuário seriam semelhantes às páginas individuais, com detalhes específicos de cada parte do 'capítulo'. Essas histórias são interconectadas e cada uma contribui para a finalização do épico.
+
+Além disso, temos as 'features', que são declarações de alto nível que descrevem uma funcionalidade do ponto de vista do cliente. Elas são formuladas de maneira a capturar o valor que o cliente busca, como por exemplo, a capacidade de acessar relatórios financeiros rapidamente ou a facilidade de integrar a plataforma com outros sistemas. As 'features' orientam a equipe sobre as necessidades do cliente e como elas se alinham com os objetivos maiores delineados pelos épicos.
+
+As tabelas de 4 a 10 especificam as _features_ que serão detalhadas melhor na seção de [Histórias de Usuário](../agil/historiasUsuario.md). Cada 'feature' é geralmente expressa através de uma sentença modelo: "Eu, como [tipo de usuário], desejo [alguma ação ou funcionalidade] para [obter algum benefício ou resultado]". Essa estrutura ajuda a manter o foco no usuário e no valor que a funcionalidade lhe traz, facilitando a priorização e o desenvolvimento focado no cliente.
 
 <br>
   
