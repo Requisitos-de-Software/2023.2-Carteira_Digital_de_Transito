@@ -4,7 +4,11 @@
 ## Introdução
 
 <p align="justify">
-O Backlog do Produto desempenha um papel fundamental na gestão de projetos ágeis, funcionando como um repositório dinâmico que armazena todas as tarefas pendentes relacionadas ao projeto. O Product Owner (PO) é o responsável por sugerir, priorizar e gerenciar os itens contidos no backlog. Esse documento é o resultado de uma estreita colaboração com o Product Owner do projeto. Através dessa interação, o PO e a equipe de desenvolvimento podem manter uma visão clara e atualizada das demandas do projeto, facilitando a tomada de decisões e a adaptação às mudanças à medida que o projeto avança. Essa abordagem ágil proporciona flexibilidade e agilidade, permitindo que o projeto evolua de acordo com as necessidades e prioridades em constante evolução.
+A entrevista com o Product Owner conduzida via Microsoft Teams em 05 de novembro de 2023 teve como foco a definição das funcionalidades que o produto deve oferecer. Para isso, foram criadas 'histórias de usuários', um artefato utilizado para capturar e entender as necessidades dos usuários finais, bem como os contextos nos quais a aplicação seria utilizada.
+  
+Após a entrevista, a equipe procedeu com a priorização das histórias de usuário, adotando o método Three Level Scale para avaliar e ordenar as funcionalidades por sua relevância e complexidade. O resultado dessa classificação é uma hierarquia de desenvolvimento que orienta a equipe a focar primeiramente nas funcionalidades mais críticas, garantindo que o produto final atenda às exigências mais essenciais dos usuários.
+
+Depois de escolher as tarefas mais urgentes, elas foram arrumadas no Backlog do Produto. As tarefas foram separadas em grandes grupos chamados épicos e em menores chamados funcionalidades. Esta estruturação eficaz do Backlog do Produto é fundamental. Ela serve para estabelecer claramente quais são as prioridades, o que por sua vez facilita para a equipe de projeto manter a concentração nas atividades essenciais. Seguindo esta abordagem, o projeto pode progredir de forma ordenada, assegurando que cada fase seja concluída de acordo com o planejado, até que o projeto atinja sua finalização.
 </p>
 
 ## Metodologia
