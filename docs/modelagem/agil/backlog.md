@@ -297,7 +297,9 @@ As features, detalhadas nas tabelas de 9 a 15, são aspectos específicos do pro
 
 <br>
 
-#### Tabela 9: Feature 1; Autenticação e Conta do Usuário
+#### Feature 1: Autenticação e Conta do Usuário
+
+Tabela 9: Autenticação e Conta do Usuário
 
 | Como um/a...             | Eu quero...                                                 | Para que eu possa...                                             |
 | ------------------------ | ----------------------------------------------------------- | --------------------------------------------------------------- |
@@ -317,7 +319,9 @@ Fonte: [Altino Arthur](https://github.com/arthurrochamoreira)
 
 <br>
 
-#### Tabela 10: Feature 2; Documentos e Certificados
+#### Feature 2: Documentos e Certificados
+
+Tabela 10: Documentos e Certificados
 
 | Como um/a...             | Eu quero...                                         | Para que eu possa...                                     |
 | ------------------------ | --------------------------------------------------- | ------------------------------------------------------- |
@@ -333,7 +337,9 @@ Fonte: [Altino Arthur](https://github.com/arthurrochamoreira)
 
 <br>
 
-#### Tabela 11: Feature 3; Exames e Infrações
+#### Feature 3: Exames e Infrações
+
+Tabela 11: Exames e Infrações
 
 | Como um/a...             | Eu quero...                                                 | Para que eu possa...                                             |
 | ------------------------ | ----------------------------------------------------------- | --------------------------------------------------------------- |
@@ -350,7 +356,9 @@ Fonte: [Altino Arthur](https://github.com/arthurrochamoreira)
 
 <br>
 
-#### Tabela 12: Feature 4; Campanhas e Projetos
+#### Feature 4: Campanhas e Projetos
+
+Tabela 12: Campanhas e Projetos
 
 | Como um/a...             | Eu quero...                                         | Para que eu possa...                                     |
 | ------------------------ | --------------------------------------------------- | ------------------------------------------------------- |
@@ -365,7 +373,9 @@ Fonte: [Altino Arthur](https://github.com/arthurrochamoreira)
 
 <br>
 
-#### Tabela 13: Feature 5; Cadastro Positivo e Notificações
+#### Feature 5: Cadastro Positivo e Notificações
+
+Tabela 13: Cadastro Positivo e Notificações
 
 | Como um/a...             | Eu quero...                                         | Para que eu possa...                                     |
 | ------------------------ | --------------------------------------------------- | ------------------------------------------------------- |
@@ -381,7 +391,9 @@ Fonte: [Altino Arthur](https://github.com/arthurrochamoreira)
 
 <br>
 
-#### Tabela 14: Feature 6; Cursos Especializados
+#### Feature 6: Cursos Especializados
+
+Tabela 14: Cursos Especializados
 
 | Como um/a...             | Eu quero...                                                 | Para que eu possa...                                             |
 | ------------------------ | ----------------------------------------------------------- | --------------------------------------------------------------- |
@@ -396,7 +408,9 @@ Fonte: [Altino Arthur](https://github.com/arthurrochamoreira)
 
 <br>
 
-#### Tabela 15: Feature 7; Segurança e Autenticação
+#### Feature 7: Segurança e Autenticação
+
+Tabela 15: Segurança e Autenticação
 
 | Como um/a...             | Eu quero...                                         | Para que eu possa...                                     |
 | ------------------------ | --------------------------------------------------- | ------------------------------------------------------- |
