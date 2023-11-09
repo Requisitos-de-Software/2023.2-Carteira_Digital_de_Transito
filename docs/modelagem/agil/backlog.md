@@ -41,7 +41,7 @@ Nesse processo, as histórias de usuário foram detalhadas e priorizadas de acor
 
 | Participante     | Função        |
 | ---------------- | ------------- |
-| Rômulo           | Product Owner |
+| Rômulo Hannig    | Product Owner |
 | Altino Arthur    | Entrevistador |
 
 #### Registro da Entrevista
