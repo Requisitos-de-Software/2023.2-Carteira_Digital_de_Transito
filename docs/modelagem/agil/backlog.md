@@ -13,13 +13,19 @@ Depois de escolher as tarefas mais urgentes, elas foram arrumadas no Backlog do 
 
 ## Metodologia
 
-<p align="justify">
-A entrevista com o Product Owner (PO), que aconteceu via Microsoft Teams em 05 de novembro de 2023, teve como objetivo central a identificação das funcionalidades desejadas para o produto. Durante esse processo, os desenvolvedores e entrevistadores trabalharam em conjunto para documentar histórias de usuários que descrevem as necessidades e os cenários de uso do sistema. Além disso, foram estabelecidos critérios de aceitação para cada história de usuário, detalhando as condições que precisam ser atendidas para considerar uma funcionalidade como concluída com sucesso.
+A metodologia utilizada na entrevista com o Product Owner (PO) para a elicitação de requisitos e priorização das histórias de usuário envolveu os seguintes passos:
 
-Para priorizar as histórias de usuário, a equipe utilizou o método Three Level Scale, que é uma abordagem eficaz para classificar as funcionalidades com base em sua importância e complexidade. Isso permitiu definir uma ordem de prioridade clara, garantindo que as funcionalidades mais críticas ou valiosas para o cliente fossem desenvolvidas primeiro.
+1. **Entrevista com o PO:** Durante a entrevista com o PO, as funcionalidades desejadas foram discutidas e detalhadas. O PO compartilhou suas ideias e visão para o produto.
 
-Após a priorização das histórias de usuário, a equipe avançou para a organização do Backlog do Produto. Nesse estágio, as histórias de usuário foram agrupadas em épicos e features, proporcionando uma visão hierárquica e organizada das funcionalidades a serem desenvolvidas. Essa estrutura facilita a gestão e o planejamento do projeto, além de permitir uma visão mais ampla das metas e entregas ao longo do tempo.
-</p>
+2. **Anotações e Questionamentos:** Enquanto o PO comentava suas funcionalidades desejadas, os desenvolvedores/entrevistadores realizavam anotações detalhadas e faziam questionamentos para obter uma compreensão completa dos requisitos.
+
+3. **Elicitação de Histórias de Usuário:** Com base nas informações fornecidas pelo PO, as histórias de usuário foram elicitadas. Cada história descrevia uma funcionalidade ou necessidade específica do usuário.
+
+4. **Priorização das Histórias de Usuário:** As histórias de usuário foram priorizadas pelo PO em três níveis de prioridade: Alta, Média ou Baixa. Esse processo utilizou o método "Three Level Scale" de priorização de requisitos.
+
+5. **Categorização em Temas, Épicos e Features:** Para uma melhor organização e categorização das histórias de usuário, temas, épicos e features foram definidos. Isso ajudou a agrupar funcionalidades relacionadas.
+
+Nesse processo, as histórias de usuário foram detalhadas e priorizadas de acordo com as necessidades e expectativas do PO, garantindo que o desenvolvimento do produto fosse direcionado de forma eficaz e alinhado com as metas do projeto.
 
 <center>
   
