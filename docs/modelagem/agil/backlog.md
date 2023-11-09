@@ -292,7 +292,7 @@ Após o estabelecimento dos épicos, que constituem os objetivos gerais e abrang
 </p>
 
 <p align="justify">
-As features, detalhadas nas tabelas de 9 a 15, são aspectos específicos do produto que serão mais profundamente explorados nas Histórias de Usuário. Cada feature é tipicamente expressa por uma sentença padrão que identifica quem é o usuário, o que ele necessita e por que a necessidade existe, seguindo o modelo: "Eu, como [tipo de usuário], desejo [alguma ação ou funcionalidade] para [obter algum benefício ou resultado]". Este formato ajuda a equipe a se concentrar nas necessidades do usuário e no valor que a funcionalidade proporcionará, facilitando assim a priorização das tarefas e um desenvolvimento que esteja alinhado com as expectativas do cliente.
+As features, detalhadas nas tabelas de 9 a 15, são aspectos específicos do produto que serão mais profundamente explorados nas [Histórias de Usuário](../agil/historiasUsuario.md). Cada feature é tipicamente expressa por uma sentença padrão que identifica quem é o usuário, o que ele necessita e por que a necessidade existe, seguindo o modelo: "Eu, como [tipo de usuário], desejo [alguma ação ou funcionalidade] para [obter algum benefício ou resultado]". Este formato ajuda a equipe a se concentrar nas necessidades do usuário e no valor que a funcionalidade proporcionará, facilitando assim a priorização das tarefas e um desenvolvimento que esteja alinhado com as expectativas do cliente.
 </p>
 
 <br>
