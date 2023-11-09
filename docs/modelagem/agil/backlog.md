@@ -62,7 +62,7 @@ A seguir, apresentamos a tabela 1 do backlog do produto elaborado em colaboraç�
  
 Tabela 1: Funcionalidades
 
-| Identificador | Requisitos                                                       | Rastreabilidade                         |
+| Identificador | Descrição                                                     | Rastreabilidade                         |
 | ------------- | -------------------------------------------------------------    | ----------------------------------------|
 | ITP01         | Fazer Login pelo GOV                                             | [ITP](../../elicitação/Introspeccao.md) |
 | ITP02         | Obter versão digital da habilitação                              | [ITP](../../elicitação/Introspeccao.md) |
