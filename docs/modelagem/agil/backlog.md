@@ -21,30 +21,6 @@ Para priorizar as histórias de usuário, a equipe utilizou o método Three Leve
 Após a priorização das histórias de usuário, a equipe avançou para a organização do Backlog do Produto. Nesse estágio, as histórias de usuário foram agrupadas em épicos e features, proporcionando uma visão hierárquica e organizada das funcionalidades a serem desenvolvidas. Essa estrutura facilita a gestão e o planejamento do projeto, além de permitir uma visão mais ampla das metas e entregas ao longo do tempo.
 </p>
 
-### Épicos
-
-<p align="justify">
-Os Épicos representam histórias de usuário de alto nível que abrangem objetivos estratégicos e amplas áreas funcionais do produto. Os Épicos são valiosos por várias razões:
-</p>
-
-- **Visão Estratégica:** Os Épicos proporcionam uma visão geral das metas do projeto, alinhando o desenvolvimento com os objetivos gerais.
-- **Organização Hierárquica:** Eles permitem uma organização hierárquica das funcionalidades, ajudando a entender como as partes do sistema se relacionam.
-- **Priorização Eficiente:** A classificação dos Épicos ajuda a priorizar as partes mais significativas do projeto, garantindo que as funcionalidades críticas sejam abordadas primeiro.
-
-### Features
-
-<p align="justify">
-As Features são descrições simplificadas das capacidades do produto em um nível mais detalhado. Elas detalham as funcionalidades desejadas em um formato que é facilmente transformado em tarefas de desenvolvimento práticas. As Features são importantes para:
-</p>
-
-- **Detalhamento Específico:** Elas representam descrições específicas das capacidades do produto, tornando o processo de desenvolvimento mais direto.
-- **Implementação Prática:** As Features descrevem o que deve ser entregue de forma tangível, facilitando a implementação.
-- **Rastreabilidade Clara:** Cada Feature está vinculada a um Épico correspondente, garantindo uma rastreabilidade clara das funcionalidades em relação aos objetivos estratégicos do produto.
-  
-<p align="justify">
-Essa abordagem metódica e colaborativa na construção e organização do Backlog do Produto é fundamental para o sucesso de um projeto ágil, garantindo que as necessidades do cliente sejam atendidas de maneira eficiente e priorizada de acordo com seu valor.
-</p>
-
 <center>
   
 #### Participantes da Entrevista
@@ -64,7 +40,7 @@ Essa abordagem metódica e colaborativa na construção e organização do Backl
 
 ## Product Backlog
 
-A seguir, apresentamos tabelas de 1 a 3 do backlog do produto elaborado em colaboração com o PO, detalhando cada funcionalidade que ira gerar as histórias de usuário e sua priorização.
+A seguir, apresentamos a tabela 1 do backlog do produto elaborado em colaboração com o PO, detalhando cada funcionalidade que ira gerar as histórias de usuário e sua priorização.
 
 <br>
 
@@ -88,47 +64,12 @@ Tabela 1: Funcionalidades
 | ITP14         | Consultar restrições e indicadores (restrição no veículo, multa, judicial) | [ITP](../../elicitação/Introspeccao.md) |
 | ITP16         | Consultar campanhas e projetos do DETRAN                         | [ITP](../../elicitação/Introspeccao.md) |
 | ITP17         | Validar cadastro de CNH                                          | [ITP](../../elicitação/Introspeccao.md) |
-| ITP20         | Aplicativo deve evitar erros e telas brancas durante o uso       | [ITP](../../elicitação/Introspeccao.md) |
 | ITP21         | Transferir veículo                                               | [ITP](../../elicitação/Introspeccao.md) |
 | ITP22         | Compartilhar documentos do veículo                               | [ITP](../../elicitação/Introspeccao.md) |
 | ITP23         | Notificação de multas e informações importantes do fabricante do veículo | [ENT](../../elicitação/entrevista.md) |
 | ENT01         | Pesquisa de informações sobre veículos por meio do número da placa | [ENT](../../elicitação/entrevista.md) |
 | ENT02         | Configuração de alertas de vencimento da CNH e do licenciamento do veículo | [ENT](../../elicitação/entrevista.md) |
 | ENT03         | Notificação ao usuário sobre recalls e informações importantes do fabricante do veículo | [ENT](../../elicitação/entrevista.md) |
-
-Fonte: [Altino Arthur](https://github.com/arthurrochamoreira)
-
-</center>
-
-<br>
-
-<center>
-
-Tabela 2: Interface de Usuário
-
-| Identificador | Requisitos                                                                                       | Rastreabilidade |
-| ---           | -------------------------------------------------------------------------------------------------| --------------- |
-| ITP19         | Aplicativo deve possuir interface simples                                                        | [ITP](../../elicitação/Introspeccao.md) |
-| ITP21         | Modo escuro/claro                                                                                | [ITP](../../elicitação/Introspeccao.md) |
-| UI03          | Responsividade da interface de usuário em diferentes tamanhos de tela                            | [ITP](../../elicitação/Introspeccao.md) | 
-| RNF           | Evitar erros e telas brancas durante o uso                                                       | [ITP](../../elicitação/Introspeccao.md) | 
-
-Fonte: [Altino Arthur](https://github.com/arthurrochamoreira)
-
-</center>
-
-<br>
-
-<center>
-
-Tabela 3: Não Funcionais
-
-| Identificador | Requisitos                                                             | Rastreabilidade                           |
-| ---           | ---------------------------------------------------------------------- | ----------------------------------------- |
-| RNF01         | O aplicativo deve ocupar um espaço de armazenamento razoável.          | [ITP](../../elicitação/Introspeccao.md)   |
-| ITP           | Backup seguro de documentos e dados do usuário                         | [ITP](../../elicitação/Introspeccao.md)   |
-| RNF02         | O Aplicativo deve ser rápido ao carregar                               | [ITP](../../elicitação/Introspeccao.md)   |
-| RNF03         | O aplicativo deve garantir a segurança dos dados do usuário.           | [ITP](../../elicitação/Introspeccao.md)   | 
 
 Fonte: [Altino Arthur](https://github.com/arthurrochamoreira)
 
@@ -144,7 +85,7 @@ Comparando com a estrutura de um livro, os épicos seriam semelhantes a capítul
 
 Além disso, temos as 'features', que são declarações de alto nível que descrevem uma funcionalidade do ponto de vista do cliente. Elas são formuladas de maneira a capturar o valor que o cliente busca, como por exemplo, a capacidade de acessar relatórios financeiros rapidamente ou a facilidade de integrar a plataforma com outros sistemas. As 'features' orientam a equipe sobre as necessidades do cliente e como elas se alinham com os objetivos maiores delineados pelos épicos.
 
-As tabelas de 4 a 10 especificam as _features_ que serão detalhadas melhor na seção de [Histórias de Usuário](../agil/historiasUsuario.md). Cada 'feature' é geralmente expressa através de uma sentença modelo: "Eu, como [tipo de usuário], desejo [alguma ação ou funcionalidade] para [obter algum benefício ou resultado]". Essa estrutura ajuda a manter o foco no usuário e no valor que a funcionalidade lhe traz, facilitando a priorização e o desenvolvimento focado no cliente.
+As tabelas de 2 a 8 apresentam os épicos do projeto, que são grandes objetivos ou iniciativas dentro do desenvolvimento do produto. Cada épico é apresentado de forma a capturar uma necessidade ampla do usuário e pode ser detalhado em funcionalidades específicas na seção de Histórias de Usuário. Comumente, um épico é expresso por uma sentença ampla: "Como [perfil do usuário], preciso [de uma grande funcionalidade ou resultado] para [atingir um objetivo de negócio ou solucionar um problema significativo]". Esta abordagem mantém o foco nas metas de alto nível e nos benefícios estratégicos, orientando a priorização e o desenvolvimento de forma que alinhe com os principais objetivos do negócio.
 
 <br>
   
@@ -158,7 +99,7 @@ Descrição: Este épico concentra-se no gerenciamento das contas de usuário na
 
 <br>
 
-Tabela 4: Gerenciamento de Conta do Usuário
+Tabela 2: Gerenciamento de Conta do Usuário
 
 | Identificador  | Requisitos                      | User Story                                                                                                              | Prioridade |
 | ---            | ------------------------------- | ---------------------------------------------------------------------------------------------------------------------   | ---------- |
@@ -190,7 +131,7 @@ Descrição: Este épico trata da gestão de documentos e certificados dos usuá
 
 <br>
 
-Tabela 5: Documentos e Certificados
+Tabela 3: Documentos e Certificados
 
 | Identificador | Requisitos                   | User Story                                                                                                            | Prioridade |
 | ---           | --------------------------  | ---------------------------------------------------------------------------------------------------------------------  | ---------- |
@@ -216,7 +157,7 @@ Descrição: Este épico envolve a visualização de resultados de exames toxico
 
 <br>
 
-Tabela 6: Exames e Infrações
+Tabela 4: Exames e Infrações
 
 | Identificador | Requisitos                      | User Story                                                                                                            | Prioridade |
 | ---           | -----------------------------  | ---------------------------------------------------------------------------------------------------------------------  | ---------- |
@@ -243,7 +184,7 @@ Descrição: Neste épico, os usuários podem consultar informações sobre camp
 
 <br>
 
-Tabela 7: Campanhas e Projetos
+Tabela 5: Campanhas e Projetos
  
 | Identificador  | Requisitos                         | User Story                                                                                                        | Prioridade |
 | ---            | -----------------------------      | ------------------------------------------------------------------------------------------------------------------ | ---------- |
@@ -268,7 +209,7 @@ Descrição: Este épico inclui a visualização do cadastro positivo de trânsi
 
 <center>
 
-Tabela 8: Cadastro Positivo e Notificações
+Tabela 6: Cadastro Positivo e Notificações
 
 | Identificador  | Requisitos                       | User Story                                                                                                            | Prioridade |
 | ---            | -------------------------------   | ---------------------------------------------------------------------------------------------------------------------| ---------- |
@@ -294,7 +235,7 @@ Descrição: Neste épico, os usuários podem visualizar informações sobre cur
 
 <br>
 
-Tabela 9: Cursos Especializados
+Tabela 7: Cursos Especializados
 
 | Identificador   | Requisitos                              | User Story                                                                                                            | Prioridade |
 | ---  | -------------------------------------  | --------------------------------------------------------------------------------------------------------------------- | ---------- |
@@ -317,7 +258,7 @@ Descrição: Este épico aborda a segurança e autenticação dos usuários, per
 
 <br>
 
-Tabela 10: Segurança e Autenticação
+Tabela 8: Segurança e Autenticação
 
 | Identificador   | Requisitos                            | User Story                                                                                                      |Prioridade |
 | ---  | -----------------------------------------------   | ---------------------------------------------------------------------------------------------------------------------  | ---------- |
@@ -336,19 +277,23 @@ Fonte: [Altino Arthur](https://github.com/arthurrochamoreira)
 Após o estabelecimento dos épicos, que constituem os objetivos gerais e abrangentes do projeto passamos a detalhar as features. Estas são as funcionalidades específicas que compõem o produto. Cada feature é um elemento que, ao ser implementado, atende a uma necessidade particular do usuário final e avança o projeto em direção ao cumprimento dos épicos, elas são elaboradas de modo a serem claras para todos os participantes do projeto, desde os desenvolvedores até os clientes finais. Ao contrário dos épicos, que são amplos e muitas vezes abstratos, as features são tangíveis e mensuráveis, oferecendo uma direção clara para a equipe sobre o que precisa ser construído.
 </p>
 
+<p align="justify">
+As features, detalhadas nas tabelas de 9 a 15, são aspectos específicos do produto que serão mais profundamente explorados nas Histórias de Usuário. Cada feature é tipicamente expressa por uma sentença padrão que identifica quem é o usuário, o que ele necessita e por que a necessidade existe, seguindo o modelo: "Eu, como [tipo de usuário], desejo [alguma ação ou funcionalidade] para [obter algum benefício ou resultado]". Este formato ajuda a equipe a se concentrar nas necessidades do usuário e no valor que a funcionalidade proporcionará, facilitando assim a priorização das tarefas e um desenvolvimento que esteja alinhado com as expectativas do cliente.
+</p>
+
 <br>
 
-#### Feature 1: Autenticação e Conta do Usuário
+#### Tabela 9: Feature 1; Autenticação e Conta do Usuário
 
-| Feature                            | Descrição                                                                                                       | Épico                              | Prioridade |
-| ---------------------------------- | ---------------------------------------------------------------------------------------------------------------- | ---------------------------------- | ---------- |
-| Autenticação com GOV               | Permitir que os usuários façam login na aplicação usando a autenticação do GOV.                                | Gerenciamento de Conta do Usuário | Alta       |
-| Acesso à Carteira de Habilitação   | Possibilitar aos usuários acessar a versão digital de suas carteiras de habilitação eletrônicas.             | Gerenciamento de Conta do Usuário | Alta       |
-| Central de Mensagens               | Oferecer uma central de mensagens para que os usuários recebam comunicações e notificações importantes.      | Gerenciamento de Conta do Usuário | Média     |
-| Tirar Foto para o Perfil           | Permitir que os usuários tirem uma foto para usar como imagem de perfil na aplicação.                         | Gerenciamento de Conta do Usuário | Média     |
-| Remover Foto de Perfil             | Possibilitar aos usuários remover a foto de perfil, se desejarem.                                                | Gerenciamento de Conta do Usuário | Média     |
-| Escolher Foto da Galeria           | Permitir que os usuários escolham uma foto da galeria de imagens para usar como imagem de perfil.            | Gerenciamento de Conta do Usuário | Média     |
-| Visualização de Informações da Conta | Permitir que os usuários visualizem informações sobre suas contas, como nome, e-mail e informações pessoais. | Gerenciamento de Conta do Usuário | Média     |
+| Como um/a...             | Eu quero...                                                 | Para que eu possa...                                             |
+| ------------------------ | ----------------------------------------------------------- | --------------------------------------------------------------- |
+| usuário                  | autenticar-me usando o sistema de autenticação do GOV       | garantir um acesso seguro e confiável à aplicação               |
+| motorista                | acessar a versão digital da minha carteira de habilitação   | facilitar sua utilização no dia a dia                           |
+| usuário                  | ter uma central de mensagens                                | receber comunicações e notificações importantes de forma centralizada |
+| usuário                  | tirar uma foto para usar como imagem de perfil              | personalizar minha conta para melhor identificação              |
+| usuário                  | remover a foto de perfil da minha conta                     | manter minha privacidade se eu assim escolher                   |
+| usuário                  | escolher uma foto da galeria para meu perfil                | ter uma imagem de perfil que melhor me represente               |
+| usuário                  | visualizar informações da minha conta                       | ter controle e conhecimento sobre os dados associados à minha identidade digital |
 
 <center>
 
@@ -358,30 +303,13 @@ Fonte: [Altino Arthur](https://github.com/arthurrochamoreira)
 
 <br>
 
-#### Feature 2: Documentos e Certificados
+#### Tabela 10: Feature 2; Documentos e Certificados
 
-| Feature                            | Descrição                                                                                                        | Épico                   | Prioridade |
-| ---------------------------------- | -----------------------------------------------------------------------------------------------------------------  | ----------------------- | ---------- |
-| Adicionar Documento CLRV-e         | Permitir que os usuários adicionem o documento CLRV-e (Certificado de Registro e Licenciamento de Veículo eletrônico) às suas contas. | Documentos e Certificados | Média |
-| Acesso ao Documento CLRV-e         | Permitir que os usuários acessem o documento CLRV-e associado às suas contas. | Documentos e Certificados | Média |
-| Visualização de Certificados       | Oferecer aos usuários a capacidade de visualizar e gerenciar todos os certificados e documentos associados às suas contas. | Documentos e Certificados | Média |
-
-<center>
-
-Fonte: [Altino Arthur](https://github.com/arthurrochamoreira)
-
-</center>
-
-<br>
-
-#### Feature 3: Exames e Infrações
-
-| Feature                            | Descrição                                                                                                        | Épico              | Prioridade |
-| ---------------------------------- | -----------------------------------------------------------------------------------------------------------------  | ------------------ | ---------- |
-| Visualização de Exames Toxicológicos | Possibilitar aos usuários visualizar os resultados de exames toxicológicos. | Exames e Infrações | Média |
-| Acesso a Informações de Infração    | Permitir que os usuários acessem informações sobre infrações relacionadas às suas carteiras de motorista. | Exames e Infrações | Média |
-| Pagamento de Infrações              | Oferecer aos usuários a capacidade de pagar infrações diretamente pela aplicação. | Exames e Infrações | Média |
-| Receber Notificações de Infrações   | Permitir que os usuários recebam notificações sobre infrações relacionadas às suas carteiras de motorista. | Exames e Infrações | Média |
+| Como um/a...             | Eu quero...                                         | Para que eu possa...                                     |
+| ------------------------ | --------------------------------------------------- | ------------------------------------------------------- |
+| usuário                  | adicionar o documento CLRV-e à minha conta          | ter acesso fácil e rápido ao meu documento eletrônico   |
+| usuário                  | acessar meu documento CLRV-e                        | consultar informações do veículo sempre que necessário  |
+| usuário                  | visualizar e gerenciar meus certificados            | manter o controle sobre os documentos importantes       |
 
 <center>
 
@@ -391,28 +319,14 @@ Fonte: [Altino Arthur](https://github.com/arthurrochamoreira)
 
 <br>
 
-#### Feature 4: Campanhas e Projetos
+#### Tabela 11: Feature 3; Exames e Infrações
 
-| Feature                            | Descrição                                                                                                        | Épico               | Prioridade |
-| ---------------------------------- | -----------------------------------------------------------------------------------------------------------------  | ------------------- | ---------- |
-| Consulta de Campanhas e Projetos     | Possibilitar que os usuários consultem informações sobre campanhas e projetos relacionados à segurança no trânsito. | Campanhas e Projetos | Baixa |
-| Participação em Campanhas e Projetos | Permitir que os usuários participem ativamente de campanhas e projetos relacionados à segurança no trânsito. | Campanhas e Projetos | Média |
-
-<center>
-
-Fonte: [Altino Arthur](https://github.com/arthurrochamoreira)
-
-</center>
-
-<br>
-
-#### Feature 5: Cadastro Positivo e Notificações
-
-| Feature                            | Descrição                                                                                                        | Épico                            | Prioridade |
-| ---------------------------------- | -----------------------------------------------------------------------------------------------------------------  | ------------------- | ---------- |
-| Visualização de Cadastro Positivo     | Oferecer aos usuários a capacidade de visualizar seu cadastro positivo de trânsito para entender seu histórico. | Cadastro Positivo e Notificações | Média |
-| Adesão ao Sistema de Notificação Eletrônica | Permitir que os usuários adiram ao sistema de notificação eletrônica para receber atualizações e alertas importantes. | Cadastro Positivo e Notificações | Média |
-| Gerenciamento de Preferências de Notificação | Permitir que os usuários gerenciem suas preferências de notificação, escolhendo quais tipos de alertas desejam receber. | Cadastro Positivo e Notificações | Média |
+| Como um/a...             | Eu quero...                                                 | Para que eu possa...                                             |
+| ------------------------ | ----------------------------------------------------------- | --------------------------------------------------------------- |
+| usuário                  | visualizar os resultados de exames toxicológicos             | acompanhar meu estado de saúde relacionado à condução            |
+| usuário                  | acessar informações sobre infrações relacionadas à minha carteira de motorista | estar ciente das infrações e tomar as medidas necessárias      |
+| usuário                  | pagar infrações diretamente pela aplicação                    | efetuar pagamentos de forma rápida e conveniente                  |
+| usuário                  | receber notificações sobre infrações relacionadas à minha carteira de motorista | estar informado sobre eventuais infrações de trânsito           |
 
 <center>
 
@@ -422,12 +336,12 @@ Fonte: [Altino Arthur](https://github.com/arthurrochamoreira)
 
 <br>
 
-#### Feature 6: Cursos Especializados
+#### Tabela 12: Feature 4; Campanhas e Projetos
 
-| Feature                            | Descrição                                                                                                        | Épico                  | Prioridade |
-| ---------------------------------- | -----------------------------------------------------------------------------------------------------------------  | ----------------------- | ---------- |
-| Visualização de Cursos Especializados | Possibilitar que os usuários visualizem informações sobre cursos especializados relacionados à segurança no trânsito. | Cursos Especializados | Baixa |
-| Inscrição em Cursos Especializados | Permitir que os usuários se inscrevam em cursos especializados relacionados à segurança no trânsito. | Cursos Especializados | Média |
+| Como um/a...             | Eu quero...                                         | Para que eu possa...                                     |
+| ------------------------ | --------------------------------------------------- | ------------------------------------------------------- |
+| usuário                  | consultar informações sobre campanhas e projetos relacionados à segurança no trânsito | estar informado sobre iniciativas de segurança no trânsito |
+| usuário                  | participar ativamente de campanhas e projetos relacionados à segurança no trânsito | contribuir para a segurança viária e participar de ações de conscientização |
 
 <center>
 
@@ -437,12 +351,43 @@ Fonte: [Altino Arthur](https://github.com/arthurrochamoreira)
 
 <br>
 
-#### Feature 7: Segurança e Autenticação
+#### Tabela 13: Feature 5; Cadastro Positivo e Notificações
 
-| Feature                            | Descrição                                                                                                        | Épico                   | Prioridade |
-| ---------------------------------- | -----------------------------------------------------------------------------------------------------------------  | ----------------------- | ---------- |
-| Uso de Biometria para Desbloquear a Carteira | Permitir que os usuários usem biometria para desbloquear suas carteiras de habilitação eletrônicas para maior segurança. | Segurança e Autenticação | Alta |
-| Recuperação de Senha Perdida | Oferecer aos usuários a capacidade de recuperar senhas perdidas por meio de um processo seguro de redefinição de senha. | Segurança e Autenticação | Média |
+| Como um/a...             | Eu quero...                                         | Para que eu possa...                                     |
+| ------------------------ | --------------------------------------------------- | ------------------------------------------------------- |
+| usuário                  | visualizar meu cadastro positivo de trânsito       | entender meu histórico de conduta no trânsito          |
+| usuário                  | aderir ao sistema de notificação eletrônica        | receber atualizações e alertas importantes de forma eletrônica |
+| usuário                  | gerenciar minhas preferências de notificação        | escolher quais tipos de alertas desejo receber          |
+
+<center>
+
+Fonte: [Altino Arthur](https://github.com/arthurrochamoreira)
+
+</center>
+
+<br>
+
+#### Tabela 14: Feature 6; Cursos Especializados
+
+| Como um/a...             | Eu quero...                                                 | Para que eu possa...                                             |
+| ------------------------ | ----------------------------------------------------------- | --------------------------------------------------------------- |
+| usuário                  | visualizar informações sobre cursos especializados relacionados à segurança no trânsito | obter informações sobre oportunidades de aprendizado relacionadas à segurança viária |
+| usuário                  | inscrever-me em cursos especializados relacionados à segurança no trânsito | adquirir conhecimento adicional para uma condução mais segura |
+
+<center>
+
+Fonte: [Altino Arthur](https://github.com/arthurrochamoreira)
+
+</center>
+
+<br>
+
+#### Tabela 15: Feature 7; Segurança e Autenticação
+
+| Como um/a...             | Eu quero...                                         | Para que eu possa...                                     |
+| ------------------------ | --------------------------------------------------- | ------------------------------------------------------- |
+| usuário                  | usar biometria para desbloquear minha carteira de habilitação eletrônica | aumentar a segurança do acesso à minha carteira digital |
+| usuário                  | recuperar senhas perdidas                            | redefinir minha senha de forma segura em caso de perda |
 
 <center>
 
