@@ -30,7 +30,7 @@ A metodologia utilizada na entrevista com o Product Owner (PO) para a elicitaç�
    
 <p align="justify">
   
-Nesse processo, as histórias de usuário foram detalhadas e priorizadas de acordo com as necessidades e expectativas do PO, garantindo que o desenvolvimento do produto fosse direcionado de forma eficaz e alinhado com as metas do projeto.
+Nesse processo, as histórias de usuário foram detalhadas e priorizadas.
 
 </p>
 
