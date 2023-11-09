@@ -7,7 +7,7 @@ A entrevista com o Product Owner conduzida via Microsoft Teams em 05 de novembro
   
 Após a entrevista, a equipe procedeu com a priorização das histórias de usuário, adotando o método Three Level Scale para avaliar e ordenar as funcionalidades por sua relevância e complexidade.
 
-Depois de escolher as tarefas mais urgentes, elas foram agrupadas no Backlog do Produto. As tarefas foram separadas em grandes grupos chamados épicos e em menores chamados funcionalidades. Esta estruturação eficaz do Backlog do Produto é fundamental. Ela serve para estabelecer claramente quais são as prioridades, o que por sua vez facilita para a equipe de projeto manter a concentração nas atividades essenciais. Seguindo esta abordagem, o projeto pode progredir de forma ordenada, assegurando que cada fase seja concluída de acordo com o planejado, até que o projeto atinja sua finalização.
+Depois de escolher as tarefas mais urgentes, elas foram agrupadas no Backlog do Produto. As tarefas foram separadas em grandes grupos chamados épicos e em menores chamados funcionalidades. Esta estruturação do Backlog do Produto é fundamental. Ela serve para estabelecer claramente quais são as prioridades, o que por sua vez facilita para a equipe de projeto manter a concentração nas atividades essenciais. Seguindo esta abordagem, o projeto pode progredir de forma ordenada, assegurando que cada fase seja concluída de acordo com o planejado, até que o projeto atinja sua finalização.
 
 
 ## Metodologia
