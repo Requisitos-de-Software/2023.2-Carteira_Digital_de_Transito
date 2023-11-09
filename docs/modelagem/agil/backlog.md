@@ -34,6 +34,8 @@ Nesse processo, as histórias de usuário foram detalhadas e priorizadas de acor
 
 </p>
 
+<br>
+
 <center>
   
 #### Participantes da Entrevista
