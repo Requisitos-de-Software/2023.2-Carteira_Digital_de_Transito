@@ -13,7 +13,11 @@ Depois de escolher as tarefas mais urgentes, elas foram arrumadas no Backlog do 
 
 ## Metodologia
 
+<p align="justify">
+
 A metodologia utilizada na entrevista com o Product Owner (PO) para a elicitação de requisitos e priorização das histórias de usuário envolveu os seguintes passos:
+
+</p>
 
 1. **Entrevista com o PO:** Durante a entrevista com o PO, as funcionalidades desejadas foram discutidas e detalhadas. O PO compartilhou suas ideias e visão para o produto.
 
@@ -24,8 +28,12 @@ A metodologia utilizada na entrevista com o Product Owner (PO) para a elicitaç�
 4. **Priorização das Histórias de Usuário:** As histórias de usuário foram priorizadas pelo PO em três níveis de prioridade: Alta, Média ou Baixa. Esse processo utilizou o método "Three Level Scale" de priorização de requisitos.
 
 5. **Categorização em Temas, Épicos e Features:** Para uma melhor organização e categorização das histórias de usuário, temas, épicos e features foram definidos. Isso ajudou a agrupar funcionalidades relacionadas.
-
+   
+<p align="justify">
+  
 Nesse processo, as histórias de usuário foram detalhadas e priorizadas de acordo com as necessidades e expectativas do PO, garantindo que o desenvolvimento do produto fosse direcionado de forma eficaz e alinhado com as metas do projeto.
+
+</p>
 
 <center>
   
