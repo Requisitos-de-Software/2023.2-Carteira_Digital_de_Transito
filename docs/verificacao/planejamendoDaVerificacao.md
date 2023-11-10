@@ -83,7 +83,7 @@ estabelecido é que cada documento deve ter um revisor designado, sendo essa pes
 - [**Introspecção**](link) na versão x de data xx/xx/2023, autorado por [x](git link);
 - [**Observação**](link) na versão x de data xx/xx/2023, autorado por [x](git link);
 - [**Questionário**](link) na versão x de data xx/xx/2023, autorado por [x](git link);
-- 
+  
 ### Priorização de requisitos
 - [$100](link) na versão x de data xx/xx/2023, autorado por [x](git link);
 - [**Introdução**](link) na versão x de data xx/xx/2023, autorado por [x](git link);
@@ -93,7 +93,7 @@ estabelecido é que cada documento deve ter um revisor designado, sendo essa pes
 - [**Léxicos**](link) na versão x de data xx/xx/2023, autorado por [x](git link);
 - [**Casos de Uso**](link) na versão x de data xx/xx/2023, autorado por [x](git link);
 - [**Especificação Suplementar**](link) na versão x de data xx/xx/2023, autorado por [x](git link);
-- 
+  
 ### Modelagem Ágil
 - [**Backlog do Produto**](link) na versão x de data xx/xx/2023, autorado por [x](git link);
 - [**Histórias de Usuário**](link) na versão x de data xx/xx/2023, autorado por [x](git link);
