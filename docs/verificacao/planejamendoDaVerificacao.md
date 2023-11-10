@@ -2,17 +2,17 @@
 
 ## Introdução
 A fase de verificação emerge como um dos pilares fundamentais no ciclo de desenvolvimento de um projeto. Nesse estágio crucial, os artefatos gerados passam por uma minuciosa análise para assegurar que estejam em conformidade com os requisitos especificados. Dessa forma, 
-presente documento delineia o planejamento da verificação dos artefatos criados pelo [Grupo 3](https://interacao-humano-computador.github.io/2023.2-PlataformaLattes/), cujo projeto é  fundamentado plataforma Lattes.
+presente documento delineia o planejamento da verificação dos artefatos criados pelo [Grupo 3](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/), cujo projeto é fundamentado no aplicativo [BRB Mobilidade](https://play.google.com/store/apps/details?id=br.com.brb.mobilidade&hl=pt_BR&gl=US).
 
 ## Objetivos
-O propósito deste planejamento é estabelecer uma abordagem sólida para a verificação sistemática dos artefatos gerados pelo [Grupo 3](https://interacao-humano-computador.github.io/2023.2-PlataformaLattes/), garantindo a presença dos elementos necessários e
+O propósito deste planejamento é estabelecer uma abordagem sólida para a verificação sistemática dos artefatos gerados pelo [Grupo 3](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/), garantindo a presença dos elementos necessários e
 aderência aos padrões predefinidos. Além disso, busca-se assegurar que tais artefatos atendam às exigências estabelecidas com precisão e qualidade, promovendo, assim, uma entrega consistente e alinhada aos padrões estabelecidos.
 
 ## Metodologia
 A abordagem selecionada para conduzir essa verificação é a inspeção, uma metodologia que implica em uma revisão formal dos artefatos produzidos, visando identificar possíveis defeitos. Essa revisão é meticulosamente conduzida por meio de uma checklist, 
 que inclui uma lista abrangente dos defeitos mais comuns a serem identificados, analisados e classificados.
 É importante destacar que a leitura do artefato não deve ser realizada pelo seu autor, garantindo assim uma perspectiva mais objetiva e imparcial durante o processo de inspeção. Este método visa assegurar a qualidade dos resultados, contribuindo para a 
-detecção precoce de problemas e aprimoramento contínuo dos artefatos produzidos. Uma "issue" foi gerada no repositório do [Grupo 02](https://github.com/Interacao-Humano-Computador/2023.2-Ventoy), encarregado da verificação, apresentando um checklist que abrange
+detecção precoce de problemas e aprimoramento contínuo dos artefatos produzidos. Uma "issue" foi gerada no repositório do nosso grupo  ([Grupo 02](https://github.com/Requisitos-de-Software/2023.2-Carteira_Digital_de_Transito)), encarregado da verificação, apresentando um checklist que abrange
 cada artefato a ser analisado. A distribuição dos artefatos a serem verificados não segue uma divisão predeterminada, uma vez que cada participante, ao iniciar a verificação de um artefato específico, registra na "issue" sua responsabilidade pela verificação 
 em questão. Este método é seguido até que todos os artefatos tenham sido devidamente analisados.<br/>
 Conforme mencionado anteriormente, para orientar o acompanhamento na verificação, serão empregados checklists. Uma explicação mais detalhada sobre essa técnica estará disponível em um subtópico deste documento intitulado "Checklist".
@@ -68,50 +68,39 @@ estabelecido é que cada documento deve ter um revisor designado, sendo essa pes
 ## Objetos de verificação
 
 ### Planejamento
-- [**Cronogramas**](link) na versão x de data xx/xx/2023, autorada por [x](git link);
-- [**Ferramentas**](link) na versão x de data xx/xx/2023, autorada por [x](git link);
-- [**HeatMap**](link) na versão x de data xx/xx/2023, autorada por [x](git link);
-- [**Metodologia**](link) na versão x de data xx/xx/2023, autorada por [x](git link);
-- [**Padronização do Projeto**](link) na versão x de data xx/xx/2023, autorada por [x](git link);
-- [**Processos de Design**](link) na versão x de data xx/xx/2023, autorada por [x](git link);
-- [**Site Selecionado**](link) na versão x de data xx/xx/2023, autorada por [x](git link);
-- [**Sites Avaliados**](link) na versão x de data xx/xx/2023, autorada por [x](git link).
+- [**Padronização do Projeto**](link) na versão x de data xx/xx/2023, autorado por [x](git link);
+- [**Rich Picture**](link) na versão x de data xx/xx/2023, autorado por [x](git link);
+- [**Aplicativo Selecionado**](link) na versão x de data xx/xx/2023, autorado por [x](git link);
+- [**Cronogramas**](link) na versão x de data xx/xx/2023, autorado por [x](git link);
+- [**Ferramentas de Uso**](link) na versão x de data xx/xx/2023, autorado por [x](git link);
+- [**Heatmap**](link) na versão x de data xx/xx/2023, autorado por [x](git link);
+- [**Termos de Uso**](link) na versão x de data xx/xx/2023, autorado por [x](git link);
+- [**Ata**](link) na versão x de data xx/xx/2023, autorado por [x](git link);
+- [**Personas**](link) na versão x de data xx/xx/2023, autorado por [x](git link);
 
-### Análise de requisitos
-
-- [**Aspectos Éticos**](link) na versão x de data xx/xx/2023, autorada por [x](git link);
-- [**Características da Plataforma**](link) na versão x de data xx/xx/2023, autorada por [x](git link);
-- [**Cenários**](link) na versão x de data xx/xx/2023, autorada por [x](git link);
-- [**Árvore de Tarefas Concorrentes**](link) na versão x de data xx/xx/2023, autorada por [x](git link);
-- [**Guia de Estilo**](link) na versão x de data xx/xx/2023, autorada por [x](git link);
-- [**Análise Hierárquica de Tarefas**](link) na versão x de data xx/xx/2023, autorada por [x](git link);
-- [**Introspecção**](link) na versão x de data xx/xx/2023, autorada por [x](git link);
-- [**Metas de Usabilidade**](link) na versão x de data xx/xx/2023, autorada por [x](git link);
-- [**Observação**](link) na versão x de data xx/xx/2023, autorada por [x](git link);
-- [**Perfil de Usuário**](link) na versão x de data xx/xx/2023, autorada por [x](git link);
-- [**Personas**](link) na versão x de data xx/xx/2023, autorada por [x](git link);
-- [**Princípios Gerais do Projeto**](link) na versão x de data xx/xx/2023, autorada por [x](git link).
-
-### Analise de tarefas
-
-- [**Planejamento da Avaliação da Análise de Tarefas**](link) na versão x de data xx/xx/2023, autorado por [x](git link);
-- [**Planejamento do Relato dos Resultados da Avaliação**](link) na versão x de data xx/xx/2023, autorado por [x](git link);
-- [**Relato dos Resultados**](link) na versão x de data xx/xx/2023, autorado por [x](git link).
-
-### Storyboard
-
-- [**Planejamento da Avaliação do Storyboard**](link) na versão x de data xx/xx/2023, autorado por [x](git link);
-- [**Planejamento do Relato dos Resultados da Avaliação do Storyboard**](link) na versão x de data xx/xx/2023, autorado por [x](git link);
-- [**Relato do Resultado - Storyboard**](link) na versão x de data xx/xx/2023, autorado por [x](git link);
-- [**Storyboards**](link) na versão x de data xx/xx/2023, autorado por [x](git link).
-
-### Protótipo de Papel
-
-- [**Planejamento da Avaliação do Protótipo de Papel**](link) na versão x de data xx/xx/2023, autorado por [x](git link);
-- [**Planejamento do Relato dos Resultados da Avaliação do Protótipo de Papel**](link) na versão x de data xx/xx/2023, autorado por [x](git link).
+### Técnicas
+- [**Brainstorming**](link) na versão x de data xx/xx/2023, autorado por [x](git link);
+- [**Introspecção**](link) na versão x de data xx/xx/2023, autorado por [x](git link);
+- [**Observação**](link) na versão x de data xx/xx/2023, autorado por [x](git link);
+- [**Questionário**](link) na versão x de data xx/xx/2023, autorado por [x](git link);
+- 
+### Priorização de requisitos
+- [$100](link) na versão x de data xx/xx/2023, autorado por [x](git link);
+- [**Introdução**](link) na versão x de data xx/xx/2023, autorado por [x](git link);
+- [**Moscow**](link) na versão x de data xx/xx/2023, autorado por [x](git link);
+- [**Three Level Scale**](link) na versão x de data xx/xx/2023, autorado por [x](git link);
+- [**Cenários**](link) na versão x de data xx/xx/2023, autorado por [x](git link);
+- [**Léxicos**](link) na versão x de data xx/xx/2023, autorado por [x](git link);
+- [**Casos de Uso**](link) na versão x de data xx/xx/2023, autorado por [x](git link);
+- [**Especificação Suplementar**](link) na versão x de data xx/xx/2023, autorado por [x](git link);
+- 
+### Modelagem Ágil
+- [**Backlog do Produto**](link) na versão x de data xx/xx/2023, autorado por [x](git link);
+- [**Histórias de Usuário**](link) na versão x de data xx/xx/2023, autorado por [x](git link);
+- [**NFR Framework**](link) na versão x de data xx/xx/2023, autorado por [x](git link).
 
 ## Cronograma
-As verificações serão realizadas no período do dia 10 de novembro de 2023 até o dia 14 de novembro de 2023.
+As verificações serão realizadas no período do dia 10 de novembro de 2023 até o dia 12 de novembro de 2023.
 
 ## Bibliografia
 
