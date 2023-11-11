@@ -81,6 +81,8 @@ nav:
       - NFR Framework: modelagem/agil/framework.md
       - Product Backlog: modelagem/agil/backlog.md
       - Histórias de Usuário: modelagem/agil/historiasUsuario.md
+  - Verificação:
+    - Planejamento: verificacao/planejamendoDaVerificacao.md 
       
 
 
