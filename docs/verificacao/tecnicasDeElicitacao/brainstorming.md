@@ -2,7 +2,7 @@
  
 ## Introdução
 
-Este documento é uma verificação do artefato [Brainstorming](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Elicitação/Técnicas/Brainstorming/) na versão 1.0 de data 03/10/2023, autorado por [Miguel de Frias](https://github.com/migueldefrias) e [Caio Braga](https://github.com/caioalvesbraga), que são integrantes do [grupo 03](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/), cujo projeto tem como foco o aplicativo [BRB Mobilidade](https://play.google.com/store/apps/details?id=br.com.brb.mobilidade&hl=pt_BR&gl=US&pli=1)
+Este documento é uma verificação do artefato [Brainstorming](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Elicitação/Técnicas/Brainstorming/) na versão 1.0 de data 03/10/2023, autorado por [Miguel de Frias](https://github.com/migueldefrias) e [Caio Braga](https://github.com/caioalvesbraga), que são integrantes do [grupo 03](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/), cujo projeto tem como foco o aplicativo [BRB Mobilidade](https://play.google.com/store/apps/details?id=br.com.brb.mobilidade&hl=pt_BR&gl=US&pli=1).
 
 ## Metodologia 
 

@@ -2,7 +2,7 @@
  
 ## Introdução
 
-Este documento é uma verificação do artefato  [Introspecção](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Elicitação/Técnicas/Introspecção/) na versão 1.0 de data 03/09/2023, autorado por [Miguel de Frias](https://github.com/migueldefrias) e [Guilherme Basilio](https://github.com/GuilhermeBES);, que são integrantes do [grupo 03](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/), cujo projeto tem como foco o aplicativo [BRB Mobilidade](https://play.google.com/store/apps/details?id=br.com.brb.mobilidade&hl=pt_BR&gl=US&pli=1)
+Este documento é uma verificação do artefato  [Introspecção](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Elicitação/Técnicas/Introspecção/) na versão 1.0 de data 03/09/2023, autorado por [Miguel de Frias](https://github.com/migueldefrias) e [Guilherme Basilio](https://github.com/GuilhermeBES);, que são integrantes do [grupo 03](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/), cujo projeto tem como foco o aplicativo [BRB Mobilidade](https://play.google.com/store/apps/details?id=br.com.brb.mobilidade&hl=pt_BR&gl=US&pli=1).
 
 ## Metodologia 
 
