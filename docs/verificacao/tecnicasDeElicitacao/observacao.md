@@ -47,7 +47,7 @@ A tabela 2 apresenta o checklist preenchido ápos a verificação do artefato.
 | 2  | O artefato possui a metodologia utilizada?                                                                    		      | Não          | -                                                                      |
 | 3  | O artefato possui bibliografia/referências bibliográficas?                                                                     | Sim          | -                                                                      |
 | 4  | O artefato possui um histórico de versões com o id e descrição das versões, data, autores e revisores?                         | Sim          | |
-| 5  | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes?                                                   | Não          | As tabelas apresentadas no documento não apresentam a fonte e nem são chamadas no texto. Também aparecem duas tabelas com a namureção de tabela 2.|
+| 5  | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes?                                                   | Não          | As tabelas apresentadas no documento não apresentam a fonte e nem são chamadas no texto. Também aparecem duas tabelas com a numeração de tabela 2.|
 | 6  | Todos os textos estão na norma padrão?                                       						      | Sim          | -                                                                      |
 | 7  | Um cronograma (data e horário) e local para realização da elicitação dos requisitos com os envolvidos?			      | Não          | - 									|
 | 8  | A gravação e o(s) registro(s) da atividade de elicitação dos requisitos?                                                       | Sim          | A gravação não possui muitas informações sobre o que está acontecendo.|
@@ -74,5 +74,5 @@ Adicionar ao documento quem foram os participantes envolvidos na tarefa, como o 
 
 | Versão | Data       | Descrição                                       | Autor                                          | Revisor                                      |
 | ------ | ---------- | ----------------------------------------------- | -----------------------------------------------| ---------------------------------------------|
-| `1.0`  | 12/11/2023 | Criação do Documento | [Limirio Guimarães](https://github.com/LimirioGuimaraes) |  |
-| `1.1`  | 12/11/2023 | Adicionado desenvolvimento e sugestões de melhoria | [Limirio Guimarães](https://github.com/LimirioGuimaraes) |  |
+| `1.0`  | 12/11/2023 | Criação do Documento | [Limirio Guimarães](https://github.com/LimirioGuimaraes) |  [Mayara Alves](https://github.com/Mayara-tech) |
+| `1.1`  | 12/11/2023 | Adicionado desenvolvimento e sugestões de melhoria | [Limirio Guimarães](https://github.com/LimirioGuimaraes) | [Mayara Alves](https://github.com/Mayara-tech)  |
