@@ -14,15 +14,18 @@ A verificação do artefato seguirá o [planejamento](https://requisitos-de-soft
 | ID | Descrição                                                                                                                      | Avaliação  | Observação                                                             |
 |----|--------------------------------------------------------------------------------------------------------------------------------|------------|------------------------------------------------------------------------|
 | 1  | O artefato possui Introdução?                                                                                                  | -          | -                                                                      |
-| 2  | O artefato possui bibliografia/referências bibliográficas?                                                                     | -          | -                                                                      |
-| 3  | O artefato possui um histórico de versões com o id e descrição das versões, data, autores e revisores?                         | -          | -                                                                      |
-| 4  | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes?                                                   | -          | -                                                                      |
-| 5  | Todos os textos estão na norma padrão?                                       						      | -          | -                                                                      |
-| 6  | Um cronograma (data e horário) e local para realização da elicitação dos requisitos com o do cliente e/ou persona do projeto?  | -          | -                                                                      |
-| 7  | A gravação e o(s) registro(s) da atividade de elicitação dos requisitos?                                                       | -          | -                                                                      |
-| 8  | Está especificado o papel de cada participante?                                                                                | -          | -  								    |
-| 9  | Todas as ideias geradas durante o brainstorming foram documentadas de forma clara e concisa?                                   | -          | -  								    |
-| 10  | Foram utilizadas técnicas de estímulo, como palavras-chave, imagens ou diagramas, para incentivar a geração de ideias?        | -          | -  								    |
+| 2  | O artefato possui a metodologia utilizada?                                                                    		      | -          | -                                                                      |
+| 3  | O artefato possui bibliografia/referências bibliográficas?                                                                     | -          | -                                                                      |
+| 4  | O artefato possui um histórico de versões com o id e descrição das versões, data, autores e revisores?                         | -          | -                                                                      |
+| 5  | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes?                                                   | -          | -                                                                      |
+| 6  | Todos os textos estão na norma padrão?                                       						      | -          | -                                                                      |
+| 7  | Um cronograma (data e horário) e local para realização da elicitação dos requisitos com os envolvidos?			      | -          | -                                                                      |
+| 8  | A gravação e o(s) registro(s) da atividade de elicitação dos requisitos?                                                       | -          | -                                                                      |
+| 9  | Está especificado o papel de cada participante?                                                                                | -          | -  								    |
+| 10 | Os requisitos elicitados estão identificados por IDs?	                                                                      | -          | -                                                                      |
+| 11 | Os requisitos foram qualificados em funcionais e não funcionais?	                                                              | -          | -                                                                      |
+| 12  | Todas as ideias geradas durante o brainstorming foram documentadas de forma clara e concisa?                                  | -          | -  								    |
+| 13  | Foram utilizadas técnicas de estímulo, como palavras-chave, imagens ou diagramas, para incentivar a geração de ideias?        | -          | -  								    |
 
 Fonte: [Limirio Guimarães](https://github.com/LimirioGuimaraes)
 
@@ -30,7 +33,34 @@ Fonte: [Limirio Guimarães](https://github.com/LimirioGuimaraes)
 
 ## Desenvolvimento 
 
+<center>
+
+**Tabela 2** - Checklist Preenchido
+
+| ID | Descrição                                                                                                                      | Avaliação  | Observação                                                             |
+|----|--------------------------------------------------------------------------------------------------------------------------------|------------|------------------------------------------------------------------------|
+| 1  | O artefato possui Introdução?                                                                                                  | Sim          | -                                                                      |
+| 2  | O artefato possui a metodologia utilizada?                                                                    		      | Sim          | -                                                                      |
+| 3  | O artefato possui bibliografia/referências bibliográficas?                                                                     | Sim          | -                                                                      |
+| 4  | O artefato possui um histórico de versões com o id e descrição das versões, data, autores e revisores?                         | Sim          | -                                                                      |
+| 5  | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes?                                                   | Sim          | -                                                                      |
+| 6  | Todos os textos estão na norma padrão?                                       						      | Sim          | -                                                                      |
+| 7  | Um cronograma (data e horário) e local para realização da elicitação dos requisitos com os envolvidos?			      | Não          | Na tópico de metodologia é apresentado o horário e dia que foi realizada a atividade no entanto não há um cronograma.|
+| 8  | A gravação e o(s) registro(s) da atividade de elicitação dos requisitos?                                                       | Sim          | -                                                                      |
+| 9  | Está especificado o papel de cada participante?                                                                                | Sim          | -  								    |
+| 10 | Os requisitos elicitados estão identificados por IDs?	                                                                      | Sim          | -                                                                      |
+| 11 | Os requisitos foram qualificados em funcionais e não funcionais?	                                                              | Sim          | -                                                                      |
+| 12  | Todas as ideias geradas durante o brainstorming foram documentadas de forma clara e concisa?                                  | Sim          | -  								    |
+| 13  | Foram utilizadas técnicas de estímulo, como palavras-chave, imagens ou diagramas, para incentivar a geração de ideias?        | Sim          | -  								    |
+
+Fonte: [Limirio Guimarães](https://github.com/LimirioGuimaraes)
+
+</center>
+
+
 ## Sugestões de Melhorias
+
+As ideias foram documentadas de forma clara e concisa o que demonstra um cuidado na documentação, porém algo que poderia agregar é linkar o nome dos integrantes com seus respectivos perfis no gitub.
 
 ## Bibliografia
 
@@ -42,3 +72,4 @@ Fonte: [Limirio Guimarães](https://github.com/LimirioGuimaraes)
 | Versão | Data       | Descrição                                       | Autor                                          | Revisor                                      |
 | ------ | ---------- | ----------------------------------------------- | -----------------------------------------------| ---------------------------------------------|
 | `1.0`  | 12/11/2023 | Criação do Documento | [Limirio Guimarães](https://github.com/LimirioGuimaraes) |  |
+ `1.1`  | 12/11/2023 | Adicionado desenvolvimento e sugestões de melhoria | [Limirio Guimarães](https://github.com/LimirioGuimaraes) |  |
