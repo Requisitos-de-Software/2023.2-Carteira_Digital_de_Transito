@@ -47,7 +47,7 @@ A tabela 2 apresenta o checklist preenchido ápos a verificação do artefato.
 | 4  | O artefato possui um histórico de versões com o id e descrição das versões, data, autores e revisores?                         | Sim          | -                                                                      |
 | 5  | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes?                                                   | Sim          | -                                                                      |
 | 6  | Todos os textos estão na norma padrão?                                       						      | Sim          | -                                                                      |
-| 7  | Um cronograma (data e horário) e local para realização da elicitação dos requisitos com os envolvidos?			      | Não          | Na tópico de metodologia é apresentado o horário e dia que foi realizada a atividade no entanto não há um cronograma.|
+| 7  | Um cronograma (data e horário) e local para realização da elicitação dos requisitos com os envolvidos?			      | Não          | No tópico de metodologia é apresentado o horário e dia que foi realizada a atividade no entanto não há um cronograma.|
 | 8  | A gravação e o(s) registro(s) da atividade de elicitação dos requisitos?                                                       | Sim          | -                                                                      |
 | 9  | Está especificado o papel de cada participante?                                                                                | Sim          | -  								    |
 | 10 | Os requisitos elicitados estão identificados por IDs?	                                                                      | Sim          | -                                                                      |
@@ -62,7 +62,7 @@ Fonte: [Limirio Guimarães](https://github.com/LimirioGuimaraes)
 
 ## Sugestões de Melhorias
 
-As ideias foram documentadas de forma clara e concisa o que demonstra um cuidado na documentação, porém algo que poderia agregar é linkar o nome dos integrantes com seus respectivos perfis no gitub.
+As ideias foram documentadas de forma clara e concisa o que demonstra um cuidado na documentação, porém algo que poderia agregar é linkar o nome dos integrantes com seus respectivos perfis no github.
 
 ## Bibliografia
 
@@ -73,5 +73,5 @@ As ideias foram documentadas de forma clara e concisa o que demonstra um cuidado
 
 | Versão | Data       | Descrição                                       | Autor                                          | Revisor                                      |
 | ------ | ---------- | ----------------------------------------------- | -----------------------------------------------| ---------------------------------------------|
-| `1.0`  | 12/11/2023 | Criação do Documento | [Limirio Guimarães](https://github.com/LimirioGuimaraes) |  |
- `1.1`  | 12/11/2023 | Adicionado desenvolvimento e sugestões de melhoria | [Limirio Guimarães](https://github.com/LimirioGuimaraes) |  |
+| `1.0`  | 12/11/2023 | Criação do Documento | [Limirio Guimarães](https://github.com/LimirioGuimaraes) | [Mayara Alves](https://github.com/Mayara-tech)  |
+ `1.1`  | 12/11/2023 | Adicionado desenvolvimento e sugestões de melhoria | [Limirio Guimarães](https://github.com/LimirioGuimaraes) | [Mayara Alves](https://github.com/Mayara-tech) |
