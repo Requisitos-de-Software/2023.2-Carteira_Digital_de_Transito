@@ -81,6 +81,7 @@ De maneira geral o artefato apresenta uma boa qualidade, uma boa formatação e 
 | 14  | Em nenhum momento é possivel identificar qualquer referência entre os cenários e os léxicos de maneira explicita | É sugerido a referênciação dos léxicos que foram usados no contexto dos cenários.
 
 </center>
+
 ## Bibliografia
 
 > BARBOSA, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021);Interação Humano-Computador e Experiência do usuário.
