@@ -60,7 +60,7 @@ Fonte: [Limirio Guimarães](https://github.com/LimirioGuimaraes)
 
 ## Sugestões de Melhorias
 
-As ideias foram documentadas de forma clara e concisa o que demonstra um cuidado na documentação, porém algo que poderia agregar é linkar o nome dos integrantes com seus respectivos perfis no gitub.
+As ideias foram documentadas de forma clara e concisa o que demonstra um cuidado na documentação, porém algo que poderia agregar é linkar o nome dos integrantes com seus respectivos perfis no github.
 
 ## Bibliografia
 
@@ -71,5 +71,5 @@ As ideias foram documentadas de forma clara e concisa o que demonstra um cuidado
 
 | Versão | Data       | Descrição                                       | Autor                                          | Revisor                                      |
 | ------ | ---------- | ----------------------------------------------- | -----------------------------------------------| ---------------------------------------------|
-| `1.0`  | 12/11/2023 | Criação do Documento | [Limirio Guimarães](https://github.com/LimirioGuimaraes) |  |
-| `1.1`  | 12/11/2023 | Adicionado desenvolvimento e sugestões de melhoria | [Limirio Guimarães](https://github.com/LimirioGuimaraes) |  |
+| `1.0`  | 12/11/2023 | Criação do Documento | [Limirio Guimarães](https://github.com/LimirioGuimaraes) | [Mayara Alves](https://github.com/Mayara-tech) |
+| `1.1`  | 12/11/2023 | Adicionado desenvolvimento e sugestões de melhoria | [Limirio Guimarães](https://github.com/LimirioGuimaraes) | [Mayara Alves](https://github.com/Mayara-tech) |
