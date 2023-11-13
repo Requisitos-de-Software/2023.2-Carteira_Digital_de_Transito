@@ -1,8 +1,8 @@
-# Verificação do artefato "Heatmap"
+# Verificação - Heatmap
 
 ## Introdução
 
-Este documento é uma verificação do artefato HeatMap na versão 1.1 de data 19/09/2023, autorado por [Caio Braga](https://github.com/caioalvesbraga), que é integrante do Grupo 03, cujo projeto tem como foco o aplicativo BRB Mobilidade.
+Este documento é uma verificação do artefato [Heatmap](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Planejamento/heatmap/) na versão 1.1 de data 19/09/2023, autorado por [Caio Braga](https://github.com/caioalvesbraga), que é integrante do Grupo 03, cujo projeto tem como foco o aplicativo BRB Mobilidade.
 
 ## Metodologia
 A verificação do artefato seguirá o planejamento desenvolvido pelo nosso grupo. Conforme detalhado no planejamento, destaca-se a relevância do subtópico da metologia neste documento, onde será apresentada a tabela contendo os checklists utilizados para realizar essa verificação. O referido checklist pode ser consultado na Tabela 1.
