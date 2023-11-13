@@ -2,7 +2,7 @@
  
 ## Introdução
 
-Este documento é uma verificação do artefato [Cenários](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/01-cenarios/) na versão 1.1 de data 06/11/2023, autorado por [Joel Soares](https://github.com/JoelSRangel), [Caio Lelis](https://github.com/caio-lelis) e [Doan Filho](https://github.com/FilhoDoan), que são integrantes do [grupo 03](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/), cujo projeto tem como foco o aplicativo [BRB Mobilidade](https://play.google.com/store/apps/details?id=br.com.brb.mobilidade&hl=pt_BR&gl=US&pli=1), o propósito desta verificação é identificar possíveis problemas no artefato de priorização - Three Level Scale. 
+Este documento é uma verificação do artefato [Three Level Scale](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Elicita%C3%A7%C3%A3o/prioriza%C3%A7%C3%A3o%20de%20requisitos/Three%20Level%20Scale/) na versão 1.1 de data 06/11/2023, autorado por [Joel Soares](https://github.com/JoelSRangel), [Caio Lelis](https://github.com/caio-lelis) e [Doan Filho](https://github.com/FilhoDoan), que são integrantes do [grupo 03](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/), cujo projeto tem como foco o aplicativo [BRB Mobilidade](https://play.google.com/store/apps/details?id=br.com.brb.mobilidade&hl=pt_BR&gl=US&pli=1), o propósito desta verificação é identificar possíveis problemas no artefato de priorização. 
 
 
 ## Metodologia 
