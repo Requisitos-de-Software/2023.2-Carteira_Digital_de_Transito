@@ -1,7 +1,7 @@
 # Personas
 
 ## Introdução
-Este documento é uma verificação do artefato [Personas](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Elicita%C3%A7%C3%A3o/Personas/#beneficios-das-personas) na versão 2.0 de data 25/10/2023, autorado por Joel Soares, que é integrante do Grupo 03, cujo projeto tem como foco o aplicativo BRB Mobilidade.
+Este documento é uma verificação do artefato [Personas](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Elicita%C3%A7%C3%A3o/Personas/#beneficios-das-personas) na versão 2.0 de data 25/10/2023, autorado por [Joel Soares](https://github.com/JoelSRangel), que é integrante do [Grupo 03](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/#equipe), cujo projeto tem como foco o aplicativo BRB Mobilidade.
 
 ## Metodologia
 A verificação do artefato seguirá o planejamento desenvolvido pelo nosso grupo. Conforme detalhado no planejamento, destaca-se a relevância do subtópico da metologia neste documento, onde será apresentada a tabela contendo os checklists utilizados para realizar essa verificação. O referido checklist pode ser consultado na Tabela 1.
