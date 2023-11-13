@@ -70,15 +70,15 @@ De maneira geral o artefato apresenta uma boa qualidade, uma boa formatação e 
 
 <center>
 
-**Tabela 2** - Sugestões de melhoria - Cenários
+**Tabela 3** - Sugestões de melhoria - Cenários
 
 | ID | Descrição do problema | Sugestão de melhoria |
 | --- | ---------------------| ---------------------- |
-| 02  | O artefato não possuí uma metodologia, entretanto possuí um tópico chamado " Modelo de cenário" que faz esse papel. | Para padronizar com os demais artefatos e sugerido como melhoria a alteração do nome do tópico para metodologia. 
+| 02  | O artefato não possui uma metodologia, entretanto possuí um tópico chamado " Modelo de cenário" que faz esse papel. | Para padronizar com os demais artefatos e sugerido como melhoria a alteração do nome do tópico para metodologia. 
 | 05  |  Não há problemas identificados  | É sugerido que a identificação da tabela fique na parte superior da tabela e a fonte na parte inferior. 
 | 07  | O Cenário não possui quem seriam os atores e restrições | É sugerido que seja feito a avaliação do cenário e seja criado quem seriam os atores e as restrições para o contexto.
 | 12  | O cenário não apresenta atores para o contexto | É sugerido a criação de atores conforme o contexto do cenário
-| 14  | Em nenhum momento é possivel identificar qualquer referência entre os cenários e os léxicos de maneira explicita | É sugerido a referênciação dos léxicos que foram usados no contexto dos cenários.
+| 14  | Em nenhum momento é possivel identificar qualquer referência entre os cenários e os léxicos de maneira explicita | É sugerido a referenciação dos léxicos que foram usados no contexto dos cenários.
 
 </center>
 
@@ -91,6 +91,6 @@ De maneira geral o artefato apresenta uma boa qualidade, uma boa formatação e 
 
 | Versão | Data       | Descrição                                       | Autor                                          | Revisor                                      |
 | ------ | ---------- | ----------------------------------------------- | -----------------------------------------------| ---------------------------------------------|
-| `1.0`  | 12/11/2023 | Criação do Documento | [Mayara Alves](https://github.com/Mayara-tech)  |  |
-| `1.1`  | 12/11/2023 | Adicionando verificação do artefato cenário | [Mayara Alves](https://github.com/Mayara-tech)  |  |
+| `1.0`  | 12/11/2023 | Criação do Documento | [Mayara Alves](https://github.com/Mayara-tech)  | [Milena Baruc](https://github.com/MilenaBaruc) |
+| `1.1`  | 12/11/2023 | Adicionando verificação do artefato cenário | [Mayara Alves](https://github.com/Mayara-tech)  | [Milena Baruc](https://github.com/MilenaBaruc) |
 
