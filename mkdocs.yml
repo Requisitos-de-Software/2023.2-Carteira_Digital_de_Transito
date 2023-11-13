@@ -91,6 +91,8 @@ nav:
       - Introspecção: verificacao/tecnicasDeElicitacao/introspeccao.md
       - Observação: verificacao/tecnicasDeElicitacao/observacao.md
       - Questionário: verificacao/tecnicasDeElicitacao/questionario.md
+    - Priorização:
+      - Three Level Scale: verificacao/priorizacao/threeLevelScale.md
     - Modelagem:
       - Cenário: verificacao/priorizacao/cenario.md
     
