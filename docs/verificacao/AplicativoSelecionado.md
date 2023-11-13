@@ -1,4 +1,4 @@
-# Verificação do artefato "Aplicativo Selecionado"
+# Verificação - Aplicativo Selecionado
 
 ## Introdução
 Este documento é uma verificação do artefato [Aplicativo Selecionado](https://github.com/Requisitos-de-Software/2023.2-BRBMobilidade/blob/main/docs/Planejamento/aplicativo-selecionado.md) na versão 1.1 de data 23/09/2023, autorado por Caio Lelis, que é integrante do Grupo 03, cujo projeto tem como foco o aplicativo BRB Mobilidade.
