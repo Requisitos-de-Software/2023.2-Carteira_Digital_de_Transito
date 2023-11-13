@@ -48,10 +48,11 @@ nav:
     - Apresentação 01: apresentação/apresentação 1
     - Apresentação 02: apresentação/apresentacao 2
     - Apresentação 03: apresentação/apresentacao 3
-  - Planejamento: 
-    - Ferramentas: planejamento/ferramenta
-    - Cronograma: planejamento/cronograma
-    - Aplicativos: planejamento/aplicativo
+  - Planejamento:
+    - Padronização do Projeto: verificacao/planejamento/padronizacaoDoProj.md
+    - Ferramentas: verificacao/planejamento/ferramentasDeUso.md
+    - Cronograma: verificacao/planejamento/cronograma
+    - Aplicativo Selecionado: verificacao/planejamento/aplicativo
     - Heatmap: planejamento/Heatmap
     - Metodologia: planejamento/metodologia
   - Pré-rastreabilidade:
@@ -82,23 +83,39 @@ nav:
       - Product Backlog: modelagem/agil/backlog.md
       - Histórias de Usuário: modelagem/agil/historiasUsuario.md
   - Verificação:
-    - Planejamento da Verificação: verificacao/planejamendoDaVerificacao.md 
-    - Planejamento:
-      - Cronograma: verificacao/planejamento/cronograma.md
-      - Ferramentas de uso: verificacao/ferramentasDeUso.md
-      - Padronização do projeto: verificacao/padronizacaoDoProj.md
-      - Rich Picture: verificacao/planejamento/richPicture.md
-    - Elicitação:
-      - Brainstorming: verificacao/tecnicasDeElicitacao/brainstorming.md
-      - Introspecção: verificacao/tecnicasDeElicitacao/introspeccao.md
-      - Observação: verificacao/tecnicasDeElicitacao/observacao.md
-      - Questionário: verificacao/tecnicasDeElicitacao/questionario.md
-    - Priorização:
-      - Introdução: verificacao/Introducao_Priorizacao.md
-      - $100: verificacao/$100.md
-      - Three Level Scale: verificacao/priorizacao/threeLevelScale.md
-    - Modelagem:
-      - Cenário: verificacao/priorizacao/cenario.md
+    - Grupo 3:
+      - Planejamento da Verificação: verificacao/grupo3/planejamendoDaVerificacao.md 
+      - Elicitação:
+        - Personas: verificacao/grupo3/elicitacao/personas.md d
+        - Técnicas:
+          - Brainstorming: verificacao/grupo3/elicitacao/tecnicasDeElicitacao/brainstorming.md
+          - Introspecção: verificacao/grupo3/elicitacao/tecnicasDeElicitacao/introspeccao.md
+          - Observação: verificacao/grupo3/elicitacao/tecnicasDeElicitacao/observacao.md
+          - Questionário: verificacao/grupo3/elicitacao/tecnicasDeElicitacao/questionario.md
+        - Priorização de requisitos:
+          - $100: verificacao/grupo3/elicitacao/priorizacao/$100.md
+          - Introdução: verificacao/grupo3/elicitacao/priorizacao/introducao.md
+          - Moscow: verificacao/grupo3/elicitacao/priorizacao/moscow.md
+          - Three Level Scale: verificacao/grupo3/elicitacao/priorizacao/ThreeLevelScale.md
+      - Modelagem:
+        - Cenários: verificacao/grupo3/modelagem/cenarios.md
+        - Léxicos:  verificacao/grupo3/modelagem/lexicos.md
+        - Casos de Uso:  verificacao/grupo3/modelagem/casosDeUso.md
+        - Especificação Suplementar:
+        - Modelagem Àgil:
+          - Backlog do produto:
+          - Histórias de Usuário:
+          - NFR Framework:
+      - Planejamento:
+        - Padronização do projeto: verificacao/grupo3/planejamento/padronizacaoDoProj.md
+        - Rich Picture: verificacao/grupo3/planejamento/richPicure.md
+        - Aplicativo selecionado: verificacao/grupo3/planejamento/AplicativoSelecionado.md 
+        - Cronogramas: verificacao/grupo3/planejamento/cronograma.md
+        - Ferramentas de Uso: verificacao/grupo3/planejamento/ferramentasDeUso.md
+        - Heatmap: verificacao/grupo3/planejamento/heatmap.md
+        - Termos de Uso: verificacao/grupo3/planejamento/TermosDeUso.md
+
+
     
       
 
