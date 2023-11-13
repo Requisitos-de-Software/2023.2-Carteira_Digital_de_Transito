@@ -82,12 +82,17 @@ nav:
       - Product Backlog: modelagem/agil/backlog.md
       - Histórias de Usuário: modelagem/agil/historiasUsuario.md
   - Verificação:
-    - Planejamento: verificacao/planejamendoDaVerificacao.md 
-    - Atas:
-    - Apresentação:
+    - Planejamento da Verificação: verificacao/planejamendoDaVerificacao.md 
     - Planejamento:
+      - Cronograma: verificacao/planejamento/cronograma.md
+      - Rich Picture: verificacao/planejamento/richPicture.md
     - Elicitação:
+      - Brainstorming: verificacao/tecnicasDeElicitacao/brainstorming.md
+      - Introspecção: verificacao/tecnicasDeElicitacao/introspeccao.md
+      - Observação: verificacao/tecnicasDeElicitacao/observacao.md
+      - Questionário: verificacao/tecnicasDeElicitacao/questionario.md
     - Modelagem:
+      - Cenário: verificacao/priorizacao/cenario.md
     
       
 
