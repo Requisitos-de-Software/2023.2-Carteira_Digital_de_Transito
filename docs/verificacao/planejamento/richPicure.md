@@ -21,7 +21,16 @@ A verificação do artefato seguirá o [planejamento](https://requisitos-de-soft
 | 4  | O artefato possui um histórico de versões com o id e descrição das versões, data, autores e revisores?                         | -          | -    |
 | 5  | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes?                                                   | -          | -         |
 | 6  | Todos os textos estão na norma padrão?                                       						      | -          | -            |
-
+| 7 | O rich picture possui atores, operações, armazenamento de dados, setas e o limite do sistema?  | - | - |
+| 8 | Foi utilizada alguma técnica na produção do rich picture? | - | - |
+| 9 | O rich picture possui mais textos do que imagens? | -  | - |
+| 10 | O artefato está bem desenhado e é possível de ser entendido? | - | - |
+| 11 | Ele conta uma história? | - | - |
+| 12 | O rich picture diz qual dado está sendo processado, qual está chegando ao sistema e qual informação está saindo?  | - | - |
+| 13 | O rich picture dá uma ideia do que realmente está acontecendo? | -| - |
+| 14 | Contém palavras-chave relevantes? | - | - |
+| 15 | Comunica mais ideias do que palavras? | -| - |
+| 16 | Contém a explicação dos componentes? | - | - |
 
 Fonte: [Mayara Alves](https://github.com/Mayara-tech) 
 
@@ -37,12 +46,23 @@ Na tabela 2 podemos observar o checklist preenchido após verificação do artef
 
 | ID | Descrição                                                                                                                      | Avaliação  | Observação                                                             |
 |----|--------------------------------------------------------------------------------------------------------------------------------|------------|------------------------------------------------------------------------|
-| 1  | O artefato possui Introdução?                                                                                                  | Sim         | -       |
-| 2  | O artefato possui a metodologia utilizada?                                                                    		      |        |    |
-| 3  | O artefato possui bibliografia/referências bibliográficas?                                                                     | Sim          | -  |
-| 4  | O artefato possui um histórico de versões com o id e descrição das versões, data, autores e revisores?                         | Sim         | -    |
-| 5  | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes?                                                   | Sim          | -         |
-| 6  | Todos os textos estão na norma padrão?                                       						      | Sim        | -            |
+| 1  | O artefato possui Introdução?                                                                                                  | Não         | O artefato possui um texto introdutório porém o mesmo não está identificado com introdução.       |
+| 2  | O artefato possui a metodologia utilizada?                                                                    		      | Não         | O artefato não possuí a metodologia utilizada para elaboração do artefato.    |
+| 3  | O artefato possui bibliografia/referências bibliográficas?                                                                     | Não          | O artefato não possuí bibliografia/referências bibliográficas.  |
+| 4  | O artefato possui um histórico de versões com o id e descrição das versões, data, autores e revisores?                         | Sim          |    |
+| 5  | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes?                                                   | Incompleto        | As imagens utilizadas no artefato não são chamadas no texto.       |
+| 6  | Todos os textos estão na norma padrão?                                       						      | Sim          |           |
+| 7 | O rich picture possui atores, operações, armazenamento de dados, setas e o limite do sistema?  | Sim | |
+| 8 | Foi utilizada alguma técnica na produção do rich picture? | Não foi possível identificar | Não foi possível identificar, logo que o artefato não possuí metodologia. |
+| 9 | O rich picture possui mais Imagens do que Texto? | Sim  | - |
+| 10 | O artefato está bem desenhado e é possível de ser entendido? | Sim | - |
+| 11 | Ele conta uma história? | Sim | - |
+| 12 | O rich picture diz qual dado está sendo processado, qual está chegando ao sistema e qual informação está saindo?  | Sim | - |
+| 13 | O rich picture dá uma ideia do que realmente está acontecendo? | Sim | - |
+| 14 | Contém palavras-chave relevantes? | Sim | - |
+| 15 | Comunica mais ideias do que palavras? | Sim | - |
+| 16 | Contém a explicação dos componentes? | Sim | - |
+
 
 Fonte: [Mayara Alves](https://github.com/Mayara-tech) 
 
@@ -59,6 +79,11 @@ De maneira geral o artefato apresenta uma boa qualidade, uma boa formatação e 
 
 | ID | Descrição do problema | Sugestão de melhoria |
 | --- | ---------------------| ---------------------- |
+| 01 |  O artefato não possui introdução  | O artefato possui um texto introdutório porém o mesmo não está identificado com introdução, É sugerido que se coloque uma identificação no texto para padronizar a página com as demais.  |
+| 02 |   O artefato não possuí a metodologia utilizada para elaboração do artefato. |  É sugerido que o grupo faça um pequeno texto demonstrando qual metodologia foi utilizada para criação do artefato do Rich Picture  |
+| 03  |  O artefato não possui bibliografia/referência bibliografica   |  É sugerido que se faça uma análise das fontes que foram utilizadas como base para o trabalho, e as referência na bibliografia   |
+| 05  | As imagens utilizadas no artefato não são chamadas no texto. |  É sugerido que o grupo faça uma pequena introdução da tabela no texto para que seja chamada no texto, ainda mais, é sugerido que o grupo utilize a norma padrão que coloca o titulo da tabela acima da tabela e a fonte abaixo da tabela. |
+| 08  | Não foi utilizada alguma técnica na produção do rich picture | Não foi possível identificar, logo que o artefato não possuí metodologia, é sugerido que ao colocar a metodologia seja descrito na mesma, quais técnicas foram utilizada para elaboração do Rich Picture. |
 
 </center>
 
