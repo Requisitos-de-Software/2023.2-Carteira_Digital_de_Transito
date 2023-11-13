@@ -94,6 +94,6 @@ De maneira geral o artefato apresenta uma boa qualidade, uma boa formatação e 
 
 | Versão | Data       | Descrição                                       | Autor                                          | Revisor                                      |
 | ------ | ---------- | ----------------------------------------------- | -----------------------------------------------| ---------------------------------------------|
-| `1.0`  | 12/11/2023 | Criação do Documento | [Mayara Alves](https://github.com/Mayara-tech)  |  |
-| `1.1`  | 12/11/2023 | Adicionando verificação do artefato Three Level Scale | [Mayara Alves](https://github.com/Mayara-tech)  |  |
+| `1.0`  | 12/11/2023 | Criação do Documento | [Mayara Alves](https://github.com/Mayara-tech)  | [Milena Baruc](https://github.com/MilenaBaruc) |
+| `1.1`  | 12/11/2023 | Adicionando verificação do artefato Three Level Scale | [Mayara Alves](https://github.com/Mayara-tech)  | [Milena Baruc](https://github.com/MilenaBaruc) |
 
