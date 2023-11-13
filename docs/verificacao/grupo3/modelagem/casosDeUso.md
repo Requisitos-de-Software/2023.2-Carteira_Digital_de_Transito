@@ -47,7 +47,7 @@ A Tabela 2 apresenta o checklist preenchido após a verificação do artefato.
 Fonte: [Vinícius Mendes](https://github.com/yabamiah)
 
 ## Sugestão de Melhorias
-Na verificação deste artefato, foi possível analisar que o artefato foi feito de maneira correta e seguindo corretamento a metodologia apresentada.
+Na verificação deste artefato, foi possível analisar que o artefato foi feito de maneira correta e seguindo de forma condizente a metodologia apresentada.
 
 ## Bibliografia
 
