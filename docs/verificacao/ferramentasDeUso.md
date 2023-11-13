@@ -40,7 +40,7 @@ A tabela 2 apresenta o checklist preenchido após a verificação do artefato.
 | 1  | O histórico de versão é padronizado?                                           |    Sim     |     -      |
 | 2  | Possui o(s) autor(es) e o(s) revisor(es) do artefato?                          |    Sim     |     -      |
 | 3  | O artefato possui referências bibliográficas e/ou bibliografia?                |    Sim     |     -      |
-| 4  | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes?   |    Não     | A tabela das ferramentas que serão utilizadas não tem legenda e fonte, além de nao ser citada no texto |
+| 4  | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes?   |    Não     | A tabela das ferramentas que serão utilizadas não tem legenda e fonte, além de não ser citada no texto |
 | 5  | Todos os textos estão na norma padrão?                                         |     Sim    |     -      |
 | 6  | Há introdução do artefato?                                                     |     Sim    |     -      |
 | 7  | Há link para as ferramentas que serão utilizadas?                              |    Sim     |     -      |
@@ -52,7 +52,7 @@ Fonte: [Milena Baruc](https://github.com/MilenaBaruc)
 
 ## Sugestões de Melhorias
 
-As ideias foram documentadas de forma clara e concisa o que demonstra um cuidado na documentação, porém está faltando colocar legendas e fontes das tabelas/imagens, além de cita-lás no texto. Uma dica que pode melhorar o histórico de versões é colocar o link do github dos autores/revisores. 
+As ideias foram documentadas de forma clara e concisa o que demonstra um cuidado na documentação, porém está faltando colocar legenda para a tabela, além de cita-lás no texto. Uma dica que pode melhorar o histórico de versões é colocar o link do github dos autores/revisores. 
 
 ## Bibliografia
 
@@ -62,4 +62,4 @@ As ideias foram documentadas de forma clara e concisa o que demonstra um cuidado
 
 | Versão | Data       | Descrição                                       | Autor                                          | Revisor                                      |
 | ------ | ---------- | ----------------------------------------------- | -----------------------------------------------| ---------------------------------------------|
-| `1.0`  | 13/11/2023 | Criação do Documento | [Milena Baruc](https://github.com/MilenaBaruc) | [nome](https://github.com/)  |
+| `1.0`  | 13/11/2023 | Criação do Documento | [Milena Baruc](https://github.com/MilenaBaruc) | [Mayara Alves](https://github.com/Mayara-tech)  |
