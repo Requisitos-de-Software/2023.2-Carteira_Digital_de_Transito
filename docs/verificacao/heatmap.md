@@ -52,8 +52,8 @@ A Tabela 2 apresenta o checklist preenchido após a verificação do artefato.
 
 ## Bibliografia
 
-> BARBOSA, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021);Interação Humano-Computador e Experiência do usuário <br>
-> Especificação de Caso de Uso do MINISTÉRIO DA CIÊNCIA, TECNOLOGIA, INOVAÇÕES E COMUNICAÇÕES. Disponível em: https://aprender3.unb.br/pluginfile.php/2754617/mod_resource/content/3/SiglaProjeto_EspecificacaoCasoUso.pdf.
+> BARBOSA, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021);Interação Humano-Computador e Experiência do usuário.
+> BILHETERIA DIGITAL. Interacao-Humano_computador. Distrito Federal, 2023. Disponível em: <https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/>. Acesso em: 10/11/2023.<br>
 
 ## 📑 Histórico de Versões
 
