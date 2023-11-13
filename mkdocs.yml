@@ -83,6 +83,7 @@ nav:
       - Product Backlog: modelagem/agil/backlog.md
       - Histórias de Usuário: modelagem/agil/historiasUsuario.md
   - Verificação:
+<<<<<<< HEAD
     - Grupo 3:
       - Planejamento da Verificação: verificacao/grupo3/planejamendoDaVerificacao.md 
       - Elicitação:
@@ -116,6 +117,25 @@ nav:
         - Termos de Uso: verificacao/grupo3/planejamento/TermosDeUso.md
 
 
+=======
+    - Planejamento da Verificação: verificacao/planejamendoDaVerificacao.md 
+    - Planejamento:
+      - Cronograma: verificacao/planejamento/cronograma.md
+      - Ferramentas de uso: verificacao/ferramentasDeUso.md
+      - Padronização do projeto: verificacao/padronizacaoDoProj.md
+      - Rich Picture: verificacao/planejamento/richPicure.md
+    - Elicitação:
+      - Brainstorming: verificacao/tecnicasDeElicitacao/brainstorming.md
+      - Introspecção: verificacao/tecnicasDeElicitacao/introspeccao.md
+      - Observação: verificacao/tecnicasDeElicitacao/observacao.md
+      - Questionário: verificacao/tecnicasDeElicitacao/questionario.md
+    - Priorização:
+      - Introdução: verificacao/Introducao_Priorizacao.md
+      - $100: verificacao/$100.md
+      - Three Level Scale: verificacao/priorizacao/ThreeLevelScale.md
+    - Modelagem:
+      - Cenário: verificacao/modelagem/cenarios.md
+>>>>>>> 884491b8006da40eac6df871d6f0fd71418b2d8d
     
       
 
