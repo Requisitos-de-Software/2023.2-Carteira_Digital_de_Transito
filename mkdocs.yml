@@ -87,7 +87,7 @@ nav:
       - Cronograma: verificacao/planejamento/cronograma.md
       - Ferramentas de uso: verificacao/ferramentasDeUso.md
       - Padronização do projeto: verificacao/padronizacaoDoProj.md
-      - Rich Picture: verificacao/planejamento/richPicture.md
+      - Rich Picture: verificacao/planejamento/richPicure.md
     - Elicitação:
       - Brainstorming: verificacao/tecnicasDeElicitacao/brainstorming.md
       - Introspecção: verificacao/tecnicasDeElicitacao/introspeccao.md
@@ -96,9 +96,9 @@ nav:
     - Priorização:
       - Introdução: verificacao/Introducao_Priorizacao.md
       - $100: verificacao/$100.md
-      - Three Level Scale: verificacao/priorizacao/threeLevelScale.md
+      - Three Level Scale: verificacao/priorizacao/ThreeLevelScale.md
     - Modelagem:
-      - Cenário: verificacao/priorizacao/cenario.md
+      - Cenário: verificacao/modelagem/cenarios.md
     
       
 
