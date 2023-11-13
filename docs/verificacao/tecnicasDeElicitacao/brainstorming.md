@@ -33,7 +33,7 @@ Fonte: [Limirio Guimarães](https://github.com/LimirioGuimaraes)
 
 ## Desenvolvimento 
 
-A tabela 2 apresenta o checklist preenchido ápos a verificação do artefato.
+A tabela 2 apresenta o checklist preenchido após a verificação do artefato.
 
 <center>
 
