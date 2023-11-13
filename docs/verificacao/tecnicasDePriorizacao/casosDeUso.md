@@ -1,3 +1,5 @@
+# Casos de Uso
+
 ## Introdução
 Este documento é uma verificação do artefato [Casos de uso](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/03-casos-de-uso/#bibliografia) na versão 1.3 de data 24/10/2023, autorado por Joel Soares, que é integrante do Grupo 03, cujo projeto tem como foco o aplicativo BRB Mobilidade.
 
@@ -53,4 +55,4 @@ Fonte: [Vinícius Mendes](https://github.com/yabamiah)
 
 | Versão | Data | Descrição | Autor | Revisor |
 |--------|------|------------|------|---------|
-| 1.0 | 12/11/2023 | Criação do documento e do seu conteúdo |  [Vinícius Mendes](https://github.com/yabamiah) | | 
+| 1.0 | 12/11/2023 | Criação do documento e do seu conteúdo |  [Vinícius Mendes](https://github.com/yabamiah) | [Milena Baruc](https://github.com/MilenaBaruc) | 
