@@ -76,11 +76,11 @@ De maneira geral o artefato apresenta uma boa qualidade, uma boa formatação e 
 
 <center>
 
-**Tabela 2** - Sugestões de melhoria - Cronograma
+**Tabela 3** - Sugestões de melhoria - Cronograma
 
 | ID | Descrição do problema | Sugestão de melhoria |
 | --- | ---------------------| ---------------------- |
-| 02 | O artefato não possuí descrição da metodologia utilizada para elaboração. | É sugerido que o grupo faça um pequeno texto demonstrando qual metodologia foi utilizada para criação do artefato Cronograma.
+| 02 | O artefato não possui descrição da metodologia utilizada para elaboração. | É sugerido que o grupo faça um pequeno texto demonstrando qual metodologia foi utilizada para criação do artefato Cronograma.
 | 05 | Não há problemas identificados | É sugerido que a identificação da tabela fique na parte superior da tabela e a fonte na parte inferior.
 | 13 | Algumas atividades tem o mesmo período de execução das etapas que eles seriam dependente. | É sugerido que os artefatos que dependem de outros artefatos tenham seu período de desenvolvimento apenas após a entrega do artefatos os qual eles dependam.
 
@@ -95,5 +95,5 @@ De maneira geral o artefato apresenta uma boa qualidade, uma boa formatação e 
 
 | Versão | Data       | Descrição                                       | Autor                                          | Revisor                                      |
 | ------ | ---------- | ----------------------------------------------- | -----------------------------------------------| ---------------------------------------------|
-| `1.0`  | 13/11/2023 | Criação do Documento | [Mayara Alves](https://github.com/Mayara-tech)  |  |
-| `1.1`  | 13/11/2023 | Adicionando verificação do artefato Cronograma  |  [Mayara Alves](https://github.com/Mayara-tech) |
+| `1.0`  | 13/11/2023 | Criação do Documento | [Mayara Alves](https://github.com/Mayara-tech)  | [Milena Baruc](https://github.com/MilenaBaruc) |
+| `1.1`  | 13/11/2023 | Adicionando verificação do artefato Cronograma  |  [Mayara Alves](https://github.com/Mayara-tech) | [Milena Baruc](https://github.com/MilenaBaruc) |
