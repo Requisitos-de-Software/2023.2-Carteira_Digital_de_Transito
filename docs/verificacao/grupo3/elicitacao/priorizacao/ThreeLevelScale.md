@@ -82,7 +82,8 @@ De maneira geral o artefato apresenta uma boa qualidade, uma boa formatação e 
 | 05  |  A tabela não e chamada no texto e não possui fonte. |  É sugerido que o grupo faça uma pequena introdução da tabela no texto para que seja chamada no texto, ainda mais, é sugerido que o grupo utilize a norma padrão que coloca o titulo da tabela acima da tabela e a fonte abaixo da tabela (inclusive deve ser adicionado a fonte da tabela)  |
 | 10  |  A priorização e feita apenas pela a tabela, não possuindo outro documento para documentação das priorização  | É sugerido que apesar de estar descrito nas tabelas, as característica esteja especificada como um atributo para aquele requisito, tendo em vista que serão utilizados diversas vezes no decorrer do projeto. O ideal seria adicionar o nível de prioridade já na descrição do ID ou incluir essa distribuição ao gerar um link para o requisito específico.   |
 | 12  | Não foi definido um cronograma para realização da tarefa  |   Apesar de ser informado a data da realização da reunião não foi criado qualquer cronograma com as informações de hora, plataforma e duração da reunião, é sugerido que seja feito um cronograma com essas informações. | 
-  
+
+ Fonte: [Mayara Alves](https://github.com/Mayara-tech) 
 </center>
 
 ## Bibliografia
