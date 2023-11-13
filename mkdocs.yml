@@ -36,6 +36,7 @@ markdown_extensions:
       emoji_index: !!python/name:materialx.emoji.twemoji
       emoji_generator: !!python/name:materialx.emoji.to_svg
   - pymdownx.extra 
+
 nav:
   - Sobre o projeto: index.md
   - Atas:
@@ -86,7 +87,7 @@ nav:
     - Grupo 3:
       - Planejamento da Verificação: verificacao/grupo3/planejamendoDaVerificacao.md 
       - Elicitação:
-        - Personas: verificacao/grupo3/elicitacao/personas.md d
+        - Personas: verificacao/grupo3/elicitacao/personas.md
         - Técnicas:
           - Brainstorming: verificacao/grupo3/elicitacao/tecnicasDeElicitacao/brainstorming.md
           - Introspecção: verificacao/grupo3/elicitacao/tecnicasDeElicitacao/introspeccao.md
@@ -101,11 +102,11 @@ nav:
         - Cenários: verificacao/grupo3/modelagem/cenarios.md
         - Léxicos:  verificacao/grupo3/modelagem/lexicos.md
         - Casos de Uso:  verificacao/grupo3/modelagem/casosDeUso.md
-        - Especificação Suplementar:
-        - Modelagem Àgil:
-          - Backlog do produto:
-          - Histórias de Usuário:
-          - NFR Framework:
+        #- Especificação Suplementar:
+        #- Modelagem Àgil:
+        #  - Backlog do produto:
+        #  - Histórias de Usuário:
+        #  - NFR Framework:
       - Planejamento:
         - Padronização do projeto: verificacao/grupo3/planejamento/padronizacaoDoProj.md
         - Rich Picture: verificacao/grupo3/planejamento/richPicure.md
