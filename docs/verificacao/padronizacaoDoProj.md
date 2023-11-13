@@ -66,4 +66,4 @@ As ideias foram documentadas de forma clara e concisa o que demonstra um cuidado
 
 | Versão | Data       | Descrição                                       | Autor                                          | Revisor                                      |
 | ------ | ---------- | ----------------------------------------------- | -----------------------------------------------| ---------------------------------------------|
-| `1.0`  | 13/11/2023 | Criação do Documento | [Milena Baruc](https://github.com/MilenaBaruc) | [nome](https://github.com/)  |
+| `1.0`  | 13/11/2023 | Criação do Documento | [Milena Baruc](https://github.com/MilenaBaruc) | [Mayara Alves](https://github.com/Mayara-tech)  |
