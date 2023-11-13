@@ -54,7 +54,7 @@ A Tabela 2 apresenta o checklist preenchido após a verificação do artefato.
 Fonte: [Vinícius Mendes](https://github.com/yabamiah)
 
 ## Sugestão de Melhorias
---- 
+ 
 Adicionar um tópico a mais nas tabelas de personas, sendo eles um tópico de objetivos das personas, as tarefas que eles executam e as suas frequências, importância e duração delas, e por último as características do relacionamentos das personas.
 
 ## Bibliografia
@@ -65,5 +65,5 @@ Adicionar um tópico a mais nas tabelas de personas, sendo eles um tópico de ob
 
 | Versão | Data | Descrição | Autor | Revisor |
 |--------|------|------------|------|---------|
-| 1.0 | 12/11/2023 | Criação do documento e do seu conteúdo |  [Vinícius Mendes](https://github.com/yabamiah) | | 
+| 1.0 | 12/11/2023 | Criação do documento e do seu conteúdo |  [Vinícius Mendes](https://github.com/yabamiah) | [Milena Baruc](https://github.com/MilenaBaruc) | 
 
