@@ -54,7 +54,7 @@ Na tabela 2 podemos observar o checklist preenchido após verificação do artef
 | 8   | O título do cenário é autoexplicativo?  | Sim         |  -       |
 | 9   | O objetivo do cenário é condizente com seu título? |  Sim     | -         |
 | 10   | O contexto descreve de forma sucinta o estado inicial do cenário? Em função de local, tempo e pré-condições, por exemplo     | Sim  |  -   |       
-| 11   | O cenário descreve situações realistas e relevantes de interação do sistema?     | -         |  -           |
+| 11   | O cenário descreve situações realistas e relevantes de interação do sistema?     | Sim       |  -           |
 | 12   | Os atores são condizentes com o contexto do cenário? |  Não         |  O cenário não apresenta os atores em contexto      |
 | 13   | Os episódios do cenário estão coerentes e seguem uma ordem lógica para atingir o objetivo? | Sim        |  -           |
 | 14   | Existe uma ligação entre os cenários e os léxicos? | Não       |  Em nenhum momento é possivel identificar qualquer referência entre os cenários e os léxicos de maneira explicita       |
@@ -80,6 +80,7 @@ De maneira geral o artefato apresenta uma boa qualidade, uma boa formatação e 
 | 12  | O cenário não apresenta atores para o contexto | É sugerido a criação de atores conforme o contexto do cenário
 | 14  | Em nenhum momento é possivel identificar qualquer referência entre os cenários e os léxicos de maneira explicita | É sugerido a referenciação dos léxicos que foram usados no contexto dos cenários.
 
+Fonte: [Mayara Alves](https://github.com/Mayara-tech) 
 </center>
 
 ## Bibliografia
