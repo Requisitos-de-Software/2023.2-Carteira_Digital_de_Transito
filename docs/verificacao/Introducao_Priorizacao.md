@@ -1,4 +1,4 @@
-# Verificação - Introdução (Priorização)
+# Introdução (Priorização de Requisitos)
  
 ## Introdução
 
