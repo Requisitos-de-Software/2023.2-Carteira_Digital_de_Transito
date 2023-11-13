@@ -2,7 +2,7 @@
  
 ## Introdução
 
-Este documento é uma verificação do artefato [Introdução](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Elicitação/priorização%20de%20requisitos/IntroduçãoPriorização/) na versão 1.0 de data 03/10/2023, autorado por [Caio Lelis](https://github.com/caio-lelis), que é integrante do [grupo 03](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/), cujo projeto tem como foco o aplicativo [BRB Mobilidade](https://play.google.com/store/apps/details?id=br.com.brb.mobilidade&hl=pt_BR&gl=US&pli=1).
+Este documento é uma verificação do artefato [Introdução](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Elicitação/priorização%20de%20requisitos/IntroduçãoPriorização/) da priorização de requisitos na versão 1.0 de data 03/10/2023, autorado por [Caio Lelis](https://github.com/caio-lelis), que é integrante do [grupo 03](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/), cujo projeto tem como foco o aplicativo [BRB Mobilidade](https://play.google.com/store/apps/details?id=br.com.brb.mobilidade&hl=pt_BR&gl=US&pli=1).
 
 ## Metodologia 
 
@@ -52,4 +52,4 @@ Não entendi a razão de ter um documento chamado introdução em priorização 
 
 | Versão | Data       | Descrição                                       | Autor                                          | Revisor                                      |
 | ------ | ---------- | ----------------------------------------------- | -----------------------------------------------| ---------------------------------------------|
-| `1.0`  | 13/11/2023 | Criação do Documento | [Milena Baruc](https://github.com/MilenaBaruc) | [nome](https://github.com/)  |
+| `1.0`  | 13/11/2023 | Criação do Documento | [Milena Baruc](https://github.com/MilenaBaruc) | [Mayara Alves](https://github.com/Mayara-tech)  |
