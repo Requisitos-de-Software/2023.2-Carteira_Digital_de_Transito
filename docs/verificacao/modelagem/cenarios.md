@@ -1,4 +1,4 @@
-# Verificação - Cenários
+# Cenários
  
 ## Introdução
 
