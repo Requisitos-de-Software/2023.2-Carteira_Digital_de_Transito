@@ -1,3 +1,5 @@
+# Moscow
+
 ## Introdução
 Este documento é uma verificação do artefato [Moscow](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Elicita%C3%A7%C3%A3o/prioriza%C3%A7%C3%A3o%20de%20requisitos/MoSCoW/) na versão 1.0 de data 4/10/2023, autorado por Doan Filho e Caio Lelis, que é integrante do Grupo 03, cujo projeto tem como foco o aplicativo BRB Mobilidade.
 
@@ -53,5 +55,5 @@ Esse artefato não segue o padrão dos outros artefatos, onde é divido em seç�
 
 | Versão | Data | Descrição | Autor | Revisor |
 |--------|------|------------|------|---------|
-| 1.0 | 12/11/2023 | Criação do documento e do seu conteúdo |  [Vinícius Mendes](https://github.com/yabamiah) | | 
+| 1.0 | 12/11/2023 | Criação do documento e do seu conteúdo |  [Vinícius Mendes](https://github.com/yabamiah) | [Milena Baruc](https://github.com/MilenaBaruc) | 
 
