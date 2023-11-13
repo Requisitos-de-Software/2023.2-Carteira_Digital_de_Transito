@@ -21,7 +21,16 @@ A verificação do artefato seguirá o [planejamento](https://requisitos-de-soft
 | 4  | O artefato possui um histórico de versões com o id e descrição das versões, data, autores e revisores?                         | -          | -    |
 | 5  | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes?                                                   | -          | -         |
 | 6  | Todos os textos estão na norma padrão?                                       						      | -          | -            |
-
+|  7  | Os nomes das tarefas planejadas são condizentes?                       |  -	  |       -    |  
+|  8  | O cronograma apresenta todos os artefatos solicitados para cada entrega?   |  -	  |  -  |
+|  9  | Há uma distribuição igualitária de tarefas entre os membros?                                              |  -  |   -  |
+|  10  | Os revisores são sempre diferentes dos autores no mesmo artefato?                   |  -	  |  -  |
+|  11  | Existem atividades repetidas sem necessidade ou redundantes?                         |  -  | - |
+|  12  | O cronograma apresenta um período de revisão após receber um feedback dos artefatos?	                         |  -  | -  |
+|  13  | Há uma sequência lógica nas atividades?                       |  - |  - |
+|  14  | As durações das tarefas são realistas?                       |  -	  |  - |
+|  15  | Cada tarefa possui pelo menos um autor e um revisor?                       |  -  |  -  |
+|  16  | O cronograma estima uma data para gravação das entregas?                       |  -	  |  -  |
 
 Fonte: [Mayara Alves](https://github.com/Mayara-tech) 
 
@@ -29,7 +38,7 @@ Fonte: [Mayara Alves](https://github.com/Mayara-tech)
 
 ## Desenvolvimento 
 
-Na tabela 2 podemos observar o checklist preenchido após verificação do artefato Rich Picture. Este checklist, minuciosamente preenchido, reflete os resultados, observações e considerações resultantes da análise realizada no artefato.
+Na tabela 2 podemos observar o checklist preenchido após verificação do artefato Cronograma. Este checklist, minuciosamente preenchido, reflete os resultados, observações e considerações resultantes da análise realizada no artefato.
 
 <center>
 
@@ -37,12 +46,22 @@ Na tabela 2 podemos observar o checklist preenchido após verificação do artef
 
 | ID | Descrição                                                                                                                      | Avaliação  | Observação                                                             |
 |----|--------------------------------------------------------------------------------------------------------------------------------|------------|------------------------------------------------------------------------|
-| 1  | O artefato possui Introdução?                                                                                                  | Não         | O artefato possui um texto introdutório porém o mesmo não está identificado com introdução.       |
-| 2  | O artefato possui a metodologia utilizada?                                                                    		      | Não         | O artefato não possuí a metodologia utilizada para elaboração do artefato.    |
-| 3  | O artefato possui bibliografia/referências bibliográficas?                                                                     | Não          | O artefato não possuí bibliografia/referências bibliográficas.  |
-| 4  | O artefato possui um histórico de versões com o id e descrição das versões, data, autores e revisores?                         | Sim          |    |
-| 5  | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes?                                                   | Incompleto        | As imagens utilizadas no artefato não são chamadas no texto.       |
-| 6  | Todos os textos estão na norma padrão?                                       						      | Sim          |           |
+| 1  | O artefato possui Introdução?                                                                                                  | Sim         |        |
+| 2  | O artefato possui a metodologia utilizada?                                                                    		      | Não          | O artefato não possuí descrição da metodologia utilizada para elaboração.    |
+| 3  | O artefato possui bibliografia/referências bibliográficas?                                                                     | Sim          |   |
+| 4  | O artefato possui um histórico de versões com o id e descrição das versões, data, autores e revisores?                         | Sim        |     |
+| 5  | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes?                                                   | Sim        |          |
+| 6  | Todos os textos estão na norma padrão?                                       						      | Sim         |         |
+|  7  | Os nomes das tarefas planejadas são condizentes?                       | Sim	  |          |  
+|  8  | O cronograma apresenta todos os artefatos solicitados para cada entrega?   |  Sim  |    |
+|  9  | Há uma distribuição igualitária de tarefas entre os membros?                                              |  Sim  |     |
+|  10  | Os revisores são sempre diferentes dos autores no mesmo artefato?                   |  Sim	  |    |
+|  11  | Existem atividades repetidas sem necessidade ou redundantes?                         |  Não  |  |
+|  12  | O cronograma apresenta um período de revisão após receber um feedback dos artefatos?	                         |  Sim  |  |
+|  13  | Há uma sequência lógica nas atividades?                       |  Não |  Algumas atividades tem o mesmo período de execução das etapas que eles seriam dependente. |
+|  14  | As durações das tarefas são realistas?                       |  Sim	  |   |
+|  15  | Cada tarefa possui pelo menos um autor e um revisor?                       |  Sim  |    |
+|  16  | O cronograma estima uma data para gravação das entregas?                       |  Sim	  |    |
 
 
 
