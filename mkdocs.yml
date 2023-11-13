@@ -83,7 +83,6 @@ nav:
       - Histórias de Usuário: modelagem/agil/historiasUsuario.md
   - Verificação:
     - Planejamento: verificacao/planejamendoDaVerificacao.md 
-      
-
-
+    - Priorização:
+      - Especificação Suplementar: verificacao/modelagem/especificacaoSuplementar.md
  
