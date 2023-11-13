@@ -1,4 +1,4 @@
-# Verificação - Three Level Scale 
+# Three Level Scale 
  
 ## Introdução
 
