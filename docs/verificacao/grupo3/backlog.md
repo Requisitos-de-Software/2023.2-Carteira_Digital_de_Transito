@@ -59,12 +59,12 @@ Fonte: [Altino Arthur](https://github.com/arthurrochamoreira)
 ## Lista de Problemas Identificados
 
 1. **Erros de Norma Padrão da Língua**
-   - *Problema*: Identificados alguns erros gramaticais e de escrita que não seguem a norma padrão da língua.
-   - *Impacto*: Estes erros podem comprometer a compreensão e a formalidade do documento.
+   *Problema*: Identificados alguns erros gramaticais e de escrita que não seguem a norma padrão da língua.
+   *Impacto*: Estes erros podem comprometer a compreensão e a formalidade do documento.
   
 2. **Histórico de Versões Limitado**
-   - *Problema*: Embora exista um histórico de versões, faltam detalhes sobre as alterações realizadas.
-   - *Impacto*: Isso limita a transparência e o entendimento das evoluções do documento.   
+   *Problema*: Embora exista um histórico de versões, faltam detalhes sobre as alterações realizadas.
+   *Impacto*: Isso limita a transparência e o entendimento das evoluções do documento.   
 
 ## Sugestões de Melhorias
 
