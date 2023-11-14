@@ -57,8 +57,7 @@ Fonte: [Altino Arthur](https://github.com/arthurrochamoreira)
 </center>
 
 ## Conclusão
-Com base nos resultados da verificação, identificou-se a necessidade de melhorias em algumas áreas, como a inclusão de referências bibliográficas, correção de erros de norma padrão da língua e evidência da participação do cliente ou Product Owner na elaboração do Backlog.
-
+Com base nos resultados da verificação, identificou-se a necessidade de melhorias em algumas áreas, como a inclusão de referências bibliográficas, correção de erros de norma padrão da língua.
 ## Bibliografia
 
 > BARBOSA, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021);Interação Humano-Computador e Experiência do usuário.
