@@ -55,7 +55,7 @@ Fonte: [Breno Queiro](https://github.com/brenob6)
 | 8 | Os tipos de softgoals estão representados de maneira correta? | Sim|
 | 9 | As interdependências possuem tipos de contribuições? | Sim |
 |10 | As interdependências foram usadas da maneira correta? | Sim | O grafico de performace possui um pequeno erro na direção da interdependência. |
-|12 | Cartões de especificação possuem: descrição, justificativa, origem do requisito, critériode aceitação, dependências, prioridade, conflitos e história | Sim |
+|12 | Cartões de especificação possuem: descrição, justificativa, origem do requisito, critério de aceitação, dependências, prioridade, conflitos e história | Sim |
 |13 | Os cartões de especificação estão corretos ? | Parcial | Em todos os cartões o critério de aceitação está como nenhum. |
 
 Fonte: [Breno Queiroz](https://github.com/brenob6)
@@ -64,7 +64,7 @@ Fonte: [Breno Queiroz](https://github.com/brenob6)
 
 ## Sugestão de Melhorias
 
-Chamar as imagens e tabelas no texto. Existem alguns pequenos erros no gráficos de perfornace (figuras 9 e 10). Adicionar critérios de aceitação nos cartões de especificação.
+Chamar as imagens e tabelas no texto. Existem alguns pequenos erros no gráficos de performace (figuras 9 e 10). Adicionar critérios de aceitação nos cartões de especificação.
 
 
 ## Bibliografia
