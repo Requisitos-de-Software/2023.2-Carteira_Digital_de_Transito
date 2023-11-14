@@ -3,18 +3,21 @@ theme:
   name: material
   language: pt-BR
   logo: assets/icon.png
-  palette:
+
+  palette: 
+
     # Palette toggle for light mode
     - scheme: default
       toggle:
         icon: material/brightness-7 
         name: Switch to dark mode
+
     # Palette toggle for dark mode
     - scheme: slate
       toggle:
         icon: material/brightness-4
         name: Switch to light mode
-
+  
 markdown_extensions:
   - admonition
   - attr_list
@@ -32,7 +35,7 @@ markdown_extensions:
   - pymdownx.emoji:
       emoji_index: !!python/name:materialx.emoji.twemoji
       emoji_generator: !!python/name:materialx.emoji.to_svg
-  - pymdownx.extra
+  - pymdownx.extra 
 
 nav:
   - Sobre o projeto: index.md
@@ -100,10 +103,10 @@ nav:
         - Léxicos:  verificacao/grupo3/modelagem/lexicos.md
         - Casos de Uso:  verificacao/grupo3/modelagem/casosDeUso.md
         - Especificação Suplementar:
-      - Modelagem Ágil:
-        - Backlog do produto: verificacao/grupo3/backlog.md
-        - Histórias de Usuário: verificacao/grupo3/verificacao-historias-de-usuario.md
-        - NFR Framework:
+        - Modelagem Àgil:
+          - Backlog do produto: verificacao/grupo3/backlog.md
+          - Histórias de Usuário: verificacao/grupo3/verificacao-historias-de-usuario.md
+          - NFR Framework:
       - Planejamento:
         - Padronização do projeto: verificacao/grupo3/planejamento/padronizacaoDoProj.md
         - Rich Picture: verificacao/grupo3/planejamento/richPicure.md
@@ -112,3 +115,8 @@ nav:
         - Ferramentas de Uso: verificacao/grupo3/planejamento/ferramentasDeUso.md
         - Heatmap: verificacao/grupo3/planejamento/heatmap.md
         - Termos de Uso: verificacao/grupo3/planejamento/TermosDeUso.md
+    
+      
+
+
+ 
