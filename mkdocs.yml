@@ -50,10 +50,10 @@ nav:
     - Apresentação 02: apresentação/apresentacao 2
     - Apresentação 03: apresentação/apresentacao 3
   - Planejamento:
-    - Padronização do Projeto: verificacao/planejamento/padronizacaoDoProj.md
-    - Ferramentas: verificacao/planejamento/ferramentasDeUso.md
-    - Cronograma: verificacao/planejamento/cronograma
-    - Aplicativo Selecionado: verificacao/planejamento/aplicativo
+    - Padronização do Projeto: planejamento/padronizacaoDoProj.md
+    - Ferramentas: planejamento/ferramentasDeUso.md
+    - Cronograma: planejamento/cronograma
+    - Aplicativo Selecionado: planejamento/aplicativo
     - Heatmap: planejamento/Heatmap
     - Metodologia: planejamento/metodologia
   - Pré-rastreabilidade:
