@@ -29,7 +29,7 @@ A verificação do artefato seguirá o [planejamento]() desenvolvido pelo nosso 
 |7 | O artefato segue o modelo FURPS+? |
 |8 | Todas as classificações do modelo FURPS+ com exceção da classificação funcional foram utilizados na classificação? |
 |9 | Os requisitos são quantitativos? |
-|10| Dentre os requisitos de usabilidade é abordado questões de usabilidade? |
+|10| Dentre os requisitos de usabilidade é abordado questões de acessibilidade? |
 
 Fonte: [Breno Queiroz](https://github.com/brenob6)
 
@@ -53,7 +53,7 @@ A tabela 2 apresenta o checklist preenchido após a verificação do arttefato.
 |6 | O artefato segue o modelo FURPS+? |Sim
 |7 | Todas as classificações do modelo FURPS+ com exceção da classificação funcional foram utilizados na classificação? | Sim
 |8 | Os requisitos em sua maioria são quantitativos? | Não | A grande maioria dos requisitos são qualitativos. |
-|9| Dentre os requisitos de usabilidade é abordado questões de usabilidade? | Não |
+|9| Dentre os requisitos de usabilidade é abordado questões de acessibilidade? | Não |
 
 Fonte: [Breno Queiroz](https://github.com/brenob6)
 
