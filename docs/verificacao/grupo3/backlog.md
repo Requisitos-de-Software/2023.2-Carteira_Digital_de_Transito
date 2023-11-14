@@ -40,7 +40,7 @@ A Tabela 2 apresenta o checklist preenchido após a verificação do artefato.
 | ID  | Critério de Verificação                                                            | Avaliação   | Observação |
 |-----|-------------------------------------------------------------------------------------|-------------|------------|
 | 1   | O Backlog possui uma Introdução clara e objetiva?                                   | Sim         | O Backlog contém uma seção de introdução que explica claramente o propósito e a estrutura do documento. |
-| 2   | Existe Bibliografia/Referências Bibliográficas no Backlog?                          | Não         | Não foram encontradas referências bibliográficas no Backlog. |
+| 2   | Existe Bibliografia/Referências Bibliográficas no Backlog?                          | Sim         | Existem referências bibliográficas no Backlog. |
 | 3   | O Backlog inclui um Histórico de Versões com detalhes adequados?                    | Sim         | Há um histórico de versões detalhado, incluindo datas, descrições, autores e revisores. |
 | 4   | Os textos no Backlog seguem a norma padrão da língua?                               | Não         | Foram identificados alguns erros gramaticais e de escrita que não seguem a norma padrão da língua. |
 | 5   | Tabelas e imagens no Backlog são bem referenciadas e possuem legendas?              | Sim         | Todas as tabelas e imagens estão devidamente referenciadas com legendas claras. |
@@ -56,8 +56,22 @@ Fonte: [Altino Arthur](https://github.com/arthurrochamoreira)
 
 </center>
 
-## Conclusão
-Com base nos resultados da verificação, identificou-se a necessidade de melhorias em algumas áreas, como a inclusão de referências bibliográficas, correção de erros de norma padrão da língua.
+## Lista de Problemas Identificados
+
+1. **Erros de Norma Padrão da Língua**
+   - *Problema*: Identificados alguns erros gramaticais e de escrita que não seguem a norma padrão da língua.
+   - *Impacto*: Estes erros podem comprometer a compreensão e a formalidade do documento.
+  
+2. **Histórico de Versões Limitado**
+   - *Problema*: Embora exista um histórico de versões, faltam detalhes sobre as alterações realizadas.
+   - *Impacto*: Isso limita a transparência e o entendimento das evoluções do documento.   
+
+## Sugestões de Melhorias
+
+1. **Correção de Norma Padrão da Língua**: Revisar o documento para corrigir erros gramaticais e de escrita.
+   
+2. **Detalhamento do Histórico de Versões**: Expandir o histórico de versões para incluir mais detalhes sobre as alterações realizadas.
+   
 ## Bibliografia
 
 > BARBOSA, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021);Interação Humano-Computador e Experiência do usuário.
