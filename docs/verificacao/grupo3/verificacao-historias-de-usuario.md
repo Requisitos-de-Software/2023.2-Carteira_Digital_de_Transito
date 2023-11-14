@@ -1,4 +1,4 @@
-# Verificação das Histórias de Usuário do Grupo 3
+# Histórias de Usuário
 
 ## Introdução
 Este documento é uma verificação do artefato Histórias de Usuário na versão 1.2 de data 04/11/2023, autorado por Caio Lelis e Doan, que são integrantes do Grupo 03, cujo projeto tem como foco o aplicativo BRB Mobilidade.
