@@ -1,15 +1,14 @@
 # Verificação do Backlog do Produto
 
 ## Introdução
-Esta é a verificação
-
-## Objetivos
-Verificar 
+Este documento é uma verificação do artefato Backlog do Produto na versão 1.2 de data 06/11/2023, autorado por Guilherme Basilio e Joel Soaress, que são integrantes do Grupo 03, cujo projeto tem como foco o aplicativo BRB Mobilidade.
 
 ## Metodologia
-A metodologia
+A verificação do artefato seguirá o planejamento desenvolvido pelo nosso grupo. Conforme detalhado no planejamento, destaca-se a relevância do subtópico da metologia neste documento, onde será apresentada a tabela contendo os checklists utilizados para realizar essa verificação. O referido checklist pode ser consultado na Tabela 1.
 
-## Checklist de Verificação
+<center>
+
+**Tabela 1** - Checklist de Verificação
 
 | ID  | Critério de Verificação                                                             | Avaliação   |
 |-----|-------------------------------------------------------------------------------------|-------------|
@@ -26,15 +25,24 @@ A metodologia
 | 11  | O Backlog possui validação de um Product Owner?                                     | Sim/Não     |
 | 12  | Existe uma ligação clara entre o Backlog e o artefato História de Usuário?          | Sim/Não     |
 
+Fonte: [Altino Arthur](https://github.com/arthurrochamoreira) 
 
-## Checklist Preenchido - Backlog do Produto
+</center>
+
+## Desenvolvimento
+
+A Tabela 2 apresenta o checklist preenchido após a verificação do artefato.
+
+<center>
+
+**Tabela 2** - Checklist Preenchido - Backlog do Produto
 
 | ID  | Critério de Verificação                                                            | Avaliação   | Observação |
 |-----|-------------------------------------------------------------------------------------|-------------|------------|
 | 1   | O Backlog possui uma Introdução clara e objetiva?                                   | Sim         | O Backlog contém uma seção de introdução que explica claramente o propósito e a estrutura do documento. |
 | 2   | Existe Bibliografia/Referências Bibliográficas no Backlog?                          | Não         | Não foram encontradas referências bibliográficas no Backlog. |
 | 3   | O Backlog inclui um Histórico de Versões com detalhes adequados?                    | Sim         | Há um histórico de versões detalhado, incluindo datas, descrições, autores e revisores. |
-| 4   | Os textos no Backlog seguem a norma padrão da língua?                               | Não         | Foram identificados alguns erros gramaticais e de escrita que não seguem a norma padrão. |
+| 4   | Os textos no Backlog seguem a norma padrão da língua?                               | Não         | Foram identificados alguns erros gramaticais e de escrita que não seguem a norma padrão da língua. |
 | 5   | Tabelas e imagens no Backlog são bem referenciadas e possuem legendas?              | Sim         | Todas as tabelas e imagens estão devidamente referenciadas com legendas claras. |
 | 6   | Há evidência da participação do cliente ou persona na elaboração do Backlog?        | Não         | Não há menção explícita ou evidência da participação do cliente ou persona. |
 | 7   | Os requisitos no Backlog estão priorizados de forma clara?                          | Sim         | Os requisitos estão claramente priorizados com indicações de 'Alta', 'Média' ou 'Baixa'. |
@@ -44,10 +52,12 @@ A metodologia
 | 11  | O Backlog possui validação de um Product Owner?                                     | Não         | Não há evidência de validação do Backlog por um Product Owner. |
 | 12  | Existe uma ligação clara entre o Backlog e o artefato História de Usuário?          | Sim         | O Backlog está claramente ligado ao artefato de História de Usuário. |
 
-## Conclusão
-Com base nos resultados da verificação, identificou-se a necessidade de melhorias em algumas áreas, como a inclusão de referências bibliográficas, correção de erros de norma padrão e evidência da participação do cliente ou Product Owner na elaboração do Backlog.
+Fonte: [Altino Arthur](https://github.com/arthurrochamoreira) 
 
 </center>
+
+## Conclusão
+Com base nos resultados da verificação, identificou-se a necessidade de melhorias em algumas áreas, como a inclusão de referências bibliográficas, correção de erros de norma padrão da língua e evidência da participação do cliente ou Product Owner na elaboração do Backlog.
 
 ## Bibliografia
 
