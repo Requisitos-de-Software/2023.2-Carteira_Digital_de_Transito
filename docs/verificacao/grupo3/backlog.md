@@ -76,6 +76,10 @@ Fonte: [Altino Arthur](https://github.com/arthurrochamoreira)
 
 > BARBOSA, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021);Interação Humano-Computador e Experiência do usuário.
 > BILHETERIA DIGITAL. Interacao-Humano_computador. Distrito Federal, 2023. Disponível em: <https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/>. Acesso em: 10/11/2023.<br>
+> CHECKLIST FÁCIL. Inspeção: o que é, tipos, como fazer e benefícios. Checklist Fácil, 2021. Disponível em: <https://blog-pt.checklistfacil.com/inspecao/#O_que_e_inspecao>. Acesso em: 10/11/2023.
+> BERTINI, Flávio; SANTOS, Simone.Técnicas de Inspeção de Documentos de Requisitosde Software: um Estudo Comparativo. PUC-Rio, 2006. Disponível em: <http://wer.inf.puc-rio.br/WERpapers/artigos/artigos_WER06/bertini.pdf>. Acesso em: 10/11/2023.
+
+## 📑 Histórico de Versões
 
 ## 📑 Histórico de Versões
 
