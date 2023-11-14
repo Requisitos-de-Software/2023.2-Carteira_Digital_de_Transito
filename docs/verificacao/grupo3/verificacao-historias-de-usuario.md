@@ -63,7 +63,8 @@ Fonte: [Altino Arthur](https://github.com/arthurrochamoreira)
 
 - **Repetição nas Histórias de Usuário**: A presença de histórias duplicadas foi identificada. Isso pode levar a confusões e ineficiências no desenvolvimento, além de indicar uma possível falta de revisão detalhada. Cada história deve ser única e contribuir especificamente para a funcionalidade ou experiência do usuário.
 
-Essas observações foram motivadas pela necessidade de assegurar que o documento seja completo, preciso e útil para o desenvolvimento do projeto, refletindo adequadamente as necessidades dos usuários e stakeholders.
+- Falta de evidência da participação do cliente ou Product Owner na elaboração do Backlog.
+
 
 ## Sugestões de Correções
 
@@ -77,6 +78,8 @@ Essas observações foram motivadas pela necessidade de assegurar que o document
    - **US20 e US29** - Revisar e integrar as histórias sobre notificações de depósito de dinheiro no cartão de mobilidade.
    - **US30 e US19** - Revisar e unificar as histórias sobre acesso ao histórico detalhado das atividades.
    - Garantir que cada história seja única e aborde um aspecto distinto do sistema ou da experiência do usuário.
+   - Acrescentar evidência da participação do cliente ou Product Owner na elaboração das US.
+
 
 ## 📑 Histórico de Versões
 
