@@ -1,4 +1,4 @@
-# Verificação do Backlog do Produto
+# Backlog do Produto
 
 ## Introdução
 Este documento é uma verificação do artefato Backlog do Produto na versão 1.2 de data 06/11/2023, autorado por Guilherme Basilio e Joel Soaress, que são integrantes do Grupo 03, cujo projeto tem como foco o aplicativo BRB Mobilidade.
