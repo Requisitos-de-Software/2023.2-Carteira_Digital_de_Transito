@@ -91,4 +91,4 @@ Fonte: [Altino Arthur](https://github.com/arthurrochamoreira)
 
 | Versão | Data       | Descrição                                       | Autor                                          | Revisor                                      |
 | ------ | ---------- | ----------------------------------------------- | -----------------------------------------------| ---------------------------------------------|
-| `1.0`  | 13/11/2023 | Criação do Documento | [Altino Arthur](https://github.com/arthurrochamoreira)  | [Nome do Revisor](https://github.com/) |
+| `1.0`  | 13/11/2023 | Criação do Documento | [Altino Arthur](https://github.com/arthurrochamoreira)  | [Milena Baruc](https://github.com/MilenaBaruc) |
