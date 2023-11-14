@@ -10,20 +10,20 @@ A verificação do artefato seguirá o [planejamento](https://requisitos-de-soft
 
 **Tabela 1** - Checklist de Verificação
 
-| ID  | Critério de Verificação                                                             | Avaliação   |
-|-----|-------------------------------------------------------------------------------------|-------------|
-| 1   | O Backlog possui uma Introdução clara e objetiva?                                   | Sim/Não/Incompleto     |
-| 2   | Existe Bibliografia/Referências Bibliográficas no Backlog?                          | Sim/Não/Incompleto     |
-| 3   | O Backlog inclui um Histórico de Versões com detalhes adequados?                    | Sim/Não/Incompleto     |
-| 4   | Os textos no Backlog seguem a norma padrão da língua?                               | Sim/Não/Incompleto     |
-| 5   | Tabelas e imagens no Backlog são bem referenciadas e possuem legendas?              | Sim/Não/Incompleto     |
-| 6   | Há evidência da participação do cliente ou persona na elaboração do Backlog?        | Sim/Não/Incompleto     |
-| 7   | Os requisitos no Backlog estão priorizados de forma clara?                          | Sim/Não/Incompleto     |
-| 8   | Os requisitos no Backlog estão adequadamente vinculados a histórias de usuário?     | Sim/Não/Incompleto     |
-| 9   | Há consistência entre os requisitos listados, as histórias de usuário e os épicos?  | Sim/Não/Incompleto     |
-| 10  | Épicos e temas no Backlog estão bem definidos e descritos?                          | Sim/Não/Incompleto     |
-| 11  | O Backlog possui validação de um Product Owner?                                     | Sim/Não/Incompleto     |
-| 12  | Existe uma ligação clara entre o Backlog e o artefato História de Usuário?          | Sim/Não/Incompleto     |
+| ID  | Critério de Verificação                                                             | Avaliação (Sim/Não/Incompleto)   | Observações                                                                      |
+|-----|-------------------------------------------------------------------------------------|-------------| -------------------------------------------------------------------------------- |
+| 1   | O Backlog possui uma Introdução clara e objetiva?                                   |                       |                                        |
+| 2   | Existe Bibliografia/Referências Bibliográficas no Backlog?                          |                       |                                        |
+| 3   | O Backlog inclui um Histórico de Versões com detalhes adequados?                    |                       |                                        |
+| 4   | Os textos no Backlog seguem a norma padrão da língua?                               |                       |                                        |
+| 5   | Tabelas e imagens no Backlog são bem referenciadas e possuem legendas?              |                       |                                        |
+| 6   | Há evidência da participação do cliente ou persona na elaboração do Backlog?        |                       |                                        |
+| 7   | Os requisitos no Backlog estão priorizados de forma clara?                          |                       |                                        |
+| 8   | Os requisitos no Backlog estão adequadamente vinculados a histórias de usuário?     |                       |                                        |
+| 9   | Há consistência entre os requisitos listados, as histórias de usuário e os épicos?  |                       |                                        |
+| 10  | Épicos e temas no Backlog estão bem definidos e descritos?                          |                       |                                        |
+| 11  | O Backlog possui validação de um Product Owner?                                     |                       |                                        |
+| 12  | Existe uma ligação clara entre o Backlog e o artefato História de Usuário?          |                       |                                        |
 
 Fonte: [Altino Arthur](https://github.com/arthurrochamoreira) 
 
