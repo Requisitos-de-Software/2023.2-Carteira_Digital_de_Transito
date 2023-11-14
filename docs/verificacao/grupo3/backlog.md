@@ -44,12 +44,12 @@ A Tabela 2 apresenta o checklist preenchido após a verificação do artefato.
 | 3   | O Backlog inclui um Histórico de Versões com detalhes adequados?                    | Sim         | Há um histórico de versões detalhado, incluindo datas, descrições, autores e revisores. |
 | 4   | Os textos no Backlog seguem a norma padrão da língua?                               | Não         | Foram identificados alguns erros gramaticais e de escrita que não seguem a norma padrão da língua. |
 | 5   | Tabelas e imagens no Backlog são bem referenciadas e possuem legendas?              | Sim         | Todas as tabelas e imagens estão devidamente referenciadas com legendas claras. |
-| 6   | Há evidência da participação do cliente ou persona na elaboração do Backlog?        | Sim         | Há menção explícita ou evidência da participação do cliente ou persona. |
+| 6   | Há evidência da participação do cliente ou persona na elaboração do Backlog?        | Não         | Não há menção explícita ou evidência da participação do cliente ou persona. |
 | 7   | Os requisitos no Backlog estão priorizados de forma clara?                          | Sim         | Os requisitos estão claramente priorizados com indicações de 'Alta', 'Média' ou 'Baixa'. |
 | 8   | Os requisitos no Backlog estão adequadamente vinculados a histórias de usuário?     | Sim         | Cada requisito está vinculado a uma história de usuário específica. |
 | 9   | Há consistência entre os requisitos listados, as histórias de usuário e os épicos?  | Sim         | Os requisitos, histórias de usuário e épicos estão consistentemente alinhados. |
 | 10  | Épicos e temas no Backlog estão bem definidos e descritos?                          | Sim         | Os épicos e temas estão claramente definidos e descritos no Backlog. |
-| 11  | O Backlog possui validação de um Product Owner?                                     | Sim         | Há evidência de validação do Backlog por um Product Owner. |
+| 11  | O Backlog possui validação de um Product Owner?                                     | Não         | Não há evidência de validação do Backlog por um Product Owner. |
 | 12  | Existe uma ligação clara entre o Backlog e o artefato História de Usuário?          | Sim         | O Backlog está claramente ligado ao artefato de História de Usuário. |
 
 Fonte: [Altino Arthur](https://github.com/arthurrochamoreira) 
