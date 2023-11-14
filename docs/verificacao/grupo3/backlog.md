@@ -81,8 +81,6 @@ Fonte: [Altino Arthur](https://github.com/arthurrochamoreira)
 
 ## 📑 Histórico de Versões
 
-## 📑 Histórico de Versões
-
 | Versão | Data       | Descrição                                       | Autor                                          | Revisor                                      |
 | ------ | ---------- | ----------------------------------------------- | -----------------------------------------------| ---------------------------------------------|
 | `1.0`  | 13/11/2023 | Criação do Documento | [Altino Arthur](https://github.com/arthurrochamoreira)  | [Nome do Revisor](https://github.com/) |
