@@ -1,7 +1,7 @@
 # Histórias de Usuário
 
 ## Introdução
-Este documento é uma verificação do artefato Histórias de Usuário na versão 1.2 de data 04/11/2023, autorado por Caio Lelis e Doan, que são integrantes do Grupo 03, cujo projeto tem como foco o aplicativo BRB Mobilidade.
+Este documento é uma verificação do artefato [Histórias de Usuário](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/Modelagem%20%C3%81gil/02-Hist%C3%B3ria%20de%20usu%C3%A1rio/) na versão 1.2 de data 04/11/2023, autorado por Caio Lelis e Doan, que são integrantes do Grupo 03, cujo projeto tem como foco o aplicativo BRB Mobilidade.
 
 ## Metodologia 
 
