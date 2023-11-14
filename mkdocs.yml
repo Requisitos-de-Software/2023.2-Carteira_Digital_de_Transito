@@ -85,7 +85,7 @@ nav:
       - Histórias de Usuário: modelagem/agil/historiasUsuario.md
   - Verificação:
     - Grupo 3:
-      - Planejamento da Verificação: verificacao/grupo3/planejamendoDaVerificacao.md 
+     - Planejamento da Verificação: verificacao/grupo3/planejamendoDaVerificacao.md 
       - Elicitação:
         - Personas: verificacao/grupo3/elicitacao/personas.md
         - Técnicas:
@@ -99,14 +99,14 @@ nav:
           - Moscow: verificacao/grupo3/elicitacao/priorizacao/moscow.md
           - Three Level Scale: verificacao/grupo3/elicitacao/priorizacao/ThreeLevelScale.md
       - Modelagem:
-         - Cenários: verificacao/grupo3/modelagem/cenarios.md
-         - Léxicos:  verificacao/grupo3/modelagem/lexicos.md
-         - Casos de Uso:  verificacao/grupo3/modelagem/casosDeUso.md
-         - Especificação Suplementar:
-         - Modelagem Àgil:
-          - Backlog do produto: verificacao/grupo3/backlog.md
-          - Histórias de Usuário: verificacao/grupo3/verificacao-historias-de-usuario.md
-          - NFR Framework:
+       - Cenários: verificacao/grupo3/modelagem/cenarios.md
+        - Léxicos:  verificacao/grupo3/modelagem/lexicos.md
+        - Casos de Uso:  verificacao/grupo3/modelagem/casosDeUso.md
+        - Especificação Suplementar:
+       - Modelagem Àgil:
+        - Backlog do produto: verificacao/grupo3/backlog.md
+        - Histórias de Usuário: verificacao/grupo3/verificacao-historias-de-usuario.md
+        - NFR Framework:
       - Planejamento:
         - Padronização do projeto: verificacao/grupo3/planejamento/padronizacaoDoProj.md
         - Rich Picture: verificacao/grupo3/planejamento/richPicure.md
