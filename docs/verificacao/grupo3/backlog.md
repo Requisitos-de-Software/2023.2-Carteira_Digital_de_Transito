@@ -49,7 +49,7 @@ A Tabela 2 apresenta o checklist preenchido após a verificação do artefato.
 | 8   | Os requisitos no Backlog estão adequadamente vinculados a histórias de usuário?     | Sim         | Cada requisito está vinculado a uma história de usuário específica. |
 | 9   | Há consistência entre os requisitos listados, as histórias de usuário e os épicos?  | Sim         | Os requisitos, histórias de usuário e épicos estão consistentemente alinhados. |
 | 10  | Épicos e temas no Backlog estão bem definidos e descritos?                          | Sim         | Os épicos e temas estão claramente definidos e descritos no Backlog. |
-| 11  | O Backlog possui validação de um Product Owner?                                     | Não         | Não há evidência de validação do Backlog por um Product Owner. |
+| 11  | O Backlog possui validação de um Product Owner?                                     | Sim         | Há evidência de validação do Backlog por um Product Owner. |
 | 12  | Existe uma ligação clara entre o Backlog e o artefato História de Usuário?          | Sim         | O Backlog está claramente ligado ao artefato de História de Usuário. |
 
 Fonte: [Altino Arthur](https://github.com/arthurrochamoreira) 
