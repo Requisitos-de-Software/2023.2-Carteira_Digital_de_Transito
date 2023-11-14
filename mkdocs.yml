@@ -3,21 +3,18 @@ theme:
   name: material
   language: pt-BR
   logo: assets/icon.png
-
-  palette: 
-
+  palette:
     # Palette toggle for light mode
     - scheme: default
       toggle:
         icon: material/brightness-7 
         name: Switch to dark mode
-
     # Palette toggle for dark mode
     - scheme: slate
       toggle:
         icon: material/brightness-4
         name: Switch to light mode
-  
+
 markdown_extensions:
   - admonition
   - attr_list
@@ -35,7 +32,7 @@ markdown_extensions:
   - pymdownx.emoji:
       emoji_index: !!python/name:materialx.emoji.twemoji
       emoji_generator: !!python/name:materialx.emoji.to_svg
-  - pymdownx.extra 
+  - pymdownx.extra
 
 nav:
   - Sobre o projeto: index.md
@@ -85,7 +82,7 @@ nav:
       - Histórias de Usuário: modelagem/agil/historiasUsuario.md
   - Verificação:
     - Grupo 3:
-     - Planejamento da Verificação: verificacao/grupo3/planejamendoDaVerificacao.md 
+      - Planejamento da Verificação: verificacao/grupo3/planejamendoDaVerificacao.md 
       - Elicitação:
         - Personas: verificacao/grupo3/elicitacao/personas.md
         - Técnicas:
@@ -99,11 +96,11 @@ nav:
           - Moscow: verificacao/grupo3/elicitacao/priorizacao/moscow.md
           - Three Level Scale: verificacao/grupo3/elicitacao/priorizacao/ThreeLevelScale.md
       - Modelagem:
-       - Cenários: verificacao/grupo3/modelagem/cenarios.md
+        - Cenários: verificacao/grupo3/modelagem/cenarios.md
         - Léxicos:  verificacao/grupo3/modelagem/lexicos.md
         - Casos de Uso:  verificacao/grupo3/modelagem/casosDeUso.md
         - Especificação Suplementar:
-       - Modelagem Àgil:
+      - Modelagem Ágil:
         - Backlog do produto: verificacao/grupo3/backlog.md
         - Histórias de Usuário: verificacao/grupo3/verificacao-historias-de-usuario.md
         - NFR Framework:
@@ -115,8 +112,3 @@ nav:
         - Ferramentas de Uso: verificacao/grupo3/planejamento/ferramentasDeUso.md
         - Heatmap: verificacao/grupo3/planejamento/heatmap.md
         - Termos de Uso: verificacao/grupo3/planejamento/TermosDeUso.md
-    
-      
-
-
- 
