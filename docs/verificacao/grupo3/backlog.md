@@ -1,7 +1,7 @@
 # Backlog do Produto
 
 ## Introdução
-Este documento é uma verificação do artefato Backlog do Produto na versão 1.2 de data 06/11/2023, autorado por Guilherme Basilio e Joel Soaress, que são integrantes do Grupo 03, cujo projeto tem como foco o aplicativo BRB Mobilidade.
+Este documento é uma verificação do artefato [Backlog do Produto](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/Modelagem%20%C3%81gil/01-backlog/) na versão 1.2 de data 06/11/2023, autorado por Guilherme Basilio e Joel Soaress, que são integrantes do Grupo 03, cujo projeto tem como foco o aplicativo BRB Mobilidade.
 
 ## Metodologia
 A verificação do artefato seguirá o [planejamento](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/verificacao/grupo3/planejamendoDaVerificacao/) desenvolvido pelo nosso grupo. Conforme detalhado no planejamento, destaca-se a relevância do subtópico da metologia neste documento, onde será apresentada a tabela contendo os checklists utilizados para realizar essa verificação. O referido checklist pode ser consultado na Tabela 1.
