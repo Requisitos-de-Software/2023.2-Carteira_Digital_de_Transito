@@ -29,7 +29,6 @@ A verificação do artefato seguirá o planejamento desenvolvido pelo nosso grup
 Fonte: [Vinícius Mendes](https://github.com/yabamiah)
 
 ## Desenvolvimento
----
 A Tabela 2 apresenta o checklist preenchido após a verificação do artefato.
 
 **Tabela 2** - Checklist Preenchido
@@ -51,6 +50,7 @@ A Tabela 2 apresenta o checklist preenchido após a verificação do artefato.
 | 13 | Na definição das personas, foram enumeradas as características de relacionamentos? (Com quem a persona se relaciona) | Não conforme | - |
 | 14 | Na definição das personas, foram enumeradas as características de requisitos? (Necessidades de que a persona precisa) | Conforme | - |
 | 15 | Na definição das personas, foram enumeradas as características de expectativas? (Como a persona acredita que o produto funciona, como ela organiza as informações no seu domínio ou trabalho) | Conforme | - |
+
 Fonte: [Vinícius Mendes](https://github.com/yabamiah)
 
 ## Sugestão de Melhorias
