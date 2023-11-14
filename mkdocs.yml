@@ -95,18 +95,18 @@ nav:
           - Questionário: verificacao/grupo3/elicitacao/tecnicasDeElicitacao/questionario.md
         - Priorização de requisitos:
           - $100: verificacao/grupo3/elicitacao/priorizacao/$100.md
-          - Introdução: verificacao/grupo3/elicitacao/priorizacao/introducao.md
+          - Introdução: verificacao/grupo3/elicitacao/priorizacao/Introducao_Priorizacao.md
           - Moscow: verificacao/grupo3/elicitacao/priorizacao/moscow.md
           - Three Level Scale: verificacao/grupo3/elicitacao/priorizacao/ThreeLevelScale.md
       - Modelagem:
         - Cenários: verificacao/grupo3/modelagem/cenarios.md
         - Léxicos:  verificacao/grupo3/modelagem/lexicos.md
         - Casos de Uso:  verificacao/grupo3/modelagem/casosDeUso.md
-        #- Especificação Suplementar:
-        - Modelagem Àgil:
-        #  - Backlog do produto:
-        #  - Histórias de Usuário:
-          - NFR Framework: verificacao/grupo3/modelagem/agil/nfr.md
+        - Especificação Suplementar: verificacao/grupo3/modelagem/especificacaoSuplementar.md
+      - Modelagem Àgil:
+        - Backlog do produto: verificacao/grupo3/backlog.md
+        - Histórias de Usuário: verificacao/grupo3/verificacao-historias-de-usuario.md
+        - NFR Framework: verificacao/grupo3/modelagem/agil/nfr.md
       - Planejamento:
         - Padronização do projeto: verificacao/grupo3/planejamento/padronizacaoDoProj.md
         - Rich Picture: verificacao/grupo3/planejamento/richPicure.md

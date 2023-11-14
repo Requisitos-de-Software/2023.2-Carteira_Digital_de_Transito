@@ -85,6 +85,7 @@ De maneira geral o artefato apresenta uma boa qualidade, uma boa formatação e 
 | 05  | As imagens utilizadas no artefato não são chamadas no texto. |  É sugerido que o grupo faça uma pequena introdução da tabela no texto para que seja chamada no texto, ainda mais, é sugerido que o grupo utilize a norma padrão que coloca o titulo da tabela acima da tabela e a fonte abaixo da tabela. |
 | 08  | Não foi utilizada alguma técnica na produção do rich picture | Não foi possível identificar, logo que o artefato não possuí metodologia, é sugerido que ao colocar a metodologia seja descrito na mesma, quais técnicas foram utilizada para elaboração do Rich Picture. |
 
+Fonte: [Mayara Alves](https://github.com/Mayara-tech) 
 </center>
 
 ## Bibliografia

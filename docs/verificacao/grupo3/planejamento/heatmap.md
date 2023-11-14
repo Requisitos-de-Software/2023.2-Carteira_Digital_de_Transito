@@ -14,7 +14,7 @@ A verificação do artefato seguirá o planejamento desenvolvido pelo nosso grup
 | ID  | Descrição     | Avaliação | Observação |
 |-----| --------------------------------------------------------------------------------------------------------------- | --------- | --------- |
 | 1   | O artefato possui Introdução?                                                                          |  - | - |
-| 2   | O artefato artefato possui uma Bibliografia/Referência Bibliográfica?                                  |    -    | - |
+| 2   | O artefato possui uma Bibliografia/Referência Bibliográfica?                                  |    -    | - |
 | 3   | O artefato possui um Histórico de Versões com o id e descrição das versões, data, autores e revisores? | -       | - |
 | 4   | Os revisores são pessoas diferentes dos autores?                                    | -    | - |
 | 5   | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes?|   - |  - |
@@ -35,7 +35,7 @@ A Tabela 2 apresenta o checklist preenchido após a verificação do artefato.
 | ID  | Descrição     | Avaliação | Observação |
 |-----| --------------------------------------------------------------------------------------------------------------- | --------- | --------- |
 | 1   | O artefato possui Introdução?                                                                          | Sim   | - |
-| 2   | O artefato artefato possui uma Bibliografia/Referência Bibliográfica?                                  | Não       | Não é apresentado nenhuma Bibliografia, nem Referência Bibliográfica |
+| 2   | O artefato possui uma Bibliografia/Referência Bibliográfica?                                  | Não       | Não é apresentado nenhuma Bibliografia, nem Referência Bibliográfica |
 | 3   | O artefato possui um Histórico de Versões com o id e descrição das versões, data, autores e revisores? | Sim        | - |
 | 4   | Os revisores são pessoas diferentes dos autores?                                    | Sim     | - |
 | 5   | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes?|   Não |  Não é apresentado as chamadas de texto, nem legendas e fontes  |

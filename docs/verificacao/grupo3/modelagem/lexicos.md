@@ -22,9 +22,10 @@ A verificação do artefato seguirá o planejamento desenvolvido pelo nosso grup
 | 10 | Na descrição de léxicos, cada léxico contém um tipo? (Verbo, objeto ou estado) | - | - | 
 | 11 | Na descrição de léxicos, cada léxico contém sinônimos? | - | - |
 | 12 | Na descrição de léxicos, cada léxico está linkado a outros léxicos? | - | - |
+
 Fonte: [Vinícius Mendes](https://github.com/yabamiah)
+
 ## Desenvolvimento
----
 A Tabela 2 apresenta o checklist preenchido após a verificação do artefato.
 
 **Tabela 2** - Checklist Preenchido
@@ -43,6 +44,8 @@ A Tabela 2 apresenta o checklist preenchido após a verificação do artefato.
 | 10 | Na descrição de léxicos, cada léxico contém um tipo? (Verbo, objeto ou estado) | Conforme | - | 
 | 11 | Na descrição de léxicos, cada léxico contém sinônimos? | Conforme | - |
 | 12 | Na descrição de léxicos, cada léxico está linkado a outros léxicos? | Conforme | - |
+
+Fonte: [Vinícius Mendes](https://github.com/yabamiah)
 
 ## Sugestão de Melhorias
 Trocar o título "Notações Léxicos e Descrição" por "Metodologia".

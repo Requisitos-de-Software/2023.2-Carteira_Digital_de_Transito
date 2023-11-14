@@ -84,6 +84,7 @@ De maneira geral o artefato apresenta uma boa qualidade, uma boa formatação e 
 | 05 | Não há problemas identificados | É sugerido que a identificação da tabela fique na parte superior da tabela e a fonte na parte inferior.
 | 13 | Algumas atividades tem o mesmo período de execução das etapas que eles seriam dependente. | É sugerido que os artefatos que dependem de outros artefatos tenham seu período de desenvolvimento apenas após a entrega do artefatos os qual eles dependam.
 
+Fonte: [Mayara Alves](https://github.com/Mayara-tech) 
 </center>
 
 ## Bibliografia

@@ -36,7 +36,7 @@ A Tabela 2 apresenta o checklist preenchido após a verificação do artefato.
 | 2   | O artefato artefato possui uma Bibliografia/Referência Bibliográfica?                                  |    Sim    | - |
 | 3   | O artefato possui um Histórico de Versões com o id e descrição das versões, data, autores e revisores? | Sim  | - |
 | 4   | Os revisores são pessoas diferentes dos autores?                                    | Sim    | - |
-| 5   | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes?|   Não |  - |
+| 5   | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes?|   Não |  Não é apresentado as chamadas de texto, nem legendas |
 | 6   | O Termo de Uso abrange todas as áreas relevantes para o artefato em questão?|  Sim |  -  | 
 
 **Fonte** - [Luis Miranda](https://github.com/LuisMiranda10)
