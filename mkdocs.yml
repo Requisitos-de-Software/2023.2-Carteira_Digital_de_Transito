@@ -102,6 +102,7 @@ nav:
         - Cenários: verificacao/grupo3/modelagem/cenarios.md
         - Léxicos:  verificacao/grupo3/modelagem/lexicos.md
         - Casos de Uso:  verificacao/grupo3/modelagem/casosDeUso.md
+        - Especificação Suplementar: verificacao/grupo3/modelagem/especificacaoSuplementar.md
       - Modelagem Àgil:
         - Backlog do produto: verificacao/grupo3/backlog.md
         - Histórias de Usuário: verificacao/grupo3/verificacao-historias-de-usuario.md
