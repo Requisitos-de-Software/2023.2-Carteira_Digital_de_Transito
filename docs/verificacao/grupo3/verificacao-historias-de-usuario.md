@@ -45,7 +45,7 @@ A Tabela 2 apresenta o checklist preenchido após a verificação do artefato.
 | 5   | Todos os textos estão na norma padrão?                                                                 | Sim        | O texto está de acordo com a norma padrão.                                       |
 | 6   | As histórias de usuários estão escritas de forma clara e concisa, com descrição do "quem", "o que" e "por que"? | Sim        | As histórias são claras, mas há repetições que precisam ser corrigidas.          |
 | 7   | Cada história de usuário possui um título auto-explicativo, isto é, que resuma o objetivo principal da história? | Sim        | Títulos informativos, mas necessitam revisão para evitar duplicações.            |
-| 8   | As histórias de usuários foram provenientes do cliente?                                                | Sim        | As histórias foram desenvolvidas a partir de entrevistas com o PO.                |
+| 8   | As histórias de usuários foram provenientes do cliente ou PO?                                                | Não        | Não existem evidências da participação do PO na elaboração das US.                |
 | 9   | As histórias de usuário incluem critérios de aceitação que definam o que é necessário para que a história seja considerada concluída? | Sim        | Critérios de aceitação bem definidos em cada história.                           |
 | 10  | As histórias de usuário são testáveis, possibilitando a verificação e validação do sistema com base nos critérios de aceitação definidos? | Sim        | Histórias são testáveis com critérios claros para validação.                     |
 
