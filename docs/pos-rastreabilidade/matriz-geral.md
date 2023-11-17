@@ -3,7 +3,7 @@
 ## Introdução 
 A Matriz Geral, um documento essencial no contexto do projeto, desempenha um papel crucial ao apresentar de maneira organizada os requisitos elicitados, tanto em suas fases prévias quanto posteriores, por meio de uma estrutura tabular. Esta matriz estabelece uma conexão abrangente entre os requisitos e os documentos correspondentes. A utilização da técnica de referências e documentos cruzados oferece uma vantagem significativa, permitindo a identificação e destaque das dependências entre os requisitos. 
 
-# Obejtivos 
+# Objetivos 
 A implementação de uma Matriz Geral no contexto do nosso projeto possui como objetivo central promover uma gestão mais eficiente e compreensiva dos requisitos elicitados, desde suas fases iniciais até as etapas posteriores. Essa ferramenta, estruturada de maneira tabular, desempenha um papel crucial ao estabelecer uma conexão detalhada entre os requisitos e os documentos correspondentes. Portanto, a implementação da Matriz Geral no nosso projeto visa otimizar a organização, análise e compreensão dos requisitos, promovendo uma abordagem mais estruturada e detalhada que, por sua vez, contribuirá para o sucesso e eficácia do projeto como um todo.
 
 ## Metodologia
