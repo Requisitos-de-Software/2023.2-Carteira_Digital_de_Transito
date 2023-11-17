@@ -48,7 +48,7 @@ Fonte: Meta-modelo de Toranzo (TORANZO, 2002)^1^.
 > 1.</a> TORANZO, M.; CASTRO, J; MELLO, E. Uma proposta para melhorar o rastreamento de requisitos. PUC-Rio: Workshop em Engenharia de Requisitos, Rio de Janeiro, 2002. Disponível em: http://wer.inf.puc-rio.br/WERpapers/artigos/artigos_WER02/toranzo.pdf. Acesso em: 17/11/2023.
 
 # Bibliografia
-> KLAUS POHL, CHRIS RUPP. Requirements Engineering Fundamentals.
+> KLAUS POHL, CHRIS RUPP. Requirements Engineering Fundamentals.<br/>
 > REQUISITOS DE SOFTWARE. Bilheteria Digital. Distrito Federal, 2023. Disponível em: <https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/>. Acesso em: 17/11/2023.
 
 ## Histórico de Versões
