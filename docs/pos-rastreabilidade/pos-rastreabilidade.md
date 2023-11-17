@@ -44,6 +44,77 @@ Fonte: Meta-modelo de Toranzo (TORANZO, 2002)^1^.
 
 ## Rastreabilidade
 
+Neste tópico, serão apresentadas as tabelas referentes aos elos dos artefatos analisados, que se referem aos requisitos implementados e não implementados pela Carteira Digital de Trânsito. Sendo assim, as Tabelas de 2 a 42 apresentam a rastreabilidade dos requisitos funcionais e não funcionais.
+<center>
+ 
+Tabela 2 - RF 01
+
+|                 Artefato Analisado                   | Classificação do Artefato Analisado |
+| :--------------------------------------------------: | :---------------------------------: |
+|                     Tipos de Elo                     |       Artefatos Relacionados        |
+|                      Satisfação                      |                  -                  |
+|                       Recurso                        |                  -                  |
+|                    Representação                     |                  -                  |
+|                       Alocado                        |                  -                  |
+|                      Agregação                       |                  -                  |
+
+Fonte:
+
+Tabela 3 - RF 02
+
+|                 Artefato Analisado                   | Classificação do Artefato Analisado |
+| :--------------------------------------------------: | :---------------------------------: |
+|                     Tipos de Elo                     |       Artefatos Relacionados        |
+|                      Satisfação                      |                  -                  |
+|                       Recurso                        |                  -                  |
+|                    Representação                     |                  -                  |
+|                       Alocado                        |                  -                  |
+|                      Agregação                       |                  -                  |
+
+Fonte: 
+
+**Tabela 4 - RF 03**
+
+|                 Artefato Analisado                   | Classificação do Artefato Analisado |
+| :--------------------------------------------------: | :---------------------------------: |
+|                     Tipos de Elo                     |       Artefatos Relacionados        |
+|                      Satisfação                      |                  -                  |
+|                       Recurso                        |                  -                  |
+|                    Representação                     |                  -                  |
+|                       Alocado                        |                  -                  |
+|                      Agregação                       |                  -                  |
+
+Fonte:
+
+**Tabela 5 - RF 04**
+
+|                 Artefato Analisado                   | Classificação do Artefato Analisado |
+| :--------------------------------------------------: | :---------------------------------: |
+|                     Tipos de Elo                     |       Artefatos Relacionados        |
+|                      Satisfação                      |                  -                  |
+|                       Recurso                        |                  -                  |
+|                    Representação                     |                  -                  |
+|                       Alocado                        |                  -                  |
+|                      Agregação                       |                  -                  |
+
+Fonte:
+
+**Tabela 6 - RF 05**
+
+|                 Artefato Analisado                   | Classificação do Artefato Analisado |
+| :--------------------------------------------------: | :---------------------------------: |
+|                     Tipos de Elo                     |       Artefatos Relacionados        |
+|                      Satisfação                      |                  -                  |
+|                       Recurso                        |                  -                  |
+|                    Representação                     |                  -                  |
+|                       Alocado                        |                  -                  |
+|                      Agregação                       |                  -                  |
+
+Fonte:
+
+
+</center>
+
 # Referência Bibliográficas
 > 1.</a> TORANZO, M.; CASTRO, J; MELLO, E. Uma proposta para melhorar o rastreamento de requisitos. PUC-Rio: Workshop em Engenharia de Requisitos, Rio de Janeiro, 2002. Disponível em: http://wer.inf.puc-rio.br/WERpapers/artigos/artigos_WER02/toranzo.pdf. Acesso em: 17/11/2023.
 
