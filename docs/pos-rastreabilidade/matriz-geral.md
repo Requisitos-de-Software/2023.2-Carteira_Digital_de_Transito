@@ -24,5 +24,5 @@ As colunas serão apresentadas da seguinte forma:
 ## Histórico de Versões
 |Versão|Data|Descrição|Autor|Revisor|
 |:----:|----|---------|-----|:-------:|
-|`1.0`|16/11/2023|Criação do documento|[Luis Miranda](https://github.com/LuisMiranda10) | | 
-|`1.1`|17/11/2023|Adicionado introdução e objetivo|[Luis Miranda](https://github.com/LuisMiranda10) | | 
+|`1.0`|16/11/2023|Criação do documento|[Luis Miranda](https://github.com/LuisMiranda10) |[Limirio Guimarães](https://github.com/LimirioGuimaraes)| 
+|`1.1`|17/11/2023|Adicionado introdução e objetivo|[Limirio Guimarães](https://github.com/LimirioGuimaraes) | | 
