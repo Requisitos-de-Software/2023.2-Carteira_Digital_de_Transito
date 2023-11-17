@@ -18,6 +18,61 @@ As colunas serão apresentadas da seguinte forma:
 * **Artefatos Relacionados**: representa os artefatos que estão relacionados ao requisito.
 * **Elo** : rastrear a relação entre requisitos e os artefatos.
 
+A tabela 1 a seguir mostra a matriz geral de rastreabilidade.
+
+<center>
+
+**Tabela 1** - Matriz Geral.
+
+| ID    | Descrição   | Pré-Rastreabilidade | Implementado? | Artefatos | Elos |
+| ----- | ----------- | ------------------- | ------------- | --------- | ---- |
+| RF01  |             |                     |               |           |      |
+| RF02  |             |                     |               |           |      |
+| RF03  |             |                     |               |           |      |
+| RF04  |             |                     |               |           |      |
+| RF05  |             |                     |               |           |      |
+| RF06  |             |                     |               |           |      |
+| RF07  |             |                     |               |           |      |
+| RF08  |             |                     |               |           |      |
+| RF09  |             |                     |               |           |      |
+| RF10  |             |                     |               |           |      |
+| RF11  |             |                     |               |           |      |
+| RF12  |             |                     |               |           |      |
+| RF13  |             |                     |               |           |      |
+| RF14  |             |                     |               |           |      |
+| RF15  |             |                     |               |           |      |
+| RF16  |             |                     |               |           |      |
+| RF17  |             |                     |               |           |      |
+| RF18  |             |                     |               |           |      |
+| RF19  |             |                     |               |           |      |
+| RF20  |             |                     |               |           |      |
+| RF21  |             |                     |               |           |      |
+| RF22  |             |                     |               |           |      |
+| RF23  |             |                     |               |           |      |
+| RF24  |             |                     |               |           |      |
+| RF25  |             |                     |               |           |      |
+| RF26  |             |                     |               |           |      |
+| RF27  |             |                     |               |           |      |
+| RF28  |             |                     |               |           |      |
+| RF29  |             |                     |               |           |      |
+| RF30  |             |                     |               |           |      |
+| RF31  |             |                     |               |           |      |
+| RNF01 |             |                     |               |           |      |
+| RNF02 |             |                     |               |           |      |
+| RNF03 |             |                     |               |           |      |
+| RNF04 |             |                     |               |           |      |
+| RNF05 |             |                     |               |           |      |
+| RNF06 |             |                     |               |           |      |
+| RNF07 |             |                     |               |           |      |
+| RNF08 |             |                     |               |           |      |
+| RNF09 |             |                     |               |           |      |
+| RNF10 |             |                     |               |           |      |
+
+
+Fonte: [Limirio Guimarães](https://github.com/LimirioGuimaraes)
+
+</center>
+
 ## Bibliografia
 > KLAUS POHL, CHRIS RUPP. Requirements Engineering Fundamentals.
 
