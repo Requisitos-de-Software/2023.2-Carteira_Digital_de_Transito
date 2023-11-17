@@ -7,7 +7,7 @@ A Matriz Geral, um documento essencial no contexto do projeto, desempenha um pap
 A implementação de uma Matriz Geral no contexto do nosso projeto possui como objetivo central promover uma gestão mais eficiente e compreensiva dos requisitos elicitados, desde suas fases iniciais até as etapas posteriores. Essa ferramenta, estruturada de maneira tabular, desempenha um papel crucial ao estabelecer uma conexão detalhada entre os requisitos e os documentos correspondentes. Portanto, a implementação da Matriz Geral no nosso projeto visa otimizar a organização, análise e compreensão dos requisitos, promovendo uma abordagem mais estruturada e detalhada que, por sua vez, contribuirá para o sucesso e eficácia do projeto como um todo.
 
 ## Metodologia
-A metodologia a ser utilizada vai consistir em uma matriz que contém 6 colunas, no qual sestão especificadas abaixo, que buscam garantir a clareza e a eficácia na gestão dos requisitos ao longo do ciclo de vida do projeto. Os requisitos apresentados são os elicitados no artefato de [requisitos elicitados](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/elicitação/requisitos_elicitados/).
+A metodologia a ser utilizada vai consistir em uma matriz que contém 6 colunas, no qual estão especificadas abaixo, que buscam garantir a clareza e a eficácia na gestão dos requisitos ao longo do ciclo de vida do projeto. Os requisitos apresentados são os elicitados no artefato de [requisitos elicitados](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/elicitação/requisitos_elicitados/).
 
 As colunas serão apresentadas da seguinte forma:
 
