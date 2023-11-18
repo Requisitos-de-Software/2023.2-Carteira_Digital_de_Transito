@@ -63,7 +63,7 @@ A tabela 2 a seguir mostra a matriz geral de rastreabilidade.
 | RF07  |             |                     |               |           |      |
 | RF08  |             |                     |               |           |      |
 | RF09  |             |                     |               |           |      |
-| RF10  |Contato com suporte|[ITP](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/elicita%C3%A7%C3%A3o/Introspeccao/), [ENT](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/elicita%C3%A7%C3%A3o/entrevista/)| Sim |           |      |
+| RF10  |Contato com suporte|[ITP](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/elicita%C3%A7%C3%A3o/Introspeccao/), [ENT](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/elicita%C3%A7%C3%A3o/entrevista/)| Não |           |      |
 | RF11  |             |                     |               |           |      |
 | RF12  |             |                     |               |           |      |
 | RF13  |             |                     |               |           |      |
@@ -92,9 +92,9 @@ A tabela 2 a seguir mostra a matriz geral de rastreabilidade.
 | RNF05 |             |                     |               |           |      |
 | RNF06 |             |                     |               |           |      |
 | RNF07 |Facilitar o usuário a chegar a funcionalidade de aderir ao SNE | [GL](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/elicita%C3%A7%C3%A3o/glossario/) | Sim |           |      |
-| RNF08 |             |                     |               |           |      |
+| RNF08 |Deve ser possível acessar a CNH(digital) mesmo sem acesso a internet.| [SB](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/elicita%C3%A7%C3%A3o/storyboard/)| Sim |           |      |
 | RNF09 |             |                     |               |           |      |
-| RNF10 |             |                     |               |           |      |
+| RNF10 |O aplicativo deve alertar o usuário caso seja multado |  [SB](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/elicita%C3%A7%C3%A3o/storyboard/), [ENT](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/elicita%C3%A7%C3%A3o/entrevista/)| Sim |           |      |
 
 
 Fonte: [Limirio Guimarães](https://github.com/LimirioGuimaraes)
