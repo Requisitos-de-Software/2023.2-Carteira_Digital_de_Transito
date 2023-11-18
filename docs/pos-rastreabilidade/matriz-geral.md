@@ -26,7 +26,7 @@ Serão apresentados na Tabela 1, o mapeamento dos documentos e sua referência d
 
 Tabela 1: Legenda do mapeamento de requisitos 
 | Legenda                                                                                                                 | Descrição                             |
-| ----------------------------------------------------------------------------------------------------------------------- |-------------------------------------- |
+| ----------- |-------------------------------------- |
 | RF                                                                                                                      | Requisito Funcional                   |
 | RNF                                                                                                                     | Requisito Não-Funcional               | 
 | [GL](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/elicita%C3%A7%C3%A3o/glossario/)      | Requisito elicitado pelo Glossário    |
