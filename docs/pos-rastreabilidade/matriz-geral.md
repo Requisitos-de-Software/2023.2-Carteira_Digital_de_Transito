@@ -91,7 +91,7 @@ A tabela 2 a seguir mostra a matriz geral de rastreabilidade.
 | RNF04 |             |                     |               |           |      |
 | RNF05 |             |                     |               |           |      |
 | RNF06 |             |                     |               |           |      |
-| RNF07 |             |                     |               |           |      |
+| RNF07 |Facilitar o usuário a chegar a funcionalidade de aderir ao SNE | [GL](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/elicita%C3%A7%C3%A3o/glossario/) | Sim |           |      |
 | RNF08 |             |                     |               |           |      |
 | RNF09 |             |                     |               |           |      |
 | RNF10 |             |                     |               |           |      |
