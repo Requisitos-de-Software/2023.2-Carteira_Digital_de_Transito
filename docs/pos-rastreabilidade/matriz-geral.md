@@ -25,20 +25,20 @@ As colunas serão apresentadas da seguinte forma:
 Serão apresentados na Tabela 1, o mapeamento dos documentos e sua referência dos artefatos apresentados em seguida.
 
 Tabela 1: Legenda do mapeamento de requisitos 
-| Legenda                                                                                                                 | Descrição                            |
-| ----------------------------------------------------------------------------------------------------------------------- |------------------------------------- |
-| RF                                                                                                                      | Requisito Funcional                  |
-| RNF                                                                                                                     | Requisito Não-Funcional              |
-| [GL](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/elicita%C3%A7%C3%A3o/glossario/)      | Requisito elicitado pelo Glossário   |
-| [SB](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/elicita%C3%A7%C3%A3o/storyboard/)     | Requisito elicitado pela StoryBoard  |
-| [ENT](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/elicita%C3%A7%C3%A3o/entrevista/)    | Requisito elicitado pela Entrevista  |
+| Legenda                                                                                                                 | Descrição                             |
+| ----------------------------------------------------------------------------------------------------------------------- |-------------------------------------- |
+| RF                                                                                                                      | Requisito Funcional                   |
+| RNF                                                                                                                     | Requisito Não-Funcional               | 
+| [GL](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/elicita%C3%A7%C3%A3o/glossario/)      | Requisito elicitado pelo Glossário    |
+| [SB](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/elicita%C3%A7%C3%A3o/storyboard/)     | Requisito elicitado pela StoryBoard   |
+| [ENT](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/elicita%C3%A7%C3%A3o/entrevista/)    | Requisito elicitado pela Entrevista   |
 | [ITP](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/elicita%C3%A7%C3%A3o/Introspeccao/)  | Requisito elicitado pela Introspecção |
-| [US](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/agil/historiasUsuario/)      | História usuário          |
-| [UC](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/casosDeUso/)      | Casos de Uso              |
-| [C](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/cenarios/)                   | Cenários                  |
-| [ES](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/especificacao-suplementar/)      | Especificação Suplementar |
-| [NFR](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/agil/framework/)     | NFR Framework             |
-| [L](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/léxicos/)   | Léxico - Objeto, Verbo |
+| [US](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/agil/historiasUsuario/)     | História usuário                      |
+| [UC](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/casosDeUso/)                | Casos de Uso                          |
+| [C](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/cenarios/)                   | Cenários                              |
+| [ES](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/especificacao-suplementar/) | Especificação Suplementar             |
+| [NFR](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/agil/framework/)           | NFR Framework                         |
+| [L](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/léxicos/)                    | Léxicos                               |
 
 Fonte: [Limirio Guimarães](https://github.com/LimirioGuimaraes)
 
