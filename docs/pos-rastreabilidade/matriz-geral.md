@@ -57,8 +57,8 @@ A tabela 2 a seguir mostra a matriz geral de rastreabilidade.
 | RF01  |             |                     |               |           |      |
 | RF02  |             |                     |               |           |      |
 | RF03  |             |                     |               |           |      |
-| RF04  |             |                     |               |           |      |
-| RF05  |             |                     |               |           |      |
+| RF04  | Obter versão digital do CRLV| [ITP](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/elicita%C3%A7%C3%A3o/Introspeccao/), [GL](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/elicita%C3%A7%C3%A3o/glossario/), [SB](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/elicita%C3%A7%C3%A3o/storyboard/), [ENT](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/elicita%C3%A7%C3%A3o/entrevista/) | Sim |           |      |
+| RF05  |             |[ITP](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/elicita%C3%A7%C3%A3o/Introspeccao/), [ENT](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/elicita%C3%A7%C3%A3o/entrevista/)|Sim|           |      |
 | RF06  |             |                     |               |           |      |
 | RF07  |             |                     |               |           |      |
 | RF08  |             |                     |               |           |      |
