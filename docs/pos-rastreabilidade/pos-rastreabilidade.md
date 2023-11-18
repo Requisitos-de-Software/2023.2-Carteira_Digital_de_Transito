@@ -56,78 +56,78 @@ Com base nos slides da aula 26 da professora Milene Serrano e Maurício Serrano^
 Neste tópico, serão apresentadas as tabelas referentes aos elos dos artefatos analisados, que se referem aos requisitos implementados e não implementados pela Carteira Digital de Trânsito. Sendo assim, as Tabelas de 2 a 42 apresentam a rastreabilidade dos requisitos funcionais e não funcionais.
 <center>
  
-**Tabela 5 - RF 04**
+#### **Tabela 5 - RF 04**
 
 
 | RF04 Obter versão digital do CRLV 			| Requisito Funcional 		      |
 |----------------------------------------------------------- | ----------------------- |
-| Satisfação 						| RF01 Autenticar-se no aplicativo <br/> RF02 Obter versão digital do CNH <br/> RF03 Obter versão digital do CRLV |
-| Recurso						| RF05 Compartilhar CRLV <br/> RF06 Exportar CRLV <br/> RF07 Baixar CRLV |
-| Representação 					| Diagrama de Casos de Uso: UC04 Obter versão digital do CRLV² <br/> Diagrama de Classes: Classe CRLV <br/> Diagrama de Sequência: SD04 Obter versão digital do CRLV |
-| Alocado 						| Subsistema de Carteira Digital de Trânsito |
+| Satisfação 						| N/A |
+| Recurso						|N/A |
+| Representação 					| N/A |
+| Alocado 						| N/A |
 | Agregação | N/A |
 
 Fonte: [Limirio Guimarães](https://github.com/LimirioGuimaraes).
 
 
 
-**Tabela 11 - RF 10**
+#### **Tabela 11 - RF 10**
 
 | RF10 Contato com suporte 				| Requisito Funcional |
 |----------------------------------------------------------- | ----------------------- |
-| Satisfação 						| RF01 Autenticar-se no aplicativo <br/> RF02 Obter versão digital do CNH <br/> RF03 Obter versão digital do CRLV <br/> RF04 Obter versão digital do CRLV |
+| Satisfação 						| N/A |
 | Recurso 						| N/A |
-| Representação 					| Diagrama de Casos de Uso: UC10 Contato com suporte¹ <br/> Diagrama de Classes: Classe Suporte <br/> Diagrama de Sequência: SD10 Contato com suporte |
-| Alocado 						 Subsistema de Carteira Digital de Trânsito |
+| Representação 					|N/A |
+| Alocado 						| N/A|
 | Agregação 						| N/A |
 
 Fonte: [Limirio Guimarães](https://github.com/LimirioGuimaraes).
 
 
-**Tabela 35 - RNF 03**
+#### **Tabela 35 - RNF 03**
 
 | RNF03 Aplicativo funciona em multisistemas (android e IOS) | Requisito Não Funcional |
 |----------------------------------------------------------- | ----------------------- |
 | Satisfação 						     | N/A |
 | Recurso 						     | N/A |
-| Representação						     | Diagrama de Casos de Uso: UC01 Autenticar-se no aplicativo¹ <br/> Diagrama de Classes: Classe Aplicativo <br/> Diagrama de Sequência: SD01 Autenticar-se no aplicativo |
-| Alocado 						     | Subsistema de Carteira Digital de Trânsito |
+| Representação						     | N/A |
+| Alocado 						     | N/A |
 | Agregação 						     | N/A |
 
 Fonte: [Limirio Guimarães](https://github.com/LimirioGuimaraes).
 
-**Tabela 39 - RNF 07**
+#### **Tabela 39 - RNF 07**
 
 | RNF07 Facilitar o usuário a chegar a funcionalidade de aderir ao SNE | Requisito Não Funcional |
 |----------------------------------------------------------- | ----------------------- |
 | Satisfação 							       | N/A |
 | Recurso                                                              | N/A |
-| Representação							       | Diagrama de Casos de Uso: UC07 Aderir ao SNE¹ <br/> Diagrama de Classes: Classe SNE <br/> Diagrama de Sequência: SD07 Aderir ao SNE |
-| Alocado 							       | Subsistema de Carteira Digital de Trânsito |
+| Representação							       |N/A |
+| Alocado 							       | N/A |
 | Agregação							       | N/A |
 
 Fonte: [Limirio Guimarães](https://github.com/LimirioGuimaraes).
 
-**Tabela 40 - RNF 08**
+#### **Tabela 40 - RNF 08**
 
 | RNF08 Deve ser possível acessar a CNH(digital) mesmo sem acesso a internet | Requisito Não Funcional |
 |----------------------------------------------------------- | ----------------------- |
 | Satisfação 								     | N/A |
 | Recurso                                                                    | N/A |
-| Representação 							     | Diagrama de Casos de Uso: UC02 Obter versão digital do CNH¹ <br/> Diagrama de Classes: Classe CNH <br/> Diagrama de Sequência: SD02 Obter versão digital do CNH |
-| Alocado 								     | Subsistema de Carteira Digital de Trânsito |
+| Representação 							     | N/A |
+| Alocado 								     | N/A |
 | Agregação 								     | N/A |
 
 Fonte: [Limirio Guimarães](https://github.com/LimirioGuimaraes).
 
-**Tabela 42 - RNF 10**
+#### **Tabela 42 - RNF 10**
 
 | RNF10 O aplicativo deve alertar o usuário caso seja multado | Requisito Não Funcional |
 |----------------------------------------------------------- | ----------------------- |
 | Satisfação 						      | N/A |
 | Recurso                                                     | N/A |
-| Representação 					      | Diagrama de Casos de Uso: UC08 Receber notificação de multa¹ <br/> Diagrama de Classes: Classe Notificação <br/> Diagrama de Sequência: SD08 Receber notificação de multa |
-| Alocado 						      | Subsistema de Carteira Digital de Trânsito |
+| Representação 					      | N/A |
+| Alocado 						      | N/A |
 | Agregação 						      | N/A |
 
 Fonte: [Limirio Guimarães](https://github.com/LimirioGuimaraes).
