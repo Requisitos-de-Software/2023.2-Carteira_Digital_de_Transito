@@ -56,7 +56,7 @@ Com base nos slides da aula 26 da professora Milene Serrano e Maurício Serrano^
 Neste tópico, serão apresentadas as tabelas referentes aos elos dos artefatos analisados, que se referem aos requisitos implementados e não implementados pela Carteira Digital de Trânsito. Sendo assim, as Tabelas de 2 a 42 apresentam a rastreabilidade dos requisitos funcionais e não funcionais.
 <center>
  
-Tabela 5 - RF 04
+**Tabela 5 - RF 04**
 
 
 | RF04 Obter versão digital do CRLV 			| Requisito Funcional 		      |
@@ -71,7 +71,7 @@ Fonte: [Limirio Guimarães](https://github.com/LimirioGuimaraes).
 
 
 
-Tabela 11 - RF 10
+**Tabela 11 - RF 10**
 
 | RF10 Contato com suporte 				| Requisito Funcional |
 |----------------------------------------------------------- | ----------------------- |
@@ -84,7 +84,7 @@ Tabela 11 - RF 10
 Fonte: [Limirio Guimarães](https://github.com/LimirioGuimaraes).
 
 
-Tabela 35 - RNF 03
+**Tabela 35 - RNF 03**
 
 | RNF03 Aplicativo funciona em multisistemas (android e IOS) | Requisito Não Funcional |
 |----------------------------------------------------------- | ----------------------- |
@@ -96,7 +96,7 @@ Tabela 35 - RNF 03
 
 Fonte: [Limirio Guimarães](https://github.com/LimirioGuimaraes).
 
-Tabela 39 - RNF 07
+**Tabela 39 - RNF 07**
 
 | RNF07 Facilitar o usuário a chegar a funcionalidade de aderir ao SNE | Requisito Não Funcional |
 |----------------------------------------------------------- | ----------------------- |
@@ -108,7 +108,7 @@ Tabela 39 - RNF 07
 
 Fonte: [Limirio Guimarães](https://github.com/LimirioGuimaraes).
 
-Tabela 40 - RNF 08
+**Tabela 40 - RNF 08**
 
 | RNF08 Deve ser possível acessar a CNH(digital) mesmo sem acesso a internet | Requisito Não Funcional |
 |----------------------------------------------------------- | ----------------------- |
@@ -120,7 +120,7 @@ Tabela 40 - RNF 08
 
 Fonte: [Limirio Guimarães](https://github.com/LimirioGuimaraes).
 
-Tabela 42 - RNF 10
+**Tabela 42 - RNF 10**
 
 | RNF10 O aplicativo deve alertar o usuário caso seja multado | Requisito Não Funcional |
 |----------------------------------------------------------- | ----------------------- |
