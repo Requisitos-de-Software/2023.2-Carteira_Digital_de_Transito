@@ -42,6 +42,15 @@ Fonte: Meta-modelo de Toranzo (TORANZO, 2002)^1^.
 
 </center>
 
+Com base nos slides 21 da aula 26 da professora Milene Serrano ^2^, os principais **elos de rastreabilidade** são os seguintes:
+
+1. **Satisfação**: Indica que a classe de origem depende da satisfação proporcionada pela classe de destino.
+2. **Recurso**: Reflete a dependência de recursos da classe de origem em relação à classe de destino.
+3. **Responsabilidade**: Registra a participação, responsabilidade e ação de pessoas sobre os artefatos.
+4. **Representação**: Captura a forma como os requisitos são representados ou modelados em outras linguagens.
+5. **Alocado**: Relaciona a classe de origem a uma classe de destino que representa um subsistema.
+6. **Agregação**: Indica a "composição" de elementos.
+
 ## Rastreabilidade
 
 Neste tópico, serão apresentadas as tabelas referentes aos elos dos artefatos analisados, que se referem aos requisitos implementados e não implementados pela Carteira Digital de Trânsito. Sendo assim, as Tabelas de 2 a 42 apresentam a rastreabilidade dos requisitos funcionais e não funcionais.
@@ -116,7 +125,8 @@ Fonte:
 </center>
 
 # Referência Bibliográficas
-> 1.</a> TORANZO, M.; CASTRO, J; MELLO, E. Uma proposta para melhorar o rastreamento de requisitos. PUC-Rio: Workshop em Engenharia de Requisitos, Rio de Janeiro, 2002. Disponível em: http://wer.inf.puc-rio.br/WERpapers/artigos/artigos_WER02/toranzo.pdf. Acesso em: 17/11/2023.
+> 1.</a> TORANZO, M.; CASTRO, J; MELLO, E. Uma proposta para melhorar o rastreamento de requisitos. PUC-Rio: Workshop em Engenharia de Requisitos, Rio de Janeiro, 2002. Disponível em: http://wer.inf.puc-rio.br/WERpapers/artigos/artigos_WER02/toranzo.pdf. Acesso em: 17/11/2023.<br/>
+> 2. Slides da Aula 26 da Professora Milene Serrano. Disponível em: https://aprender3.unb.br/pluginfile.php/2692879/mod_resource/content/1/Requisitos%20-%20Aula%20026.pdf. Acesso em: 18/11/2023.
 
 # Bibliografia
 > KLAUS POHL, CHRIS RUPP. Requirements Engineering Fundamentals.<br/>
