@@ -42,7 +42,7 @@ Fonte: Meta-modelo de Toranzo (TORANZO, 2002)^1^.
 
 </center>
 
-Com base nos slides 21 da aula 26 da professora Milene Serrano ^2^, os principais **elos de rastreabilidade** são os seguintes:
+Com base nos slides da aula 26 da professora Milene Serrano e Maurício Serrano^2^, os principais **elos de rastreabilidade** são:
 
 1. **Satisfação**: Indica que a classe de origem depende da satisfação proporcionada pela classe de destino.
 2. **Recurso**: Reflete a dependência de recursos da classe de origem em relação à classe de destino.
