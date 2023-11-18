@@ -18,7 +18,38 @@ As colunas serão apresentadas da seguinte forma:
 * **Artefatos Relacionados**: representa os artefatos que estão relacionados ao requisito.
 * **Elo** : rastrear a relação entre requisitos e os artefatos.
 
+## Mapeamento
 
+<center> 
+
+Serão apresentados na Tabela 1, o mapeamento dos documentos e sua referência dos artefatos apresentados em seguida.
+
+Tabela 1: Legenda do mapeamento de requisitos 
+| Legenda                                                                                                                 | Descrição                            |
+| ----------------------------------------------------------------------------------------------------------------------- |------------------------------------- |
+| RF                                                                                                                      | Requisito Funcional                  |
+| RNF                                                                                                                     | Requisito Não-Funcional              |
+| [GL](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/elicita%C3%A7%C3%A3o/glossario/)      | Requisito elicitado pelo Glossário   |
+| [SB](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/elicita%C3%A7%C3%A3o/storyboard/)     | Requisito elicitado pela StoryBoard  |
+| [ENT](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/elicita%C3%A7%C3%A3o/entrevista/)    | Requisito elicitado pela Entrevista  |
+| [ITP](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/elicita%C3%A7%C3%A3o/Introspeccao/)  | Requisito elicitado pela Introspecção |
+| US      | História usuário          |
+| ADD     | Análise de Documentos     |
+| ST      | Storytelling              |
+| UC      | Casos de Uso              |
+| US      | História de Usuário       |
+| C       | Cenários                  |
+| ES      | Especificação Suplementar |
+| NFR     | NFR Framework             |
+| L - LO, LV | Léxico - Objeto, Verbo |
+| INT     | Introspecção              |
+| QUE     | Questionário              |
+| RF      | Requisitos Funcionais     |
+| RNF     | Requisitos não Funcionais |
+Fonte: [Limirio Guimarães](https://github.com/LimirioGuimaraes)
+
+
+</center>
 
 ## Matriz Geral
 A tabela 2 a seguir mostra a matriz geral de rastreabilidade.
