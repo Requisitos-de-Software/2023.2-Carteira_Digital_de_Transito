@@ -18,11 +18,14 @@ As colunas serão apresentadas da seguinte forma:
 * **Artefatos Relacionados**: representa os artefatos que estão relacionados ao requisito.
 * **Elo** : rastrear a relação entre requisitos e os artefatos.
 
-A tabela 1 a seguir mostra a matriz geral de rastreabilidade.
+
+
+## Matriz Geral
+A tabela 2 a seguir mostra a matriz geral de rastreabilidade.
 
 <center>
 
-**Tabela 1** - Matriz Geral.
+**Tabela 2** - Matriz Geral.
 
 | ID    | Descrição   | Pré-Rastreabilidade | Implementado? | Artefatos | Elos |
 | ----- | ----------- | ------------------- | ------------- | --------- | ---- |
