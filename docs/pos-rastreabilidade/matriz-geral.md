@@ -58,12 +58,12 @@ A tabela 2 a seguir mostra a matriz geral de rastreabilidade.
 | RF02  |             |                     |               |           |      |
 | RF03  |             |                     |               |           |      |
 | RF04  | Obter versão digital do CRLV| [ITP](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/elicita%C3%A7%C3%A3o/Introspeccao/), [GL](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/elicita%C3%A7%C3%A3o/glossario/), [SB](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/elicita%C3%A7%C3%A3o/storyboard/), [ENT](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/elicita%C3%A7%C3%A3o/entrevista/) | Sim |           |      |
-| RF05  |             |[ITP](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/elicita%C3%A7%C3%A3o/Introspeccao/), [ENT](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/elicita%C3%A7%C3%A3o/entrevista/)|Sim|           |      |
+| RF05  |             |                     |               |           |      |
 | RF06  |             |                     |               |           |      |
 | RF07  |             |                     |               |           |      |
 | RF08  |             |                     |               |           |      |
 | RF09  |             |                     |               |           |      |
-| RF10  |             |                     |               |           |      |
+| RF10  |Contato com suporte|[ITP](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/elicita%C3%A7%C3%A3o/Introspeccao/), [ENT](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/elicita%C3%A7%C3%A3o/entrevista/)| Sim |           |      |
 | RF11  |             |                     |               |           |      |
 | RF12  |             |                     |               |           |      |
 | RF13  |             |                     |               |           |      |
@@ -87,7 +87,7 @@ A tabela 2 a seguir mostra a matriz geral de rastreabilidade.
 | RF31  |             |                     |               |           |      |
 | RNF01 |             |                     |               |           |      |
 | RNF02 |             |                     |               |           |      |
-| RNF03 |             |                     |               |           |      |
+| RNF03 |Aplicativo funciona em multisistemas (android e IOS)|[ITP](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/elicita%C3%A7%C3%A3o/Introspeccao/)| Sim |           |      |
 | RNF04 |             |                     |               |           |      |
 | RNF05 |             |                     |               |           |      |
 | RNF06 |             |                     |               |           |      |
