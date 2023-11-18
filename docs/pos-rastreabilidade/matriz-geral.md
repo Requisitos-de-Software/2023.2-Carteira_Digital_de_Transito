@@ -63,7 +63,7 @@ A tabela 2 a seguir mostra a matriz geral de rastreabilidade.
 | RF07  |             |                     |               |           |      |
 | RF08  |             |                     |               |           |      |
 | RF09  |             |                     |               |           |      |
-| RF10  |Contato com suporte|[ITP](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/elicita%C3%A7%C3%A3o/Introspeccao/), [ENT](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/elicita%C3%A7%C3%A3o/entrevista/)| Não |           |      |
+| RF10  |Contato com suporte|[ITP](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/elicita%C3%A7%C3%A3o/Introspeccao/), [ENT](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/elicita%C3%A7%C3%A3o/entrevista/)| Sim |           |      |
 | RF11  |             |                     |               |           |      |
 | RF12  |             |                     |               |           |      |
 | RF13  |             |                     |               |           |      |
