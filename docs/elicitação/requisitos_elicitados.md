@@ -94,7 +94,7 @@ Fonte: [Luis Miranda](https://github.com/LuisMiranda10) e [Mayara Alves](https:/
 
 | Versão |    Data    |    Descrição         | Autor(es)  |    Revisor(es) |                  
 |:-----: | :--------: | :-------------:      | :--------: | :-------------:| 
-| `1.0`    | 30/09/2023  | Criação do documento | Breno e Limírio| [Mayara Alves](https://github.com/Mayara-tech)|
+| `1.0`    | 30/09/2023  | Criação do documento | Breno e [Limírio](https://github.com/LimirioGuimaraes)| [Mayara Alves](https://github.com/Mayara-tech)|
 | `1.1`    | 21/10/2023  | Modificação da introdução e adição da rastreabilidade da tabela |[Luis Miranda](https://github.com/LuisMiranda10) e [Mayara Alves](https://github.com/Mayara-tech)| [Vinícius Mendes](https://github.com/yabamiah)|
 | `1.2`    | 25/10/2023  | Adicionando cronograma de elicitação |[Mayara Alves](https://github.com/Mayara-tech)| [Vinícius Mendes](https://github.com/yabamiah)|
 
