@@ -26,7 +26,7 @@ Serão apresentados na Tabela 1, o mapeamento dos documentos e sua referência d
 
 Tabela 1: Legenda do mapeamento de requisitos 
 | Legenda                                                                                                                 | Descrição                             |
-| ----------- |-------------------------------------- |
+| ----------------------------------------------------------------------------------------------------------------------- |-------------------------------------- |
 | RF                                                                                                                      | Requisito Funcional                   |
 | RNF                                                                                                                     | Requisito Não-Funcional               | 
 | [GL](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/elicita%C3%A7%C3%A3o/glossario/)      | Requisito elicitado pelo Glossário    |
@@ -57,7 +57,7 @@ A tabela 2 a seguir mostra a matriz geral de rastreabilidade.
 | RF01  |             |                     |               |           |      |
 | RF02  |             |                     |               |           |      |
 | RF03  |             |                     |               |           |      |
-| RF04  | Obter versão digital do CRLV| [ITP](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/elicita%C3%A7%C3%A3o/Introspeccao/), [GL](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/elicita%C3%A7%C3%A3o/glossario/), [SB](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/elicita%C3%A7%C3%A3o/storyboard/), [ENT](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/elicita%C3%A7%C3%A3o/entrevista/) | Sim |           |      |
+| RF04  | Obter versão digital do CRLV| [ITP](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/elicita%C3%A7%C3%A3o/Introspeccao/), [GL](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/elicita%C3%A7%C3%A3o/glossario/), [SB](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/elicita%C3%A7%C3%A3o/storyboard/), [ENT](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/elicita%C3%A7%C3%A3o/entrevista/) | Sim | [HU](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/agil/historiasUsuario/),  [C](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/cenarios/), [CU](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/casosDeUso/),  [L](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/léxicos/)   |      |
 | RF05  |             |                     |               |           |      |
 | RF06  |             |                     |               |           |      |
 | RF07  |             |                     |               |           |      |
