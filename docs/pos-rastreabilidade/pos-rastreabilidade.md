@@ -75,7 +75,7 @@ Fonte: [Limirio Guimarães](https://github.com/LimirioGuimaraes).
 | RF06 Consultar as multas do seu veículo 			| Requisito Funcional 		      |
 |----------------------------------------------------------- | ----------------------- |
 | Satisfação 						| [História de Usuário US07](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/agil/historiasUsuario/)|
-| Recurso						|[Casos de Uso UC03](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/casosDeUso/), [Léxicos L08](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/l%C3%A9xicos/) |
+| Recurso						|[Casos de Uso UC03](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/casosDeUso/) |
 | Representação 					| [Diagrama de casos de uso](https://requisi.2-Catos-de-software.github.io/2023rteira_Digital_de_Transito/modelagem/casosDeUso/) |
 | Alocado 						| [Caso de Uso UC04](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/casosDeUso/), [Caso de Uso UC05](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/casosDeUso/) |
 | Agregação | [Caso de Uso UC01](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/casosDeUso/), [Caso de Uso UC03](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/casosDeUso/), [Caso de Uso UC04](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/casosDeUso/), [História de Usuário US07](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/agil/historiasUsuario/), [Léxicos L08](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/l%C3%A9xicos/) |
@@ -97,10 +97,10 @@ Fonte: [Limirio Guimarães](https://github.com/LimirioGuimaraes).
 #### **Tabela 12 - RF 11**
 
 
-| RF04 Obter versão digital do CRLV 			| Requisito Funcional 		      |
+| RF11 Indicar principal condutor do veículo 		| Requisito Funcional 		      |
 |----------------------------------------------------------- | ----------------------- |
-| Satisfação 						| [](), []()|
-| Recurso						|[](), [](), |
+| Satisfação 						|  [História de Usuário US03](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/agil/historiasUsuario/) |
+| Recurso						|  [Léxicos L08](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/l%C3%A9xicos/) , [Caso de Uso UC04](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/casosDeUso/) |
 | Representação 					| []() |
 | Alocado 						| [](), []() |
 | Agregação | [](), [](),  [](), [](), [](), [](), []() |
@@ -112,7 +112,7 @@ Fonte: [Luis Miranda](https://github.com/LuisMiranda10).
 
 | RF04 Obter versão digital do CRLV 			| Requisito Funcional 		      |
 |----------------------------------------------------------- | ----------------------- |
-| Satisfação 						| [](), []()|
+| Satisfação 						| , []()|
 | Recurso						|[](), [](), |
 | Representação 					| []() |
 | Alocado 						| [](), []() |
