@@ -110,7 +110,7 @@ Fonte: [Luis Miranda](https://github.com/LuisMiranda10).
 #### **Tabela 13 - RF 12**
 
 
-| RF04 Obter versão digital do CRLV 			| Requisito Funcional 		      |
+| RF12 Permite o acompanhamento do status da multa (a cobrar e pago) 			| Requisito Funcional 		      |
 |----------------------------------------------------------- | ----------------------- |
 | Satisfação 						| , []()|
 | Recurso						|[](), [](), |
