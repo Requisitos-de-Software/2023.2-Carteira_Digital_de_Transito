@@ -160,7 +160,7 @@ Fonte: [Vinícius Mendes](https://github.com/yabamiah).
 #### **Tabela 15 - RF 14**
 
 
-| RF05 - Consultar multas associadas a sua habilitação			| Requisito Funcional 		      |
+| RF14 - Permite ao usuário fazer transferência de veículo			| Requisito Funcional 		      |
 |----------------------------------------------------------- | ----------------------- |
 | Satisfação 						| |
 | Recurso					    	| |
@@ -222,7 +222,7 @@ Fonte: [Luis Miranda](https://github.com/LuisMiranda10).
 #### **Tabela 22 - RF 21**
 
 
-| RF05 - Consultar multas associadas a sua habilitação			| Requisito Funcional 		      |
+| RF21 - 	Dever ser possível consultar a classificação da infração			| Requisito Funcional 		      |
 |----------------------------------------------------------- | ----------------------- |
 | Satisfação 						| |
 | Recurso					    	| |
@@ -235,7 +235,7 @@ Fonte: [Mayara Alves](https://github.com/Mayara-tech).
 #### **Tabela 23 - RF 22**
 
 
-| RF05 - Consultar multas associadas a sua habilitação			| Requisito Funcional 		      |
+| RF22 - Deve ser possível compartilhar os documentos de um veículo com seus coatores.			| Requisito Funcional 		      |
 |----------------------------------------------------------- | ----------------------- |
 | Satisfação 						| |
 | Recurso					    	| |
@@ -287,7 +287,7 @@ Fonte: [Milena Baruc](https://github.com/MilenaBaruc).
 #### **Tabela 30 - RF 29**
 
 
-| RF05 - Consultar multas associadas a sua habilitação			| Requisito Funcional 		      |
+| RF29 - 	Deve ser possível realizar o agendamento de serviços de manutenção e inspeção veicular			| Requisito Funcional 		      |
 |----------------------------------------------------------- | ----------------------- |
 | Satisfação 						| |
 | Recurso					    	| |
