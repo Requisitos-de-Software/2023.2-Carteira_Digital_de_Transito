@@ -90,7 +90,7 @@ Fonte: [Limirio Guimarães](https://github.com/LimirioGuimaraes).
 |----------------------------------------------------------- | ----------------------- |
 | Satisfação 						     | [Especificação Suplementar RS1](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/especificacao-suplementar/), [NFR6](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/agil/framework/) |
 | Recurso 						     | - |
-| Representação						     | N/A |
+| Representação						     | - |
 | Alocado 						     | N/A |
 | Agregação 						     | N/A |
 
