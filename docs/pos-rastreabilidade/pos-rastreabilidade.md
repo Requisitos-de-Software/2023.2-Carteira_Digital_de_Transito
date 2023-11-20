@@ -136,7 +136,7 @@ Fonte: [Luis Miranda](https://github.com/LuisMiranda10).
 #### **Tabela 33 - RNF 01**
 
 
-| RF04 Obter versão digital do CRLV 			| Requisito Não Funcional 		      |
+| RNF 01 O aplicativo permite visualizar a politica de privicidade			| Requisito Não Funcional 		      |
 |----------------------------------------------------------- | ----------------------- |
 | Satisfação 						| [](), []()|
 | Recurso						|[](), [](), |
