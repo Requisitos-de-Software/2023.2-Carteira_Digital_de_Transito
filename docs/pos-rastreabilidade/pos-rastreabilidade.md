@@ -179,7 +179,7 @@ Fonte: [Milena Baruc](https://github.com/MilenaBaruc).
 |----------------------------------------------------------- | ----------------------- |
 | Satisfação | [História de Usuário 11](../modelagem/agil/historiasUsuario.md/#us11---aderir-ao-sistema-de-notificação-eletrônica) |
 | Recurso | [História de Usuário 11](../modelagem/agil/historiasUsuario.md/#us11---aderir-ao-sistema-de-notificação-eletrônica) |
-| Representação | - |
+| Representação |  Protótipo de alta fidelidade: <br/>![prototipoRecall](../assets/Recall%20Pós.jpg) |
 | Alocado | [Cenário 9](../modelagem/cenarios.md/#c09---realizar-o-agendamento-de-serviços-de-manutenção-e-inspeção-veicular), [Léxico 10](../modelagem/léxicos.md/#l10---visualizar-recall) |
 | Agregação | - |
 
