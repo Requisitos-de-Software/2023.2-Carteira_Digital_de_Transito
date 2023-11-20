@@ -72,13 +72,13 @@ Fonte: [Limirio Guimarães](https://github.com/LimirioGuimaraes).
 #### **Tabela 6 - RF 05**
 
 
-| RF05 - Consultar multas associadas a sua habilitação			| Requisito Funcional 		      |
+| RF05 Consultar multas associadas a sua habilitação			| Requisito Funcional 		      |
 |----------------------------------------------------------- | ----------------------- |
-| Satisfação 						| |
-| Recurso					    	| |
-| Representação 			|  |
-| Alocado 					   	|  |
-| Agregação        |  |
+| Satisfação 						| [História de Usuário US08](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/agil/historiasUsuario/) |
+| Recurso					    	| [Caso de Uso UC03](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/casosDeUso/), [Léxico L03](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/léxicos/), [Léxico L08](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/léxicos/)|
+| Representação 			| [Diagrama de casos de uso](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/casosDeUso/)  |
+| Alocado 					   	| [Caso de Uso UC03](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/casosDeUso/), [Léxico L03](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/léxicos/), [Léxico L08](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/léxicos/) |
+| Agregação        | [História de Usuário US08](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/agil/historiasUsuario/), [Caso de Uso UC03](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/casosDeUso/), [Léxico L03](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/léxicos/), [Léxico L08](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/léxicos/), [Diagrama de casos de uso](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/casosDeUso/), |
 
 Fonte: [Mayara Alves](https://github.com/Mayara-tech).
 
