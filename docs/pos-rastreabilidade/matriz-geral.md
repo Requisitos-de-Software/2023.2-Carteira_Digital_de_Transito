@@ -77,14 +77,14 @@ A tabela 2 a seguir mostra a matriz geral de rastreabilidade.
 | RF21  |             |                     |               |           |      |
 | RF22  |             |                     |               |           |      |
 | RF23  |             |                     |               |           |      |
-| RF24  |             |                     |               |           |      |
+| RF24  | O aplicativo deve permitir a pesquisa de informações sobre veículos por meio do número da placa | [ENT](../elicitação/requisitos_elicitados.md/#metodologia) | Não | [C](../modelagem/cenarios.md/#c08---pesquisar-informações-sobre-veículos-por-meio-do-número-da-placa)|  |
 | RF25  |             |                     |               |           |      |
-| RF26  |             |                     |               |           |      |
+| RF26  | O aplicativo deve disponibilizar informações em tempo real sobre condições de tráfego, acidentes e congestionamentos | [ENT](../elicitação/requisitos_elicitados.md/#metodologia) | Não | [CU](../modelagem/casosDeUso.md/#especialização-dos-casos-de-uso), [ES](../modelagem/especificacao-suplementar.md/#requisito-de-confiabilidade-1), [NFR](../modelagem/agil/framework.md/#nfr-confiabilidade)|  |
 | RF27  |             |                     |               |           |      |
-| RF28  |             |                     |               |           |      |
+| RF28  | O aplicativo deve oferecer uma opção de backup seguro de todos os documentos e dados do usuário | [ENT](../elicitação/requisitos_elicitados.md/#metodologia) | Não | [CU](../modelagem/casosDeUso.md/#especialização-dos-casos-de-uso), [ES](../modelagem/especificacao-suplementar.md/#requisito-de-desempenho-3) |  |
 | RF29  |             |                     |               |           |      |
-| RF30  |             |                     |               |           |      |
-| RF31  |             |                     |               |           |      |
+| RF30  | O aplicativo deve notificar o usuário sobre recalls e informações importantes do fabricante do veículo | [ENT](../elicitação/requisitos_elicitados.md/#metodologia) | Não | [HU](../modelagem/agil/historiasUsuario.md/#us11---aderir-ao-sistema-de-notificação-eletrônica), [C](../modelagem/cenarios.md/#c09---realizar-o-agendamento-de-serviços-de-manutenção-e-inspeção-veicular), [L](../modelagem/léxicos.md/#l10---visualizar-recall)|  |
+| RF31  | Deve ser possível obter informações sobre as normas de trânsito, regulamentações e penalidades em vigor | [ENT](../elicitação/requisitos_elicitados.md/#metodologia) | Não | [ES](../modelagem/especificacao-suplementar.md/#requisito-de-desempenho-1) |  |
 | RNF01 | O aplicativo permite visualizar a politica de privicidade            | [ITP](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/elicita%C3%A7%C3%A3o/Introspeccao/)                    |  Sim               | [ES](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/especificacao-suplementar/), [NFR](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/agil/framework/)          |     |
 | RNF02 |             |                     |               |           |      |
 | RNF03 |Aplicativo funciona em multisistemas (android e IOS)|[ITP](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/elicita%C3%A7%C3%A3o/Introspeccao/)| Sim | [ES](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/especificacao-suplementar/), [NFR](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/agil/framework/) |      |
@@ -110,3 +110,4 @@ Fonte: [Limirio Guimarães](https://github.com/LimirioGuimaraes)
 |`1.0`|16/11/2023|Criação do documento|[Luis Miranda](https://github.com/LuisMiranda10) |[Limirio Guimarães](https://github.com/LimirioGuimaraes)| 
 |`1.1`|17/11/2023|Adicionado introdução e objetivo|[Limirio Guimarães](https://github.com/LimirioGuimaraes) | | 
 |`1.2`|18/11/2023|Adicionada os requisitos RF4, RF10, RNF3, RNF7, RNF8 e RNF10 a matriz|[Limirio Guimarães](https://github.com/LimirioGuimaraes) | | 
+|`1.2`|18/11/2023|Adicionada os requisitos RF24, RF26, RF28, RF30, RF31 a matriz|[Milena Baruc](https://github.com/MilenaBaruc) | |
