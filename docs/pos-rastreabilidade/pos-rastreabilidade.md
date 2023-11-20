@@ -136,7 +136,7 @@ Fonte: [Luis Miranda](https://github.com/LuisMiranda10).
 #### **Tabela 33 - RNF 01**
 
 
-| RF04 Obter versão digital do CRLV 			| Requisito Funcional 		      |
+| RF04 Obter versão digital do CRLV 			| Requisito Não Funcional 		      |
 |----------------------------------------------------------- | ----------------------- |
 | Satisfação 						| [](), []()|
 | Recurso						|[](), [](), |
@@ -161,7 +161,7 @@ Fonte: [Limirio Guimarães](https://github.com/LimirioGuimaraes).
 #### **Tabela 36 - RNF 04**
 
 
-| RF04 Obter versão digital do CRLV 			| Requisito Funcional 		      |
+| RF04 Obter versão digital do CRLV 			| Requisito Não Funcional 		      |
 |----------------------------------------------------------- | ----------------------- |
 | Satisfação 						| [](), []()|
 | Recurso						|[](), [](), |
