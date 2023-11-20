@@ -136,10 +136,10 @@ Fonte: [Luis Miranda](https://github.com/LuisMiranda10).
 #### **Tabela 33 - RNF 01**
 
 
-| RNF 01 O aplicativo permite visualizar a politica de privicidade			| Requisito Não Funcional 		      |
+| RNF 01 O aplicativo permite visualizar a politica de privacidade			| Requisito Não Funcional 		      |
 |----------------------------------------------------------- | ----------------------- |
-| Satisfação 						| [](), []()|
-| Recurso						|[](), [](), |
+| Satisfação 						| [Especificação suplementar confiabilidade](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/especificacao-suplementar/),  [NFR6](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/agil/framework/) |
+| Recurso						| - |
 | Representação 					| []() |
 | Alocado 						| [](), []() |
 | Agregação | [](), [](),  [](), [](), [](), [](), []() |
