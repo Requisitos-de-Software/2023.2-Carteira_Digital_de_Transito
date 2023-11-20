@@ -126,7 +126,7 @@ Fonte: [Limirio Guimarães](https://github.com/LimirioGuimaraes).
 |----------------------------------------------------------- | ----------------------- |
 | Satisfação 						      | [História de Usuário US12](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/agil/historiasUsuario/) |
 | Recurso                | - |
-| Representação 					      | - |
+| Representação 					      | Protótipo de alta fidelidade: <br/>![prototipoNotificação](../assets/imagem_2023-11-20_100146911.png) |
 | Alocado 						      |  [NFR Confiabilidade](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/agil/framework/) |
 | Agregação 						      | - |
 
