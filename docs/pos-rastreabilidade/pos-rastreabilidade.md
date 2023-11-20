@@ -72,7 +72,7 @@ Fonte: [Limirio Guimarães](https://github.com/LimirioGuimaraes).
 #### **Tabela 7 - RF 06**
 
 
-| RF04 Obter versão digital do CRLV 			| Requisito Funcional 		      |
+| RF06 Consultar as multas do seu veículo 			| Requisito Funcional 		      |
 |----------------------------------------------------------- | ----------------------- |
 | Satisfação 						| [](), []()|
 | Recurso						|[](), [](), |
