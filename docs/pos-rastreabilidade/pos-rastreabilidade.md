@@ -115,8 +115,8 @@ Fonte: [Luis Miranda](https://github.com/LuisMiranda10).
 | Satisfação 						| [História de Usuário US07](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/agil/historiasUsuario/) |
 | Recurso						| [Caso de Uso UC05](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/casosDeUso/) |
 | Representação 					| [Diagrama de casos de uso](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/casosDeUso/) |
-| Alocado 						| [](), []() |
-| Agregação | [](), [](),  [](), [](), [](), [](), []() |
+| Alocado 						| [Léxicos L03](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/l%C3%A9xicos/), [Léxicos L08](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/l%C3%A9xicos/) |
+| Agregação | [História de Usuário US07](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/agil/historiasUsuario/), ,   [Caso de Uso UC03](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/casosDeUso/) |
 
 Fonte: [Luis Miranda](https://github.com/LuisMiranda10).
 
