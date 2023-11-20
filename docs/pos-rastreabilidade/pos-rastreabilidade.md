@@ -133,6 +133,71 @@ Fonte: [Luis Miranda](https://github.com/LuisMiranda10).
 
 Fonte: [Luis Miranda](https://github.com/LuisMiranda10).
 
+#### **Tabela 25 - RF 24**
+
+
+| RF24 O aplicativo deve permitir a pesquisa de informações sobre veículos por meio do número da placa	| Requisito Funcional 		      |
+|----------------------------------------------------------- | ----------------------- |
+| Satisfação | [Cenário 08](../modelagem/cenarios.md/#c08---pesquisar-informações-sobre-veículos-por-meio-do-número-da-placa) |
+| Recurso | - |
+| Representação | - |
+| Alocado | [Cenário 08](../modelagem/cenarios.md/#c08---pesquisar-informações-sobre-veículos-por-meio-do-número-da-placa) |
+| Agregação | - |
+
+Fonte: [Milena Baruc](https://github.com/MilenaBaruc).
+
+#### **Tabela 27 - RF 26**
+
+
+| RF26 O aplicativo deve disponibilizar informações em tempo real sobre condições de tráfego, acidentes e congestionamentos	| Requisito Funcional 		      |
+|----------------------------------------------------------- | ----------------------- |
+| Satisfação | [Casos de Uso UC7](../modelagem/casosDeUso.md/#especialização-dos-casos-de-uso), [Especificação Suplementar Confiabilidade 1](../modelagem/especificacao-suplementar.md/#requisito-de-confiabilidade-1), [NFR Framework confiabilidade](../modelagem/agil/framework.md/#nfr-confiabilidade) |
+| Recurso | - |
+| Representação | -  |
+| Alocado | [Casos de Uso UC7](../modelagem/casosDeUso.md/#especialização-dos-casos-de-uso), [Especificação Suplementar Confiabilidade 1](../modelagem/especificacao-suplementar.md/#requisito-de-confiabilidade-1), [NFR Framework confiabilidade](../modelagem/agil/framework.md/#nfr-confiabilidade) |
+| Agregação | - |
+
+Fonte: [Milena Baruc](https://github.com/MilenaBaruc).
+
+#### **Tabela 29 - RF 28**
+
+
+| RF28 O aplicativo deve oferecer uma opção de backup seguro de todos os documentos e dados do usuário | Requisito Funcional 		      |
+|----------------------------------------------------------- | ----------------------- |
+| Satisfação | [Casos de Uso UC7](../modelagem/casosDeUso.md/#especialização-dos-casos-de-uso), [Especificação Suplementar Desempenho 3](../modelagem/especificacao-suplementar.md/#requisito-de-desempenho-3) |
+| Recurso | - |
+| Representação | - |
+| Alocado | [Casos de Uso UC7](../modelagem/casosDeUso.md/#especialização-dos-casos-de-uso), [Especificação Suplementar Desempenho 3](../modelagem/especificacao-suplementar.md/#requisito-de-desempenho-3) |
+| Agregação | - |
+
+Fonte: [Milena Baruc](https://github.com/MilenaBaruc).
+
+#### **Tabela 31 - RF 30**
+
+
+| RF30 O aplicativo deve notificar o usuário sobre recalls e informações importantes do fabricante do veículo | Requisito Funcional 		      |
+|----------------------------------------------------------- | ----------------------- |
+| Satisfação | [História de Usuário 11](../modelagem/agil/historiasUsuario.md/#us11---aderir-ao-sistema-de-notificação-eletrônica) |
+| Recurso | [História de Usuário 11](../modelagem/agil/historiasUsuario.md/#us11---aderir-ao-sistema-de-notificação-eletrônica) |
+| Representação | - |
+| Alocado | [Cenário 9](../modelagem/cenarios.md/#c09---realizar-o-agendamento-de-serviços-de-manutenção-e-inspeção-veicular), [Léxico 10](../modelagem/léxicos.md/#l10---visualizar-recall) |
+| Agregação | - |
+
+Fonte: [Milena Baruc](https://github.com/MilenaBaruc).
+
+#### **Tabela 32 - RF 31**
+
+
+| RF31 Deve ser possível obter informações sobre as normas de trânsito, regulamentações e penalidades em vigor | Requisito Funcional 		      |
+|----------------------------------------------------------- | ----------------------- |
+| Satisfação | [Especificação Suplementar Desempenho 1](../modelagem/especificacao-suplementar.md/#requisito-de-desempenho-1) |
+| Recurso | - |
+| Representação | - |
+| Alocado | [Especificação Suplementar Desempenho 1](../modelagem/especificacao-suplementar.md/#requisito-de-desempenho-1) |
+| Agregação | - |
+
+Fonte: [Milena Baruc](https://github.com/MilenaBaruc).
+
 #### **Tabela 33 - RNF 01**
 
 
