@@ -88,7 +88,7 @@ Fonte: [Limirio Guimarães](https://github.com/LimirioGuimaraes).
 
 | RNF03 Aplicativo funciona em multisistemas (android e IOS) | Requisito Não Funcional |
 |----------------------------------------------------------- | ----------------------- |
-| Satisfação 						     | N/A |
+| Satisfação 						     | [Especificação Suplementar RS1](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/especificacao-suplementar/), [NFR6](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/agil/framework/) |
 | Recurso 						     | N/A |
 | Representação						     | N/A |
 | Alocado 						     | N/A |
@@ -100,8 +100,8 @@ Fonte: [Limirio Guimarães](https://github.com/LimirioGuimaraes).
 
 | RNF07 Facilitar o usuário a chegar a funcionalidade de aderir ao SNE | Requisito Não Funcional |
 |----------------------------------------------------------- | ----------------------- |
-| Satisfação 							       | N/A |
-| Recurso                                                              | N/A |
+| Satisfação 							       | [História de Usuário US11](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/agil/historiasUsuario/)|
+| Recurso          | N/A |
 | Representação							       |N/A |
 | Alocado 							       | N/A |
 | Agregação							       | N/A |
@@ -112,8 +112,8 @@ Fonte: [Limirio Guimarães](https://github.com/LimirioGuimaraes).
 
 | RNF08 Deve ser possível acessar a CNH(digital) mesmo sem acesso a internet | Requisito Não Funcional |
 |----------------------------------------------------------- | ----------------------- |
-| Satisfação 								     | N/A |
-| Recurso                                                                    | N/A |
+| Satisfação 								     | [História de Usuário US03](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/agil/historiasUsuario/) |
+| Recurso         | N/A |
 | Representação 							     | N/A |
 | Alocado 								     | N/A |
 | Agregação 								     | N/A |
@@ -124,8 +124,8 @@ Fonte: [Limirio Guimarães](https://github.com/LimirioGuimaraes).
 
 | RNF10 O aplicativo deve alertar o usuário caso seja multado | Requisito Não Funcional |
 |----------------------------------------------------------- | ----------------------- |
-| Satisfação 						      | N/A |
-| Recurso                                                     | N/A |
+| Satisfação 						      | - |
+| Recurso                | N/A |
 | Representação 					      | N/A |
 | Alocado 						      | N/A |
 | Agregação 						      | N/A |
