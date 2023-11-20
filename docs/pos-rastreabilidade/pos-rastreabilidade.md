@@ -138,11 +138,11 @@ Fonte: [Luis Miranda](https://github.com/LuisMiranda10).
 
 | RNF 01 O aplicativo permite visualizar a politica de privacidade			| Requisito Não Funcional 		      |
 |----------------------------------------------------------- | ----------------------- |
-| Satisfação 						| [Especificação suplementar confiabilidade](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/especificacao-suplementar/),  [NFR6](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/agil/framework/) |
+| Satisfação 						| [Especificação suplementar RC1](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/especificacao-suplementar/),  [NFR6](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/agil/framework/) |
 | Recurso						| - |
-| Representação 					| []() |
-| Alocado 						| [](), []() |
-| Agregação | [](), [](),  [](), [](), [](), [](), []() |
+| Representação 					| [NFR6](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/agil/framework/)  |
+| Alocado 						| [Especificação suplementar confiabilidade](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/especificacao-suplementar/) |
+| Agregação |  [NFR Confiabilidade](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/agil/framework/) |
 
 Fonte: [Luis Miranda](https://github.com/LuisMiranda10).
 
