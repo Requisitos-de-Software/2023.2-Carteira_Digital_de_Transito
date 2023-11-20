@@ -62,7 +62,7 @@ Neste tópico, serão apresentadas as tabelas referentes aos elos dos artefatos 
 | RF04 Obter versão digital do CRLV 			| Requisito Funcional 		      |
 |----------------------------------------------------------- | ----------------------- |
 | Satisfação 						| [História de Usuário US4](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/agil/historiasUsuario/), [História de Usuário US5](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/agil/historiasUsuario/)|
-| Recurso						|N/A |
+| Recurso						|[Cenário C06](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/cenarios/), [Léxico L11](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/léxicos/), [Cenário C09](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/cenarios/), [Léxico L12](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/léxicos/)|
 | Representação 					| N/A |
 | Alocado 						| N/A |
 | Agregação | N/A |
@@ -76,7 +76,7 @@ Fonte: [Limirio Guimarães](https://github.com/LimirioGuimaraes).
 | RF10 Contato com suporte 				| Requisito Funcional |
 |----------------------------------------------------------- | ----------------------- |
 | Satisfação 						| [NFR03](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/agil/framework/) |
-| Recurso 						| N/A |
+| Recurso 						| [Caso de Uso UC06](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/casosDeUso/) |
 | Representação 					|N/A |
 | Alocado 						| N/A|
 | Agregação 						| N/A |
