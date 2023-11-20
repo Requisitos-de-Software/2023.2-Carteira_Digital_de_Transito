@@ -112,9 +112,9 @@ Fonte: [Luis Miranda](https://github.com/LuisMiranda10).
 
 | RF12 Permite o acompanhamento do status da multa (a cobrar e pago) 			| Requisito Funcional 		      |
 |----------------------------------------------------------- | ----------------------- |
-| Satisfação 						| , []()|
-| Recurso						|[](), [](), |
-| Representação 					| []() |
+| Satisfação 						| [História de Usuário US07](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/agil/historiasUsuario/) |
+| Recurso						| [Caso de Uso UC05](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/casosDeUso/) |
+| Representação 					| [Diagrama de casos de uso](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/casosDeUso/) |
 | Alocado 						| [](), []() |
 | Agregação | [](), [](),  [](), [](), [](), [](), []() |
 
