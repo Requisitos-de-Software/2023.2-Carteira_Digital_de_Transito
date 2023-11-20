@@ -64,7 +64,7 @@ A tabela 2 a seguir mostra a matriz geral de rastreabilidade.
 | RF08  |             |                     |               |           |      |
 | RF09  |             |                     |               |           |      |
 | RF10  |Contato com suporte|[ITP](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/elicita%C3%A7%C3%A3o/Introspeccao/), [ENT](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/elicita%C3%A7%C3%A3o/entrevista/)| Sim |[C](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/cenarios/), [CU](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/casosDeUso/)|      |
-| RF11  |             |                     |               |           |      |
+| RF11  | Indicar principal condutor do veículo      |  [ITP](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/elicita%C3%A7%C3%A3o/Introspeccao/)        |  Sim             |  [HU](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/agil/historiasUsuario/), [C](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/cenarios/), [CU](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/casosDeUso/),   [L](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/léxicos/)        |      |
 | RF12  |             |                     |               |           |      |
 | RF13  |             |                     |               |           |      |
 | RF14  |             |                     |               |           |      |
