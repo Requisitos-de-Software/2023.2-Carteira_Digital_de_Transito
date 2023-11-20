@@ -79,7 +79,7 @@ Fonte: [Limirio Guimarães](https://github.com/LimirioGuimaraes).
 | Recurso 						| [Caso de Uso UC06](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/casosDeUso/) |
 | Representação 					| [Diagrama de casos de uso](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/casosDeUso/) |
 | Alocado 						| [NFR Suportabilidade](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/agil/framework/)|
-| Agregação 						| N/A |
+| Agregação 						| [História de Usuário US12](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/agil/historiasUsuario/), [Cenário C4](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/cenarios/) |
 
 Fonte: [Limirio Guimarães](https://github.com/LimirioGuimaraes).
 
@@ -91,8 +91,8 @@ Fonte: [Limirio Guimarães](https://github.com/LimirioGuimaraes).
 | Satisfação 						     | [Especificação Suplementar RS1](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/especificacao-suplementar/), [NFR6](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/agil/framework/) |
 | Recurso 						     | - |
 | Representação						     | [NFR06](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/agil/framework/) |
-| Alocado 						     | [Especificação suplementar suportabilidade](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/especificacao-suplementar/), [NFR Suportabilidade](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/agil/framework/) |
-| Agregação 						     | N/A |
+| Alocado 						     | [Especificação suplementar suportabilidade](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/especificacao-suplementar/) |
+| Agregação 						     | [NFR Suportabilidade](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/agil/framework/) |
 
 Fonte: [Limirio Guimarães](https://github.com/LimirioGuimaraes).
 
@@ -104,7 +104,7 @@ Fonte: [Limirio Guimarães](https://github.com/LimirioGuimaraes).
 | Recurso          | [Caso de Uso UC05](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/casosDeUso/) |
 | Representação							       | [Diagrama de casos de uso](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/casosDeUso/) |
 | Alocado 							       | [Caso de Uso UC05](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/casosDeUso/) |
-| Agregação							       | N/A |
+| Agregação							       | [Léxico L8](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/léxicos/) |
 
 Fonte: [Limirio Guimarães](https://github.com/LimirioGuimaraes).
 
@@ -128,7 +128,7 @@ Fonte: [Limirio Guimarães](https://github.com/LimirioGuimaraes).
 | Recurso                | - |
 | Representação 					      | - |
 | Alocado 						      |  [NFR Confiabilidade](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/agil/framework/) |
-| Agregação 						      | N/A |
+| Agregação 						      | - |
 
 Fonte: [Limirio Guimarães](https://github.com/LimirioGuimaraes).
 
