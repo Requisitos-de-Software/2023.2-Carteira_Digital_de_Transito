@@ -102,7 +102,7 @@ Fonte: [Limirio Guimarães](https://github.com/LimirioGuimaraes).
 | Satisfação 						|  [História de Usuário US03](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/agil/historiasUsuario/) |
 | Recurso						|  [Léxicos L08](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/l%C3%A9xicos/) , [Caso de Uso UC04](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/casosDeUso/) |
 | Representação 					| [Diagrama de casos de uso](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/casosDeUso/) |
-| Alocado 						| [](), []() |
+| Alocado 						| [Cenário C07](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/cenarios/) |
 | Agregação | [](), [](),  [](), [](), [](), [](), []() |
 
 Fonte: [Luis Miranda](https://github.com/LuisMiranda10).
