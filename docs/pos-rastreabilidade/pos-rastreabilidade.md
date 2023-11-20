@@ -161,13 +161,13 @@ Fonte: [Limirio Guimarães](https://github.com/LimirioGuimaraes).
 #### **Tabela 36 - RNF 04**
 
 
-| RF04 Obter versão digital do CRLV 			| Requisito Não Funcional 		      |
+| RNF04 Aplicativo possui interface simples 			| Requisito Não Funcional 		      |
 |----------------------------------------------------------- | ----------------------- |
-| Satisfação 						| [](), []()|
-| Recurso						|[](), [](), |
-| Representação 					| []() |
-| Alocado 						| [](), []() |
-| Agregação | [](), [](),  [](), [](), [](), [](), []() |
+| Satisfação 						| [Especificação suplementar RU4](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/especificacao-suplementar/), [NFR1](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/agil/framework/) |
+| Recurso						| - |
+| Representação 					| [NFR1](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/agil/framework/) |
+| Alocado 						| [Especificação suplementar usabilidade](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/especificacao-suplementar/) |
+| Agregação | [NFR Usabilidade](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/agil/framework/) |
 
 Fonte: [Luis Miranda](https://github.com/LuisMiranda10).
 
