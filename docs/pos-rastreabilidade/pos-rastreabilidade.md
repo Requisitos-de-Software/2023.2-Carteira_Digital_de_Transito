@@ -75,7 +75,7 @@ Fonte: [Limirio Guimarães](https://github.com/LimirioGuimaraes).
 | RF06 Consultar as multas do seu veículo 			| Requisito Funcional 		      |
 |----------------------------------------------------------- | ----------------------- |
 | Satisfação 						| [História de Usuário US07](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/agil/historiasUsuario/)|
-| Recurso						|[](), [](), |
+| Recurso						|[Casos de Uso UC03](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/casosDeUso/), [Léxicos L08](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/l%C3%A9xicos/), |
 | Representação 					| []() |
 | Alocado 						| [](), []() |
 | Agregação | [](), [](),  [](), [](), [](), [](), []() |
