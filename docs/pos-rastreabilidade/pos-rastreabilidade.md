@@ -69,7 +69,18 @@ Neste tópico, serão apresentadas as tabelas referentes aos elos dos artefatos 
 
 Fonte: [Limirio Guimarães](https://github.com/LimirioGuimaraes).
 
+#### **Tabela 7 - RF 06**
 
+
+| RF04 Obter versão digital do CRLV 			| Requisito Funcional 		      |
+|----------------------------------------------------------- | ----------------------- |
+| Satisfação 						| [](), []()|
+| Recurso						|[](), [](), |
+| Representação 					| []() |
+| Alocado 						| [](), []() |
+| Agregação | [](), [](),  [](), [](), [](), [](), []() |
+
+Fonte: [Luis Miranda](https://github.com/LuisMiranda10).
 
 #### **Tabela 11 - RF 10**
 
@@ -83,6 +94,57 @@ Fonte: [Limirio Guimarães](https://github.com/LimirioGuimaraes).
 
 Fonte: [Limirio Guimarães](https://github.com/LimirioGuimaraes).
 
+#### **Tabela 12 - RF 11**
+
+
+| RF04 Obter versão digital do CRLV 			| Requisito Funcional 		      |
+|----------------------------------------------------------- | ----------------------- |
+| Satisfação 						| [](), []()|
+| Recurso						|[](), [](), |
+| Representação 					| []() |
+| Alocado 						| [](), []() |
+| Agregação | [](), [](),  [](), [](), [](), [](), []() |
+
+Fonte: [Luis Miranda](https://github.com/LuisMiranda10).
+
+#### **Tabela 13 - RF 12**
+
+
+| RF04 Obter versão digital do CRLV 			| Requisito Funcional 		      |
+|----------------------------------------------------------- | ----------------------- |
+| Satisfação 						| [](), []()|
+| Recurso						|[](), [](), |
+| Representação 					| []() |
+| Alocado 						| [](), []() |
+| Agregação | [](), [](),  [](), [](), [](), [](), []() |
+
+Fonte: [Luis Miranda](https://github.com/LuisMiranda10).
+
+#### **Tabela 21 - RF 20**
+
+
+| RF04 Obter versão digital do CRLV 			| Requisito Funcional 		      |
+|----------------------------------------------------------- | ----------------------- |
+| Satisfação 						| [](), []()|
+| Recurso						|[](), [](), |
+| Representação 					| []() |
+| Alocado 						| [](), []() |
+| Agregação | [](), [](),  [](), [](), [](), [](), []() |
+
+Fonte: [Luis Miranda](https://github.com/LuisMiranda10).
+
+#### **Tabela 33 - RNF 01**
+
+
+| RF04 Obter versão digital do CRLV 			| Requisito Funcional 		      |
+|----------------------------------------------------------- | ----------------------- |
+| Satisfação 						| [](), []()|
+| Recurso						|[](), [](), |
+| Representação 					| []() |
+| Alocado 						| [](), []() |
+| Agregação | [](), [](),  [](), [](), [](), [](), []() |
+
+Fonte: [Luis Miranda](https://github.com/LuisMiranda10).
 
 #### **Tabela 35 - RNF 03**
 
@@ -95,6 +157,19 @@ Fonte: [Limirio Guimarães](https://github.com/LimirioGuimaraes).
 | Agregação 						     | [NFR Suportabilidade](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/agil/framework/) |
 
 Fonte: [Limirio Guimarães](https://github.com/LimirioGuimaraes).
+
+#### **Tabela 36 - RNF 04**
+
+
+| RF04 Obter versão digital do CRLV 			| Requisito Funcional 		      |
+|----------------------------------------------------------- | ----------------------- |
+| Satisfação 						| [](), []()|
+| Recurso						|[](), [](), |
+| Representação 					| []() |
+| Alocado 						| [](), []() |
+| Agregação | [](), [](),  [](), [](), [](), [](), []() |
+
+Fonte: [Luis Miranda](https://github.com/LuisMiranda10).
 
 #### **Tabela 39 - RNF 07**
 
