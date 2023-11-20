@@ -69,6 +69,19 @@ Neste tópico, serão apresentadas as tabelas referentes aos elos dos artefatos 
 
 Fonte: [Limirio Guimarães](https://github.com/LimirioGuimaraes).
 
+#### **Tabela 6 - RF 05**
+
+
+| RF05 - Consultar multas associadas a sua habilitação			| Requisito Funcional 		      |
+|----------------------------------------------------------- | ----------------------- |
+| Satisfação 						| |
+| Recurso					    	| |
+| Representação 			|  |
+| Alocado 					   	|  |
+| Agregação        |  |
+
+Fonte: [Mayara Alves](https://github.com/Mayara-tech).
+
 #### **Tabela 7 - RF 06**
 
 
@@ -144,6 +157,19 @@ Fonte: [Luis Miranda](https://github.com/LuisMiranda10).
 
 Fonte: [Vinícius Mendes](https://github.com/yabamiah).
 
+#### **Tabela 15 - RF 14**
+
+
+| RF05 - Consultar multas associadas a sua habilitação			| Requisito Funcional 		      |
+|----------------------------------------------------------- | ----------------------- |
+| Satisfação 						| |
+| Recurso					    	| |
+| Representação 			|  |
+| Alocado 					   	|  |
+| Agregação        |  |
+
+Fonte: [Mayara Alves](https://github.com/Mayara-tech).
+
 #### **Tabela 18 - RF 17**
 
 |                 RF17 O aplicativo deve divulgar campanhas e projetos do DETRAN | Requisito Funcional |
@@ -193,6 +219,32 @@ Fonte: [Vinícius Mendes](https://github.com/yabamiah).
 
 Fonte: [Luis Miranda](https://github.com/LuisMiranda10).
 
+#### **Tabela 22 - RF 21**
+
+
+| RF05 - Consultar multas associadas a sua habilitação			| Requisito Funcional 		      |
+|----------------------------------------------------------- | ----------------------- |
+| Satisfação 						| |
+| Recurso					    	| |
+| Representação 			|  |
+| Alocado 					   	|  |
+| Agregação        |  |
+
+Fonte: [Mayara Alves](https://github.com/Mayara-tech).
+
+#### **Tabela 23 - RF 22**
+
+
+| RF05 - Consultar multas associadas a sua habilitação			| Requisito Funcional 		      |
+|----------------------------------------------------------- | ----------------------- |
+| Satisfação 						| |
+| Recurso					    	| |
+| Representação 			|  |
+| Alocado 					   	|  |
+| Agregação        |  |
+
+Fonte: [Mayara Alves](https://github.com/Mayara-tech).
+
 #### **Tabela 25 - RF 24**
 
 
@@ -231,6 +283,19 @@ Fonte: [Milena Baruc](https://github.com/MilenaBaruc).
 | Agregação | - |
 
 Fonte: [Milena Baruc](https://github.com/MilenaBaruc).
+
+#### **Tabela 30 - RF 29**
+
+
+| RF05 - Consultar multas associadas a sua habilitação			| Requisito Funcional 		      |
+|----------------------------------------------------------- | ----------------------- |
+| Satisfação 						| |
+| Recurso					    	| |
+| Representação 			|  |
+| Alocado 					   	|  |
+| Agregação        |  |
+
+Fonte: [Mayara Alves](https://github.com/Mayara-tech).
 
 #### **Tabela 31 - RF 30**
 
