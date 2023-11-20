@@ -162,8 +162,8 @@ Fonte: [Vinícius Mendes](https://github.com/yabamiah).
 
 | RF14 - Permite ao usuário fazer transferência de veículo			| Requisito Funcional 		      |
 |----------------------------------------------------------- | ----------------------- |
-| Satisfação 						| |
-| Recurso					    	| |
+| Satisfação 						| [Cenário 06](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/cenarios/#c06-Realizar-Transferência-do-Veículo)|
+| Recurso					    	|  |
 | Representação 			|  |
 | Alocado 					   	|  |
 | Agregação        |  |
