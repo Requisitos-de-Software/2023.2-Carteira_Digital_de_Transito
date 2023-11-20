@@ -25,6 +25,7 @@ As colunas serão apresentadas da seguinte forma:
 Serão apresentados na Tabela 1, o mapeamento dos documentos e sua referência dos artefatos apresentados em seguida.
 
 Tabela 1: Legenda do mapeamento de requisitos 
+
 | Legenda                                                                                                                 | Descrição                             |
 | ----------------------------------------------------------------------------------------------------------------------- |-------------------------------------- |
 | RF                                                                                                                      | Requisito Funcional                   |
@@ -54,14 +55,14 @@ A tabela 2 a seguir mostra a matriz geral de rastreabilidade.
 
 | ID    | Descrição   | Pré-Rastreabilidade | Implementado? | Artefatos | Elos |
 | ----- | ----------- | ------------------- | ------------- | --------- | ---- |
-| RF01  |             |                     |               |           |      |
+| RF01  |Login pelo gov|[ITP](../elicitação/Introspeccao.md)| Sim|[C](../modelagem/cenarios.md)|      |
 | RF02  |             |                     |               |           |      |
 | RF03  |             |                     |               |           |      |
 | RF04  | Obter versão digital do CRLV| [ITP](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/elicita%C3%A7%C3%A3o/Introspeccao/), [GL](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/elicita%C3%A7%C3%A3o/glossario/), [SB](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/elicita%C3%A7%C3%A3o/storyboard/), [ENT](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/elicita%C3%A7%C3%A3o/entrevista/) | Sim | [HU](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/agil/historiasUsuario/),  [C](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/cenarios/), [CU](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/casosDeUso/),  [L](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/léxicos/)   |      |
 | RF05  |             |                     |               |           |      |
 | RF06  |             |                     |               |           |      |
 | RF07  |             |                     |               |           |      |
-| RF08  |             |                     |               |           |      |
+| RF08  |O Aplicativo possui diferentes meios de pagamento de multa|[ITP](../elicitação/Introspeccao.md), [SB](../elicitação/storyboard.md)|Sim|[CU](../modelagem/casosDeUso.md)|  |
 | RF09  |             |                     |               |           |      |
 | RF10  |Contato com suporte|[ITP](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/elicita%C3%A7%C3%A3o/Introspeccao/), [ENT](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/elicita%C3%A7%C3%A3o/entrevista/)| Sim |[C](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/cenarios/), [CU](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/casosDeUso/)|      |
 | RF11  |             |                     |               |           |      |
@@ -76,20 +77,20 @@ A tabela 2 a seguir mostra a matriz geral de rastreabilidade.
 | RF20  |             |                     |               |           |      |
 | RF21  |             |                     |               |           |      |
 | RF22  |             |                     |               |           |      |
-| RF23  |             |                     |               |           |      |
+| RF23  |O usuário deve conseguir solicitar a outro usuário o compartilhamento dos documentos do veículo.|[SB](../elicitação/storyboard.md)|Sim|[L](../modelagem/léxicos.md)| |
 | RF24  |             |                     |               |           |      |
 | RF25  |             |                     |               |           |      |
 | RF26  |             |                     |               |           |      |
-| RF27  |             |                     |               |           |      |
+| RF27  |Deve ser possível configurar alertas de vencimento da CNH e do licenciamento do veículo.|[ENT](../elicitação/entrevista.md)|Não| - ||
 | RF28  |             |                     |               |           |      |
 | RF29  |             |                     |               |           |      |
 | RF30  |             |                     |               |           |      |
 | RF31  |             |                     |               |           |      |
 | RNF01 |             |                     |               |           |      |
-| RNF02 |             |                     |               |           |      |
+| RNF02 |Validar cadastro de CNH|[ITP](../elicitação/Introspeccao.md)|Sim|[L](../modelagem/léxicos.md)|      |
 | RNF03 |Aplicativo funciona em multisistemas (android e IOS)|[ITP](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/elicita%C3%A7%C3%A3o/Introspeccao/)| Sim | [ES](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/especificacao-suplementar/), [NFR](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/agil/framework/) |      |
 | RNF04 |             |                     |               |           |      |
-| RNF05 |             |                     |               |           |      |
+| RNF05 |Aplicativo deve evitar erros e telas brancas durante o uso|[ITP](../elicitação/Introspeccao.md)|Não| - |      |
 | RNF06 |             |                     |               |           |      |
 | RNF07 |Facilitar o usuário a chegar a funcionalidade de aderir ao SNE | [GL](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/elicita%C3%A7%C3%A3o/glossario/) | Sim | [CU](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/casosDeUso/),  [L](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/léxicos/), |      |
 | RNF08 |Deve ser possível acessar a CNH(digital) mesmo sem acesso a internet.| [SB](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/elicita%C3%A7%C3%A3o/storyboard/)| Sim | [HU](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/agil/historiasUsuario/),  [C](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/cenarios/),  [CU](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/casosDeUso/) |      |
@@ -110,3 +111,5 @@ Fonte: [Limirio Guimarães](https://github.com/LimirioGuimaraes)
 |`1.0`|16/11/2023|Criação do documento|[Luis Miranda](https://github.com/LuisMiranda10) |[Limirio Guimarães](https://github.com/LimirioGuimaraes)| 
 |`1.1`|17/11/2023|Adicionado introdução e objetivo|[Limirio Guimarães](https://github.com/LimirioGuimaraes) | | 
 |`1.2`|18/11/2023|Adicionada os requisitos RF4, RF10, RNF3, RNF7, RNF8 e RNF10 a matriz|[Limirio Guimarães](https://github.com/LimirioGuimaraes) | | 
+|`1.3`|20/11/2023|Adicionado os requisitos RF1, RF27, RF8, RNF2, RF23 e RNF5 a matriz|[Breno Queiroz](https://github.com/brenob6) |[](https://github.com/)| 
+
