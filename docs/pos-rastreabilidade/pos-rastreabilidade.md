@@ -61,7 +61,7 @@ Neste tópico, serão apresentadas as tabelas referentes aos elos dos artefatos 
 
 | RF04 Obter versão digital do CRLV 			| Requisito Funcional 		      |
 |----------------------------------------------------------- | ----------------------- |
-| Satisfação 						| N/A |
+| Satisfação 						| [História de Usuário US4](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/agil/historiasUsuario/), [História de Usuário US5](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/agil/historiasUsuario/)|
 | Recurso						|N/A |
 | Representação 					| N/A |
 | Alocado 						| N/A |
@@ -75,7 +75,7 @@ Fonte: [Limirio Guimarães](https://github.com/LimirioGuimaraes).
 
 | RF10 Contato com suporte 				| Requisito Funcional |
 |----------------------------------------------------------- | ----------------------- |
-| Satisfação 						| N/A |
+| Satisfação 						| [NFR03](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/agil/framework/) |
 | Recurso 						| N/A |
 | Representação 					|N/A |
 | Alocado 						| N/A|
