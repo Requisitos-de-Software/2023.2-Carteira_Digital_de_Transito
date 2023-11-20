@@ -52,7 +52,7 @@ Fonte: [Luis Miranda](https://github.com/LuisMiranda10) e [Mayara Alves](https:/
 | [ITP](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/elicita%C3%A7%C3%A3o/Introspeccao/) |Consultar multas dos veículos que você é principal condutor	                        |RF7   | Implementado   |
 | [ITP](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/elicita%C3%A7%C3%A3o/Introspeccao/), [SB](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/elicita%C3%A7%C3%A3o/storyboard/) |O Aplicativo possui diferentes meios de pagamento de multa		                        |RF8    |   Implementado |
 | [ITP](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/elicita%C3%A7%C3%A3o/Introspeccao/) |Renvidicar a multa																		|RF9  |    Implementado   |
-| [ITP](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/elicita%C3%A7%C3%A3o/Introspeccao/), [ENT](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/elicita%C3%A7%C3%A3o/entrevista/) |Contato com suporte																	|RF10  | Não implemetado   |
+| [ITP](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/elicita%C3%A7%C3%A3o/Introspeccao/), [ENT](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/elicita%C3%A7%C3%A3o/entrevista/) |Contato com suporte																	|RF10  | Implemetado   |
 | [ITP](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/elicita%C3%A7%C3%A3o/Introspeccao/) |Indicar principal condutor do veículo 													|RF11   |    Implementado  |
 | [ITP](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/elicita%C3%A7%C3%A3o/Introspeccao/), [SB](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/elicita%C3%A7%C3%A3o/storyboard/) |Permite o acompanhamento do status da multa (a cobrar e pago)						    |RF12  |   Implementado     |
 | [ITP](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/elicita%C3%A7%C3%A3o/Introspeccao/) |Permite visualizar histórico de multas do condutor									    |RF13  |    Implementado    |
@@ -68,12 +68,12 @@ Fonte: [Luis Miranda](https://github.com/LuisMiranda10) e [Mayara Alves](https:/
 | [ITP](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/elicita%C3%A7%C3%A3o/Introspeccao/) |Possui modo escuro/claro																|RNF6  |  Não implementado   |
 | [GL](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/elicita%C3%A7%C3%A3o/glossario/) | Deve ser possível consultar as siglas apresentadas| RF18 | Não implementado |f
 | [GL](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/elicita%C3%A7%C3%A3o/glossario/) | Deve ser possível baixar os CRLV dos veículos| RF19 | Implementado |
-| [GL](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/elicita%C3%A7%C3%A3o/glossario/) | Facilitar o usuário a chegar a funcionalidade de aderir ao SNE       | RNF7 | Não implementado |
+| [GL](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/elicita%C3%A7%C3%A3o/glossario/) | Facilitar o usuário a chegar a funcionalidade de aderir ao SNE       | RNF7 | Implementado |
 | [GL](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/elicita%C3%A7%C3%A3o/glossario/) |Deve ser possível participar no Cadastro Positivo | RF20 | Implementado |
 | [GL](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/elicita%C3%A7%C3%A3o/glossario/), [ENT](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/elicita%C3%A7%C3%A3o/entrevista/) | Dever ser possível consultar a classificação da infração | RF21 | Não implementado |
 | [SB](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/elicita%C3%A7%C3%A3o/storyboard/), [ENT](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/elicita%C3%A7%C3%A3o/entrevista/) |Deve ser possível compartilhar os documentos de um veículo com seus coatores.| RF22 | Implementado
 | [SB](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/elicita%C3%A7%C3%A3o/storyboard/) |O usuário deve conseguir solicitar a outro usuário o compartilhamento dos documentos do veículo.| RF23 | Implementado
-| [SB](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/elicita%C3%A7%C3%A3o/storyboard/) |Deve ser possível acessar a CNH(digital) mesmo sem acesso a internet.| RNF8 | Não implementado
+| [SB](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/elicita%C3%A7%C3%A3o/storyboard/) |Deve ser possível acessar a CNH(digital) mesmo sem acesso a internet.| RNF8 | Implementado
 | [SB](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/elicita%C3%A7%C3%A3o/storyboard/) |Deve existir um prazo de validade do compartilhamento da CNH.| RNF9 | Não implementado
 | [SB](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/elicita%C3%A7%C3%A3o/storyboard/), [ENT](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/elicita%C3%A7%C3%A3o/entrevista/) |O aplicativo deve alertar o usuário caso seja multado .|RNF10 | Não implementado
 | [ENT](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/elicita%C3%A7%C3%A3o/entrevista/)  | O aplicativo deve permitir a pesquisa de informações sobre veículos por meio do número da placa. | RF24 | Não implementado |
@@ -94,7 +94,7 @@ Fonte: [Luis Miranda](https://github.com/LuisMiranda10) e [Mayara Alves](https:/
 
 | Versão |    Data    |    Descrição         | Autor(es)  |    Revisor(es) |                  
 |:-----: | :--------: | :-------------:      | :--------: | :-------------:| 
-| `1.0`    | 30/09/2023  | Criação do documento | Breno e Limírio| [Mayara Alves](https://github.com/Mayara-tech)|
+| `1.0`    | 30/09/2023  | Criação do documento | Breno e [Limírio](https://github.com/LimirioGuimaraes)| [Mayara Alves](https://github.com/Mayara-tech)|
 | `1.1`    | 21/10/2023  | Modificação da introdução e adição da rastreabilidade da tabela |[Luis Miranda](https://github.com/LuisMiranda10) e [Mayara Alves](https://github.com/Mayara-tech)| [Vinícius Mendes](https://github.com/yabamiah)|
 | `1.2`    | 25/10/2023  | Adicionando cronograma de elicitação |[Mayara Alves](https://github.com/Mayara-tech)| [Vinícius Mendes](https://github.com/yabamiah)|
 

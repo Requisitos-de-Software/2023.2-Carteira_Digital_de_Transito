@@ -62,7 +62,7 @@ Neste tópico, serão apresentadas as tabelas referentes aos elos dos artefatos 
 | RF04 Obter versão digital do CRLV 			| Requisito Funcional 		      |
 |----------------------------------------------------------- | ----------------------- |
 | Satisfação 						| [História de Usuário US4](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/agil/historiasUsuario/), [História de Usuário US5](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/agil/historiasUsuario/)|
-| Recurso						|[Cenário C06](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/cenarios/), [Léxico L11](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/léxicos/), |
+| Recurso						|[Cenário C06](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/cenarios/), [Léxico L11](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/léxicos/) |
 | Representação 					| [Diagrama de casos de uso](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/casosDeUso/) |
 | Alocado 						| [Cenário C09](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/cenarios/), [Léxico L12](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/léxicos/) |
 | Agregação | [Caso de Uso UC01](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/casosDeUso/), [Caso de Uso UC02](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/casosDeUso/),  [História de Usuário US4](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/agil/historiasUsuario/), [História de Usuário US5](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/agil/historiasUsuario/), [Cenário C2](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/cenarios/), [Cenário C10](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/cenarios/), [Léxico L11](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/léxicos/) |
@@ -112,37 +112,102 @@ Fonte: [Luis Miranda](https://github.com/LuisMiranda10).
 
 | RF12 Permite o acompanhamento do status da multa (a cobrar e pago) 			| Requisito Funcional 		      |
 |----------------------------------------------------------- | ----------------------- |
-| Satisfação 						| , []()|
-| Recurso						|[](), [](), |
-| Representação 					| []() |
-| Alocado 						| [](), []() |
-| Agregação | [](), [](),  [](), [](), [](), [](), []() |
+| Satisfação 						| [História de Usuário US07](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/agil/historiasUsuario/) |
+| Recurso						| [Caso de Uso UC05](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/casosDeUso/) |
+| Representação 					| [Diagrama de casos de uso](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/casosDeUso/) |
+| Alocado 						| [Léxicos L03](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/l%C3%A9xicos/), [Léxicos L08](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/l%C3%A9xicos/) |
+| Agregação | [História de Usuário US07](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/agil/historiasUsuario/), [Caso de Uso UC03](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/casosDeUso/),  |
 
 Fonte: [Luis Miranda](https://github.com/LuisMiranda10).
 
 #### **Tabela 21 - RF 20**
 
 
-| RF04 Obter versão digital do CRLV 			| Requisito Funcional 		      |
+| RF20 Deve ser possível participar no Cadastro Positivo		| Requisito Funcional 		      |
 |----------------------------------------------------------- | ----------------------- |
-| Satisfação 						| [](), []()|
-| Recurso						|[](), [](), |
-| Representação 					| []() |
-| Alocado 						| [](), []() |
-| Agregação | [](), [](),  [](), [](), [](), [](), []() |
+| Satisfação 						|  [História de Usuário US10](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/agil/historiasUsuario/) |
+| Recurso						| [Léxico L01](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/léxicos/) |
+| Representação 					| [NFR04](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/agil/framework/)  |
+| Alocado 						| [Especificação suplementar confiabilidade](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/especificacao-suplementar/)  |
+| Agregação | [História de Usuário US10](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/agil/historiasUsuario/), [Léxico L01](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/léxicos/) |
 
 Fonte: [Luis Miranda](https://github.com/LuisMiranda10).
+
+#### **Tabela 25 - RF 24**
+
+
+| RF24 O aplicativo deve permitir a pesquisa de informações sobre veículos por meio do número da placa	| Requisito Funcional 		      |
+|----------------------------------------------------------- | ----------------------- |
+| Satisfação | [Cenário 08](../modelagem/cenarios.md/#c08---pesquisar-informações-sobre-veículos-por-meio-do-número-da-placa) |
+| Recurso | - |
+| Representação | - |
+| Alocado | [Cenário 08](../modelagem/cenarios.md/#c08---pesquisar-informações-sobre-veículos-por-meio-do-número-da-placa) |
+| Agregação | - |
+
+Fonte: [Milena Baruc](https://github.com/MilenaBaruc).
+
+#### **Tabela 27 - RF 26**
+
+
+| RF26 O aplicativo deve disponibilizar informações em tempo real sobre condições de tráfego, acidentes e congestionamentos	| Requisito Funcional 		      |
+|----------------------------------------------------------- | ----------------------- |
+| Satisfação | [Casos de Uso UC7](../modelagem/casosDeUso.md/#especialização-dos-casos-de-uso), [Especificação Suplementar Confiabilidade 1](../modelagem/especificacao-suplementar.md/#requisito-de-confiabilidade-1), [NFR Framework confiabilidade](../modelagem/agil/framework.md/#nfr-confiabilidade) |
+| Recurso | - |
+| Representação | -  |
+| Alocado | [Casos de Uso UC7](../modelagem/casosDeUso.md/#especialização-dos-casos-de-uso), [Especificação Suplementar Confiabilidade 1](../modelagem/especificacao-suplementar.md/#requisito-de-confiabilidade-1), [NFR Framework confiabilidade](../modelagem/agil/framework.md/#nfr-confiabilidade) |
+| Agregação | - |
+
+Fonte: [Milena Baruc](https://github.com/MilenaBaruc).
+
+#### **Tabela 29 - RF 28**
+
+
+| RF28 O aplicativo deve oferecer uma opção de backup seguro de todos os documentos e dados do usuário | Requisito Funcional 		      |
+|----------------------------------------------------------- | ----------------------- |
+| Satisfação | [Casos de Uso UC7](../modelagem/casosDeUso.md/#especialização-dos-casos-de-uso), [Especificação Suplementar Desempenho 3](../modelagem/especificacao-suplementar.md/#requisito-de-desempenho-3) |
+| Recurso | - |
+| Representação | - |
+| Alocado | [Casos de Uso UC7](../modelagem/casosDeUso.md/#especialização-dos-casos-de-uso), [Especificação Suplementar Desempenho 3](../modelagem/especificacao-suplementar.md/#requisito-de-desempenho-3) |
+| Agregação | - |
+
+Fonte: [Milena Baruc](https://github.com/MilenaBaruc).
+
+#### **Tabela 31 - RF 30**
+
+
+| RF30 O aplicativo deve notificar o usuário sobre recalls e informações importantes do fabricante do veículo | Requisito Funcional 		      |
+|----------------------------------------------------------- | ----------------------- |
+| Satisfação | [História de Usuário 11](../modelagem/agil/historiasUsuario.md/#us11---aderir-ao-sistema-de-notificação-eletrônica) |
+| Recurso | [História de Usuário 11](../modelagem/agil/historiasUsuario.md/#us11---aderir-ao-sistema-de-notificação-eletrônica) |
+| Representação |  Protótipo de alta fidelidade: <br/>![prototipoRecall](../assets/Recall%20Pós.jpg) |
+| Alocado | [Cenário 9](../modelagem/cenarios.md/#c09---realizar-o-agendamento-de-serviços-de-manutenção-e-inspeção-veicular), [Léxico 10](../modelagem/léxicos.md/#l10---visualizar-recall) |
+| Agregação | - |
+
+Fonte: [Milena Baruc](https://github.com/MilenaBaruc).
+
+#### **Tabela 32 - RF 31**
+
+
+| RF31 Deve ser possível obter informações sobre as normas de trânsito, regulamentações e penalidades em vigor | Requisito Funcional 		      |
+|----------------------------------------------------------- | ----------------------- |
+| Satisfação | [Especificação Suplementar Desempenho 1](../modelagem/especificacao-suplementar.md/#requisito-de-desempenho-1) |
+| Recurso | - |
+| Representação | - |
+| Alocado | [Especificação Suplementar Desempenho 1](../modelagem/especificacao-suplementar.md/#requisito-de-desempenho-1) |
+| Agregação | - |
+
+Fonte: [Milena Baruc](https://github.com/MilenaBaruc).
 
 #### **Tabela 33 - RNF 01**
 
 
-| RF04 Obter versão digital do CRLV 			| Requisito Não Funcional 		      |
+| RNF 01 O aplicativo permite visualizar a politica de privacidade			| Requisito Não Funcional 		      |
 |----------------------------------------------------------- | ----------------------- |
-| Satisfação 						| [](), []()|
-| Recurso						|[](), [](), |
-| Representação 					| []() |
-| Alocado 						| [](), []() |
-| Agregação | [](), [](),  [](), [](), [](), [](), []() |
+| Satisfação 						| [Especificação suplementar RC1](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/especificacao-suplementar/),  [NFR6](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/agil/framework/) |
+| Recurso						| - |
+| Representação 					| [NFR6](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/agil/framework/)  |
+| Alocado 						| [Especificação suplementar confiabilidade](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/especificacao-suplementar/) |
+| Agregação |  [NFR Confiabilidade](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/agil/framework/) |
 
 Fonte: [Luis Miranda](https://github.com/LuisMiranda10).
 
@@ -161,13 +226,13 @@ Fonte: [Limirio Guimarães](https://github.com/LimirioGuimaraes).
 #### **Tabela 36 - RNF 04**
 
 
-| RF04 Obter versão digital do CRLV 			| Requisito Não Funcional 		      |
+| RNF04 Aplicativo possui interface simples 			| Requisito Não Funcional 		      |
 |----------------------------------------------------------- | ----------------------- |
-| Satisfação 						| [](), []()|
-| Recurso						|[](), [](), |
-| Representação 					| []() |
-| Alocado 						| [](), []() |
-| Agregação | [](), [](),  [](), [](), [](), [](), []() |
+| Satisfação 						| [Especificação suplementar RU4](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/especificacao-suplementar/), [NFR1](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/agil/framework/) |
+| Recurso						| - |
+| Representação 					| [NFR1](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/agil/framework/) |
+| Alocado 						| [Especificação suplementar usabilidade](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/especificacao-suplementar/) |
+| Agregação | [NFR Usabilidade](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/agil/framework/) |
 
 Fonte: [Luis Miranda](https://github.com/LuisMiranda10).
 
@@ -223,4 +288,6 @@ Fonte: [Limirio Guimarães](https://github.com/LimirioGuimaraes).
 |:----:|----|---------|-----|:-------:|
 |`1.0`|16/11/2023|Criação do documento|[Limirio Guimarães](https://github.com/LimirioGuimaraes) | | 
 |`1.1`|18/11/2023|Adicionada tabela dos requisitos RF4, RF10, RNF3, RNF7, RNF8 e RNF10 |[Limirio Guimarães](https://github.com/LimirioGuimaraes) | | 
+|`1.1`|18/11/2023|Adicionada tabela dos requisitos RF6, RF11, RNF1, RF20, RF12, RNF4 | [Luis Miranda](https://github.com/LuisMiranda10) | |
+|`1.2`|20/11/2023|Adicionada tabela dos requisitos RF28, RF30, RF31, RF24, RF26 | [Milena Baruc](https://github.com/MilenaBaruc) | |
  

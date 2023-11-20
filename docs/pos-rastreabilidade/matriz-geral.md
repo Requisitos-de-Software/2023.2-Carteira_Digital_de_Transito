@@ -60,13 +60,13 @@ A tabela 2 a seguir mostra a matriz geral de rastreabilidade.
 | RF03  |             |                     |               |           |      |
 | RF04  | Obter versão digital do CRLV| [ITP](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/elicita%C3%A7%C3%A3o/Introspeccao/), [GL](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/elicita%C3%A7%C3%A3o/glossario/), [SB](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/elicita%C3%A7%C3%A3o/storyboard/), [ENT](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/elicita%C3%A7%C3%A3o/entrevista/) | Sim | [HU](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/agil/historiasUsuario/),  [C](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/cenarios/), [CU](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/casosDeUso/),  [L](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/léxicos/)   |      |
 | RF05  |             |                     |               |           |      |
-| RF06  |             |                     |               |           |      |
+| RF06  |  Consultar as multas do seu veículo           |   [ITP](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/elicita%C3%A7%C3%A3o/Introspeccao/), [SB](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/elicita%C3%A7%C3%A3o/storyboard/)                  |   Sim            | [HU](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/agil/historiasUsuario/), [CU](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/casosDeUso/),   [L](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/léxicos/)           |      |
 | RF07  |             |                     |               |           |      |
 | RF08  |O Aplicativo possui diferentes meios de pagamento de multa|[ITP](../elicitação/Introspeccao.md), [SB](../elicitação/storyboard.md)|Sim|[CU](../modelagem/casosDeUso.md)|  |
 | RF09  |             |                     |               |           |      |
 | RF10  |Contato com suporte|[ITP](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/elicita%C3%A7%C3%A3o/Introspeccao/), [ENT](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/elicita%C3%A7%C3%A3o/entrevista/)| Sim |[C](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/cenarios/), [CU](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/casosDeUso/)|      |
-| RF11  |             |                     |               |           |      |
-| RF12  |             |                     |               |           |      |
+| RF11  | Indicar principal condutor do veículo      |  [ITP](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/elicita%C3%A7%C3%A3o/Introspeccao/)        |  Sim             |  [HU](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/agil/historiasUsuario/), [C](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/cenarios/), [CU](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/casosDeUso/),   [L](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/léxicos/)        |      |
+| RF12  | Permite o acompanhamento do status da multa (a cobrar e pago)            |  [ITP](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/elicita%C3%A7%C3%A3o/Introspeccao/), [SB](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/elicita%C3%A7%C3%A3o/storyboard/)                |   Sim      |  [HU](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/agil/historiasUsuario/), [CU](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/casosDeUso/), [L](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/léxicos/)         |      |
 | RF13  |             |                     |               |           |      |
 | RF14  |             |                     |               |           |      |
 | RF15  |             |                     |               |           |      |
@@ -74,9 +74,10 @@ A tabela 2 a seguir mostra a matriz geral de rastreabilidade.
 | RF17  |             |                     |               |           |      |
 | RF18  |             |                     |               |           |      |
 | RF19  |             |                     |               |           |      |
-| RF20  |             |                     |               |           |      |
+| RF20  | Deve ser possível participar no Cadastro Positivo             |  [GL](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/elicita%C3%A7%C3%A3o/glossario/)      |   Sim             |  [HU](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/agil/historiasUsuario/),  [L](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/léxicos/), [NFR](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/agil/framework/), [ES](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/especificacao-suplementar/)         |      |
 | RF21  |             |                     |               |           |      |
 | RF22  |             |                     |               |           |      |
+
 | RF23  |O usuário deve conseguir solicitar a outro usuário o compartilhamento dos documentos do veículo.|[SB](../elicitação/storyboard.md)|Sim|[L](../modelagem/léxicos.md)| |
 | RF24  |             |                     |               |           |      |
 | RF25  |             |                     |               |           |      |
@@ -109,7 +110,7 @@ Fonte: [Limirio Guimarães](https://github.com/LimirioGuimaraes)
 |Versão|Data|Descrição|Autor|Revisor|
 |:----:|----|---------|-----|:-------:|
 |`1.0`|16/11/2023|Criação do documento|[Luis Miranda](https://github.com/LuisMiranda10) |[Limirio Guimarães](https://github.com/LimirioGuimaraes)| 
-|`1.1`|17/11/2023|Adicionado introdução e objetivo|[Limirio Guimarães](https://github.com/LimirioGuimaraes) | | 
-|`1.2`|18/11/2023|Adicionada os requisitos RF4, RF10, RNF3, RNF7, RNF8 e RNF10 a matriz|[Limirio Guimarães](https://github.com/LimirioGuimaraes) | | 
-|`1.3`|20/11/2023|Adicionado os requisitos RF1, RF27, RF8, RNF2, RF23 e RNF5 a matriz|[Breno Queiroz](https://github.com/brenob6) |[](https://github.com/)| 
-
+|`1.1`|17/11/2023|Adicionado introdução e objetivo|[Limirio Guimarães](https://github.com/LimirioGuimaraes) |[Breno Queiroz](https://github.com/brenob6) | 
+|`1.2`|18/11/2023|Adicionada os requisitos RF4, RF10, RNF3, RNF7, RNF8 e RNF10 a matriz|[Limirio Guimarães](https://github.com/LimirioGuimaraes) |[Breno Queiroz](https://github.com/brenob6) | 
+|`1.3`|18/11/2023|Adicionada os requisitos RF6, RF11, RNF1, RF20, RF12, RNF4 a matriz|[Luis Miranda](https://github.com/LuisMiranda10)|[Breno Queiroz](https://github.com/brenob6) | 
+|`1.4`|20/11/2023|Adicionada os requisitos RF24, RF26, RF28, RF30, RF31 a matriz|[Milena Baruc](https://github.com/MilenaBaruc) |[Breno Queiroz](https://github.com/brenob6) |
