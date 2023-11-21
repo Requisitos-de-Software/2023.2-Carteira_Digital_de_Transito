@@ -114,7 +114,6 @@ carteira de habilitação.
 |:-----: | :--------: | :-------------:             | :--------:    | :-------------:| 
 | `1.0`    | 30/09/23   | Criação do documento        | Breno         | [Limirio Guimarães](https://github.com/LimirioGuimaraes)      |
 | `1.1`    | 30/09/23   | Criação do documento        | Breno         | [Limirio Guimarães](https://github.com/LimirioGuimaraes)      |
-| `1.2`    | 21/11/23   |         | Breno         | [Limirio Guimarães](https://github.com/LimirioGuimaraes)      |
 | `1.2`    | 21/11/23   |Correção Verificação Grupo 01: Melhoria na Introdução. | [Altino Arthur](https://github.com/arthurrochamoreira) | [Luis Eduardo](https://github.com/LuisMiranda10) |
 
 </center>
