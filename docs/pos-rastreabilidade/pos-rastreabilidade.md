@@ -24,13 +24,9 @@ O meta-modelo que orienta a realização da rastreabilidade neste projeto foi in
 
  <br>
 
-É relevante ressaltar que, no contexto específico deste projeto, todas as informações rastreadas estão categorizadas como "Desenvolvimento". Além disso, realizou-se uma adaptação do meta-modelo de Toranzo para a execução da 
-pós-rastreabilidade. Essa adaptação visa explicitar a conexão entre os artefatos de desenho e implementação com os requisitos elicitados, e vice-versa. Nesse modelo adaptado, os elos são definidos por seis categorias principais: 
-satisfação, recurso, responsabilidade, representação, alocado e agregação. É importante observar que, no escopo deste artefato, o elo de responsabilidade não será abordado. Tal decisão fundamenta-se na presença de informações 
-nos artefatos que impossibilitam a execução eficaz dessa forma específica de rastreabilidade.<br/>
-Assim, a metodologia aplicada neste artefato de pós-rastreabilidade busca não apenas seguir o meta-modelo de Toranzo, mas também adaptá-lo de maneira pragmática para as necessidades específicas do projeto. Esta abordagem visa 
-aprimorar a compreensão das inter-relações entre os artefatos, proporcionando uma visão mais precisa e aplicável ao contexto do desenvolvimento em questão. A tabela 1 mostra o modelo que será utilizado para documentar a 
-pós-rastreabilidade dos requisitos do projeto.
+É relevante ressaltar que, no contexto específico deste projeto, todas as informações rastreadas estão categorizadas como "Desenvolvimento". Além disso, realizou-se uma adaptação do meta-modelo de Toranzo para a execução da pós-rastreabilidade. Essa adaptação visa explicitar a conexão entre os artefatos de desenho e implementação com os requisitos elicitados, e vice-versa. Nesse modelo adaptado, os elos são definidos por seis categorias principais: satisfação, recurso, responsabilidade, representação, alocado e agregação. É importante observar que, no escopo deste artefato, o elo de responsabilidade não será abordado. Tal decisão fundamenta-se na presença de informações nos artefatos que impossibilitam a execução eficaz dessa forma específica de rastreabilidade.<br/>
+
+Assim, a metodologia aplicada neste artefato de pós-rastreabilidade busca não apenas seguir o meta-modelo de Toranzo, mas também adaptá-lo de maneira pragmática para as necessidades específicas do projeto. Esta abordagem visa aprimorar a compreensão das inter-relações entre os artefatos, proporcionando uma visão mais precisa e aplicável ao contexto do desenvolvimento em questão. A tabela 1 mostra o modelo que será utilizado para documentar a pós-rastreabilidade dos requisitos do projeto.
 
 <br>
 
@@ -84,6 +80,8 @@ Neste tópico, serão apresentadas as tabelas referentes aos elos dos artefatos 
 
 Fonte: [Altino Arthur](https://github.com/arthurrochamoreira).
 
+<br>
+
 #### **Tabela 4 - RF03**
 
 |               RF03  Obter versão digital dos veiculos que você é principal condultor       |  Requisito Funcional |
@@ -95,6 +93,8 @@ Fonte: [Altino Arthur](https://github.com/arthurrochamoreira).
 |                      Agregação                       |         [História de Usuário US4](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/agil/historiasUsuario/), [Cenário C02](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/cenarios/), [Diagrama de casos de uso](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/casosDeUso/), [Léxico L11](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/léxicos/)   |
 
 Fonte: [Altino Arthur](https://github.com/arthurrochamoreira).
+
+<br>
  
 #### **Tabela 5 - RF 04**
 
@@ -109,6 +109,8 @@ Fonte: [Altino Arthur](https://github.com/arthurrochamoreira).
 
 Fonte: [Limirio Guimarães](https://github.com/LimirioGuimaraes).
 
+<br>
+
 #### **Tabela 6 - RF 05**
 
 
@@ -121,6 +123,8 @@ Fonte: [Limirio Guimarães](https://github.com/LimirioGuimaraes).
 | Agregação        | [História de Usuário US08](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/agil/historiasUsuario/), [Caso de Uso UC03](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/casosDeUso/), [Léxico L03](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/léxicos/), [Léxico L08](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/léxicos/), [Diagrama de casos de uso](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/casosDeUso/), |
 
 Fonte: [Mayara Alves](https://github.com/Mayara-tech).
+
+<br>
 
 #### **Tabela 7 - RF 06**
 
@@ -135,6 +139,8 @@ Fonte: [Mayara Alves](https://github.com/Mayara-tech).
 
 Fonte: [Luis Miranda](https://github.com/LuisMiranda10).
 
+<br>
+
 #### **Tabela 10 - RF 09**
 
 |                 RF09 Reivindicar a multa                   | Requisito Funcional |
@@ -147,6 +153,8 @@ Fonte: [Luis Miranda](https://github.com/LuisMiranda10).
 
 Fonte: [Vinícius Mendes](https://github.com/yabamiah).
 
+<br>
+
 #### **Tabela 11 - RF 10**
 
 | RF10 Contato com suporte 				| Requisito Funcional |
@@ -158,6 +166,8 @@ Fonte: [Vinícius Mendes](https://github.com/yabamiah).
 | Agregação 						| [História de Usuário US12](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/agil/historiasUsuario/), [Cenário C4](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/cenarios/) |
 
 Fonte: [Limirio Guimarães](https://github.com/LimirioGuimaraes).
+
+<br>
 
 #### **Tabela 12 - RF 11**
 
@@ -172,6 +182,8 @@ Fonte: [Limirio Guimarães](https://github.com/LimirioGuimaraes).
 
 Fonte: [Luis Miranda](https://github.com/LuisMiranda10).
 
+<br>
+
 #### **Tabela 13 - RF 12**
 
 
@@ -185,6 +197,8 @@ Fonte: [Luis Miranda](https://github.com/LuisMiranda10).
 
 Fonte: [Luis Miranda](https://github.com/LuisMiranda10).
 
+<br>
+
 #### **Tabela 14 - RF 13**
 
 |                 RF13 Permite visualizar histórico de multas do contudor| Requisito Funcional |
@@ -196,6 +210,8 @@ Fonte: [Luis Miranda](https://github.com/LuisMiranda10).
 |                      Agregação                       |     [Cenário 07](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/cenarios/#c07-consultar-historico-de-inflacoes-por-inflator)|
 
 Fonte: [Vinícius Mendes](https://github.com/yabamiah).
+
+<br>
 
 #### **Tabela 15 - RF 14**
 
@@ -210,6 +226,8 @@ Fonte: [Vinícius Mendes](https://github.com/yabamiah).
 
 Fonte: [Mayara Alves](https://github.com/Mayara-tech).
 
+<br>
+
 #### **Tabela 18 - RF 17**
 
 |                 RF17 O aplicativo deve divulgar campanhas e projetos do DETRAN | Requisito Funcional |
@@ -221,6 +239,8 @@ Fonte: [Mayara Alves](https://github.com/Mayara-tech).
 |                      Agregação                       |   - |
 
 Fonte: [Vinícius Mendes](https://github.com/yabamiah).
+
+<br>
 
 #### **Tabela 19 - RF 18**
 
@@ -234,6 +254,8 @@ Fonte: [Vinícius Mendes](https://github.com/yabamiah).
 
 Fonte: [Vinícius Mendes](https://github.com/yabamiah).
 
+<br>
+
 #### **Tabela 20 - RF 19**
 
 |                 RF19 Deve ser possível baixar os CRLV dos veículos | Requisito Funcional |
@@ -245,6 +267,8 @@ Fonte: [Vinícius Mendes](https://github.com/yabamiah).
 |                      Agregação                       |   - |
 
 Fonte: [Vinícius Mendes](https://github.com/yabamiah).
+
+<br>
 
 #### **Tabela 21 - RF 20**
 
@@ -259,6 +283,8 @@ Fonte: [Vinícius Mendes](https://github.com/yabamiah).
 
 Fonte: [Luis Miranda](https://github.com/LuisMiranda10).
 
+<br>
+
 #### **Tabela 22 - RF 21**
 
 
@@ -271,6 +297,8 @@ Fonte: [Luis Miranda](https://github.com/LuisMiranda10).
 | Agregação        | - |
 
 Fonte: [Mayara Alves](https://github.com/Mayara-tech).
+
+<br>
 
 #### **Tabela 23 - RF 22**
 
@@ -285,6 +313,8 @@ Fonte: [Mayara Alves](https://github.com/Mayara-tech).
 
 Fonte: [Mayara Alves](https://github.com/Mayara-tech).
 
+<br>
+
 #### **Tabela 25 - RF 24**
 
 
@@ -298,6 +328,8 @@ Fonte: [Mayara Alves](https://github.com/Mayara-tech).
 
 Fonte: [Milena Baruc](https://github.com/MilenaBaruc).
 
+<br>
+
 #### Tabela 26 - RF 25**
 
 |                 Rf 25 Deve ser possível cadastrar e gerenciar múltiplos veículos na carteira digital                  | Requisito Funcional |
@@ -307,6 +339,10 @@ Fonte: [Milena Baruc](https://github.com/MilenaBaruc).
 |                    Representação                     |                  -                  |
 |                       Alocado                        |                  -                  |
 |                      Agregação                       |                  -                  |
+
+Fonte: [Altino Arthur](https://github.com/arthurrochamoreira).
+
+<br>
 
 #### **Tabela 27 - RF 26**
 
@@ -321,6 +357,8 @@ Fonte: [Milena Baruc](https://github.com/MilenaBaruc).
 
 Fonte: [Milena Baruc](https://github.com/MilenaBaruc).
 
+<br>
+
 #### **Tabela 29 - RF 28**
 
 
@@ -333,6 +371,8 @@ Fonte: [Milena Baruc](https://github.com/MilenaBaruc).
 | Agregação | - |
 
 Fonte: [Milena Baruc](https://github.com/MilenaBaruc).
+
+<br>
 
 #### **Tabela 30 - RF 29**
 
@@ -347,6 +387,8 @@ Fonte: [Milena Baruc](https://github.com/MilenaBaruc).
 
 Fonte: [Mayara Alves](https://github.com/Mayara-tech).
 
+<br>
+
 #### **Tabela 31 - RF 30**
 
 
@@ -359,6 +401,8 @@ Fonte: [Mayara Alves](https://github.com/Mayara-tech).
 | Agregação | - |
 
 Fonte: [Milena Baruc](https://github.com/MilenaBaruc).
+
+<br>
 
 #### **Tabela 32 - RF 31**
 
@@ -373,6 +417,8 @@ Fonte: [Milena Baruc](https://github.com/MilenaBaruc).
 
 Fonte: [Milena Baruc](https://github.com/MilenaBaruc).
 
+<br>
+
 #### **Tabela 33 - RNF 01**
 
 
@@ -386,6 +432,8 @@ Fonte: [Milena Baruc](https://github.com/MilenaBaruc).
 
 Fonte: [Luis Miranda](https://github.com/LuisMiranda10).
 
+<br>
+
 #### **Tabela 35 - RNF 03**
 
 | RNF03 Aplicativo funciona em multisistemas (android e IOS) | Requisito Não Funcional |
@@ -397,6 +445,8 @@ Fonte: [Luis Miranda](https://github.com/LuisMiranda10).
 | Agregação 						     | [NFR Suportabilidade](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/agil/framework/) |
 
 Fonte: [Limirio Guimarães](https://github.com/LimirioGuimaraes).
+
+<br>
 
 #### **Tabela 36 - RNF 04**
 
@@ -411,6 +461,8 @@ Fonte: [Limirio Guimarães](https://github.com/LimirioGuimaraes).
 
 Fonte: [Luis Miranda](https://github.com/LuisMiranda10).
 
+<br>
+
 #### **Tabela 39 - RNF 07**
 
 | RNF07 Facilitar o usuário a chegar a funcionalidade de aderir ao SNE | Requisito Não Funcional |
@@ -422,6 +474,8 @@ Fonte: [Luis Miranda](https://github.com/LuisMiranda10).
 | Agregação							       | [Léxico L8](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/léxicos/) |
 
 Fonte: [Limirio Guimarães](https://github.com/LimirioGuimaraes).
+
+<br>
 
 #### **Tabela 40 - RNF 08**
 
@@ -435,6 +489,8 @@ Fonte: [Limirio Guimarães](https://github.com/LimirioGuimaraes).
 
 Fonte: [Limirio Guimarães](https://github.com/LimirioGuimaraes).
 
+<br>
+
 #### **Tabela 41 - RNF 09**
 
 |                 RNF09 Deve existir um prazo de validade do compartilhamento da CNH | Requisito Não Funcional |
@@ -446,6 +502,8 @@ Fonte: [Limirio Guimarães](https://github.com/LimirioGuimaraes).
 |                      Agregação                       |   - |
 
 Fonte: [Vinícius Mendes](https://github.com/yabamiah).
+
+<br>
 
 #### **Tabela 42 - RNF 10**
 
@@ -459,6 +517,7 @@ Fonte: [Vinícius Mendes](https://github.com/yabamiah).
 
 Fonte: [Limirio Guimarães](https://github.com/LimirioGuimaraes).
 
+<br>
 
 </center>
 
