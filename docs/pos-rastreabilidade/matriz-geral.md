@@ -113,4 +113,4 @@ Fonte: [Limirio Guimarães](https://github.com/LimirioGuimaraes)
 |`1.2`|18/11/2023|Adicionada os requisitos RF4, RF10, RNF3, RNF7, RNF8 e RNF10 a matriz|[Limirio Guimarães](https://github.com/LimirioGuimaraes) |[Breno Queiroz](https://github.com/brenob6) | 
 |`1.3`|18/11/2023|Adicionada os requisitos RF6, RF11, RNF1, RF20, RF12, RNF4 a matriz|[Luis Miranda](https://github.com/LuisMiranda10)|[Breno Queiroz](https://github.com/brenob6) | 
 |`1.4`|20/11/2023|Adicionada os requisitos RF24, RF26, RF28, RF30, RF31 a matriz|[Milena Baruc](https://github.com/MilenaBaruc) |[Breno Queiroz](https://github.com/brenob6) |
-|`1.5`|20/11/2023|Adicionada os requisitos RF1, RF27, RF8, RNF2, RF23, RNF5 a matriz|[Milena Baruc](https://github.com/MilenaBaruc) |[Breno Queiroz](https://github.com/brenob6) |
+|`1.5`|20/11/2023|Adicionada os requisitos RF1, RF27, RF8, RNF2, RF23, RNF5 a matriz| [Breno Queiroz](https://github.com/brenob6) | [Vinícius Mendes](https://github.com/yabamiah)|
