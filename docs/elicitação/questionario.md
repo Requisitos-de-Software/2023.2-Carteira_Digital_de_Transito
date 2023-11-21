@@ -2,8 +2,10 @@
 
 ## Introdução
 
-Através de questionários é possível obter de maneira rápida informações quantitativas e
-qualitativas de um público alvo (VAZQUEZ, SIMÕES).
+
+Questionários são instrumentos valiosos de pesquisa que possibilitam a coleta de dados quantitativos e qualitativos de maneira eficaz. São ferramentas flexíveis que permitem explorar as opiniões, comportamentos e preferências de um determinado público-alvo. O design e a implementação de um questionário requerem um entendimento claro dos objetivos que se pretende alcançar, assegurando que as perguntas formuladas sejam capazes de gerar insights significativos para a pesquisa em questão.
+
+Neste contexto, o questionário específico em análise foi desenvolvido para avaliar a satisfação dos usuários com o aplicativo governamental Carteira Digital de Trânsito. O foco principal está em entender a frequência e a forma como o aplicativo é utilizado, identificar as funcionalidades mais populares, assim como as que poderiam ser potencialmente acrescentadas para melhorar a experiência do usuário. Adicionalmente, a pesquisa visa avaliar a facilidade de uso do aplicativo, uma métrica crucial para a aceitação e adoção de tecnologias digitais pelo público geral.
 
 ## Objetivos
 
@@ -111,5 +113,8 @@ carteira de habilitação.
 | Versão |    Data    |    Descrição                | Autor(es)     |    Revisor(es) |                  
 |:-----: | :--------: | :-------------:             | :--------:    | :-------------:| 
 | `1.0`    | 30/09/23   | Criação do documento        | Breno         | [Limirio Guimarães](https://github.com/LimirioGuimaraes)      |
+| `1.1`    | 30/09/23   | Criação do documento        | Breno         | [Limirio Guimarães](https://github.com/LimirioGuimaraes)      |
+| `1.2`    | 21/11/23   |         | Breno         | [Limirio Guimarães](https://github.com/LimirioGuimaraes)      |
+| `1.2`    | 21/11/23   |Correção Verificação Grupo 01: Melhoria na Introdução. | [Altino Arthur](https://github.com/arthurrochamoreira) | [Luis Eduardo](https://github.com/LuisMiranda10) |
 
 </center>
