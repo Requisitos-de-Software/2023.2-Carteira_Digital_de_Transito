@@ -231,7 +231,17 @@ Fonte: [Mayara Alves](https://github.com/Mayara-tech).
 #### **Tabela 16 - RF 15**
 |                 Aplicativo deve possuir um FAQ       | Requisito Funcional |
 | :--------------------------------------------------: | :---------------------------------: |
-|                      Satisfação                      | [Casos de Uso UC2](../modelagem/casosDeUso.md/#especialização-dos-casos-de-uso),  [História de Usuário US04](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/agil/historiasUsuario/), [Cenário 04](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/cenarios/)                    |
+|                      Satisfação                      | [Casos de Uso UC2](../modelagem/casosDeUso.md/#especialização-dos-casos-de-uso),  [História de Usuário US04](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/agil/historiasUsuario/)                                |
+|                       Recurso                        |     [Cenário 04](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/cenarios/)                 |
+|                    Representação                     |                  -                  |
+|                       Alocado                        |                  -                  |
+|                      Agregação                       |       [Léxicos L12](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/l%C3%A9xicos/)                 |
+
+#### **Tabela 17 - RF 16**
+
+|                 Aplicativo mostra restrições e indicadores (restrição no veiculo, multa, judicial)               | Requisito Funcional|
+| :--------------------------------------------------: | :---------------------------------: |
+|                      Satisfação                      |     [História de Usuário 07](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/agil/historiasUsuario/), [História de Usuário 08](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/agil/historiasUsuario/), [Casos de Uso UC3](../modelagem/casosDeUso.md/#especialização-dos-casos-de-uso),  [História de Usuário US04](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/agil/historiasUsuario/),  [Cenário 03](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/cenarios/)          |
 |                       Recurso                        |                  -                  |
 |                    Representação                     |                  -                  |
 |                       Alocado                        |                  -                  |
