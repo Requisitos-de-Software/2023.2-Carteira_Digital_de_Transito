@@ -51,6 +51,8 @@ Fonte: Meta-modelo de Toranzo (TORANZO, 2002)^1^.
 
 Com base nos slides da aula 26 da professora Milene Serrano e Maurício Serrano^2^, os principais **elos de rastreabilidade** são:
 
+<br>
+
 1. **Satisfação**: Este elo verifica se as funcionalidades desenvolvidas atendem aos requisitos especificados. Se um requisito demanda um sistema de autenticação, o elo de satisfação confirmaria que tal funcionalidade foi adequadamente implementada e está operacional.
 
 2. **Recurso**: Reflete a necessidade de componentes do sistema por recursos específicos, sejam eles de software, hardware ou serviços de terceiros. Este elo é crucial para assegurar que o sistema terá à disposição todos os recursos essenciais para sua performance adequada.
