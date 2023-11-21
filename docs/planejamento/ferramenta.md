@@ -1,4 +1,4 @@
-git # Ferramentas
+# Ferramentas
 
 ## Introdução
 
@@ -48,3 +48,4 @@ Com o objetivo de facilitar o gerenciamento e a execução do projeto, realizou-
 | :-----: | :--------: | :-----------------------------------------------------: | :-----------------------------------------------------------------------------------------------: | :--------------------------------------------: |
 |  `1.0`  | 19/09/2023 |            Criação da página de ferramentas.            | [Limírio Guimarães](https://github.com/LimirioGuimaraes)  | [Mayara Alves](https://github.com/Mayara-tech) |
 |  `1.1`  | 27/09/2023 |            Melhor descrição do uso das ferramentas      | [Limírio Guimarães](https://github.com/LimirioGuimaraes)  | [Mayara Alves](https://github.com/Mayara-tech) |
+|  `1.2`  | 21/11/2023 |            Correção Verificação Grupo 01: O título do artefato está "quebrado"       | [Altino Arthur](https://github.com/arthurrochamoreira)  | [Mayara Alves](https://github.com/Mayara-tech) |
