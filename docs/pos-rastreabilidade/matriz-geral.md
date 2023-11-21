@@ -69,7 +69,7 @@ A tabela 2 a seguir mostra a matriz geral de rastreabilidade.
 | RF12  | Permite o acompanhamento do status da multa (a cobrar e pago)            |  [ITP](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/elicita%C3%A7%C3%A3o/Introspeccao/), [SB](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/elicita%C3%A7%C3%A3o/storyboard/)                |   Sim      |  [HU](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/agil/historiasUsuario/), [CU](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/casosDeUso/), [L](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/léxicos/)         |      |
 | RF13  |             |                     |               |           |      |
 | RF14  |             |                     |               |           |      |
-| RF15  |             |                     |               |           |      |
+| RF15  | Aplicativo deve possuir um FAQ  | [ITP](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/elicita%C3%A7%C3%A3o/Introspeccao/), [ENT](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/elicita%C3%A7%C3%A3o/entrevista/) |  Sim           | [CU](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/casosDeUso/ ), [C](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/cenarios/)         |      |
 | RF16  |             |                     |               |           |      |
 | RF17  |             |                     |               |           |      |
 | RF18  |             |                     |               |           |      |
