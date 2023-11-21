@@ -12,7 +12,7 @@ do panorama do projeto.
 
 O meta-modelo que orienta a realização da rastreabilidade neste projeto foi inicialmente proposto por Toranzo^1^, classificando as informações rastreadas em quatro categorias distintas:
 
-### Categorias de Informações Rastreadas
+<br>
 
 1. **Ambiental**: Inclui todos os fatores externos que podem influenciar o projeto, como legislação, metas estratégicas, e padrões de qualidade. Essas são as condições sob as quais o software deve operar.
 
@@ -22,6 +22,8 @@ O meta-modelo que orienta a realização da rastreabilidade neste projeto foi in
 
 4. **Desenvolvimento**: Relacionado diretamente aos artefatos técnicos do projeto, como requisitos, diagramas e código-fonte. Esta é a dimensão que trata da criação efetiva do software.
 
+ <br>
+
 É relevante ressaltar que, no contexto específico deste projeto, todas as informações rastreadas estão categorizadas como "Desenvolvimento". Além disso, realizou-se uma adaptação do meta-modelo de Toranzo para a execução da 
 pós-rastreabilidade. Essa adaptação visa explicitar a conexão entre os artefatos de desenho e implementação com os requisitos elicitados, e vice-versa. Nesse modelo adaptado, os elos são definidos por seis categorias principais: 
 satisfação, recurso, responsabilidade, representação, alocado e agregação. É importante observar que, no escopo deste artefato, o elo de responsabilidade não será abordado. Tal decisão fundamenta-se na presença de informações 
@@ -29,6 +31,8 @@ nos artefatos que impossibilitam a execução eficaz dessa forma específica de 
 Assim, a metodologia aplicada neste artefato de pós-rastreabilidade busca não apenas seguir o meta-modelo de Toranzo, mas também adaptá-lo de maneira pragmática para as necessidades específicas do projeto. Esta abordagem visa 
 aprimorar a compreensão das inter-relações entre os artefatos, proporcionando uma visão mais precisa e aplicável ao contexto do desenvolvimento em questão. A tabela 1 mostra o modelo que será utilizado para documentar a 
 pós-rastreabilidade dos requisitos do projeto.
+
+<br>
 
 <center>
 
@@ -46,6 +50,8 @@ Tabela 1 - Template Pós-Rastreabilidade
 Fonte: Meta-modelo de Toranzo (TORANZO, 2002)^1^.
 
 </center>
+
+<br>
 
 Com base nos slides da aula 26 da professora Milene Serrano e Maurício Serrano^2^, os principais **elos de rastreabilidade** são:
 
