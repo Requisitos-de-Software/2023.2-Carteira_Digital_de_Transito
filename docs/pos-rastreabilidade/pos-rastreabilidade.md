@@ -12,10 +12,15 @@ do panorama do projeto.
 
 O meta-modelo que orienta a realização da rastreabilidade neste projeto foi inicialmente proposto por Toranzo^1^, classificando as informações rastreadas em quatro categorias distintas:
 
-1. **Ambiental:** Engloba aspectos como leis, objetivos, estratégias e padrões.
-2. **Organizacional:** Inclui objetivos, regras e processos.
-3. **Gerencial:** Envolvendo objetivos, tarefas e restrições.
-4. **Desenvolvimento:** Relacionado a requisitos, diagramas e programas.
+### Categorias de Informações Rastreadas
+
+1. **Ambiental**: Inclui todos os fatores externos que podem influenciar o projeto, como legislação, metas estratégicas, e padrões de qualidade. Essas são as condições sob as quais o software deve operar.
+
+2. **Organizacional**: Consiste nos objetivos, nas regras e nos processos internos da organização que está desenvolvendo o software. Esses elementos orientam como a equipe trabalha e como o projeto é conduzido.
+
+3. **Gerencial**: Envolve os objetivos, as tarefas e as restrições do projeto em si. É a camada que se preocupa com a gestão de recursos, prazos e metas específicas do desenvolvimento.
+
+4. **Desenvolvimento**: Relacionado diretamente aos artefatos técnicos do projeto, como requisitos, diagramas e código-fonte. Esta é a dimensão que trata da criação efetiva do software.
 
 É relevante ressaltar que, no contexto específico deste projeto, todas as informações rastreadas estão categorizadas como "Desenvolvimento". Além disso, realizou-se uma adaptação do meta-modelo de Toranzo para a execução da 
 pós-rastreabilidade. Essa adaptação visa explicitar a conexão entre os artefatos de desenho e implementação com os requisitos elicitados, e vice-versa. Nesse modelo adaptado, os elos são definidos por seis categorias principais: 
@@ -44,16 +49,21 @@ Fonte: Meta-modelo de Toranzo (TORANZO, 2002)^1^.
 
 Com base nos slides da aula 26 da professora Milene Serrano e Maurício Serrano^2^, os principais **elos de rastreabilidade** são:
 
-1. **Satisfação**: Indica que a classe de origem depende da satisfação proporcionada pela classe de destino.
-2. **Recurso**: Reflete a dependência de recursos da classe de origem em relação à classe de destino.
-3. **Responsabilidade**: Registra a participação, responsabilidade e ação de pessoas sobre os artefatos.
-4. **Representação**: Captura a forma como os requisitos são representados ou modelados em outras linguagens.
-5. **Alocado**: Relaciona a classe de origem a uma classe de destino que representa um subsistema.
-6. **Agregação**: Indica a "composição" de elementos.
+1. **Satisfação**: Este elo verifica se as funcionalidades desenvolvidas atendem aos requisitos especificados. Se um requisito demanda um sistema de autenticação, o elo de satisfação confirmaria que tal funcionalidade foi adequadamente implementada e está operacional.
+
+2. **Recurso**: Reflete a necessidade de componentes do sistema por recursos específicos, sejam eles de software, hardware ou serviços de terceiros. Este elo é crucial para assegurar que o sistema terá à disposição todos os recursos essenciais para sua performance adequada.
+
+3. **Responsabilidade**: Este elo é menos sobre a tecnologia e mais sobre as pessoas. Ele associa indivíduos ou grupos aos artefatos que estão sob sua alçada, delineando quem é responsável por quais componentes do sistema. Isso é fundamental para a organização e a gestão do projeto.
+
+4. **Representação**: Captura como os requisitos são expressos em diferentes formatos ou linguagens de modelagem, como UML ou pseudocódigo. A adequada representação dos requisitos é vital para o desenvolvimento e a comunicação dentro da equipe de projeto.
+
+5. **Alocado**: Liga componentes específicos do software a módulos ou subsistemas maiores dentro da arquitetura do projeto. Esse elo garante que cada parte do sistema esteja no local correto e contribua para a funcionalidade geral como planejado.
+
+6. **Agregação**: Trata da composição e da integração dos componentes do sistema, assegurando que eles formem um todo unificado e coeso. Este elo é importante para verificar a integridade estrutural do sistema.
 
 ## Rastreabilidade
 
-Neste tópico, serão apresentadas as tabelas referentes aos elos dos artefatos analisados, que se referem aos requisitos implementados e não implementados pela Carteira Digital de Trânsito. Sendo assim, as Tabelas de 2 a 42 apresentam a rastreabilidade dos requisitos funcionais e não funcionais.
+Neste tópico, serão apresentadas as tabelas referentes aos elos dos artefatos analisados, que se referem aos requisitos implementados e não implementados pela Carteira Digital de Trânsito. Sendo assim, as Tabelas de 2 a 42 apresentam a rastreabilidade tanto dos requisitos funcionais (o que o projeto faz) quanto dos não funcionais (como o projeto faz).
 <center>
 
 #### **Tabela 3 - RF02**
@@ -281,6 +291,16 @@ Fonte: [Mayara Alves](https://github.com/Mayara-tech).
 | Agregação | - |
 
 Fonte: [Milena Baruc](https://github.com/MilenaBaruc).
+
+#### Tabela 26 - RF 25**
+
+|                 Rf 25 Deve ser possível cadastrar e gerenciar múltiplos veículos na carteira digital                  | Requisito Funcional |
+| :--------------------------------------------------: | :---------------------------------: |
+|                      Satisfação                      |     [Casos de Uso UC2](../modelagem/casosDeUso.md/#especialização-dos-casos-de-uso),  [História de Usuário US04](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/agil/historiasUsuario/)                 |
+|                       Recurso                        |  [Léxico L02](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/léxicos/)                  |
+|                    Representação                     |                  -                  |
+|                       Alocado                        |                  -                  |
+|                      Agregação                       |                  -                  |
 
 #### **Tabela 27 - RF 26**
 
