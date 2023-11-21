@@ -69,6 +69,19 @@ Neste tópico, serão apresentadas as tabelas referentes aos elos dos artefatos 
 
 Fonte: [Limirio Guimarães](https://github.com/LimirioGuimaraes).
 
+#### **Tabela 6 - RF 05**
+
+
+| RF05 Consultar multas associadas a sua habilitação			| Requisito Funcional 		      |
+|----------------------------------------------------------- | ----------------------- |
+| Satisfação 						| [História de Usuário US08](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/agil/historiasUsuario/) |
+| Recurso					    	| [Caso de Uso UC03](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/casosDeUso/), [Léxico L03](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/léxicos/), [Léxico L08](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/léxicos/)|
+| Representação 			| [Diagrama de casos de uso](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/casosDeUso/)  |
+| Alocado 					   	| [Caso de Uso UC03](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/casosDeUso/), [Léxico L03](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/léxicos/), [Léxico L08](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/léxicos/) |
+| Agregação        | [História de Usuário US08](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/agil/historiasUsuario/), [Caso de Uso UC03](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/casosDeUso/), [Léxico L03](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/léxicos/), [Léxico L08](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/léxicos/), [Diagrama de casos de uso](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/casosDeUso/), |
+
+Fonte: [Mayara Alves](https://github.com/Mayara-tech).
+
 #### **Tabela 7 - RF 06**
 
 
@@ -81,6 +94,18 @@ Fonte: [Limirio Guimarães](https://github.com/LimirioGuimaraes).
 | Agregação | [Caso de Uso UC01](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/casosDeUso/), [Caso de Uso UC03](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/casosDeUso/), [Caso de Uso UC04](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/casosDeUso/), [História de Usuário US07](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/agil/historiasUsuario/), [Léxicos L08](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/l%C3%A9xicos/) |
 
 Fonte: [Luis Miranda](https://github.com/LuisMiranda10).
+
+#### **Tabela 10 - RF 09**
+
+|                 RF09 Reivindicar a multa                   | Requisito Funcional |
+| :--------------------------------------------------: | :---------------------------------: |
+|                      Satisfação                      | [História de Usuário US07](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/agil/historiasUsuario/), [Cenário C03](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/cenarios/), [Cenário C07](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/cenarios/), [Caso de Uso 03](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/casosDeUso/), [Léxico 04](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/l%C3%A9xicos/), [Léxico 08](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/l%C3%A9xicos/)|
+|                       Recurso                        |                  -                  |
+|                    Representação                     | [Caso de Uso 04](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/casosDeUso/)                |
+|                       Alocado                        |[Caso de Uso](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/casosDeUso/) |
+|                      Agregação                       |                  -                  |
+
+Fonte: [Vinícius Mendes](https://github.com/yabamiah).
 
 #### **Tabela 11 - RF 10**
 
@@ -120,6 +145,67 @@ Fonte: [Luis Miranda](https://github.com/LuisMiranda10).
 
 Fonte: [Luis Miranda](https://github.com/LuisMiranda10).
 
+#### **Tabela 14 - RF 13**
+
+|                 RF13 Permite visualizar histórico de multas do contudor| Requisito Funcional |
+| :--------------------------------------------------: | :---------------------------------: |
+|                      Satisfação                      | [História de Usuário US07](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/agil/historiasUsuario/) |
+|                       Recurso                        |  [Cenário 07](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/cenarios/#c07-consultar-historico-de-inflacoes-por-inflator), [Léxico 03](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/l%C3%A9xicos/), [Léxico 08](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/l%C3%A9xicos/) |
+|                    Representação                     | [Cenário 03](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/cenarios/#c03-consultar-inflacoes-do-veiculo)                |
+|                       Alocado                        |[Cenários](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/cenarios) |
+|                      Agregação                       |     [Cenário 07](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/cenarios/#c07-consultar-historico-de-inflacoes-por-inflator)|
+
+Fonte: [Vinícius Mendes](https://github.com/yabamiah).
+
+#### **Tabela 15 - RF 14**
+
+
+| RF14 - Permite ao usuário fazer transferência de veículo			| Requisito Funcional 		      |
+|----------------------------------------------------------- | ----------------------- |
+| Satisfação 						| [Cenário 06](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/cenarios/#c06-Realizar-Transferência-do-Veículo)|
+| Recurso					    	| [Léxicos L12](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/l%C3%A9xicos/) |
+| Representação 			| [Épico 01](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/agil/backlog/), [Cenário 06](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/cenarios/#c06-Realizar-Transferência-do-Veículo) |
+| Alocado 					   	| [Léxicos L12](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/l%C3%A9xicos/) |
+| Agregação        | [Cenário 06](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/cenarios/#c06-Realizar-Transferência-do-Veículo), [Léxicos L12](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/l%C3%A9xicos/),  [Épico 01](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/agil/backlog/) |
+
+Fonte: [Mayara Alves](https://github.com/Mayara-tech).
+
+#### **Tabela 18 - RF 17**
+
+|                 RF17 O aplicativo deve divulgar campanhas e projetos do DETRAN | Requisito Funcional |
+| :--------------------------------------------------: | :---------------------------------: |
+|                      Satisfação                      | [História de Usuário 12](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/agil/historiasUsuario/) |
+|                       Recurso                        |  - |
+|                    Representação                     | [História de Usuário 09](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/agil/historiasUsuario/)             |
+|                       Alocado                        |[Histórias de Usuários](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/agil/historiasUsuario/) |
+|                      Agregação                       |   - |
+
+Fonte: [Vinícius Mendes](https://github.com/yabamiah).
+
+#### **Tabela 19 - RF 18**
+
+|                 RF18 Deve ser possível consultar as siglas apresentadas | Requisito Funcional |
+| :--------------------------------------------------: | :---------------------------------: |
+|                      Satisfação                      | [Épico 02](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/agil/backlog/#epico-2-documentos-e-certificados) |
+|                       Recurso                        |  - |
+|                    Representação                     | -             |
+|                       Alocado                        |[Glossário](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/elicita%C3%A7%C3%A3o/glossario/) |
+|                      Agregação                       |   - |
+
+Fonte: [Vinícius Mendes](https://github.com/yabamiah).
+
+#### **Tabela 20 - RF 19**
+
+|                 RF19 Deve ser possível baixar os CRLV dos veículos | Requisito Funcional |
+| :--------------------------------------------------: | :---------------------------------: |
+|                      Satisfação                      | [História de Usuário 04](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/agil/historiasUsuario/#us04-adicionar-documento-clrv-e)|
+|                       Recurso                        |   [Cenário 02](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/cenarios/#c02-obter-versao-digital-do-crlv), [Casos de Uso 02](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/casosDeUso/), [Léxico 11](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/l%C3%A9xicos/#l11-visualizar-crlv), [História de Usuário 05](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/agil/historiasUsuario/#us04-adicionar-documento-clrv-e) |
+|                    Representação                     | -            |
+|                       Alocado                        |[Glossário](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/elicita%C3%A7%C3%A3o/glossario/) |
+|                      Agregação                       |   - |
+
+Fonte: [Vinícius Mendes](https://github.com/yabamiah).
+
 #### **Tabela 21 - RF 20**
 
 
@@ -132,6 +218,32 @@ Fonte: [Luis Miranda](https://github.com/LuisMiranda10).
 | Agregação | [História de Usuário US10](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/agil/historiasUsuario/), [Léxico L01](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/léxicos/) |
 
 Fonte: [Luis Miranda](https://github.com/LuisMiranda10).
+
+#### **Tabela 22 - RF 21**
+
+
+| RF21 - 	Dever ser possível consultar a classificação da infração			| Requisito Funcional 		      |
+|----------------------------------------------------------- | ----------------------- |
+| Satisfação 						| - |
+| Recurso					    	| - |
+| Representação 			| - |
+| Alocado 					   	| - |
+| Agregação        | - |
+
+Fonte: [Mayara Alves](https://github.com/Mayara-tech).
+
+#### **Tabela 23 - RF 22**
+
+
+| RF22 - Deve ser possível compartilhar os documentos de um veículo com seus coatores.			| Requisito Funcional 		      |
+|----------------------------------------------------------- | ----------------------- |
+| Satisfação 						| [Léxico L02](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/l%C3%A9xicos/#l02-condutor) |
+| Recurso					    	| - |
+| Representação 			| - |
+| Alocado 					   	| [Léxico L02](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/l%C3%A9xicos/#l02-condutor) |
+| Agregação        | - |
+
+Fonte: [Mayara Alves](https://github.com/Mayara-tech).
 
 #### **Tabela 25 - RF 24**
 
@@ -171,6 +283,19 @@ Fonte: [Milena Baruc](https://github.com/MilenaBaruc).
 | Agregação | - |
 
 Fonte: [Milena Baruc](https://github.com/MilenaBaruc).
+
+#### **Tabela 30 - RF 29**
+
+
+| RF29 - 	Deve ser possível realizar o agendamento de serviços de manutenção e inspeção veicular			| Requisito Funcional 		      |
+|----------------------------------------------------------- | ----------------------- |
+| Satisfação 						| [Cenário 09](../modelagem/cenarios.md/#c08---pesquisar-informações-sobre-veículos-por-meio-do-número-da-placa) |
+| Recurso					    	| - |
+| Representação 			|  - |
+| Alocado 					   	| [Cenário 09](../modelagem/cenarios.md/#c08---pesquisar-informações-sobre-veículos-por-meio-do-número-da-placa) |
+| Agregação        |  - |
+
+Fonte: [Mayara Alves](https://github.com/Mayara-tech).
 
 #### **Tabela 31 - RF 30**
 
@@ -260,6 +385,18 @@ Fonte: [Limirio Guimarães](https://github.com/LimirioGuimaraes).
 
 Fonte: [Limirio Guimarães](https://github.com/LimirioGuimaraes).
 
+#### **Tabela 41 - RNF 09**
+
+|                 RNF09 Deve existir um prazo de validade do compartilhamento da CNH | Requisito Não Funcional |
+| :--------------------------------------------------: | :---------------------------------: |
+|                      Satisfação                      | [Especificação Suplementar Confiabilidade 2](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/especificacao-suplementar/#confiabilidade),  |
+|                       Recurso                        |  [Léxico 07](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/l%C3%A9xicos/), [Cenário 01](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/cenarios/), [Casos de Uso 01](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/casosDeUso/), [História de Usuário 05](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/agil/historiasUsuario/#us04-adicionar-documento-clrv-e) |
+|                    Representação                     | -            |
+|                       Alocado                        |[Storyboard](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/elicita%C3%A7%C3%A3o/storyboard/) |
+|                      Agregação                       |   - |
+
+Fonte: [Vinícius Mendes](https://github.com/yabamiah).
+
 #### **Tabela 42 - RNF 10**
 
 | RNF10 O aplicativo deve alertar o usuário caso seja multado | Requisito Não Funcional |
@@ -290,4 +427,6 @@ Fonte: [Limirio Guimarães](https://github.com/LimirioGuimaraes).
 |`1.1`|18/11/2023|Adicionada tabela dos requisitos RF4, RF10, RNF3, RNF7, RNF8 e RNF10 |[Limirio Guimarães](https://github.com/LimirioGuimaraes) | | 
 |`1.1`|18/11/2023|Adicionada tabela dos requisitos RF6, RF11, RNF1, RF20, RF12, RNF4 | [Luis Miranda](https://github.com/LuisMiranda10) | |
 |`1.2`|20/11/2023|Adicionada tabela dos requisitos RF28, RF30, RF31, RF24, RF26 | [Milena Baruc](https://github.com/MilenaBaruc) | |
+|`1.3`|20/11/2023|Adicionada tabela dos requisitos RF13, RF9, RF19, RF17, RF18, RNF09 | [Vinícius Mendes](https://github.com/yabamiah) | |
+|`1.3`|20/11/2023|Adicionada tabela dos requisitos RF05, RF14, RF21, RF22, RF29 | [Mayara Alves](https://github.com/Mayara-tech) | |
  
