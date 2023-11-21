@@ -163,10 +163,10 @@ Fonte: [Vinícius Mendes](https://github.com/yabamiah).
 | RF14 - Permite ao usuário fazer transferência de veículo			| Requisito Funcional 		      |
 |----------------------------------------------------------- | ----------------------- |
 | Satisfação 						| [Cenário 06](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/cenarios/#c06-Realizar-Transferência-do-Veículo)|
-| Recurso					    	|  |
-| Representação 			|  |
-| Alocado 					   	|  |
-| Agregação        |  |
+| Recurso					    	| [Léxicos L12](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/l%C3%A9xicos/) |
+| Representação 			| [Épico 01](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/agil/backlog/), [Cenário 06](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/cenarios/#c06-Realizar-Transferência-do-Veículo) |
+| Alocado 					   	| [Léxicos L12](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/l%C3%A9xicos/) |
+| Agregação        | [Cenário 06](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/cenarios/#c06-Realizar-Transferência-do-Veículo), [Léxicos L12](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/l%C3%A9xicos/),  [Épico 01](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/agil/backlog/) |
 
 Fonte: [Mayara Alves](https://github.com/Mayara-tech).
 
@@ -224,11 +224,11 @@ Fonte: [Luis Miranda](https://github.com/LuisMiranda10).
 
 | RF21 - 	Dever ser possível consultar a classificação da infração			| Requisito Funcional 		      |
 |----------------------------------------------------------- | ----------------------- |
-| Satisfação 						| |
-| Recurso					    	| |
-| Representação 			|  |
-| Alocado 					   	|  |
-| Agregação        |  |
+| Satisfação 						| - |
+| Recurso					    	| - |
+| Representação 			| - |
+| Alocado 					   	| - |
+| Agregação        | - |
 
 Fonte: [Mayara Alves](https://github.com/Mayara-tech).
 
@@ -237,11 +237,11 @@ Fonte: [Mayara Alves](https://github.com/Mayara-tech).
 
 | RF22 - Deve ser possível compartilhar os documentos de um veículo com seus coatores.			| Requisito Funcional 		      |
 |----------------------------------------------------------- | ----------------------- |
-| Satisfação 						| |
-| Recurso					    	| |
-| Representação 			|  |
-| Alocado 					   	|  |
-| Agregação        |  |
+| Satisfação 						| [Léxico L02](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/l%C3%A9xicos/#l02-condutor) |
+| Recurso					    	| - |
+| Representação 			| - |
+| Alocado 					   	| [Léxico L02](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/l%C3%A9xicos/#l02-condutor) |
+| Agregação        | - |
 
 Fonte: [Mayara Alves](https://github.com/Mayara-tech).
 
@@ -289,11 +289,11 @@ Fonte: [Milena Baruc](https://github.com/MilenaBaruc).
 
 | RF29 - 	Deve ser possível realizar o agendamento de serviços de manutenção e inspeção veicular			| Requisito Funcional 		      |
 |----------------------------------------------------------- | ----------------------- |
-| Satisfação 						| |
-| Recurso					    	| |
-| Representação 			|  |
-| Alocado 					   	|  |
-| Agregação        |  |
+| Satisfação 						| [Cenário 09](../modelagem/cenarios.md/#c08---pesquisar-informações-sobre-veículos-por-meio-do-número-da-placa) |
+| Recurso					    	| - |
+| Representação 			|  - |
+| Alocado 					   	| [Cenário 09](../modelagem/cenarios.md/#c08---pesquisar-informações-sobre-veículos-por-meio-do-número-da-placa) |
+| Agregação        |  - |
 
 Fonte: [Mayara Alves](https://github.com/Mayara-tech).
 
@@ -428,4 +428,5 @@ Fonte: [Limirio Guimarães](https://github.com/LimirioGuimaraes).
 |`1.1`|18/11/2023|Adicionada tabela dos requisitos RF6, RF11, RNF1, RF20, RF12, RNF4 | [Luis Miranda](https://github.com/LuisMiranda10) | |
 |`1.2`|20/11/2023|Adicionada tabela dos requisitos RF28, RF30, RF31, RF24, RF26 | [Milena Baruc](https://github.com/MilenaBaruc) | |
 |`1.3`|20/11/2023|Adicionada tabela dos requisitos RF13, RF9, RF19, RF17, RF18, RNF09 | [Vinícius Mendes](https://github.com/yabamiah) | |
+|`1.3`|20/11/2023|Adicionada tabela dos requisitos RF05, RF14, RF21, RF22, RF29 | [Mayara Alves](https://github.com/Mayara-tech) | |
  
