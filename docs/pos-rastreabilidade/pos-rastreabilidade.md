@@ -3,10 +3,7 @@
 ## Introdução
 
 Este documento inaugura uma etapa crucial em nosso projeto, focada na pós-rastreabilidade, com o propósito fundamental de estabelecer uma conexão sólida entre requisitos, arquitetura e implementação. Nossa abordagem visa destacar 
-de forma explícita as relações de dependência entre os requisitos e seus artefatos correlacionados, abrangendo as esferas de requisitos, arquitetura e implementação. A pós-rastreabilidade aqui delineada se materializa por meio de
-ligações e elos que emergem da intrincada interrelação entre os artefatos especificados. Este processo busca não apenas documentar, mas também compreender as conexões fundamentais que permeiam o ciclo de vida do projeto,
-oferecendo uma visão abrangente e detalhada das dependências existentes. Assim, ao explorar as intricadas relações entre requisitos, arquitetura e implementação, este documento se propõe a ser uma ferramenta vital na compreensão
-do panorama do projeto.
+de forma explícita as relações de dependência entre os requisitos e seus artefatos correlacionados, abrangendo as esferas de requisitos, arquitetura e implementação. A importância da pós-rastreabilidade reside na sua capacidade de revelar as conexões ocultas e as interações complexas entre diferentes componentes do software. Isso é crucial para identificar problemas potenciais, otimizar o desempenho e assegurar a conformidade do produto final com as expectativas dos usuários. Com esse mapeamento, torna-se possível antecipar desafios, facilitar ajustes e garantir que cada decisão tomada esteja alinhada com os objetivos do projeto. Assim, ao explorar as intricadas relações entre requisitos, arquitetura e implementação, este documento se propõe a ser uma ferramenta vital na compreensão do panorama do projeto.
 
 ## Metodologia
 
