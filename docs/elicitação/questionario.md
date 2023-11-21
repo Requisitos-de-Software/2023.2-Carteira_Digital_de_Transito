@@ -45,6 +45,8 @@ A tabela 1 contém tudas as perguntas realizadas no questionário.
 
 As figuras de 1 a 4 monstram os resultados das perguntas mais relevantes da pesquisa.
 
+<br>
+
 ### Questão 01
 
 Com que frequência você utiliza o aplicativo Carteira Digital de Trânsito?
@@ -56,6 +58,8 @@ Com que frequência você utiliza o aplicativo Carteira Digital de Trânsito?
 **Fonte:** Breno
 
 </center>
+
+<br>
 
 ### Questão 02
 
@@ -70,6 +74,8 @@ Digital de Trânsito
 
 </center>
 
+<br>
+
 ### Questão 03
 
 Com que frequência você utiliza essas funcionalidades com sucesso?
@@ -80,6 +86,8 @@ Com que frequência você utiliza essas funcionalidades com sucesso?
 **Fonte:** Breno
 
 </center>
+
+<br>
 
 ### Questão 04
 
@@ -114,6 +122,7 @@ carteira de habilitação.
 |:-----: | :--------: | :-------------:             | :--------:    | :-------------:| 
 | `1.0`    | 30/09/23   | Criação do documento        | Breno         | [Limirio Guimarães](https://github.com/LimirioGuimaraes)      |
 | `1.1`    | 30/09/23   | Criação do documento        | Breno         | [Limirio Guimarães](https://github.com/LimirioGuimaraes)      |
-| `1.2`    | 21/11/23   |Correção Verificação Grupo 01: Melhoria na Introdução. | [Altino Arthur](https://github.com/arthurrochamoreira) | [Luis Eduardo](https://github.com/LuisMiranda10) |
+| `1.2`    | 21/11/23   |Correção Verificação Grupo 01: Melhoria na Introdução | [Altino Arthur](https://github.com/arthurrochamoreira) | [Luis Eduardo](https://github.com/LuisMiranda10) |
+| `1.3`    | 21/11/23   |Correção Verificação Grupo 01: Padronização das Legendas | [Altino Arthur](https://github.com/arthurrochamoreira) | [Luis Eduardo](https://github.com/LuisMiranda10) |
 
 </center>
