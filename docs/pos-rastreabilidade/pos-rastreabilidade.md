@@ -66,6 +66,9 @@ Com base nos slides da aula 26 da professora Milene Serrano e Maurício Serrano^
 ## Rastreabilidade
 
 Neste tópico, serão apresentadas as tabelas referentes aos elos dos artefatos analisados, que se referem aos requisitos implementados e não implementados pela Carteira Digital de Trânsito. Sendo assim, as Tabelas de 2 a 42 apresentam a rastreabilidade tanto dos requisitos funcionais (o que o projeto faz) quanto dos não funcionais (como o projeto faz).
+
+<br> 
+
 <center>
 
 #### **Tabela 3 - RF02**
