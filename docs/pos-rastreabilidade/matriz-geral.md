@@ -77,7 +77,6 @@ A tabela 2 a seguir mostra a matriz geral de rastreabilidade.
 | RF20  | Deve ser possível participar no Cadastro Positivo             |  [GL](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/elicita%C3%A7%C3%A3o/glossario/)      |   Sim             |  [HU](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/agil/historiasUsuario/),  [L](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/léxicos/), [NFR](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/agil/framework/), [ES](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/especificacao-suplementar/)         |      |
 | RF21  |             |                     |               |           |      |
 | RF22  |             |                     |               |           |      |
-
 | RF23  |O usuário deve conseguir solicitar a outro usuário o compartilhamento dos documentos do veículo.|[SB](../elicitação/storyboard.md)|Sim|[L](../modelagem/léxicos.md)| |
 | RF24  |             |                     |               |           |      |
 | RF25  |             |                     |               |           |      |
