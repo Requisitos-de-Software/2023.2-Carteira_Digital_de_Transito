@@ -2,7 +2,9 @@
 
 ## Introdução
 
-As personas são personagens fictícias criadas para representar os usuários da aplicação no intuito de melhorar o entendimento das funcionalidades que o sistema deve apresentar. Elas devem possuir características que sumarizam bem os usuários “típicos”, mas que sejam específicas para torná-las ferramentas de design e comunicação eficientes.<a id="TEC1" href="#QT1">^1^</a>
+As personas são personagens fictícias criadas para representar os usuários da aplicação no intuito de melhorar o entendimento das funcionalidades que o sistema deve apresentar. Elas devem possuir características que sumarizam bem os usuários “típicos”, mas que sejam específicas para torná-las ferramentas de design e comunicação eficientes. A criação e utilização de personas desempenham um papel crucial no sucesso do projeto, pois proporcionam uma série de benefícios que auxiliam na entrega de uma aplicação alinhada com as expectativas dos usuários e nas necessidades do projeto.
+
+Essas personas servem como guias para a equipe de design e desenvolvimento, ajudando a compreender o público-alvo, tomar decisões orientadas pelo usuário, promover empatia, realizar testes e validações, personalizar a experiência do usuário e educar a equipe sobre as necessidades dos usuários. Portanto, a presença de personas no projeto não é apenas uma prática recomendada, mas uma estratégia fundamental para assegurar que a aplicação atenda eficazmente às necessidades e expectativas reais dos usuários, resultando em uma experiência de usuário mais eficiente e satisfatória.<a id="TEC1" href="#QT1">^1^</a>
 
 ## Metodologia
 
@@ -30,8 +32,11 @@ As personas criadas possuem as características apresentadas na seção de <a hr
 | **Expectativa**: Espera que o aplicativo Carteira Digital de Trânsito ofereça uma gestão eficaz dos documentos para agilizar a resolução de eventuais circunstâncias que necessitem do uso da carteira digital.                                     |
 | **Requisitos**: Acesso fácil aos documentos de trânsito, notificações sobre infrações e uma interface amigável ao usuário.                                                                                                                                                                                                           |
 | **Tarefas**: Acorda cedo, prepara sua moto elétrica, faz entregas durante o dia, participa de reuniões de grupos ambientais e passa tempo com a família à noite.                                                                                                                                                                                                                              |
+> Citação fictícia: "Conversando com Maria Silva, uma entregadora de 22 anos, notamos que ela está sempre em busca de maneiras de tornar suas entregas mais eficientes e sustentáveis. Ela nos disse: 'Eu adoraria ter um aplicativo que me permitisse acessar meus documentos de trânsito de forma rápida e fácil, para que eu possa me concentrar em fazer entregas de forma mais eficiente e promover práticas sustentáveis.'"
 
 <font size="3"><p>Fonte: [Altino Arthur](https://github.com/arthurrochamoreira).</p></font>
+
+<br>
 
 <font size="3"><p style="text-align: center">**Tabela 2** - Persona Secundária Steve Vobes.</p></font>
 
@@ -51,9 +56,11 @@ As personas criadas possuem as características apresentadas na seção de <a hr
 | **Expectativa**: Ele espera que o aplicativo Carteira Digital de Trânsito facilite a gestão de documentos de trânsito, permitindo que ele foque em seus projetos e estudos.                                                                                                                                    |
 | **Requisitos**: Interface intuitiva, acesso rápido aos documentos e segurança robusta dos dados.                                                                                                                                                                                    |
 | **Tarefas**: Assistir a aulas, trabalhar em projetos pessoais e acadêmicos, participar de hackathons e eventos de networking, estudar e socializar com amigos.                                                                    |
-
+> Citação fictícia: "Durante nossa entrevista com Steve Vobes, um estudante de Ciência da Computação de 21 anos, ele compartilhou suas expectativas em relação ao aplicativo Carteira Digital de Trânsito: 'Seria ótimo se o aplicativo me permitisse ter meus documentos de trânsito sempre à mão, economizando tempo e facilitando minha mobilidade entre a faculdade, eventos e projetos de tecnologia.'"
 
 <font size="3"><p>Fonte: [Altino Arthur](https://github.com/arthurrochamoreira).</p></font>
+
+<br>
 
 <font size="3"><p style="text-align: center">**Tabela 3** - Persona Secundária Jair Motonaro.</p></font>
 
@@ -72,9 +79,13 @@ As personas criadas possuem as características apresentadas na seção de <a hr
 | **Objetivo**: Jair quer garantir que está em conformidade com todas as leis de trânsito e regulamentos locais enquanto está na estrada, tanto para proteger a si mesmo quanto seus passageiros. |
 | **Expectativa**: Ele espera que o aplicativo Carteira Digital de Trânsito facilite o acesso e a gestão de seus documentos de trânsito de uma maneira segura e eficiente.                                                                                                                                                                          |
 | **Requisitos**: Que a navegação seja fácil e permita ele encontrar com facilidade seus dados.                                                                                                                                                                |
-| **Tarefas**: Acorda cedo, verifica o aplicativo para quaisquer atualizações ou notificações, começa seu dia de trabalho como motorista particular, volta para casa para passar tempo com a família e se manter atualizado sobre as notícias de interesse nacionais.                                                                                                        |
+| **Tarefas**: Acorda cedo, verifica o aplicativo para quaisquer atualizações ou notificações, começa seu dia de trabalho como motorista particular, volta para casa para passar tempo com a família e se manter atualizado sobre as notícias de interesse nacionais.     
+
+> Citação fictícia: "Jair Motonaro, um motorista de Uber de 23 anos, enfatizou a importância de estar em conformidade com as leis de trânsito: 'Para mim, é crucial ter acesso fácil aos meus documentos de trânsito para garantir a segurança dos meus passageiros e evitar problemas legais. Um aplicativo eficaz seria de grande ajuda.'"|
 
 <font size="3"><p>Fonte: [Altino Arthur](https://github.com/arthurrochamoreira).</p></font>
+
+<br>
 
 <font size="3"><p style="text-align: center">**Tabela 4** - Persona Primária Carlos Digital.</p></font>
 
@@ -95,7 +106,11 @@ As personas criadas possuem as características apresentadas na seção de <a hr
 | **Requisitos**:  Interface de usuário clara e intuitiva, acesso rápido e fácil aos documentos digitais (CNH e CRLV), funções de gestão de infrações de trânsito, e opções de segurança robustas.                                                                                                                                                           |
 | **Tarefas**: Acorda cedo, vai para o trabalho, almoça com colegas, trabalha no desenvolvimento e aprimoramento de sistemas, volta para casa, janta, estuda novas tecnologias ou trabalha em projetos pessoais, e utiliza as redes sociais antes de dormir.                                                                                                                       |
 
+> Citação fictícia: "Carlos Digital, um analista de sistemas de 24 anos, explicou por que escolheu a Carteira Digital de Trânsito: 'Sou obcecado por eficiência e digitalização. Quero manter meus documentos de trânsito em um local seguro e acessível. Um aplicativo intuitivo e seguro é fundamental para mim.'"
+
 <font size="3"><p>Fonte: [Altino Arthur](https://github.com/arthurrochamoreira).</p></font>
+
+<br>
 
 <font size="3"><p style="text-align: center">**Tabela 5** - Antipersona Pedro Gamer</p></font>
 
@@ -116,7 +131,11 @@ As personas criadas possuem as características apresentadas na seção de <a hr
 | **Requisitos**: Não aplicável, pois Pedro não possui requisitos para a Carteira Digital de Trânsito.                                                                                                                                                                                                                                                                      |
 | **Tarefas**: Acorda tarde, joga online com amigos, faz streaming de suas sessões de jogo, assiste a aulas online, estuda para provas e interage com seus seguidores nas redes sociais antes de dormir.              |
 
+> Citação fictícia: "Entrevistamos Pedro Gamer, um estudante e streamer de jogos de 18 anos, que não possui carteira de motorista nem veículo. Ele expressou sua falta de interesse: 'Atualmente, não vejo motivo para usar a Carteira Digital de Trânsito, já que não tenho carro nem intenção de obtê-lo.'"
+
 <font size="3"><p>Fonte: [Altino Arthur](https://github.com/arthurrochamoreira).</p></font>
+
+<br>
 
 ## Referências Bibliográficas
 
@@ -139,6 +158,6 @@ As personas criadas possuem as características apresentadas na seção de <a hr
 | ------ | ---------- | ----------------------------------------- | --------------------------------------------------------------------------------------------------- | ------------------------------------------------ |
 | `1.0`  | 30/09/2023 | Criação das personas                        |[Altino Arthur](https://github.com/arthurrochamoreira) | [Mayara Alves](https://github.com/Mayara-tech)   |
 | `1.1`  | 20/10/2023 | Correções da entrega 2                       |[Mayara Alves](https://github.com/Mayara-tech) | [Altino Arthur](https://github.com/arthurrochamoreira)   |
-
+| `1.2`  | 21/11/2023 | Correção Verificação Grupo 01: Adição - Citações e Objetivo do Uso de Personas |[Altino Arthur](https://github.com/arthurrochamoreira) | [Mayara Alves](https://github.com/Mayara-tech)   |
 
 
