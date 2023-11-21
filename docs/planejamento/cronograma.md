@@ -136,6 +136,8 @@ Na Tabela 7, tem-se o cronograma executado para todas as atividades da terceira 
 | Gravar reunião    | 25/10/2023| 25/10/2023 | Altino, Breno, Limírio, Luis, Mayara, Milena, Vinícius  |  Altino, Breno, Limírio, Luis, Mayara, Milena, Vinícius  |
 | Correção após a Entrega 3  | 26/10/2023 | 29/10/2023 |    Altino, Breno, Limírio, Luis, Mayara, Milena, Vinícius   | Altino, Breno, Limírio, Luis, Mayara, Milena, Vinícius   | 
 
+Fonte: [Altino Arthur](https://github.com/arthurrochamoreira)
+
 ### Cronograma planejado entrega 4.
 
 Na Tabela 8, tem-se o cronograma planejado para todas as atividades da quarta entrega.
@@ -149,6 +151,8 @@ Na Tabela 8, tem-se o cronograma planejado para todas as atividades da quarta en
 | Modelagem de Requisitos - Ágil: NFR Framework | 26/10/2023| 05/11/2023 | Vinicius e Breno    | Arthur |
 | Gravar reunião    | 06/11/2023 | 06/11/2023 | Altino, Breno, Limírio, Luis, Mayara, Milena, Vinícius | Altino, Breno, Limírio, Luis, Mayara, Milena, Vinícius | 
 | Correção após a Entrega 4  | 07/11/2023 | 10/11/2023 |     Altino, Breno, Limírio, Luis, Mayara, Milena, Vinícius  | Altino, Breno, Limírio, Luis, Mayara, Milena, Vinícius  | 
+
+Fonte: [Altino Arthur](https://github.com/arthurrochamoreira)
 
 ### Cronograma executado entrega 4.
 
@@ -164,6 +168,8 @@ Na Tabela 9, tem-se o cronograma executado para todas as atividades da quarta en
 | Gravar reunião    | 06/11/2023 | 06/11/2023 | Mayara, Milena, Arthur, Altino | 
 | Correção após a Entrega 4  | 07/11/2023 | 10/11/2023 |     Altino, Breno, Limírio, Luis, Mayara, Milena, Vinícius  | Altino, Breno, Limírio, Luis, Mayara, Milena, Vinícius  | 
 
+Fonte: [Altino Arthur](https://github.com/arthurrochamoreira)
+
 ### Cronograma planejado entrega 5.1.
 
 Na Tabela 10, tem-se o cronograma planejado para todas as atividades da entrega 5.1.
@@ -176,6 +182,8 @@ Na Tabela 10, tem-se o cronograma planejado para todas as atividades da entrega 
 | Validação dos requisitos | 07/11/2023| 12/11/2023 | Milena e Breno  | Mayara |
 | Gravar reunião     | 13/11/2023| 13/11/2023 |  Mayara e Luis   |  Vinicius |
 | Correção após a Entrega 5.1  | 14/11/2023 | 17/11/2023 |    Altino, Breno, Limírio, Luis, Mayara, Milena, Vinícius   |Altino, Breno, Limírio, Luis, Mayara, Milena, Vinícius | 
+
+Fonte: [Altino Arthur](https://github.com/arthurrochamoreira)
 
 ### Cronograma planejado entrega 6.
 
@@ -191,6 +199,8 @@ Na Tabela 11, tem-se o cronograma planejado para todas as atividades da sexta en
 | Gravar reunião | 20/11/2023| 20/11/2023 |  Altino, Breno, Limírio, Luis, Mayara, Milena, Vinícius   | Altino, Breno, Limírio, Luis, Mayara, Milena, Vinícius |
 | Correção após a Entrega 6  | 21/11/2023 | 25/11/2023 |    Altino, Breno, Limírio, Luis, Mayara, Milena, Vinícius  | Altino, Breno, Limírio, Luis, Mayara, Milena, Vinícius  | 
 
+Fonte: [Altino Arthur](https://github.com/arthurrochamoreira)
+
 
 ### Cronograma planejado entrega 5.2
 
@@ -204,6 +214,8 @@ Na Tabela 12, tem-se o cronograma planejado para todas as atividades da entrega 
 | Validação dos requisitos II          | 14/11/2023| 28/11/2023 |  Arthur e Breno   | Luis |
 | Gravar reunião     | 14/11/2023| 29/11/2023 |  Altino, Breno, Limírio, Luis, Mayara, Milena, Vinícius    |  Altino, Breno, Limírio, Luis, Mayara, Milena, Vinícius |
 | Correção após a Entrega 5.2  | 30/11/2023 | 05/12/2023 |     Altino, Breno, Limírio, Luis, Mayara, Milena, Vinícius   | Altino, Breno, Limírio, Luis, Mayara, Milena, Vinícius  | 
+
+Fonte: [Altino Arthur](https://github.com/arthurrochamoreira)
 
 
 
@@ -222,3 +234,4 @@ Na Tabela 12, tem-se o cronograma planejado para todas as atividades da entrega 
 | `1.1` |04/09/2023 |Atualizando a página de cronograma | [Vinicius Mendes](https://github.com/yabamiah) | [Altino Arthur](https://github.com/arthurrochamoreira) 
 | `1.2` |09/10/2023 | adicionando cronograma executavel e detalhando tarefas | [Mayara Alves](https://github.com/Mayara-tech) | [Luis Eduardo](https://github.com/LuisMiranda10)
 | `1.3` |06/11/2023 | adicionando cronograma executado e detalhando tarefas | [Milena Baruc](https://github.com/MilenaBaruc) | [Luis Eduardo](https://github.com/LuisMiranda10)
+| `1.4` |21/11/2023 | Correção Verificação Grupo 01: As tabelas não possuem o(s) autor(es). | [Altino Arthur](https://github.com/arthurrochamoreira) | [Luis Eduardo](https://github.com/LuisMiranda10)
