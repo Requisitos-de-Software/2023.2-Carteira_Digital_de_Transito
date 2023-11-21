@@ -56,15 +56,29 @@ Com base nos slides da aula 26 da professora Milene Serrano e Maurício Serrano^
 Neste tópico, serão apresentadas as tabelas referentes aos elos dos artefatos analisados, que se referem aos requisitos implementados e não implementados pela Carteira Digital de Trânsito. Sendo assim, as Tabelas de 2 a 42 apresentam a rastreabilidade dos requisitos funcionais e não funcionais.
 <center>
 
+#### **Tabela 3 - RF02**
+
+|    RF 02 Obter versão digital da habilitaçã          | Requisito Funcional                 |
+| :--------------------------------------------------: | :---------------------------------: |
+|                      Satisfação                      |   [História de Usuário US3](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/agil/historiasUsuario/)                   |
+|                       Recurso                        | 	[Cenário C01](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/cenarios/),  [Léxico L02](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/léxicos/)                                 |
+|                    Representação                     |  [Diagrama de casos de uso UC1](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/casosDeUso/)                     |
+|                       Alocado                        |                  -                  |
+|                      Agregação                       |   [História de Usuário US3](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/agil/historiasUsuario/), [Cenário C01](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/cenarios/), [Diagrama de casos de uso UC1](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/casosDeUso/),  [Léxico L02](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/léxicos/)                       |
+
+Fonte: [Altino Arthur](https://github.com/arthurrochamoreira).
+
 #### **Tabela 4 - RF03**
 
 |               RF03  Obter versão digital dos veiculos que você é principal condultor       |  Requisito Funcional |
 | :--------------------------------------------------: | :---------------------------------: |
 |                      Satisfação                      |   [História de Usuário US4](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/agil/historiasUsuario/)     |
-|                       Recurso                        |         	|[Cenário C02] (https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/cenarios/)                |
-|                    Representação                     |        | [Diagrama de casos de uso](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/casosDeUso/) |                
+|                       Recurso                        |         	[Cenário C02](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/cenarios/),  [Léxico L11](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/léxicos/)               |
+|                    Representação                     |         [Diagrama de casos de uso](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/casosDeUso/) |                
 |                       Alocado                        |                  -                  |
-|                      Agregação                       |         [História de Usuário US4](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/agil/historiasUsuario/), [Cenário C02](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/cenarios/), [Diagrama de casos de uso](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/casosDeUso/)  |
+|                      Agregação                       |         [História de Usuário US4](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/agil/historiasUsuario/), [Cenário C02](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/cenarios/), [Diagrama de casos de uso](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/casosDeUso/), [Léxico L11](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/léxicos/)   |
+
+Fonte: [Altino Arthur](https://github.com/arthurrochamoreira).
  
 #### **Tabela 5 - RF 04**
 
