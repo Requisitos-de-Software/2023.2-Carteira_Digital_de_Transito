@@ -64,8 +64,7 @@ Neste tópico, serão apresentadas as tabelas referentes aos elos dos artefatos 
 |                       Recurso                        |         	|[Cenário C02] (https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/cenarios/)                |
 |                    Representação                     |        | [Diagrama de casos de uso](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/casosDeUso/) |                
 |                       Alocado                        |                  -                  |
-|                      Agregação                       |                 [História de Usuário US4](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/agil/historiasUsuario/), 
-[Cenário C02](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/cenarios/), [Diagrama de casos de uso](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/casosDeUso/)  |
+|                      Agregação                       |         [História de Usuário US4](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/agil/historiasUsuario/), [Cenário C02](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/cenarios/), [Diagrama de casos de uso](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/casosDeUso/)  |
  
 #### **Tabela 5 - RF 04**
 
