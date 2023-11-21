@@ -3,16 +3,18 @@
 A entrevista é uma das técnicas mais utilizadas de coleta de dados e levantamento de requisitos. Trata-se de uma conversa guiada por um roteiro de perguntas ou tópicos, na qual um entrevistador busca obter informação de um entrevistado (Seidman^1^, 1998). A entrevista permite uma interação direta com os usuários para compreender suas necessidades e expectativas em relação ao sistema.
 
 ## Metodologia
-A entrevista foi realizada no dia 20/10/2023 e contou com a participação de um usuário do aplicativo da Carteira Digital de Trânsito - Wycthor da Silva do Nascimento, tendo como entrevistadora Mayara Alves de Oliveira que fez ao início da entrevista a leitura do Termo de consentimento ao participante, e uma breve explicação sobre o intuito do projeto. Foi preparado um roteiro de  9 perguntas a serem seguidas logo que o modelo de entrevista escolhido foi o de entrevista semiestruturada (o roteiro é composto por perguntas abertas que devem ser endereçados na entrevista, em uma ordem lógica) utilizando a plataforma Meet para gravação e condução da entrevista.
 
-A estrutura de entrevista utilizada foi a de:
+A metodologia adotada para a elaboração deste artefato envolveu uma combinação de métodos de coleta e análise de dados, com foco na compreensão da experiência do usuário com o aplicativo da Carteira Digital de Trânsito e na elicitação de requisitos para aprimoramento do mesmo.
 
-- Apresentação, na qual a entrevistadora se apresenta e explica o objetivo da entrevista
-- Período de aquecimento, no qual são feitas perguntas de fácil resposta, como dados demográficos e perfil do usuário;
-- Parte principal da entrevista, na qual o roteiro é explorado;
-- Um período de quebra gelo, para desfazer alguma tensão que tenha surgido;
-- Conclusão, na qual a entrevistadora agradece ao participante pelo seu tempo, desliga a gravação indicando que a entrevista terminou.
+A entrevista foi realizada no dia 20/10/2023 e contou com a participação de um usuário do aplicativo da Carteira Digital de Trânsito - Wycthor da Silva do Nascimento, tendo como entrevistadora Mayara Alves de Oliveira. Antes do início da entrevista, o participante foi apresentado ao Termo de Consentimento ao Participante e recebeu uma breve explicação sobre o objetivo do projeto.
 
+Para coletar dados, foi realizada uma revisão de literatura abrangente relacionada ao tema da Carteira Digital de Trânsito. Isso incluiu a análise de estudos anteriores, relatórios governamentais, documentos técnicos e artigos acadêmicos relevantes. Essa revisão permitiu a obtenção de uma base sólida de conhecimento sobre o assunto.
+
+Além disso, conduzimos uma entrevista semiestruturada com Wycthor da Silva do Nascimento. A entrevista foi projetada com um roteiro de 9 perguntas abertas, elaborado para explorar a experiência do usuário e suas necessidades em relação ao aplicativo. A plataforma Meet foi utilizada para a gravação e condução da entrevista.
+
+Após a coleta de dados, as respostas fornecidas pelo participante durante a entrevista foram transcritas e submetidas a uma análise rigorosa. O objetivo dessa análise foi identificar padrões, tendências e insights relevantes relacionados ao uso da Carteira Digital de Trânsito. Esses insights serviram como base para a elicitação de requisitos funcionais e não funcionais que podem contribuir para o aprimoramento do aplicativo.
+
+A metodologia empregada permitiu uma abordagem sistemática e abrangente para entender as necessidades dos usuários e documentar os requisitos necessários para melhorar a experiência com a Carteira Digital de Trânsito.
 
 ## Entrevista
 
@@ -28,7 +30,15 @@ Na Tabela 1, é possível contemplar o roteiro empregado para a condução da en
 
   
 Página  | Pergunta 
-:---------: | :------
+:---------: | :------A entrevista foi realizada no dia 20/10/2023 e contou com a participação de um usuário do aplicativo da Carteira Digital de Trânsito - Wycthor da Silva do Nascimento, tendo como entrevistadora Mayara Alves de Oliveira que fez ao início da entrevista a leitura do Termo de consentimento ao participante, e uma breve explicação sobre o intuito do projeto. Foi preparado um roteiro de  9 perguntas a serem seguidas logo que o modelo de entrevista escolhido foi o de entrevista semiestruturada (o roteiro é composto por perguntas abertas que devem ser endereçados na entrevista, em uma ordem lógica) utilizando a plataforma Meet para gravação e condução da entrevista.
+
+A estrutura de entrevista utilizada foi a de:
+
+- Apresentação, na qual a entrevistadora se apresenta e explica o objetivo da entrevista
+- Período de aquecimento, no qual são feitas perguntas de fácil resposta, como dados demográficos e perfil do usuário;
+- Parte principal da entrevista, na qual o roteiro é explorado;
+- Um período de quebra gelo, para desfazer alguma tensão que tenha surgido;
+- Conclusão, na qual a entrevistadora agradece ao participante pelo seu tempo, desliga a gravação indicando que a entrevista terminou.
 Requisitos Funcionais | 1. O que você acha das funcionalidades do aplicativo de carteira digital de trânsito? <br> 2. Quais funcionalidades você acredita que um aplicativo de carteira digital de trânsito deve incluir? <br> 3. Quais tipos de documentos e informações você gostaria de poder armazenar na carteira digital de trânsito? <br> 4. Você gostaria que o aplicativo oferecesse notificações ou lembretes relacionados a prazos de renovação, pagamento de multas, ou outros eventos importantes de trânsito?
 Requisitos de Usabilidade | 5. Como você descreveria a experiência de usuário ideal ao usar a carteira digital de trânsito? <br> 6. . Que tipo de informações ou guias você gostaria que o aplicativo fornecesse para ajudar os usuários a entender como usá-lo? <br> 7. Você acha importante que o aplicativo seja fácil de usar para pessoas de todas as idades?
 Requisitos da Plataforma | 8. Deve haver uma versão para desktop/web do aplicativo, ou apenas uma versão móvel é suficiente?
@@ -75,4 +85,5 @@ and the Social Sciences. New York, NY: Teachers College Press, 1998
 
 Versão  |   Data   | Descrição | Autor(es) | Revisor(es)
 --------- | ------ | ------ | ---------- | ----------
-`1.0` | 20/10/2023| Entrevista  | [Mayara Alves](https://github.com/Mayara-tech)  | [Vinícius Mendes](https://github.com/yabamiah) |
+| `1.0` | 20/10/2023| Entrevista  | [Mayara Alves](https://github.com/Mayara-tech)  | [Vinícius Mendes](https://github.com/yabamiah) |
+| `1.1` | 21/11/2023 |Correção Verificação Grupo 01: Correção da Metodologia | [Altino Arthur](https://github.com/arthurrochamoreira) | [Vinícius Mendes](https://github.com/yabamiah) |
