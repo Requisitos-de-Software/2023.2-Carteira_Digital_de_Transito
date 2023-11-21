@@ -69,17 +69,19 @@ Legenda:
 
 **Tabela 01**: Requisitos Funcionais
 
-|Tipo|Descrição|Identificador|
-|:-:|:-|:-:|
-|RF |O usuário deve ser capaz de visualizar sua multas.|SB01|
-|RF |O aplicativo deve fornecer uma versão digital da carteira nacional de habilitação(CNH).|SB02|
-|RF |Deve ser possível compartilhar os documentos de um veículo com seus coatores.|SB03|
-|RF |O usuário deve conseguir solicitar a outro usuário o compartilhamento dos doscumentos do veículo.|SB04|
-|RNF|Deve ser possível acessar a CNH(digital) mesmo sem acesso a internet.|SB05|
-|RNF|Deve existir um prazo de validade do compartilhamento da CNH.|SB06|
-|RNF|O aplicativo deve alertar o usuário caso seja multado .|SB07|
-|RNF|O aplicativo deve disponibilizar diferentes formas de pagamento para as multas.|SB08|
-|RNF|O aplicativo deve alertar o usuário caso a multa esteja perto do vencimento.|SB09|
+
+| Tipo | Descrição | Identificador | Implementação |
+| :-:  | :-------- | :------------: | :-----------: |
+| RF   | O usuário deve ser capaz de visualizar suas multas. | SB01 | Implementado |
+| RF   | O aplicativo deve fornecer uma versão digital da carteira nacional de habilitação (CNH). | SB02 | Implementado |
+| RF   | Deve ser possível compartilhar os documentos de um veículo com seus coatores. | SB03 | Implementado |
+| RF   | O usuário deve conseguir solicitar a outro usuário o compartilhamento dos documentos do veículo. | SB04 | Implementado |
+| RNF  | Deve ser possível acessar a CNH (digital) mesmo sem acesso à internet. | SB05 | Implementado |
+| RNF  | Deve existir um prazo de validade do compartilhamento da CNH. | SB06 | Não implementado |
+| RNF  | O aplicativo deve alertar o usuário caso seja multado. | SB07 | Não implementado |
+| RNF  | O aplicativo deve disponibilizar diferentes formas de pagamento para as multas. | SB08 | Implementado |
+| RNF  | O aplicativo deve alertar o usuário caso a multa esteja perto do vencimento. | SB09 | Não implementado |
+
 
 **Fonte:** [Breno](https://github.com/brenob6)
 
@@ -96,3 +98,4 @@ Versão  |   Data    | Descrição | Autor(es)     | Revisor(es)|
 :-----: | :----:    | ------    | ----------    | ----------|
 |`1.0`|30/09/2023|Criação do documento | [Breno](https://github.com/brenob6) | [Luis Eduardo](https://github.com/LuisMiranda10)|
 |`2.0`|20/10/2023|Adicionado tabela de requisitos elicitados|[Breno](https://github.com/brenob6)|  [Mayara Alves](https://github.com/Mayara-tech)
+|`2.1`| 21/11/2023 |Correção Verificação Grupo 01: Adição do coluna de implementação na Tabela 01 | [Altino Arthur](https://github.com/arthurrochamoreira) | [Mayara Alves](https://github.com/Mayara-tech) |
