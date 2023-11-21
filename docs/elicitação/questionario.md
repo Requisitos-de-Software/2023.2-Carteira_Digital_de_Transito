@@ -176,5 +176,6 @@ carteira de habilitação.
 | `1.2`    | 21/11/23   |Correção Verificação Grupo 01: Melhoria na Introdução | [Altino Arthur](https://github.com/arthurrochamoreira) | [Luis Eduardo](https://github.com/LuisMiranda10) |
 | `1.3`    | 21/11/23   |Correção Verificação Grupo 01: Padronização das Legendas | [Altino Arthur](https://github.com/arthurrochamoreira) | [Luis Eduardo](https://github.com/LuisMiranda10) |
 | `1.4`    | 21/11/23   |Correção Verificação Grupo 01: Adição da Metodologia, Adição da Aplicação dos Resultados do Questionário | [Altino Arthur](https://github.com/arthurrochamoreira) | [Luis Eduardo](https://github.com/LuisMiranda10) |
+| `1.5`    | 21/11/23   |Correção Verificação Grupo 01: Adição do Termo de Consentimento | [Altino Arthur](https://github.com/arthurrochamoreira) | [Luis Eduardo](https://github.com/LuisMiranda10) |
 
 </center>
