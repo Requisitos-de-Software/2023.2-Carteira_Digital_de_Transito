@@ -228,6 +228,15 @@ Fonte: [Vinícius Mendes](https://github.com/yabamiah).
 
 Fonte: [Mayara Alves](https://github.com/Mayara-tech).
 
+#### **Tabela 16 - RF 15**
+|                 Aplicativo deve possuir um FAQ       | Requisito Funcional |
+| :--------------------------------------------------: | :---------------------------------: |
+|                      Satisfação                      | [Casos de Uso UC2](../modelagem/casosDeUso.md/#especialização-dos-casos-de-uso),  [História de Usuário US04](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/agil/historiasUsuario/), [Cenário 04](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/cenarios/)                    |
+|                       Recurso                        |                  -                  |
+|                    Representação                     |                  -                  |
+|                       Alocado                        |                  -                  |
+|                      Agregação                       |                  -                  |
+
 <br>
 
 #### **Tabela 18 - RF 17**
