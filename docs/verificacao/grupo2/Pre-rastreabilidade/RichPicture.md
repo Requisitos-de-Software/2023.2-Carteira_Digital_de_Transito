@@ -94,7 +94,7 @@ A figura 1 apresenta um gráfico com o percentual de respostas sim, não, incomp
 
 **Figura 1** - Percentual das respostas obtidas na verificação 
 
- ![Gráfico - respostas da verificação](../assets/percentual_Avaliação.PNG)
+![Gráfico percentual de respostas](../../../assets/percentual_Avaliação.PNG)
 
 Fonte: [Mayara Alves](https://github.com/Mayara-tech) 
 </center>
