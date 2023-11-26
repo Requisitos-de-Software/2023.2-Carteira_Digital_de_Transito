@@ -87,8 +87,18 @@ nav:
       - Product Backlog: modelagem/agil/backlog.md
       - Histórias de Usuário: modelagem/agil/historiasUsuario.md
   - Verificação:
+    - Grupo 2:
+      - planejamento da verificação: verificacao/grupo2/planejamendoDaVerificacao.md 
     - Grupo 3:
       - Planejamento da Verificação: verificacao/grupo3/planejamendoDaVerificacao.md 
+      - Planejamento:
+        - Padronização do projeto: verificacao/grupo3/planejamento/padronizacaoDoProj.md
+        - Rich Picture: verificacao/grupo3/planejamento/richPicure.md
+        - Aplicativo selecionado: verificacao/grupo3/planejamento/AplicativoSelecionado.md 
+        - Cronogramas: verificacao/grupo3/planejamento/cronograma.md
+        - Ferramentas de Uso: verificacao/grupo3/planejamento/ferramentasDeUso.md
+        - Heatmap: verificacao/grupo3/planejamento/heatmap.md
+        - Termos de Uso: verificacao/grupo3/planejamento/TermosDeUso.md 
       - Elicitação:
         - Personas: verificacao/grupo3/elicitacao/personas.md
         - Técnicas:
@@ -110,11 +120,4 @@ nav:
         - Backlog do produto: verificacao/grupo3/backlog.md
         - Histórias de Usuário: verificacao/grupo3/verificacao-historias-de-usuario.md
         - NFR Framework: verificacao/grupo3/modelagem/agil/nfr.md
-      - Planejamento:
-        - Padronização do projeto: verificacao/grupo3/planejamento/padronizacaoDoProj.md
-        - Rich Picture: verificacao/grupo3/planejamento/richPicure.md
-        - Aplicativo selecionado: verificacao/grupo3/planejamento/AplicativoSelecionado.md 
-        - Cronogramas: verificacao/grupo3/planejamento/cronograma.md
-        - Ferramentas de Uso: verificacao/grupo3/planejamento/ferramentasDeUso.md
-        - Heatmap: verificacao/grupo3/planejamento/heatmap.md
-        - Termos de Uso: verificacao/grupo3/planejamento/TermosDeUso.md 
+
