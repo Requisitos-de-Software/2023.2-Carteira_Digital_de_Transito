@@ -115,19 +115,19 @@ Fonte: [Mayara Alves](https://github.com/Mayara-tech)
 
 Através dos checklists realizados podemos observar que:
 
-- 13/16 exigências são atendidas;
-- 1/16 exigências estão incompletas;
-- 2/16 exigências estão erradas ou não foram realizadas.
-- 0/16 não se aplica.
+- 15/18  exigências são atendidas;
+- 1/18 exigências estão incompletas;
+- 2/18 exigências estão erradas ou não foram realizadas.
+- 0/18 não se aplica.
 
-onde 16 é a quantidade de itens avaliados na verificação.
+onde 18 é a quantidade de itens avaliados na verificação.
 
-Portanto, com base no cálculo apresentado, pode-se dizer que o aproveitamento deste artefato está em 71.87%.
+Portanto, com base no cálculo apresentado, pode-se dizer que o aproveitamento deste artefato está em 75%.
 
 
 ## Retrabalho
 
-Como proposto por Fagan, para o retrabalho a autores do artefato [Milena Baruc](https://github.com/MilenaBaruc) irão fazer as correções dos problemas apresentados seguindo a tabela de sugestão de correção apresentada anteriormente. O responsável por essa verificação fará uma revisão das correções feitas, checando se as correções são suficientes e se foi introduzido novos erros ou não. A tabela 3 a seguir apresenta o cronograma de correções.
+Como proposto por Fagan, para o retrabalho o autor do artefato [Breno Queiroz](https://github.com/Brenob6) irá fazer as correções dos problemas apresentados seguindo a tabela de sugestão de correção apresentada anteriormente. O responsável por essa verificação fará uma revisão das correções feitas, checando se as correções são suficientes e se foi introduzido novos erros ou não. A tabela 3 a seguir apresenta o cronograma de correções.
 
 <center>
 
@@ -135,8 +135,8 @@ Como proposto por Fagan, para o retrabalho a autores do artefato [Milena Baruc](
 
 | Data de Correção | Descrição                                                                             |                Responsável(eis)                |                 Revisor(es)                 |      Status      |
 | :--------------: | :------------------------------------------------------------------------------------ | :--------------------------------------------: | :-----------------------------------------: | :--------------: |
-|    30/11/2023    | Detalhar a utilização do uso das técnicas para a realização do RichPicture                   |  [Milena Baruc](https://github.com/MilenaBaruc)  | [Mayara Alves](https://github.com/Mayara-tech) |  |
-|    30/11/2023    | Adição referência bibliografica do canvas | [Milena Baruc](https://github.com/nando3d3) | [Mayara Alves](https://github.com/Mayara-tech) |  |
+|    30/11/2023    | Criação da metodologia                 |  [Breno Queiroz](https://github.com/Brenob6)  | [Mayara Alves](https://github.com/Mayara-tech) |  |
+|    30/11/2023    | Adição da ferramenta utilizada para construção do Storyboard as referências | [Breno Queiroz](https://github.com/Brenob6) | [Mayara Alves](https://github.com/Mayara-tech) |  |
 
 
 Fonte: [Mayara Alves](https://github.com/Mayara-tech) 
