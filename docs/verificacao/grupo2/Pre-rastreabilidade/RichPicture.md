@@ -1,4 +1,4 @@
-# Rich Picture 
+# Verificação Rich Picture 
  
 ## Introdução
 
