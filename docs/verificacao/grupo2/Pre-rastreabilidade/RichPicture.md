@@ -101,6 +101,27 @@ Fonte: [Mayara Alves](https://github.com/Mayara-tech)
 
 ### Percentual de aproveitamento 
 
+Para saber a porcentagem de aproveitamento do artefato, será utilizado a Equação na figura 2:
+
+**Figura 1** - Percentual das respostas obtidas na verificação 
+
+![Equação](../../../assets/equacao.PNG)
+
+Fonte: [Mayara Alves](https://github.com/Mayara-tech) 
+</center>
+
+Através dos checklists realizados podemos observar que:
+
+- 13/16 exigências são atendidas;
+- 1/16 exigências estão incompletas;
+- 2/16 exigências estão erradas ou não foram realizadas.
+- 0/16 não se aplica.
+
+onde 16 é a quantidade de itens avaliados na verificação.
+
+Portanto, com base no cálculo apresentado, pode-se dizer que o aproveitamento deste artefato está em 71.87%.
+
+
 ## Retrabalho
 
 Como proposto por Fagan, para o retrabalho a autores do artefato [Milena Baruc](https://github.com/MilenaBaruc) irão fazer as correções dos problemas apresentados seguindo a tabela de sugestão de correção apresentada anteriormente. O responsável por essa verificação fará uma revisão das correções feitas, checando se as correções são suficientes e se foi introduzido novos erros ou não. A tabela 3 a seguir apresenta o cronograma de correções.
