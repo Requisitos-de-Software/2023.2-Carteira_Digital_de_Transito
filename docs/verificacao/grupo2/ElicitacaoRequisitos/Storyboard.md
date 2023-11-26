@@ -20,16 +20,18 @@ A verificação do artefato seguirá o [planejamento](https://requisitos-de-soft
 | 4  | O artefato possui um histórico de versões com o id e descrição das versões, data, autores e revisores?                         | -          | -    |
 | 5  | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes?                                                   | -          | -         |
 | 6  | Todos os textos estão na norma padrão?                                       						      | -          | -            |
-| 7 | O rich picture possui atores, operações, armazenamento de dados, setas e o limite do sistema?  | - | - |
-| 8 | Foi utilizada alguma técnica na produção do rich picture? | - | - |
-| 9 | O rich picture possui mais textos do que imagens? | -  | - |
-| 10 | O artefato está bem desenhado e é possível de ser entendido? | - | - |
-| 11 | Ele conta uma história? | - | - |
-| 12 | O rich picture diz qual dado está sendo processado, qual está chegando ao sistema e qual informação está saindo?  | - | - |
-| 13 | O rich picture dá uma ideia do que realmente está acontecendo? | -| - |
-| 14 | Contém palavras-chave relevantes? | - | - |
-| 15 | Comunica mais ideias do que palavras? | -| - |
-| 16 | Contém a explicação dos componentes? | - | - |
+| 7  | Foi mostrado como o storyboard foi criado?                                               | -          | -             | 
+| 8  | O storyboard apresenta a utilização típica do aplicativo?                                               | -          | -             | 
+| 9  | Foi mostrado os requisitos elicitados com os storyboards?                                              | -          | -             | 
+| 10  | Os requisitos elicitados foram classificados corretamente?                                              | -          | -             | 
+| 11  | Foram elicitados requisitos que não estavam presentes no aplicativo?                                           | -          | -             | 
+| 12  | Todos os requisitos são testáveis?                                                                        | -             | -            |
+| 13  | É definido os atores do documento?                                                                        | -             | -            |
+| 14  | O Storyboard é adequado para compreensão por parte da equipe de desenvolvimento e dos usuários?           | -           | -            |
+| 15  | Os objetivos do storyboard estão claramente definidos e alinhados com os objetivos do aplicativo?          | -           | -            |
+| 16  | As cenas do storyboard estão organizadas em uma sequência temporal lógica, refletindo a ordem de interações do usuário?  | -            | -
+| 17  | Os storyboards abrange uma variedade de cenários que representam diferentes casos de uso e situações possíveis? | -         | -    
+| 18  | As representações visuais, como wireframes ou esboços, são claras e ajudam na compreensão das interações propostas?     | -       | -      
 
 Fonte: [Mayara Alves](https://github.com/Mayara-tech) 
 
@@ -45,22 +47,24 @@ Na tabela 2 podemos observar o checklist preenchido após verificação do artef
 
 | ID | Descrição                                                                                                                      | Avaliação  | Observação                                                             |
 |----|--------------------------------------------------------------------------------------------------------------------------------|------------|------------------------------------------------------------------------|
-| 1  | O artefato possui Introdução?                                                                                                  | Sim         |      |
-| 2  | O artefato possui a metodologia utilizada?                                                                    		      | Não         |  artefato possui um texto descrevendo a metodologia porém o mesmo não está identificado como metodologia seguindo o padrão das demais páginas.   |
-| 3  | O artefato possui bibliografia/referências bibliográficas?                                                                     | Incompleto         | Faltou coloca nas referências bibliograficas a ferramenta canvas que foi citada no texto.  |
-| 4  | O artefato possui um histórico de versões com o id e descrição das versões, data, autores e revisores?                         | Sim          |    |
-| 5  | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes?                                                   | Sim        |    |
-| 6  | Todos os textos estão na norma padrão?                                       						      | Sim          |           |
-| 7 | O rich picture possui atores, operações, armazenamento de dados, setas e o limite do sistema?  | Sim | |
-| 8 | Foi utilizada alguma técnica na produção do rich picture? | Não foi possível identificar | Não foi possível identificar a utilização alguma técnica logo que não esta identificado no texto. |
-| 9 | O rich picture possui mais Imagens do que Texto? | Sim  | - |
-| 10 | O artefato está bem desenhado e é possível de ser entendido? | Sim | - |
-| 11 | Ele conta uma história? | Sim | - |
-| 12 | O rich picture diz qual dado está sendo processado, qual está chegando ao sistema e qual informação está saindo?  | Sim | - |
-| 13 | O rich picture dá uma ideia do que realmente está acontecendo? | Sim | - |
-| 14 | Contém palavras-chave relevantes? | Sim | - |
-| 15 | Comunica mais ideias do que palavras? | Sim | - |
-| 16 | Contém a explicação dos componentes? | Sim | - |
+| 1  | O artefato possui Introdução?                                                                                                  | Sim          | -       |
+| 2  | O artefato possui a metodologia utilizada?                                                                    		      | Não         | O artefato não possui a metodologia utilizada para sua construção.     |
+| 3  | O artefato possui bibliografia/referências bibliográficas?                                                                     | Incompleto         | Não é referenciado o aplicativo ou site utilizado para criação dos Storyboards |
+| 4  | O artefato possui um histórico de versões com o id e descrição das versões, data, autores e revisores?                         | Sim         | -    |
+| 5  | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes?                                                   | Sim       | -         |
+| 6  | Todos os textos estão na norma padrão?                                       						      | Sim        | -            |
+| 7  | Foi mostrado como o storyboard foi criado?                                               | Não         | O artefato não possui metodologia deixando assim inacessível como foi realizado a construção do artefato.            | 
+| 8  | O storyboard apresenta a utilização típica do aplicativo?                                               | Sim          | -             | 
+| 9  | Foi mostrado os requisitos elicitados com os storyboards?                                              | Sim         | -             | 
+| 10  | Os requisitos elicitados foram classificados corretamente?                                              | Sim         | -             | 
+| 11  | Foram elicitados requisitos que não estavam presentes no aplicativo?                                           | Sim         | -             | 
+| 12  | Todos os requisitos são testáveis?                                                                        | Sim            | -            |
+| 13  | É definido os atores do documento?                                                                        | Sim             | -            |
+| 14  | O Storyboard é adequado para compreensão por parte da equipe de desenvolvimento e dos usuários?           | Sim          | -            |
+| 15  | Os objetivos do storyboard estão claramente definidos e alinhados com os objetivos do aplicativo?          | Sim           | -            |
+| 16  | As cenas do storyboard estão organizadas em uma sequência temporal lógica, refletindo a ordem de interações do usuário?  | Sim           | -
+| 17  | Os storyboards abrange uma variedade de cenários que representam diferentes casos de uso e situações possíveis? | Sim        | -    
+| 18  | As representações visuais, como wireframes ou esboços, são claras e ajudam na compreensão das interações propostas?     | Sim       | -      
 
 
 Fonte: [Mayara Alves](https://github.com/Mayara-tech) 
@@ -78,9 +82,9 @@ De maneira geral o artefato apresenta uma boa qualidade, uma boa formatação e 
 
 | ID | Descrição do problema | Sugestão de melhoria |
 | --- | ---------------------| ---------------------- |
-| 02 |   artefato possui um texto descrevendo a metodologia porém o mesmo não está identificado como metodologia seguindo o padrão das demais páginas. |  É sugerido que a identificação do texto seja trocada para metodologia para seguir os padrões dos demais artefatos. |
-| 03  | Faltou coloca nas referências bibliograficas a ferramenta canvas que foi citada no texto.  |  É sugerido que se coloque na referência bibliografica a ferramentas canvas que é citada no texto e a referencie do texto para referências bibliograficas.  |
-| 08  | Não foi possível identificar a utilização alguma técnica na produção do rich picture | É sugerido que especifique na metodologia quais técnicas foram utilizada para elaboração do Rich Picture. |
+| 02 | O artefato não possui a metodologia utilizada para sua construção.   |  É sugerido a elaboração de uma metodologia abordando a construção do Storyboard. |
+| 03 | Não é referenciado o aplicativo ou site utilizado para criação dos Storyboards  |  É sugerido que se coloque na referência a ferramenta utilizada para criação do Storyboard.  |
+| 07 | Foi mostrado como o storyboard foi criado? | É sugerido que especifique na metodologia quais técnicas foram utilizada para elaboração do Storyboard. |
 
 Fonte: [Mayara Alves](https://github.com/Mayara-tech) 
 </center>
@@ -93,7 +97,7 @@ A figura 1 apresenta um gráfico com o percentual de respostas sim, não, incomp
 
 **Figura 1** - Percentual das respostas obtidas na verificação 
 
-![Gráfico percentual de respostas](../../../assets/percentual_Avaliação.PNG)
+![Gráfico percentual de respostas](../../../assets/percentual_Avaliação1.PNG)
 
 Fonte: [Mayara Alves](https://github.com/Mayara-tech) 
 </center>
@@ -141,7 +145,8 @@ Fonte: [Mayara Alves](https://github.com/Mayara-tech)
 ## Bibliografia
 
 > BARBOSA, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021);Interação Humano-Computador e Experiência do usuário.
-> BILHETERIA DIGITAL. Interacao-Humano_computador. Distrito Federal, 2023. Disponível em: <https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/>. Acesso em: 10/11/2023.<br>
+> BILHETERIA DIGITAL. Interacao-Humano_computador. Distrito Federal, 2023. Disponível em: <https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/>. Acesso em: 26/11/2023.<br>
+> VICTOR, Lucas. [Planejamento de Verificação da Entrega 2](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/verificacao/Grupo-02/Entrega-02/planejamento-verificacao-e2-grupo2.md), GAMA, FGA, 2023. Acesso em: 26 de novembro de 2023.
 
 ## 📑 Histórico de Versões
 
