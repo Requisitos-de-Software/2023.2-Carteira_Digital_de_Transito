@@ -20,6 +20,13 @@ A verificação do artefato seguirá o [planejamento](https://requisitos-de-soft
 | 4  | O artefato possui um histórico de versões com o id e descrição das versões, data, autores e revisores?                         | -          | -    |
 | 5  | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes?                                                   | -          | -         |
 | 6  | Todos os textos estão na norma padrão?                                       						      | -          | -            |
+| 7  | As políticas são expressas de maneira clara e compreensível para todos os membros da equipe?                                                 | -          | -       |
+| 8  | As políticas estão alinhadas com os objetivos do projeto e da equipe de desenvolvimento?                                      		      | -          | -    |
+| 9  | As políticas estão acessíveis a todos os membros da equipe e são facilmente localizáveis?                                                                     | -          | -  |
+| 10  | Cada política define claramente as responsabilidades dos membros da equipe em relação à sua implementação?           | -          | -    |
+| 11 | As políticas incentivam a colaboração entre os membros da equipe?                                       | -          | -         |
+| 12 | As políticas foram avaliadas quanto ao seu impacto na organização, qualidade do projeto e eficiência do desenvolvimento?           | -          | -            |
+| 13  | Existem uma instrução em relação ao uso das políticas                      		      | -          | -    |
 
 Fonte: [Mayara Alves](https://github.com/Mayara-tech) 
 
@@ -35,12 +42,19 @@ Na tabela 2 podemos observar o checklist preenchido após verificação do artef
 
 | ID | Descrição                                                                                                                      | Avaliação  | Observação                                                             |
 |----|--------------------------------------------------------------------------------------------------------------------------------|------------|------------------------------------------------------------------------|
-| 1  | O artefato possui Introdução?                                                                                                  | Sim          | -       |
-| 2  | O artefato possui a metodologia utilizada?                                                                    		      | Não         | O artefato não possui a metodologia utilizada para sua construção.     |
-| 3  | O artefato possui bibliografia/referências bibliográficas?                                                                     | Incompleto         | Não é referenciado o aplicativo ou site utilizado para criação dos Storyboards |
-| 4  | O artefato possui um histórico de versões com o id e descrição das versões, data, autores e revisores?                         | Sim         | -    |
-| 5  | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes?                                                   | Sim       | -         |
-| 6  | Todos os textos estão na norma padrão?                                       						      | Sim        | -            |
+| 1  | O artefato possui Introdução?                                                                                                  | -          | -       |
+| 2  | O artefato possui a metodologia utilizada?                                                                    		      | -          | -    |
+| 3  | O artefato possui bibliografia/referências bibliográficas?                                                                     | -          | -  |
+| 4  | O artefato possui um histórico de versões com o id e descrição das versões, data, autores e revisores?                         | -          | -    |
+| 5  | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes?                                                   | -          | -         |
+| 6  | Todos os textos estão na norma padrão?                                       						      | -          | -            |
+| 7  | As políticas são expressas de maneira clara e compreensível para todos os membros da equipe?                                                 | -          | -       |
+| 8  | As políticas estão alinhadas com os objetivos do projeto e da equipe de desenvolvimento?                                      		      | -          | -    |
+| 9  | As políticas estão acessíveis a todos os membros da equipe e são facilmente localizáveis?                                                                     | -          | -  |
+| 10  | Cada política define claramente as responsabilidades dos membros da equipe em relação à sua implementação?           | -          | -    |
+| 11 | As políticas incentivam a colaboração entre os membros da equipe?                                       | -          | -         |
+| 12 | As políticas foram avaliadas quanto ao seu impacto na organização, qualidade do projeto e eficiência do desenvolvimento?           | -          | -            |
+| 13 | Existem uma instrução em relação ao uso das políticas                      		      | -          | -    |
 
 Fonte: [Mayara Alves](https://github.com/Mayara-tech) 
 
