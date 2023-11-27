@@ -129,8 +129,9 @@ Como proposto por Fagan, para o retrabalho os autores do artefato [Vinicius Mend
 
 | Data de Correção | Descrição                                                                             |                Responsável(eis)                |                 Revisor(es)                 |      Status      |
 | :--------------: | :------------------------------------------------------------------------------------ | :--------------------------------------------: | :-----------------------------------------: | :--------------: |
-|    30/11/2023    |               |   [Vinicius Mendes](https://github.com/yabamiah) e [Luis Miranda](https://github.com/LuisMiranda10)  | [Mayara Alves](https://github.com/Mayara-tech) |  |
-|    30/11/2023    |  |  [Vinicius Mendes](https://github.com/yabamiah) e [Luis Miranda](https://github.com/LuisMiranda10)| [Mayara Alves](https://github.com/Mayara-tech) |  |
+|    30/11/2023    | Fazer o chamado das tabelas dos léxicos no texto            |   [Vinicius Mendes](https://github.com/yabamiah) e [Luis Miranda](https://github.com/LuisMiranda10)  | [Mayara Alves](https://github.com/Mayara-tech) |  |
+|    30/11/2023    |  Substituir do termo dicionário para sinônimos |  [Vinicius Mendes](https://github.com/yabamiah) e [Luis Miranda](https://github.com/LuisMiranda10)| [Mayara Alves](https://github.com/Mayara-tech) |  |
+|    30/11/2023    |  Colocar hiperlinks em todos os léxicos apresentados |  [Vinicius Mendes](https://github.com/yabamiah) e [Luis Miranda](https://github.com/LuisMiranda10)| [Mayara Alves](https://github.com/Mayara-tech) |  |
 
 
 Fonte: [Mayara Alves](https://github.com/Mayara-tech) 
