@@ -78,7 +78,7 @@ De maneira geral o artefato apresenta uma boa qualidade, uma boa formatação e 
 
 <center>
 
-**Tabela 2** - Sugestões de melhoria - Storyboard
+**Tabela 3** - Sugestões de melhoria - Storyboard
 
 | ID | Descrição do problema | Sugestão de melhoria |
 | --- | ---------------------| ---------------------- |
@@ -131,7 +131,7 @@ Como proposto por Fagan, para o retrabalho o autor do artefato [Breno Queiroz](h
 
 <center>
 
-**Tabela 3** - Cronograma de Correções.
+**Tabela 4** - Cronograma de Correções.
 
 | Data de Correção | Descrição                                                                             |                Responsável(eis)                |                 Revisor(es)                 |      Status      |
 | :--------------: | :------------------------------------------------------------------------------------ | :--------------------------------------------: | :-----------------------------------------: | :--------------: |
@@ -154,4 +154,4 @@ Fonte: [Mayara Alves](https://github.com/Mayara-tech)
 
 | Versão | Data       | Descrição                                       | Autor                                          | Revisor                                      |
 | ------ | ---------- | ----------------------------------------------- | -----------------------------------------------| ---------------------------------------------|
-| `1.0`  | 26/11/2023 | Adicionando verificação do artefato Storyboard   | [Mayara Alves](https://github.com/Mayara-tech) |  |
+| `1.0`  | 26/11/2023 | Adicionando verificação do artefato Storyboard   | [Mayara Alves](https://github.com/Mayara-tech) | [Limirio Guimarães](https://github.com/LimirioGuimaraes) |
