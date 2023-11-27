@@ -106,7 +106,7 @@ Fonte: [Mayara Alves](https://github.com/Mayara-tech)
 
 Para saber a porcentagem de aproveitamento do artefato, será utilizado a Equação na figura 2:
 
-**Figura 1** - Percentual das respostas obtidas na verificação 
+**Figura 2** - Equação de percentual de aproveitamento
 
 ![Equação](../../../assets/equacao.PNG)
 
