@@ -12,6 +12,21 @@ A verificação do artefato seguirá o [planejamento](https://requisitos-de-soft
 
 **Tabela 1** - Checklist 
 
+| ID | Descrição                                                                                                                      | Avaliação  | Observação                                                             |
+|----|--------------------------------------------------------------------------------------------------------------------------------|------------|------------------------------------------------------------------------|
+| 1  | O artefato possui Introdução?                                                                                                  | Sim          | -                                                                      |
+| 2  | O artefato possui a metodologia utilizada?                                                                    		      | Sim          | -                                                                      |
+| 3  | O artefato possui bibliografia/referências bibliográficas?                                                                     | Sim          | -                                                                      |
+| 4  | O artefato possui um histórico de versões com o id e descrição das versões, data, autores e revisores?                         | Sim          | -                                                                      |
+| 5  | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes?                                                   | Sim          | -                                                                      |
+| 6  | Todos os textos estão na norma padrão?                                       						      | Sim          | -                                                                      |
+| 7  | Um cronograma (data e horário) e local para realização da elicitação dos requisitos com os envolvidos?			      | Não          | No tópico de metodologia é apresentado o horário e dia que foi realizada a atividade no entanto não há um cronograma.|
+| 8  | A gravação e o(s) registro(s) da atividade de elicitação dos requisitos?                                                       | Sim          | -                                                                      |
+| 9  | Está especificado o papel de cada participante?                                                                                | Sim          | -  								    |
+| 10 | Os requisitos elicitados estão identificados por IDs?	                                                                      | Sim          | -                                                                      |
+| 11 | Os requisitos foram qualificados em funcionais e não funcionais?	                                                              | Sim          | -                                                                      |
+| 12  | O glossário foi bem definido?									                              | -          | -  								    |
+| 13  | Foi explicado o que cada termo significa dentro do aplicativo?								      | -          | -  								    |
 
 Fonte: [Limirio Guimarães](https://github.com/LimirioGuimaraes)
 
