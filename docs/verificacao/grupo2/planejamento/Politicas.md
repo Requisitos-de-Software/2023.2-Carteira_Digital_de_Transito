@@ -88,14 +88,14 @@ Fonte: [Mayara Alves](https://github.com/Mayara-tech)
 
 Através dos checklists realizados podemos observar que:
 
-- 15/18  exigências são atendidas;
-- 1/18 exigências estão incompletas;
-- 2/18 exigências estão erradas ou não foram realizadas.
-- 0/18 não se aplica.
+- 0/13  exigências são atendidas;
+- 0/13 exigências estão incompletas;
+- 0/13 exigências estão erradas ou não foram realizadas.
+- 0/13 não se aplica.
 
-onde 18 é a quantidade de itens avaliados na verificação.
+onde 13 é a quantidade de itens avaliados na verificação.
 
-Portanto, com base no cálculo apresentado, pode-se dizer que o aproveitamento deste artefato está em 75%.
+Portanto, com base no cálculo apresentado, pode-se dizer que o aproveitamento deste artefato está em %.
 
 
 ## Retrabalho
@@ -127,4 +127,4 @@ Fonte: [Mayara Alves](https://github.com/Mayara-tech)
 
 | Versão | Data       | Descrição                                       | Autor                                          | Revisor                                      |
 | ------ | ---------- | ----------------------------------------------- | -----------------------------------------------| ---------------------------------------------|
-| `1.0`  | 26/11/2023 | Adicionando verificação do artefato Políticas    | [Mayara Alves](https://github.com/Mayara-tech) | [Limirio Guimarães](https://github.com/LimirioGuimaraes) |
+| `1.0`  | 26/11/2023 | Adicionando verificação do artefato Políticas    | [Mayara Alves](https://github.com/Mayara-tech) |  |
