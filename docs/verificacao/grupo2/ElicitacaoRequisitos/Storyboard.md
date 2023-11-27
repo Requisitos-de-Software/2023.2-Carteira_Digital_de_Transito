@@ -2,7 +2,7 @@
  
 ## Introdução
 
-Este documento é uma verificação do artefato [Storyboard](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/elicita%C3%A7%C3%A3o/storyboard/) na versão 2.1 de data 21/11/2023, autorado por [Breno Queiroz](https://github.com/brenob6), que são integrantes do [grupo 02](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/), cujo projeto tem como foco o aplicativo [Carteira Digital de Trânsito](https://play.google.com/store/apps/details?id=br.gov.serpro.cnhe&hl=pt_BR&gl=US), o propósito desta verificação é identificar possíveis problemas no artefato de elicitação.
+Este documento é uma verificação do artefato [Storyboard](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/elicita%C3%A7%C3%A3o/storyboard/) na versão 2.1 de data 21/11/2023, autorado por [Breno Queiroz](https://github.com/brenob6), que é integrante do [grupo 02](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/), cujo projeto tem como foco o aplicativo [Carteira Digital de Trânsito](https://play.google.com/store/apps/details?id=br.gov.serpro.cnhe&hl=pt_BR&gl=US), o propósito desta verificação é identificar possíveis problemas no artefato de elicitação.
 
 ## Metodologia 
 
