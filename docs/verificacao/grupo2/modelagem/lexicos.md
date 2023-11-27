@@ -20,6 +20,15 @@ A verificação do artefato seguirá o [planejamento](https://requisitos-de-soft
 | 4  | O artefato possui um histórico de versões com o id e descrição das versões, data, autores e revisores?                         | -          | -    |
 | 5  | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes?                                                   | -          | -         |
 | 6  | Todos os textos estão na norma padrão?                                       						      | -          | -            |
+| 7  | O artefato possui a especificação dos léxicos?                                           | -          | -             |
+| 8  | Cada símbolo possui classificação, sinônimo, noção e impactos?                                           | -          | -         | 
+| 9  | Os léxicos utilizam a estrutura de dicionário (verbo, objeto, estado ou outra classificação)?                                       | -          | -         | 
+| 10  | Cada léxico apresenta sua classificação correta?                                       | -          | -         | 
+| 11  | As definições de noção e impacto se encaixam com o que é descrito e estão de acordo com a classificação?                                      | -          | -         | 
+| 12  | Os léxicos possuem ligações (hyperlinks) entre si, sendo referenciados e conectados? O princípio circular foi devidamente propagado?             | -          | -         | 
+| 13  | A descrição dos léxicos é coerente e esclarecedora?             | -          | -         | 
+| 14  | É apresentado pelo menos um léxico de cada categoria, sendo elas, verbo, estado e objeto?            | -          | -         | 
+| 15  | Os léxicos cobrem as principais funcionalidades e interações do sistema?          | -          | -         | 
 
 
 Fonte: [Mayara Alves](https://github.com/Mayara-tech) 
@@ -36,13 +45,21 @@ Na tabela 2 podemos observar o checklist preenchido após verificação do artef
 
 | ID | Descrição                                                                                                                      | Avaliação  | Observação                                                             |
 |----|--------------------------------------------------------------------------------------------------------------------------------|------------|------------------------------------------------------------------------|
-| 1  | O artefato possui Introdução?                                                                                                  |      |       |
-| 2  | O artefato possui a metodologia utilizada?                                                                    		      |       |  |
-| 3  | O artefato possui bibliografia/referências bibliográficas?                                                                     |       | |
-| 4  | O artefato possui um histórico de versões com o id e descrição das versões, data, autores e revisores?                         |       |    |
-| 5  | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes?                                                   |       |        |
-| 6  | Todos os textos estão na norma padrão?                                       						      |        |            |
- 
+| 1  | O artefato possui Introdução?                                                                                                  | Sim          | -       |
+| 2  | O artefato possui a metodologia utilizada?                                                                    		      | Sim         | -    |
+| 3  | O artefato possui bibliografia/referências bibliográficas?                                                                     | Sim        | -  |
+| 4  | O artefato possui um histórico de versões com o id e descrição das versões, data, autores e revisores?                         | Sim         | -    |
+| 5  | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes?                                                   | Incompleto         | As tabelas dos lexicos não são chamadas no texto.         |
+| 6  | Todos os textos estão na norma padrão?                                       						      | Sim          | -            |
+| 7  | O artefato possui a especificação dos léxicos?                                           | Sim       | -             |
+| 8  | Cada símbolo possui classificação, sinônimo, noção e impactos?                                           | Incompleto         |  Os sinônimos foram nomeados de "Dicionário" o que causou uma certa confusão na compreensão dos termos usados.       | 
+| 9  | Os léxicos utilizam a estrutura de dicionário (verbo, objeto, estado ou outra classificação)?                                       | Sim        | -         | 
+| 10 | Cada léxico apresenta sua classificação correta?                                       | Sim         | -         | 
+| 11 | As definições de noção e impacto se encaixam com o que é descrito e estão de acordo com a classificação?                                      | Sim         | -         | 
+| 12 | Os léxicos possuem ligações (hyperlinks) entre si, sendo referenciados e conectados? O princípio circular foi devidamente propagado?             | Incompleto    | O princípio circular e alguns léxicos estão em negrito, porém ficou faltando os hyperlinks.         | 
+| 13 | A descrição dos léxicos é coerente e esclarecedora?             | Sim        | -         | 
+| 14 | É apresentado pelo menos um léxico de cada categoria, sendo elas, verbo, estado e objeto?            | Sim         | -         | 
+| 15 | Os léxicos cobrem as principais funcionalidades e interações do sistema?          | Sim        | -         | 
 
 Fonte: [Mayara Alves](https://github.com/Mayara-tech) 
 
@@ -55,12 +72,13 @@ De maneira geral o artefato apresenta uma boa qualidade, uma boa formatação e 
 
 <center>
 
-**Tabela 2** - Sugestões de melhoria - Léxicos
+**Tabela 3** - Sugestões de melhoria - Léxicos
 
 | ID | Descrição do problema | Sugestão de melhoria |
 | --- | ---------------------| ---------------------- |
-| |    |  |
-
+| 05 | As tabelas dos lexicos não são chamadas no texto.     |  É sugerido que seja feito o chamado das tabelas referentes aos lexicos no texto. |
+| 07 | Os sinônimos foram nomeados de "Dicionário" o que causou uma certa confusão na compreensão dos termos usados.     | É sugerido que seja feita a substituição do termo dicionário para sinônimos, para evitar ambiguidade de sentidos.  |
+| 12 | O princípio circular e alguns léxicos estão em negrito, porém ficou faltando os hyperlinks.     |  É sugerido que todos os léxicos citados possuam hiperlinks para seguir o principio circular.|
 
 Fonte: [Mayara Alves](https://github.com/Mayara-tech) 
 </center>
@@ -73,7 +91,7 @@ A figura 1 apresenta um gráfico com o percentual de respostas sim, não, incomp
 
 **Figura 1** - Percentual das respostas obtidas na verificação 
 
-![Gráfico percentual de respostas](../../../assets/percentual_Avaliação1.PNG)
+![Gráfico percentual de respostas](../../../assets/percentual_Avaliação2.PNG)
 
 Fonte: [Mayara Alves](https://github.com/Mayara-tech) 
 </center>
@@ -82,7 +100,7 @@ Fonte: [Mayara Alves](https://github.com/Mayara-tech)
 
 Para saber a porcentagem de aproveitamento do artefato, será utilizado a Equação na figura 2:
 
-**Figura 1** - Percentual das respostas obtidas na verificação 
+**Figura 2** - Equação da procentagem de aproveitamento do artefato
 
 ![Equação](../../../assets/equacao.PNG)
 
@@ -91,14 +109,14 @@ Fonte: [Mayara Alves](https://github.com/Mayara-tech)
 
 Através dos checklists realizados podemos observar que:
 
-- 15/18  exigências são atendidas;
-- 1/18 exigências estão incompletas;
-- 2/18 exigências estão erradas ou não foram realizadas.
-- 0/18 não se aplica.
+- 12/15  exigências são atendidas;
+- 3/15 exigências estão incompletas;
+- 0/15 exigências estão erradas ou não foram realizadas.
+- 0/15 não se aplica.
 
-onde 18 é a quantidade de itens avaliados na verificação.
+onde 15 é a quantidade de itens avaliados na verificação.
 
-Portanto, com base no cálculo apresentado, pode-se dizer que o aproveitamento deste artefato está em 75%.
+Portanto, com base no cálculo apresentado, pode-se dizer que o aproveitamento deste artefato está em 90%.
 
 
 ## Retrabalho
@@ -130,4 +148,4 @@ Fonte: [Mayara Alves](https://github.com/Mayara-tech)
 
 | Versão | Data       | Descrição                                       | Autor                                          | Revisor                                      |
 | ------ | ---------- | ----------------------------------------------- | -----------------------------------------------| ---------------------------------------------|
-| `1.0`  | 26/11/2023 | Adicionando verificação do artefato Léxicos   | [Mayara Alves](https://github.com/Mayara-tech) |  |
+| `1.0`  | 27/11/2023 | Adicionando verificação do artefato Léxicos   | [Mayara Alves](https://github.com/Mayara-tech) |  |
