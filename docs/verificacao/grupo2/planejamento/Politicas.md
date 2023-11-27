@@ -132,10 +132,7 @@ Fonte: [Mayara Alves](https://github.com/Mayara-tech)
 ## Bibliografia
 
 > BARBOSA, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021);Interação Humano-Computador e Experiência do usuário.
-> 
-> BILHETERIA DIGITAL. Interacao-Humano_computador. Distrito Federal, 2023. Disponível em: <https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/>. Acesso em: 26/11/2023.<br>
->
-> VICTOR, Lucas. [Planejamento de Verificação da Entrega 2](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/verificacao/Grupo-02/Entrega-02/planejamento-verificacao-e2-grupo2.md), GAMA, FGA, 2023. Acesso em: 26 de novembro de 2023.
+
 
 ## 📑 Histórico de Versões
 
