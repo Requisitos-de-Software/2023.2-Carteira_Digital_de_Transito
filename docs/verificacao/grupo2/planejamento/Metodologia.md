@@ -12,6 +12,21 @@ A verificação do artefato seguirá o [planejamento](https://requisitos-de-soft
 
 **Tabela 1** - Checklist 
 
+| ID | Descrição                                                                                                                      | Avaliação  | Observação                                                             |
+|----|--------------------------------------------------------------------------------------------------------------------------------|------------|------------------------------------------------------------------------|
+| 1  | O artefato possui Introdução?                                                                                                  | -          | -                                                                      |
+| 2  | O artefato possui a metodologia utilizada?                                                                    		      | -          | -                                                                      |
+| 3  | O artefato possui bibliografia/referências bibliográficas?                                                                     | -          | -                                                                      |
+| 4  | O artefato possui um histórico de versões com o id e descrição das versões, data, autores e revisores?                         | -          | -                                                                      |
+| 5  | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes?                                                   | -          | -                                                                      |
+| 6  | Todos os textos estão na norma padrão?                                       						      | -          | -                                                                      |
+| 7  | Define objetivo do documento?								   				      | -          | -                                                                      |
+| 8  | O documento estabelece claramente os objetivos da metodologia, indicando o que se pretende alcançar com sua aplicação?         | -          | -                                                                      |
+| 9  | A metodologia é descrita de forma detalhada, incluindo os passos a serem seguidos, as atividades a serem realizadas e os recursos necessários? | - |-                                                                |
+| 10  | A metodologia está fundamentada em teorias, conceitos ou abordagens reconhecidas na área?				      | -          | -  								    |
+| 11  | O documento fornece informações suficientes para que a metodologia possa ser reproduzida por outras pessoas? 		      | -          | -  								    |
+| 12  | A documento permiti adaptações e ajustes conforme necessário, levando em consideração as particularidades de cada situação ou projeto, sendo capaz de lidar com a complexidade e a variabilidade do mundo real?						                              | -          | -  								    |
+
 
 Fonte: [Limirio Guimarães](https://github.com/LimirioGuimaraes)
 
