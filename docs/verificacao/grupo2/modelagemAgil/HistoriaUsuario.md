@@ -12,6 +12,24 @@ A verificação do artefato seguirá o [planejamento](https://requisitos-de-soft
 
 **Tabela 1** - Checklist 
 
+| ID | Descrição                                                                                                                      | Avaliação  | Observação                                                             |
+|----|--------------------------------------------------------------------------------------------------------------------------------|------------|------------------------------------------------------------------------|
+| 1  | O artefato possui Introdução?                                                                                                  | -          | -                                                                      |
+| 2  | O artefato possui a metodologia utilizada?                                                                    		      | -     | -                                                                      |
+| 3  | O artefato possui bibliografia/referências bibliográficas?                                                                     | -        | -                                                                      |
+| 4  | O artefato possui um histórico de versões com o id e descrição das versões, data, autores e revisores?                         | -         | -                                                                      |
+| 5  | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes?                                                   | -      | -                                                                      |
+| 6  | Todos os textos estão na norma padrão?                                       						      | -         | -                                                                      |
+| 7  | Os títulos das histórias de usuário são auto-explicativos?			      					      | -          | 		|
+| 8  | O "quem", "o que" e o "por que" estão definidos na história de usuário?                                                    | -          | -                                                                      |
+| 9  | A história possui critérios de aceitação?                                                                           | -         | -  								    |
+| 10 | Os critérios de aceitação das histórias foram definidos?                                                                      | -          | -                                                                      |
+| 11 | Todas as histórias de usuário podem ser testadas?                                                             | -          | -                                                                      |
+| 12  | Uma fonte de onde foram retiradas as histórias?					                              | -          | -  								    |
+| 13  | FAs histórias de usuário estão bem escritas, com linguagem clara e sem ambiguidades?       | -          | -  								    |
+| 14  | As histórias de usuário estão relacionadas aos requisitos funcionais e não funcionais do sistema? 		      | -          | -  								    |
+| 15  | As histórias de usuário estão bem estruturadas, com uma introdução, descrição e critérios de aceitação claros? 	      | -          | -  								    |
+
 
 Fonte: [Limirio Guimarães](https://github.com/LimirioGuimaraes)
 
