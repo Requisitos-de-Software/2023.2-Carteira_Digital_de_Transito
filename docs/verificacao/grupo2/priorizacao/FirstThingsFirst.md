@@ -20,7 +20,18 @@ A verificação do artefato seguirá o [planejamento](https://requisitos-de-soft
 | 4  | O artefato possui um histórico de versões com o id e descrição das versões, data, autores e revisores?                         | -          | -    |
 | 5  | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes?                                                   | -          | -         |
 | 6  | Todos os textos estão na norma padrão?                                       						      | -          | -            |
-
+| 7  | Foram listados todos os requisitos a serem priorizados?                                                                                              | -          | -       |
+| 8 | Os requisitos são unicos e não se repetem?                                  						      | -          | -            |
+| 9  | Os benefícios relativos de cada recursos ao cliente/negócio é estimado em uma escala de 1 a 9?                                         		      | -          | -    |
+| 10  | O peso relativo desses itens são apresentados?                                                                   | -          | -  |
+| 11 | 	A fórmula utilizada é (Benefício Relativo × Peso Relativo) + (Penalidade Relativa × Peso Relativo)?                                               | -          | -         |
+| 12 | Os custos relativos de implementação foram estimados em uma escala de 1 a 9?                                   						      | -          | -            |
+| 13 | 	A lista de requisitos foi ordenada decrescentemente em relação a prioridade?                                                                  		      | -          | -    |
+| 14 |  Os riscos dos requisitos em relação ao risco relativo total são apresentados?                                                                   | -          | -  |
+| 15 |  Os participantes e suas funções são apresentados?                       | -          | -    |
+| 16 |  Foi documentada a reunião com os participantes? Existe uma gravação?                                                 | -          | -         |
+| 17 |  Quem realizou essas estimativas foram representantes dos clientes?                         | -          | -    |
+| 18 |  Há participação do cliente e/ou persona na priorização de requisitos?     | -          | -  |
 
 Fonte: [Mayara Alves](https://github.com/Mayara-tech) 
 
@@ -36,12 +47,24 @@ Na tabela 2 podemos observar o checklist preenchido após verificação do artef
 
 | ID | Descrição                                                                                                                      | Avaliação  | Observação                                                             |
 |----|--------------------------------------------------------------------------------------------------------------------------------|------------|------------------------------------------------------------------------|
-| 1  | O artefato possui Introdução?                                                                                                  |          | -       |
-| 2  | O artefato possui a metodologia utilizada?                                                                    		      |        |    |
-| 3  | O artefato possui bibliografia/referências bibliográficas?                                                                     |         |  |
-| 4  | O artefato possui um histórico de versões com o id e descrição das versões, data, autores e revisores?                         |          | -    |
-| 5  | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes?                                                   |      | -         |
-| 6  | Todos os textos estão na norma padrão?                                       						      |      | -            |
+| 1  | O artefato possui Introdução?                                                                                                  | -          | -       |
+| 2  | O artefato possui a metodologia utilizada?                                                                    		      | -          | -    |
+| 3  | O artefato possui bibliografia/referências bibliográficas?                                                                     | -          | -  |
+| 4  | O artefato possui um histórico de versões com o id e descrição das versões, data, autores e revisores?                         | -          | -    |
+| 5  | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes?                                                   | -          | -         |
+| 6  | Todos os textos estão na norma padrão?                                       						      | -          | -            |
+| 7  | Foram listados todos os requisitos a serem priorizados?                                                                                              | -          | -       |
+| 8 | Os requisitos são unicos e não se repetem?                                  						      | -          | -            |
+| 9  | Os benefícios relativos de cada recursos ao cliente/negócio é estimado em uma escala de 1 a 9?                                         		      | -          | -    |
+| 10  | O peso relativo desses itens são apresentados?                                                                   | -          | -  |
+| 11 | 	A fórmula utilizada é (Benefício Relativo × Peso Relativo) + (Penalidade Relativa × Peso Relativo)?                                               | -          | -         |
+| 12 | Os custos relativos de implementação foram estimados em uma escala de 1 a 9?                                   						      | -          | -            |
+| 13 | 	A lista de requisitos foi ordenada decrescentemente em relação a prioridade?                                                                  		      | -          | -    |
+| 14 |  Os riscos dos requisitos em relação ao risco relativo total são apresentados?                                                                   | -          | -  |
+| 15 |  Os participantes e suas funções são apresentados?                       | -          | -    |
+| 16 |  Foi documentada a reunião com os participantes? Existe uma gravação?                                                 | -          | -         |
+| 17 |  Quem realizou essas estimativas foram representantes dos clientes?                         | -          | -    |
+| 18 |  Há participação do cliente e/ou persona na priorização de requisitos?     | -          | -  |
 
 
 
@@ -73,7 +96,7 @@ A figura 1 apresenta um gráfico com o percentual de respostas sim, não, incomp
 
 **Figura 1** - Percentual das respostas obtidas na verificação 
 
-![Gráfico percentual de respostas](../../../assets/percentual_Avaliação1.PNG)
+![Gráfico percentual de respostas](../../../assets/percentual_Avaliação3.PNG)
 
 Fonte: [Mayara Alves](https://github.com/Mayara-tech) 
 </center>
@@ -91,10 +114,10 @@ Fonte: [Mayara Alves](https://github.com/Mayara-tech)
 
 Através dos checklists realizados podemos observar que:
 
-- 15/18  exigências são atendidas;
-- 1/18 exigências estão incompletas;
-- 2/18 exigências estão erradas ou não foram realizadas.
-- 0/18 não se aplica.
+- /18  exigências são atendidas;
+- /18 exigências estão incompletas;
+- /18 exigências estão erradas ou não foram realizadas.
+- /18 não se aplica.
 
 onde 18 é a quantidade de itens avaliados na verificação.
 
