@@ -127,7 +127,7 @@ Portanto, com base no cálculo apresentado, pode-se dizer que o aproveitamento d
 
 ## Retrabalho
 
-Como proposto por Fagan, para o retrabalho o autor do artefato [Breno Queiroz](https://github.com/Brenob6) irá fazer as correções dos problemas apresentados seguindo a tabela de sugestão de correção apresentada anteriormente. O responsável por essa verificação fará uma revisão das correções feitas, checando se as correções são suficientes e se foi introduzido novos erros ou não. A tabela 3 a seguir apresenta o cronograma de correções.
+Como proposto por Fagan, para o retrabalho o autor do artefato [Breno Queiroz](https://github.com/Brenob6) irá fazer as correções dos problemas apresentados seguindo a tabela de sugestão de correção apresentada anteriormente. O responsável por essa verificação fará uma revisão das correções feitas, checando se as correções são suficientes e se foi introduzido novos erros ou não. A tabela 4 a seguir apresenta o cronograma de correções.
 
 <center>
 

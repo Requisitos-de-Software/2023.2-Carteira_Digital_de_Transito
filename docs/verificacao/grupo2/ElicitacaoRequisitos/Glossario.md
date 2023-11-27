@@ -6,11 +6,11 @@ Este documento é uma verificação do artefato [Glossário](https://requisitos-
 
 ## Metodologia 
 
-A verificação do artefato seguirá o [planejamento](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/verificacao/grupo2/planejamendoDaVerificacao.md) estabelecido pelo nosso grupo. Conforme detalhado no planejamento, destaca-se a relevância do subtópico da metodologia neste documento, para apresentar a tabela contendo os checklists utilizados para realizar essa verificação deste artefato em especifico. Podemos observar o referido checklist referente a verificação do Storyboard na Tabela 1. 
+A verificação do artefato seguirá o [planejamento](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/verificacao/grupo2/planejamendoDaVerificacao.md) estabelecido pelo nosso grupo. Conforme detalhado no planejamento, destaca-se a relevância do subtópico da metodologia neste documento, para apresentar a tabela contendo os checklists utilizados para realizar essa verificação deste artefato em especifico. Podemos observar esse checklist na Tabela 1. 
 
 <center>
 
-**Tabela 1** - Checklist - Storyboard
+**Tabela 1** - Checklist 
 
 
 Fonte: [Limirio Guimarães](https://github.com/LimirioGuimaraes)
@@ -23,7 +23,7 @@ Na tabela 2 podemos observar o checklist preenchido após verificação do artef
 
 <center>
 
-**Tabela 2** - Checklist Preenchido - Storyboard
+**Tabela 2** - Checklist Preenchido 
 
 
 
@@ -68,7 +68,7 @@ Através dos checklists realizados podemos observar que:
 - 2/18 exigências estão erradas ou não foram realizadas.
 - 0/18 não se aplica.
 
-onde 18 é a quantidade de itens avaliados na verificação.
+Onde 18 é a quantidade de itens avaliados na verificação.
 
 Portanto, com base no cálculo apresentado, pode-se dizer que o aproveitamento deste artefato está em 75%.
 
@@ -79,7 +79,7 @@ Como proposto por Fagan, para o retrabalho o autor do artefato [Vinicius Mendes]
 
 <center>
 
-**Tabela 3** - Cronograma de Correções.
+**Tabela 3** - Cronograma de Correções
 
 | Data de Correção | Descrição                                    |                Responsável(eis)                |                 Revisor(es)                 |      Status      |
 | :--------------: | :------------------------------------------- | :--------------------------------------------: | :-----------------------------------------: | :--------------: |
