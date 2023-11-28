@@ -63,7 +63,7 @@ A tabela 1 contém tudas as perguntas realizadas no questionário.
 |Você é dono dos veículos que dirige?   | 9
 |Você já foi multado após cometer uma infração? Com que frequência? | 9
 
-**Fonte:** Breno
+**Fonte:** Breno e Luis Miranda
 
 </center>
 
@@ -82,7 +82,7 @@ Com que frequência você utiliza o aplicativo Carteira Digital de Trânsito?
 
 **Figura 1:** gráfico questão 1
 ![Gráfico questão 01](../assets/questionario/q1.png)
-**Fonte:** Breno
+**Fonte:** Breno e Luis Miranda
 
 </center>
 
@@ -97,7 +97,7 @@ Digital de Trânsito
 
 **Figura 2:** gráfico questão 2
 ![Gráfico questão 02](../assets/questionario/q2.png)
-**Fonte:** Breno
+**Fonte:** Breno e Luis Miranda
 
 </center>
 
@@ -110,7 +110,7 @@ Com que frequência você utiliza essas funcionalidades com sucesso?
 <center>
 **Figura 3:** gráfico questão 3
 ![Gráfico questão 03](../assets/questionario/q3.png)
-**Fonte:** Breno
+**Fonte:** Breno e Luis Miranda
 
 </center>
 
@@ -124,7 +124,7 @@ Como você avaliaria a facilidade de uso do aplicativo?
 
 **Figura 4:** gráfico questão 4
 ![Gráfico questão 04](../assets/questionario/q4.png)
-**Fonte:** Breno
+**Fonte:** Breno e Luis Miranda
 
 </center>
 
@@ -171,11 +171,11 @@ carteira de habilitação.
 
 | Versão |    Data    |    Descrição                | Autor(es)     |    Revisor(es) |                  
 |:-----: | :--------: | :-------------:             | :--------:    | :-------------:| 
-| `1.0`    | 30/09/23   | Criação do documento        | Breno         | [Limirio Guimarães](https://github.com/LimirioGuimaraes)      |
-| `1.1`    | 30/09/23   | Criação do documento        | Breno         | [Limirio Guimarães](https://github.com/LimirioGuimaraes)      |
-| `1.2`    | 21/11/23   |Correção Verificação Grupo 01: Melhoria na Introdução | [Altino Arthur](https://github.com/arthurrochamoreira) | [Luis Eduardo](https://github.com/LuisMiranda10) |
-| `1.3`    | 21/11/23   |Correção Verificação Grupo 01: Padronização das Legendas | [Altino Arthur](https://github.com/arthurrochamoreira) | [Luis Eduardo](https://github.com/LuisMiranda10) |
-| `1.4`    | 21/11/23   |Correção Verificação Grupo 01: Adição da Metodologia, Adição da Aplicação dos Resultados do Questionário | [Altino Arthur](https://github.com/arthurrochamoreira) | [Luis Eduardo](https://github.com/LuisMiranda10) |
-| `1.5`    | 21/11/23   |Correção Verificação Grupo 01: Adição do Termo de Consentimento | [Altino Arthur](https://github.com/arthurrochamoreira) | [Luis Eduardo](https://github.com/LuisMiranda10) |
+| `1.0`    | 30/09/23   | Criação do documento        | Breno e [Luis Eduardo](https://github.com/LuisMiranda10)     | [Limirio Guimarães](https://github.com/LimirioGuimaraes)      |
+| `1.1`    | 30/09/23   | Criação do documento        | Breno e [Luis Eduardo](https://github.com/LuisMiranda10)        | [Limirio Guimarães](https://github.com/LimirioGuimaraes)      |
+| `1.2`    | 21/11/23   |Correção Verificação Grupo 01: Melhoria na Introdução | [Altino Arthur](https://github.com/arthurrochamoreira) | [Vinicius Mendes](https://github.com/yabamiah)  |
+| `1.3`    | 21/11/23   |Correção Verificação Grupo 01: Padronização das Legendas | [Altino Arthur](https://github.com/arthurrochamoreira) | [Vinicius Mendes](https://github.com/yabamiah)  |
+| `1.4`    | 21/11/23   |Correção Verificação Grupo 01: Adição da Metodologia, Adição da Aplicação dos Resultados do Questionário |[Vinicius Mendes](https://github.com/yabamiah)   |
+| `1.5`    | 21/11/23   |Correção Verificação Grupo 01: Adição do Termo de Consentimento | [Altino Arthur](https://github.com/arthurrochamoreira) | [Vinicius Mendes](https://github.com/yabamiah) |
 
 </center>
