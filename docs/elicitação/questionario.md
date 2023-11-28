@@ -63,7 +63,7 @@ A tabela 1 contém tudas as perguntas realizadas no questionário.
 |Você é dono dos veículos que dirige?   | 9
 |Você já foi multado após cometer uma infração? Com que frequência? | 9
 
-**Fonte:** Breno e Luis Miranda
+<font size="3"><p>**Fonte:** Breno e [Luis Eduardo](https://github.com/LuisMiranda10).</p></font>
 
 </center>
 
@@ -82,7 +82,8 @@ Com que frequência você utiliza o aplicativo Carteira Digital de Trânsito?
 
 **Figura 1:** gráfico questão 1
 ![Gráfico questão 01](../assets/questionario/q1.png)
-**Fonte:** Breno e Luis Miranda
+
+<font size="3"><p>**Fonte:** Breno e [Luis Eduardo](https://github.com/LuisMiranda10).</p></font>
 
 </center>
 
@@ -97,7 +98,8 @@ Digital de Trânsito
 
 **Figura 2:** gráfico questão 2
 ![Gráfico questão 02](../assets/questionario/q2.png)
-**Fonte:** Breno e Luis Miranda
+
+<font size="3"><p>**Fonte:** Breno e [Luis Eduardo](https://github.com/LuisMiranda10).</p></font>
 
 </center>
 
@@ -110,7 +112,8 @@ Com que frequência você utiliza essas funcionalidades com sucesso?
 <center>
 **Figura 3:** gráfico questão 3
 ![Gráfico questão 03](../assets/questionario/q3.png)
-**Fonte:** Breno e Luis Miranda
+
+<font size="3"><p>**Fonte:** Breno e [Luis Eduardo](https://github.com/LuisMiranda10).</p></font>
 
 </center>
 
@@ -124,7 +127,8 @@ Como você avaliaria a facilidade de uso do aplicativo?
 
 **Figura 4:** gráfico questão 4
 ![Gráfico questão 04](../assets/questionario/q4.png)
-**Fonte:** Breno e Luis Miranda
+
+<font size="3"><p>**Fonte:** Breno e [Luis Eduardo](https://github.com/LuisMiranda10).</p></font>
 
 </center>
 
