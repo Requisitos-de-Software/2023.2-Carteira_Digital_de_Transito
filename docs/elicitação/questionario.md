@@ -175,7 +175,7 @@ carteira de habilitação.
 | `1.1`    | 30/09/23   | Criação do documento        | Breno e [Luis Eduardo](https://github.com/LuisMiranda10)        | [Limirio Guimarães](https://github.com/LimirioGuimaraes)      |
 | `1.2`    | 21/11/23   |Correção Verificação Grupo 01: Melhoria na Introdução | [Altino Arthur](https://github.com/arthurrochamoreira) | [Vinicius Mendes](https://github.com/yabamiah)  |
 | `1.3`    | 21/11/23   |Correção Verificação Grupo 01: Padronização das Legendas | [Altino Arthur](https://github.com/arthurrochamoreira) | [Vinicius Mendes](https://github.com/yabamiah)  |
-| `1.4`    | 21/11/23   |Correção Verificação Grupo 01: Adição da Metodologia, Adição da Aplicação dos Resultados do Questionário |[Vinicius Mendes](https://github.com/yabamiah)   |
+| `1.4`    | 21/11/23   |Correção Verificação Grupo 01: Adição da Metodologia, Adição da Aplicação dos Resultados do Questionário | [Altino Arthur](https://github.com/arthurrochamoreira)  | [Vinicius Mendes](https://github.com/yabamiah)   |
 | `1.5`    | 21/11/23   |Correção Verificação Grupo 01: Adição do Termo de Consentimento | [Altino Arthur](https://github.com/arthurrochamoreira) | [Vinicius Mendes](https://github.com/yabamiah) |
 
 </center>
