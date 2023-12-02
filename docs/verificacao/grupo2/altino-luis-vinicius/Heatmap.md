@@ -29,7 +29,7 @@ Na tabela 2 podemos observar o checklist preenchido após verificação do artef
 
 <center>
 
-**Tabela 2** -  
+**Tabela 2** - CheckList
 
 | ID | Critério de Avaliação                           | Avaliação ( Sim/  /  Aplicável )             | Observações                       | Referências                                                    |
 |----| ------------------------------------------------|----------------------------------------------------|-----------------------------------|----------------------------------------------------------------|
@@ -62,6 +62,13 @@ Foi encontrado uma sugestão de melhoria neste artefato. O [grupo](https://githu
 ## Resultados
 
 Abaixo estão os resultados obtidos na verificação do artefato [HeatMap]() na forma de um gráfico de pizza, onde são apresentadas a quantidade de "sim", "não" e "não aplicável" obtidos na verificação.
+
+<center>
+  
+<font size="3"><p style="text-align: center"><b>Figura 1:</b> Resultados do artefato Aplicativo Selecionado</p></font>
+<img src="https://github.com/Requisitos-de-Software/2023.2-Carteira_Digital_de_Transito/blob/Verificacao-Luis-Vinicius-Altino/docs/assets/Grafico1-Verifica%C3%A7%C3%A3oHeatMap.png" style="width: 45%;">
+
+</center>
 
 <font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/LuisMiranda10">Luis Miranda</a></p></font>
 
