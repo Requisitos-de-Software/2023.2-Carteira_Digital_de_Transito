@@ -80,7 +80,7 @@ Não foram encontrados sugestões melhorias neste artefato.
 
 ## Resultados
 
-Abaixo estão os resultados obtidos na verificação do artefato "[Aplicativo Selecionado]()" na forma de um gráfico de pizza, onde são apresentadas a quantidade de "sim", "não" e "não aplicável" obtidos na verificação.
+Abaixo estão os resultados obtidos na verificação do artefato [Aplicativo Selecionado](https://github.com/Requisitos-de-Software/2023.2-Carteira_Digital_de_Transito/blob/main/docs/planejamento/aplicativo.md) na forma de um gráfico de pizza, onde são apresentadas a quantidade de "sim", "não" e "não aplicável" obtidos na verificação.
 
 <center>
   
