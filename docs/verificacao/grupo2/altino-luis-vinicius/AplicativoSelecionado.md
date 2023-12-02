@@ -6,11 +6,22 @@ Este documento é uma verificação do artefato [Aplicativo Escolhido](https://g
 
 ## Metodologia
 
-A verificação do artefato seguirá o planejamento desenvolvido pelo nosso grupo. Conforme detalhado no planejamento, destaca-se a relevância do subtópico da metologia neste documento, onde será apresentada a tabela contendo os checklists utilizados para realizar essa verificação. O referido checklist pode ser consultado na Tabela 1.
+A verificação do artefato seguirá o planejamento desenvolvido pelo nosso grupo. Conforme detalhado no planejamento, destaca-se a relevância do subtópico da metologia neste documento, onde será apresentada a tabela contendo os checklists gerais e específicos utilizados para realizar essa verificação. O referido checklist podem ser consultados na Tabela 1 e 2.
 
 <center>
 
-**Tabela 1** - CheckList 
+**Tabela 1** - Checklist Geral
+
+| ID | Critério de Avaliação                           | Avaliação ( Sim/ Não / Não Aplicável )             | Observações                       | Referências                                                    |
+|----| ------------------------------------------------|----------------------------------------------------|-----------------------------------|----------------------------------------------------------------|
+| 1 | O artefato possui introdução? |  | |  |
+| 2 | O artefato possui bibliografia/referências bibliográficas? |  |  |  |
+| 3 | O artefato possui um histórico de versões com o id e descrições das versões, data, autores e revisores? |  |  |  |
+| 4 | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes?| | |  |
+
+
+
+**Tabela 2** - CheckList Específico
 
 | ID | Critério de Avaliação                           | Avaliação ( Sim/ Não / Não Aplicável )             | Observações                       | Referências                                                    |
 |----| ------------------------------------------------|----------------------------------------------------|-----------------------------------|----------------------------------------------------------------|
@@ -31,11 +42,21 @@ A verificação do artefato seguirá o planejamento desenvolvido pelo nosso grup
 
 ## Desenvolvimento
 
-Na tabela 2 podemos observar o checklist preenchido após verificação do artefato Aplicativo selecionado. Este checklist, minuciosamente preenchido, reflete os resultados, observações e considerações resultantes da análise realizada no artefato.
+Na tabela 3 e 4 podemos observar o checklist preenchido após verificação do artefato Aplicativo selecionado. Este checklist, minuciosamente preenchido, reflete os resultados, observações e considerações resultantes da análise realizada no artefato.
 
 <center>
 
-**Tabela 2** - CheckList Específico 
+**Tabela 3** - Checklist Geral
+
+| ID | Critério de Avaliação                           | Avaliação ( Sim/ Não / Não Aplicável )             | Observações                       | Referências                                                    |
+|----| ------------------------------------------------|----------------------------------------------------|-----------------------------------|----------------------------------------------------------------|
+| 1 | O artefato possui introdução? | Sim | | REQUISITOS DE SOFTWARE. Carteira Digital de Trânsito. Distrito Federal, 2023. Disponível em: <https://github.com/Requisitos-de-Software/2023.2-Carteira_Digital_de_Transito/>. Acesso em: 02/12/2023.
+  |
+| 2 | O artefato possui bibliografia/referências bibliográficas? | Sim |  | REQUISITOS DE SOFTWARE. Carteira Digital de Trânsito. Distrito Federal, 2023. Disponível em: <https://github.com/Requisitos-de-Software/2023.2-Carteira_Digital_de_Transito/>. Acesso em: 02/12/2023. |
+| 3 | O artefato possui um histórico de versões com o id e descrições das versões, data, autores e revisores? | Sim |  | REQUISITOS DE SOFTWARE. Carteira Digital de Trânsito. Distrito Federal, 2023. Disponível em: <https://github.com/Requisitos-de-Software/2023.2-Carteira_Digital_de_Transito/>. Acesso em: 02/12/2023. |
+| 4 | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes?| Sim | | REQUISITOS DE SOFTWARE. Carteira Digital de Trânsito. Distrito Federal, 2023. Disponível em: <https://github.com/Requisitos-de-Software/2023.2-Carteira_Digital_de_Transito/>. Acesso em: 02/12/2023. |
+
+**Tabela 4** - CheckList Específico 
 
 | ID | Critério de Avaliação                           | Avaliação ( Sim/ Não / Não Aplicável )             | Observações                       | Referências                                                    |
 |----| ------------------------------------------------|----------------------------------------------------|-----------------------------------|----------------------------------------------------------------|
@@ -61,6 +82,14 @@ Não foram encontrados sugestões melhorias neste artefato. O [grupo](https://gi
 ## Resultados
 
 Abaixo estão os resultados obtidos na verificação do artefato "[Aplicativo Selecionado]()" na forma de um gráfico de pizza, onde são apresentadas a quantidade de "sim", "não" e "não aplicável" obtidos na verificação.
+
+<center>
+
+<img src="" style="width: 45%;">
+  
+  <font size="3"><p style="text-align: center"><b>Figura 1:</b> Resultados do artefato Aplicativo Selecionado</p></font>
+
+</center>
 
 <font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/LuisMiranda10">Luis Miranda</a></p></font>
 
