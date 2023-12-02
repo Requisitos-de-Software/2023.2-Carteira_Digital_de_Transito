@@ -53,3 +53,43 @@ Na tabela 2 podemos observar o checklist preenchido após verificação do artef
 <font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/LuisMiranda10">Luis Miranda</a></p></font>
 
 </center>
+
+## Sugestões de Melhorias
+
+<center>
+
+**Tabela 3** - Sugestões de melhoria - Cronograma
+
+| ID | Descrição do problema | Sugestão de melhoria |
+| --- | ---------------------| ---------------------- |
+| 01  |                      |                        |
+| 02  |                      |                        |
+| 03  |                      |                        |
+| 04  |                      |                        |
+|     |                      |                        |
+
+<font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/LuisMiranda10">Luis Miranda</a></p></font>
+
+## Resultados
+
+Abaixo estão os resultados obtidos na verificação do artefato "[Aplicativo Selecionado]()" na forma de um gráfico de pizza, onde são apresentadas a quantidade de "sim", "não" e "incompleto" obtidos na verificação.
+
+<font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/LuisMiranda10">Luis Miranda</a></p></font>
+
+## Bibliografia
+
+
+
+## 📑 Histórico de Versões
+
+| Versão | Data       | Descrição                                       | Autor                                          | Revisor                                      |
+| ------ | ---------- | ----------------------------------------------- | -----------------------------------------------| ---------------------------------------------|
+| `1.0`  | 02/12/2023 | Criação do Documento | [Luis Miranda](https://github.com/LuisMiranda10)  |                       |
+
+
+
+
+
+
+
+
