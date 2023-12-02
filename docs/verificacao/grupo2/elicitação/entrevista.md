@@ -79,7 +79,11 @@ Fonte: [Milena Baruc](https://github.com/MilenaBaruc)
 
 ## Sugestões de Melhorias
 
-....
+Em geral o artefato está ótimo, só precisa de algumas alterações. Sendo assim, a seguir segue as sugestões de melhorias:
+
+• Arrumar o histórico de versão, pois o mesmo não está alinhado com o título e não tem revisor;
+• Arummar a tabela 1 que está com problema (não está aparecendo em formato de tabela no gitpages), e adicionar a fonte;
+• Adicionar uma tabela contendo as respostas do entrevistado.
 
 ## Referência Bibliografica
 
