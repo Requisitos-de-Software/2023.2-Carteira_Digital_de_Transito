@@ -76,7 +76,7 @@ Na tabela 3 e 4 podemos observar o checklist preenchido após verificação do a
 
 ## Sugestões de Melhorias
 
-Não foram encontrados sugestões melhorias neste artefato. O [grupo](https://github.com/Requisitos-de-Software/2023.2-Carteira_Digital_de_Transito) já tinha feito uma correção pós-apresentação desta entrega.
+Não foram encontrados sugestões melhorias neste artefato.
 
 ## Resultados
 
