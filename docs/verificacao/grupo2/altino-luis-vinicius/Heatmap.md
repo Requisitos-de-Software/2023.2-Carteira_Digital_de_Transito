@@ -9,6 +9,8 @@ A verificação do artefato seguirá o planejamento desenvolvido pelo nosso grup
 
 ## Desenvolvimento
 
+Na tabela 2 podemos observar o checklist preenchido após verificação do artefato HeatMap. Este checklist, minuciosamente preenchido, reflete os resultados, observações e considerações resultantes da análise realizada no artefato.
+
 <center>
 
 **Tabela 2** -  
