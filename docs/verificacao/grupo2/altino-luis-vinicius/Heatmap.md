@@ -7,6 +7,8 @@ Este documento é uma verificação do artefato [HeatMap]() na versão 1.2 de da
 
 A verificação do artefato seguirá o planejamento desenvolvido pelo nosso grupo. Conforme detalhado no planejamento, destaca-se a relevância do subtópico da metologia neste documento, onde será apresentada a tabela contendo os checklists utilizados para realizar essa verificação. O referido checklist pode ser consultado na Tabela 1.
 
+**Tabela 1** - CheckList 
+
 ## Desenvolvimento
 
 Na tabela 2 podemos observar o checklist preenchido após verificação do artefato HeatMap. Este checklist, minuciosamente preenchido, reflete os resultados, observações e considerações resultantes da análise realizada no artefato.
