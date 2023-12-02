@@ -38,7 +38,7 @@ Fonte: [Milena Baruc](https://github.com/MilenaBaruc)
 
 ## Desenvolvimento
 
-Na tabela 2 podemos observar o checklist preenchido após verificação do artefato. Este checklist, minuciosamente preenchido, reflete os resultados, observações e considerações resultantes da análise realizada no artefato. A verificação foi feita por meio de duas gravações, uma individual e uma em dupla, que estão presentes na tabela 3.
+Na tabela 2 podemos observar o checklist preenchido após verificação do artefato. Este checklist, minuciosamente preenchido, reflete os resultados, observações e considerações resultantes da análise realizada no artefato. A inspeção foi feita por meio de uma gravação em dupla, que está presentes na tabela 3.
 
 <center>
 
@@ -70,8 +70,7 @@ Fonte: [Milena Baruc](https://github.com/MilenaBaruc)
 
 | Participantes | Data | Horário | Link da gravação |
 | -------------------------------------------------------------------------------------------- | ---------- | ----- | ------------------- |
-| [Milena Baruc](https://github.com/MilenaBaruc)                                               | 02/12/2023 | 00:00 | [Verificação individual]()       |
-| [Milena Baruc](https://github.com/MilenaBaruc) e [Breno Queiroz](https://github.com/brenob6) | 02/12/2023 | 00:00 | [Verificação em dupla]()            |
+| [Milena Baruc](https://github.com/MilenaBaruc) e [Breno Queiroz](https://github.com/brenob6) | 02/12/2023 | 16:15 | [Verificação em dupla](https://youtu.be/rn52Lto8aRc)            |
 
 Fonte: [Milena Baruc](https://github.com/MilenaBaruc) 
 
