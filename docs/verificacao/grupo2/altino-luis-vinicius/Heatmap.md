@@ -37,3 +37,19 @@
 |     |                      |                        |
 
 <font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/LuisMiranda10">Luis Miranda</a></p></font>
+
+## Resultados
+
+Abaixo estão os resultados obtidos na verificação do artefato "[HeatMap]()" na forma de um gráfico de pizza, onde são apresentadas a quantidade de "sim", "não" e "não aplicável" obtidos na verificação.
+
+<font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/LuisMiranda10">Luis Miranda</a></p></font>
+
+## Bibliografia
+
+
+
+## 📑 Histórico de Versões
+
+| Versão | Data       | Descrição                                       | Autor                                          | Revisor                                      |
+| ------ | ---------- | ----------------------------------------------- | -----------------------------------------------| ---------------------------------------------|
+| `1.0`  | 02/12/2023 | Criação do Documento | [Luis Miranda](https://github.com/LuisMiranda10)  |                       |
