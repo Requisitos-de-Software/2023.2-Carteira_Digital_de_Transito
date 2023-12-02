@@ -50,8 +50,7 @@ Na tabela 3 e 4 podemos observar o checklist preenchido após verificação do a
 
 | ID | Critério de Avaliação                           | Avaliação ( Sim/ Não / Não Aplicável )             | Observações                       | Referências                                                    |
 |----| ------------------------------------------------|----------------------------------------------------|-----------------------------------|----------------------------------------------------------------|
-| 1 | O artefato possui introdução? | Sim | | REQUISITOS DE SOFTWARE. Carteira Digital de Trânsito. Distrito Federal, 2023. Disponível em: <https://github.com/Requisitos-de-Software/2023.2-Carteira_Digital_de_Transito/>. Acesso em: 02/12/2023.
-  |
+| 1 | O artefato possui introdução? | Sim | | REQUISITOS DE SOFTWARE. Carteira Digital de Trânsito. Distrito Federal, 2023. Disponível em: <https://github.com/Requisitos-de-Software/2023.2-Carteira_Digital_de_Transito/>. Acesso em: 02/12/2023. |
 | 2 | O artefato possui bibliografia/referências bibliográficas? | Sim |  | REQUISITOS DE SOFTWARE. Carteira Digital de Trânsito. Distrito Federal, 2023. Disponível em: <https://github.com/Requisitos-de-Software/2023.2-Carteira_Digital_de_Transito/>. Acesso em: 02/12/2023. |
 | 3 | O artefato possui um histórico de versões com o id e descrições das versões, data, autores e revisores? | Sim |  | REQUISITOS DE SOFTWARE. Carteira Digital de Trânsito. Distrito Federal, 2023. Disponível em: <https://github.com/Requisitos-de-Software/2023.2-Carteira_Digital_de_Transito/>. Acesso em: 02/12/2023. |
 | 4 | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes?| Sim | | REQUISITOS DE SOFTWARE. Carteira Digital de Trânsito. Distrito Federal, 2023. Disponível em: <https://github.com/Requisitos-de-Software/2023.2-Carteira_Digital_de_Transito/>. Acesso em: 02/12/2023. |
