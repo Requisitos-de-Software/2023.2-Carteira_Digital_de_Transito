@@ -2,7 +2,7 @@
 
 ## Introdução
 
-Este documento é uma verificação do artefato [Aplicativo Escolhido](https://github.com/Requisitos-de-Software/2023.2-Carteira_Digital_de_Transito/blob/main/docs/planejamento/aplicativo.md) na versão 1.2 de data 29/09/2023 elaborado pelo [Grupo 2](https://github.com/Requisitos-de-Software/2023.2-Carteira_Digital_de_Transito)
+Este documento é uma verificação do artefato [Aplicativo Escolhido](https://github.com/Requisitos-de-Software/2023.2-Carteira_Digital_de_Transito/blob/main/docs/planejamento/aplicativo.md) na versão 1.2 de data 29/09/2023 elaborado pelo [Grupo 2](https://github.com/Requisitos-de-Software/2023.2-Carteira_Digital_de_Transito).
 
 ## Metodologia
 
