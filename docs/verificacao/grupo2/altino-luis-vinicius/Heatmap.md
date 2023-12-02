@@ -1,5 +1,8 @@
 # Verificação do artefato HeatMap
 
+## Introdução
+Este documento é uma verificação do artefato [HeatMap]() na versão 1.2 de data 27/09/2023 elaborado pelo [Grupo 2](https://github.com/Requisitos-de-Software/2023.2-Carteira_Digital_de_Transito)
+
 ## Metodologia
 
 ## Desenvolvimento
@@ -40,7 +43,7 @@
 
 ## Resultados
 
-Abaixo estão os resultados obtidos na verificação do artefato "[HeatMap]()" na forma de um gráfico de pizza, onde são apresentadas a quantidade de "sim", "não" e "não aplicável" obtidos na verificação.
+Abaixo estão os resultados obtidos na verificação do artefato [HeatMap]() na forma de um gráfico de pizza, onde são apresentadas a quantidade de "sim", "não" e "não aplicável" obtidos na verificação.
 
 <font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/LuisMiranda10">Luis Miranda</a></p></font>
 
