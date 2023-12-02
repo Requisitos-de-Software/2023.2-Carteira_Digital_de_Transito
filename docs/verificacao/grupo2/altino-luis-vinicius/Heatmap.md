@@ -21,3 +21,19 @@
 <font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/LuisMiranda10">Luis Miranda</a></p></font>
 
 </center>
+
+## Sugestões de Melhorias
+
+<center>
+
+**Tabela 3** - Sugestões de melhoria - Cronograma
+
+| ID | Descrição do problema | Sugestão de melhoria |
+| --- | ---------------------| ---------------------- |
+| 01  |                      |                        |
+| 02  |                      |                        |
+| 03  |                      |                        |
+| 04  |                      |                        |
+|     |                      |                        |
+
+<font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/LuisMiranda10">Luis Miranda</a></p></font>
