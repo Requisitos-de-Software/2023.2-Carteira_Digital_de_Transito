@@ -95,7 +95,7 @@ Foi encontrado 3 sugestões de melhoria neste artefato. Nesta secção será apr
 
 ## Resultados
 
-Abaixo estão os resultados obtidos na verificação do artefato [Introspecção]() na forma de um gráfico de pizza, onde são apresentadas a quantidade de "sim", "não" e "não aplicável" obtidos na verificação.
+Abaixo estão os resultados obtidos na verificação do artefato [Introspecção](https://github.com/Requisitos-de-Software/2023.2-Carteira_Digital_de_Transito/blob/main/docs/elicita%C3%A7%C3%A3o/Introspeccao.md) na forma de um gráfico de pizza, onde são apresentadas a quantidade de "sim", "não" e "não aplicável" obtidos na verificação.
 
 <center>
   
