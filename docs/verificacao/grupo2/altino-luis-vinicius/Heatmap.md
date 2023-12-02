@@ -65,7 +65,7 @@ Abaixo estão os resultados obtidos na verificação do artefato [HeatMap](https
 
 <center>
   
-<font size="3"><p style="text-align: center"><b>Figura 1:</b> Resultados do artefato Aplicativo Selecionado</p></font>
+<font size="3"><p style="text-align: center"><b>Figura 1:</b> Resultados do artefato HeatMap</p></font>
 <img src="https://github.com/Requisitos-de-Software/2023.2-Carteira_Digital_de_Transito/blob/Verificacao-Luis-Vinicius-Altino/docs/assets/Grafico1-Verifica%C3%A7%C3%A3oHeatMap.png" style="width: 45%;">
 
 </center>
