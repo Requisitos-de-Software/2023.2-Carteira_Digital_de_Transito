@@ -1,7 +1,7 @@
 # Verificação do artefato HeatMap
 
 ## Introdução
-Este documento é uma verificação do artefato [HeatMap]() na versão 1.2 de data 27/09/2023 elaborado pelo [Grupo 2](https://github.com/Requisitos-de-Software/2023.2-Carteira_Digital_de_Transito)
+Este documento é uma verificação do artefato [HeatMap]() na versão 1.2 de data 27/09/2023 elaborado pelo [Grupo 2](https://github.com/Requisitos-de-Software/2023.2-Carteira_Digital_de_Transito).
 
 ## Metodologia
 
