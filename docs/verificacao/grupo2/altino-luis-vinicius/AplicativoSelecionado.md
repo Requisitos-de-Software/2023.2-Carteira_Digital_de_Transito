@@ -58,8 +58,6 @@ Na tabela 2 podemos observar o checklist preenchido após verificação do artef
 
 Não foram encontrados sugestões melhorias neste artefato. O [grupo](https://github.com/Requisitos-de-Software/2023.2-Carteira_Digital_de_Transito) já tinha feito uma correção pós-apresentação desta entrega.
 
-<font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/LuisMiranda10">Luis Miranda</a></p></font>
-
 ## Resultados
 
 Abaixo estão os resultados obtidos na verificação do artefato "[Aplicativo Selecionado]()" na forma de um gráfico de pizza, onde são apresentadas a quantidade de "sim", "não" e "não aplicável" obtidos na verificação.
