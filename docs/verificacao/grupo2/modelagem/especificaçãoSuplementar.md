@@ -31,7 +31,7 @@ Fonte: [Milena Baruc](https://github.com/MilenaBaruc)
 
 ## Desenvolvimento
 
-Na tabela 2 podemos observar o checklist preenchido após verificação do artefato. Este checklist, minuciosamente preenchido, reflete os resultados, observações e considerações resultantes da análise realizada no artefato. A verificação foi feita por meio de duas gravações, uma individual e uma em dupla, que estão presentes na tabela 3.
+Na tabela 2 podemos observar o checklist preenchido após verificação do artefato. Este checklist, minuciosamente preenchido, reflete os resultados, observações e considerações resultantes da análise realizada no artefato. A inspeção foi feita por meio uma gravação individual, que está presentes na tabela 3.
 
 <center>
 
@@ -39,25 +39,24 @@ Na tabela 2 podemos observar o checklist preenchido após verificação do artef
 
 | ID | Descrição                                                                           | Avaliação  | Observação |
 |----|-------------------------------------------------------------------------------------|------------|------------|
-| 1  | O histórico de versão é padronizado?                                                |      -     |     -      |
-| 2  | Possui o(s) autor(es) e o(s) revisor(es) do artefato?                               |      -     |     -      |
-| 3  | O artefato possui referências bibliográficas e/ou bibliografia?                     |      -     |     -      |
-| 4  | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes?        |      -     |     -      |
-| 5  | Todos os textos estão na norma padrão?                                              |      -     |     -      |
-| 6  | Há introdução do artefato?                                                          |      -     |     -      |
-|7   | O artefato segue o modelo FURPS+?                                                   |      -     |     -      |
-|8   | Todas as classificações do modelo FURPS+ com exceção da classificação funcional foram utilizados na classificação? |      -     |     -      |
-|9   | Os requisitos são quantitativos?                                                    |      -     |     -      |
-|10  | Dentre os requisitos de usabilidade é abordado questões de acessibilidade?          |      -     |     -      |
+| 1  | O histórico de versão é padronizado?                                                | Sim |     -      |
+| 2  | Possui o(s) autor(es) e o(s) revisor(es) do artefato?                               | Sim |     -      |
+| 3  | O artefato possui referências bibliográficas e/ou bibliografia?                     | Sim |     -      |
+| 4  | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes?        | Sim |     -      |
+| 5  | Todos os textos estão na norma padrão?                                              | Sim |     -      |
+| 6  | Há introdução do artefato?                                                          | Sim |     -      |
+|7   | O artefato segue o modelo FURPS+?                                                   | Sim |     -      |
+|8   | Todas as classificações do modelo FURPS+ com exceção da classificação funcional foram utilizados na classificação? | Sim |     -      |
+|9   | Os requisitos são quantitativos?                                                    | Sim |     -      |
+|10  | Dentre os requisitos de usabilidade é abordado questões de acessibilidade?          | Sim |     -      |
 
 Fonte: [Milena Baruc](https://github.com/MilenaBaruc)
 
 **Tabela 3** - Cronograma de verificação
 
-| Participantes | Data | Horário | Link da gravação |
-| -------------------------------------------------------------------------------------------- | ---------- | ----- | ------------------- |
-| [Milena Baruc](https://github.com/MilenaBaruc)                                               | 02/12/2023 | 00:00 | [Verificação individual]()       |
-| [Milena Baruc](https://github.com/MilenaBaruc) e [Breno Queiroz](https://github.com/brenob6) | 02/12/2023 | 00:00 | [Verificação em dupla]()            |
+| Participantes | Data | Horário | Link da gravação | Minutagem aonde começa |
+| -------------------------------------------------------------------------------------------- | ---------- | ----- | ------------------- | ------------- |
+| [Milena Baruc](https://github.com/MilenaBaruc)                                               | 02/12/2023 | 17:00/17:30 | [Verificação individual](https://youtu.be/yA_uhZBVmig) | 00:12:26 |
 
 Fonte: [Milena Baruc](https://github.com/MilenaBaruc) 
 
@@ -65,7 +64,7 @@ Fonte: [Milena Baruc](https://github.com/MilenaBaruc)
 
 ## Sugestões de Melhorias
 
-....
+O artefato verificado está ótimo, ao meu ver, só devemos ter atençao caso tenha algum erro ortográfico.
 
 ## Referência Bibliografica
 
