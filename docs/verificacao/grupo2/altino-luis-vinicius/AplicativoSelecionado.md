@@ -76,7 +76,7 @@ Na tabela 3 e 4 podemos observar o checklist preenchido após verificação do a
 
 ## Sugestões de Melhorias
 
-Não foram encontrados sugestões melhorias neste artefato.
+Não foram encontrados sugestões de melhorias neste artefato.
 
 ## Resultados
 
