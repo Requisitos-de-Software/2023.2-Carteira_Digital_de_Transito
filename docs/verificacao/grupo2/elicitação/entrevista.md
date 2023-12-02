@@ -46,23 +46,23 @@ Na tabela 2 podemos observar o checklist preenchido após verificação do artef
 
 | ID | Descrição                                                                           | Avaliação  | Observação |
 |----|-------------------------------------------------------------------------------------|------------|------------|
-| 1  | O histórico de versão é padronizado?                                                |      -     |     -      |
-| 2  | Possui o(s) autor(es) e o(s) revisor(es) do artefato?                               |      -     |     -      |
-| 3  | O artefato possui referências bibliográficas e/ou bibliografia?                     |      -     |     -      |
-| 4  | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes?        |      -     |     -      |
-| 5  | Todos os textos estão na norma padrão?                                              |      -     |     -      |
-| 6  | Há introdução do artefato?                                                          |      -     |     -      |
-| 7  | O artefato possui uma introdução condizente com o conteúdo do texto?                |      -     |     -      |
-| 8  | Todas as bibliografias/referências bibliográficas são utilizadas no texto?          |      -     |     -      |
-| 9  | As metodologias do texto definem de forma condizente as formas e os métodos que o grupo realizou o artefato? |      -     |     -      |
-|10  | As diretrizes foram seguidas?                                                       |      -     |     -      |
-|11  | Foi explicada como seria feita a entrevista?                                        |      -     |     -      |
-|12  | Houve preparação para a entrevista?                                                 |      -     |     -      |
-|13  | Formato da entrevista definido e adequado?                                          |      -     |     -      |
-|14  | Forma de registro adequado?                                                         |      -     |     -      |
-|15  | Foram registradas as respostas?                                                     |      -     |     -      |
-| 16 | Finalização organizada?                                                             |      -     |     -      |
-| 17 | Houve consentimento do entrevistado?                                                |      -     |     -      |
+| 1  | O histórico de versão é padronizado?                                                | Não  | está para a direita do título  |
+| 2  | Possui o(s) autor(es) e o(s) revisor(es) do artefato?                               |    Não    |    Está sem revisor      |
+| 3  | O artefato possui referências bibliográficas e/ou bibliografia?                     |     Incompleto     |     Referência está sem número      |
+| 4  | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes?        |     Incompleto    |    Tabela 1 com problema e sem fonte      |
+| 5  | Todos os textos estão na norma padrão?                                              |     Sim    |     -      |
+| 6  | Há introdução do artefato?                                                          |     Sim    |     -      |
+| 7  | O artefato possui uma introdução condizente com o conteúdo do texto?                |      Sim   |     -      |
+| 8  | Todas as bibliografias/referências bibliográficas são utilizadas no texto?          |     Sim     |     -      |
+| 9  | As metodologias do texto definem de forma condizente as formas e os métodos que o grupo realizou o artefato? |    Sim    |     -      |
+|10  | As diretrizes foram seguidas?                                                       |    Sim     |     -      |
+|11  | Foi explicada como seria feita a entrevista?                                        |    Sim     |     -      |
+|12  | Houve preparação para a entrevista?                                                 |    Sim     |     -      |
+|13  | Formato da entrevista definido e adequado?                                          |    Sim     |     -      |
+|14  | Forma de registro adequado?                                                         |    Sim     |     -      |
+|15  | Foram registradas as respostas?                                                     |    Não     | Falta uma tabela contendo as respostas do usuário |
+| 16 | Finalização organizada?                                                             |   Sim      |     -      |
+| 17 | Houve consentimento do entrevistado?                                                |   Sim      |     -      |
 
 Fonte: [Milena Baruc](https://github.com/MilenaBaruc)
 
