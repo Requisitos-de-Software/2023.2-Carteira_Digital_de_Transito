@@ -6,11 +6,24 @@ Este documento é uma verificação do artefato [Introspecção](https://github.
 
 ## Metodologia
 
-A verificação do artefato seguirá o planejamento desenvolvido pelo nosso grupo. Conforme detalhado no planejamento, destaca-se a relevância do subtópico da metologia neste documento, onde será apresentada a tabela contendo os checklists utilizados para realizar essa verificação. O referido checklist pode ser consultado na Tabela 1.
+A verificação do artefato seguirá o planejamento desenvolvido pelo nosso grupo. Conforme detalhado no planejamento, destaca-se a relevância do subtópico da metologia neste documento, onde será apresentada a tabela contendo os checklists gerais e específicos utilizados para realizar essa verificação. O referido checklist podem ser consultados na Tabela 1 e 2.
 
 <center>
 
-**Tabela 1** - CheckList 
+**Tabela 1** - Checklist Geral
+
+| ID | Critério de Avaliação                           | Avaliação ( Sim/ Não / Não Aplicável )             | Observações                       | Referências                                                    |
+|----| ------------------------------------------------|----------------------------------------------------|-----------------------------------|----------------------------------------------------------------|
+| 1  | O artefato possui Introdução?          |  |   |   |
+| 2  | O artefato possui a metodologia utilizada?                                                                    		|  |   |   |
+| 3  | O artefato possui bibliografia/referências bibliográficas?                                                                   |  |   |   |
+| 4  | O artefato possui um histórico de versões com o id e descrição das versões, data, autores e revisores?                        |  |   |   |
+| 5  | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes?                                                 |  |   |   |
+| 6  | Todos os textos estão na norma padrão?                                       						     |  |   |   |
+
+<font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/LuisMiranda10">Luis Miranda</a></p></font>
+
+**Tabela 2** - CheckList Específico 
 
 | ID | Critério de Avaliação                           | Avaliação ( Sim/ Não / Não Aplicável )             | Observações                       | Referências                                                    |
 |----| ------------------------------------------------|----------------------------------------------------|-----------------------------------|----------------------------------------------------------------|
@@ -21,7 +34,7 @@ A verificação do artefato seguirá o planejamento desenvolvido pelo nosso grup
 | 5  |  Além dos membros do grupo, algum usuário do aplicativo participou?                                              |                                                    |                                   |  |        |
 | 6  |  Os requisitos foram divididos como: funcional, não funcional?                                               |                                                    |                                   | |
 | 7  |  Os requisitos foram registrados como: implementado ou não implementado?                                               |                                                    |                                   |  |
-
+| 8  |  Os membros que participaram apresentaram uma explicação detalhada sobre como executaram a técnica?                                            |                                             |                                   |   |
 
 <font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/LuisMiranda10">Luis Miranda</a></p></font>
 
@@ -30,11 +43,24 @@ A verificação do artefato seguirá o planejamento desenvolvido pelo nosso grup
 
 ## Desenvolvimento
 
-Na tabela 2 podemos observar o checklist preenchido após verificação do artefato Introspecção. Este checklist, minuciosamente preenchido, reflete os resultados, observações e considerações resultantes da análise realizada no artefato.
+Na tabela 3 e 4 podemos observar os checklists preenchidos após verificação do artefato Introspecção. Este checklist, minuciosamente preenchido, reflete os resultados, observações e considerações resultantes da análise realizada no artefato.
 
 <center>
 
-**Tabela 2** - CheckList Específico 
+**Tabela 3** - Checklist Geral
+
+| ID | Critério de Avaliação                           | Avaliação ( Sim/ Não / Não Aplicável )             | Observações                       | Referências                                                    |
+|----| ------------------------------------------------|----------------------------------------------------|-----------------------------------|----------------------------------------------------------------|
+| 1  | O artefato possui Introdução?          | Sim  |   |   |
+| 2  | O artefato possui a metodologia utilizada?                                                                    		| Sim  |   |   |
+| 3  | O artefato possui bibliografia/referências bibliográficas?                                                                   | Sim |   |   |
+| 4  | O artefato possui um histórico de versões com o id e descrição das versões, data, autores e revisores?                        | Sim |   |   |
+| 5  | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes?                                                 | Sim |   |   |
+| 6  | Todos os textos estão na norma padrão?                                       						     | Sim  |   |   |
+
+<font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/LuisMiranda10">Luis Miranda</a></p></font>
+
+**Tabela 4** - CheckList Específico 
 
 | ID | Critério de Avaliação                           | Avaliação ( Sim/ Não / Não Aplicável )             | Observações                       | Referências                                                    |
 |----| ------------------------------------------------|----------------------------------------------------|-----------------------------------|----------------------------------------------------------------|
@@ -70,6 +96,13 @@ Foi encontrado 3 sugestões de melhoria neste artefato. Nesta secção será apr
 ## Resultados
 
 Abaixo estão os resultados obtidos na verificação do artefato [Introspecção]() na forma de um gráfico de pizza, onde são apresentadas a quantidade de "sim", "não" e "não aplicável" obtidos na verificação.
+
+<center>
+  
+<font size="3"><p style="text-align: center"><b>Figura 1:</b> Resultados do artefato Introspecção</p></font>
+<img src="https://github.com/Requisitos-de-Software/2023.2-Carteira_Digital_de_Transito/blob/Verificacao-Luis-Vinicius-Altino/docs/assets/Grafico3-Verifica%C3%A7%C3%A3o100%24.png" style="width: 45%;">
+
+</center>
 
 <font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/LuisMiranda10">Luis Miranda</a></p></font>
 
