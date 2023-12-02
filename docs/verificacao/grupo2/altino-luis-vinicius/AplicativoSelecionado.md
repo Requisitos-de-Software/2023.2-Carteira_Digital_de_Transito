@@ -83,10 +83,9 @@ Não foram encontrados sugestões melhorias neste artefato. O [grupo](https://gi
 Abaixo estão os resultados obtidos na verificação do artefato "[Aplicativo Selecionado]()" na forma de um gráfico de pizza, onde são apresentadas a quantidade de "sim", "não" e "não aplicável" obtidos na verificação.
 
 <center>
-
-<img src="https://github.com/Requisitos-de-Software/2023.2-Carteira_Digital_de_Transito/blob/Verificacao-Luis-Vinicius-Altino/docs/assets/Grafico2-Verifica%C3%A7%C3%A3oAPP.png" style="width: 45%;">
   
-  <font size="3"><p style="text-align: center"><b>Figura 1:</b> Resultados do artefato Aplicativo Selecionado</p></font>
+<font size="3"><p style="text-align: center"><b>Figura 1:</b> Resultados do artefato Aplicativo Selecionado</p></font>
+<img src="https://github.com/Requisitos-de-Software/2023.2-Carteira_Digital_de_Transito/blob/Verificacao-Luis-Vinicius-Altino/docs/assets/Grafico2-Verifica%C3%A7%C3%A3oAPP.png" style="width: 45%;">
 
 </center>
 
