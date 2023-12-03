@@ -74,7 +74,9 @@ Na tabela 3 e 4 podemos observar o checklist preenchido após verificação do a
 
 </center>
 
-**Tabela 3** - Cronograma de verificação
+Na tabela 5 podemos ver o link da gravação da verificação feita no artefato.
+
+**Tabela 5** - Cronograma de verificação
 
 | Participantes | Data | Horário |
 |--------------|-------|---------|
