@@ -74,13 +74,19 @@ Na tabela 3 e 4 podemos observar o checklist preenchido após verificação do a
 
 </center>
 
+**Tabela 3** - Cronograma de verificação
+
+| Participantes | Data | Horário |
+|--------------|-------|---------|
+| Luis Miranda | 02/12/2023 | 20:02/20:12| 
+
 ## Sugestões de Melhorias
 
 Não foram encontrados sugestões de melhorias neste artefato.
 
 ## Resultados
 
-Abaixo estão os resultados obtidos na verificação do artefato [Aplicativo Selecionado](https://github.com/Requisitos-de-Software/2023.2-Carteira_Digital_de_Transito/blob/main/docs/planejamento/aplicativo.md) na forma de um gráfico de pizza, onde são apresentadas a quantidade de "sim", "não" e "não aplicável" obtidos na verificação.
+Abaixo estão os resultados obtidos na verificação do artefato [Aplicativo Selecionado](https://github.com/Requisitos-de-Software/2023.2-Carteira_Digital_de_Transito/blob/main/docs/planejamento/aplicativo.md) na forma de um gráfico de pizza, onde são apresentadas a quantidade de "sim", "não" e "não aplicável" obtidos na verificação levando em consideração a checklist geral e específico.
 
 <center>
   
