@@ -77,13 +77,19 @@ Na tabela 3 e 4 podemos observar os checklists preenchidos após verificação d
 
 </center>
 
+**Tabela 3** - Cronograma de verificação
+
+| Participantes | Data | Horário | Link da Gravação |
+|--------------|-------|---------|------------------|
+| Luis Miranda | 03/12/2023 | 20:40/20:47|  [Link da gravação]()        |
+
 ## Sugestões de Melhorias
 
 Foi encontrado 3 sugestões de melhoria neste artefato. Nesta secção será apresentado a descrição do problema e as sugestões de melhoria do [grupo](https://github.com/Requisitos-de-Software/2023.2-Carteira_Digital_de_Transito) para o artefato em questão.
 
 <center>
 
-**Tabela 3** - Sugestões de melhoria - Cronograma
+**Tabela 4** - Sugestões de melhoria - Cronograma
 
 | ID | Descrição do problema | Sugestão de melhoria |
 | --- | ---------------------| ---------------------- |
