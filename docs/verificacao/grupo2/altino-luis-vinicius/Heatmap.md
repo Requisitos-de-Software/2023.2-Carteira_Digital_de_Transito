@@ -7,7 +7,9 @@ Este documento é uma verificação do artefato [HeatMap](https://github.com/Req
 
 A verificação do artefato seguirá o planejamento desenvolvido pelo nosso grupo. Conforme detalhado no planejamento, destaca-se a relevância do subtópico da metologia neste documento, onde será apresentada a tabela contendo os checklists utilizados para realizar essa verificação. O referido checklist pode ser consultado na Tabela 1.
 
-**Tabela 1** - CheckList 
+<center>
+  
+**Tabela 1** - CheckList  Geral não preenchida
 
 | ID | Critério de Avaliação                           | Avaliação ( Sim/ Não / Não Aplicável )             | Observações                       | Referências                                                    |
 |----| ------------------------------------------------|----------------------------------------------------|-----------------------------------|----------------------------------------------------------------|
@@ -16,8 +18,21 @@ A verificação do artefato seguirá o planejamento desenvolvido pelo nosso grup
 | 3  | O artefato possui um Histórico de Versões com o id e descrição das versões, data, autores e revisores?                                                |                                                  |     | |
 | 4  | Os revisores são pessoas diferentes dos autores?                                                |                                                    |                                   | |
 | 5  | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes?                                                |                                                 |                              ||
-| 6  | Possui o heatmap com os horários disponíveis de cada integrante ?                                                |                                                 |                                   | |
-| 7  | Possui o horário escolhido pelo grupo para se reunir?                                                |                                               |                                   | |
+
+<font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/LuisMiranda10">Luis Miranda</a></p></font>
+
+</center>
+
+<center>
+  
+**Tabela 2** - CheckList Específico não preenchido
+
+| ID | Critério de Avaliação                           | Avaliação ( Sim/ Não / Não Aplicável )             | Observações                       | Referências                                                    |
+|----| ------------------------------------------------|----------------------------------------------------|-----------------------------------|----------------------------------------------------------------|
+| 1  | Possui o heatmap com os horários disponíveis de cada integrante ?                                                |                                                 |                                   | |
+| 2  | Possui o horário escolhido pelo grupo para se reunir?                                                |                                               |                                   | |
+| 3  | O objetivo do texto está explicitado de maneira clara e coesa?                                               |                                                 |                                   | |
+| 4  | É explicitado de forma compreensível como foi preenchida a tabela?                                           |                                               |                                   | |
 
 <font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/LuisMiranda10">Luis Miranda</a></p></font>
 
@@ -25,11 +40,11 @@ A verificação do artefato seguirá o planejamento desenvolvido pelo nosso grup
 
 ## Desenvolvimento
 
-Na tabela 2 podemos observar o checklist preenchido após verificação do artefato HeatMap. Este checklist, minuciosamente preenchido, reflete os resultados, observações e considerações resultantes da análise realizada no artefato.
+Na tabela 3 e 4 podemos observar o checklist preenchido após verificação do artefato HeatMap. Este checklist, minuciosamente preenchido, reflete os resultados, observações e considerações resultantes da análise realizada no artefato.
 
 <center>
 
-**Tabela 2** - CheckList
+**Tabela 3** - CheckList Geral preenchido
 
 | ID | Critério de Avaliação                           | Avaliação ( Sim/  /  Aplicável )             | Observações                       | Referências                                                    |
 |----| ------------------------------------------------|----------------------------------------------------|-----------------------------------|----------------------------------------------------------------|
@@ -38,14 +53,25 @@ Na tabela 2 podemos observar o checklist preenchido após verificação do artef
 | 3  | O artefato possui um Histórico de Versões com o id e descrição das versões, data, autores e revisores?                                                |           Sim                                         |                                   | Página: 1-3. Heatmap matrix: a multidimensional data visualization technique . Livro: Miguel Mechi and Celmar Guimaraes, HeatMap Matrix, Unicamp-SP.                                                                |
 | 4  | Os revisores são pessoas diferentes dos autores?                                                |                    Não                                |                                   | Página: 1-3. Heatmap matrix: a multidimensional data visualization technique . Livro: Miguel Mechi and Celmar Guimaraes, HeatMap Matrix, Unicamp-SP.                                                                |
 | 5  | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes?                                                |                      Sim                              |                                   | Página: 1-3. Heatmap matrix: a multidimensional data visualization technique . Livro: Miguel Mechi and Celmar Guimaraes, HeatMap Matrix, Unicamp-SP.                                                                |
-| 6  | Possui o heatmap com os horários disponíveis de cada integrante ?                                                |                   Sim                                 |                                   | Página: 2-3. Heatmap matrix: a multidimensional data visualization technique . Livro: Miguel Mechi and Celmar Guimaraes, HeatMap Matrix, Unicamp-SP.                                                                |
-| 7  | Possui o horário escolhido pelo grupo para se reunir?                                                |            Sim                                        |                                   | Página: 2-3. Heatmap matrix: a multidimensional data visualization technique . Livro: Miguel Mechi and Celmar Guimaraes, HeatMap Matrix, Unicamp-SP.                                                                |
 
 <font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/LuisMiranda10">Luis Miranda</a></p></font>
 
 </center>
 
-**Tabela 3** - Cronograma de verificação
+<center>
+  
+**Tabela 2** - CheckList Específico preenchido
+
+| ID | Critério de Avaliação                           | Avaliação ( Sim/ Não / Não Aplicável )             | Observações                       | Referências                                                    |
+|----| ------------------------------------------------|----------------------------------------------------|-----------------------------------|----------------------------------------------------------------|
+| 1  | Possui o heatmap com os horários disponíveis de cada integrante ?                                                |                   Sim                                 |                                   | Página: 2-3. Heatmap matrix: a multidimensional data visualization technique . Livro: Miguel Mechi and Celmar Guimaraes, HeatMap Matrix, Unicamp-SP.                                                                |
+| 2  | Possui o horário escolhido pelo grupo para se reunir?                                                |            Sim                                        |                                   | Página: 2-3. Heatmap matrix: a multidimensional data visualization technique . Livro: Miguel Mechi and Celmar Guimaraes, HeatMap Matrix, Unicamp-SP.                                                                |
+| 3  | O objetivo do texto está explicitado de maneira clara e coesa?                                                |                   Sim                                 |                                   | Página: 2-3. Heatmap matrix: a multidimensional data visualization technique . Livro: Miguel Mechi and Celmar Guimaraes, HeatMap Matrix, Unicamp-SP.                                                                |
+| 4  | É explicitado de forma compreensível como foi preenchida a tabela?                                                 |            Sim                                        |                                   | Página: 2-3. Heatmap matrix: a multidimensional data visualization technique . Livro: Miguel Mechi and Celmar Guimaraes, HeatMap Matrix, Unicamp-SP.                                                                |
+
+<font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/LuisMiranda10">Luis Miranda</a></p></font>
+
+**Tabela 5** - Cronograma de verificação
 
 | Participantes | Data | Horário | 
 |--------------|-------|---------|
@@ -53,11 +79,11 @@ Na tabela 2 podemos observar o checklist preenchido após verificação do artef
 
 ## Sugestões de Melhorias
 
-Foi encontrado uma sugestão de melhoria neste artefato. O [grupo](https://github.com/Requisitos-de-Software/2023.2-Carteira_Digital_de_Transito) já tinha feito uma correção pós-apresentação desta entrega.
+Foi encontrado uma sugestão de melhoria neste artefato, como é mostrado na tabela 6. O [grupo](https://github.com/Requisitos-de-Software/2023.2-Carteira_Digital_de_Transito) já tinha feito uma correção pós-apresentação desta entrega.
 
 <center>
 
-**Tabela 4** - Sugestões de melhoria - Cronograma
+**Tabela 6** - Sugestões de melhoria - Cronograma
 
 | ID | Descrição do problema | Sugestão de melhoria |
 | --- | ---------------------| ---------------------- |
