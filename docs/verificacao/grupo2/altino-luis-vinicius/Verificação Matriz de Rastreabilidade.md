@@ -25,12 +25,12 @@ Fonte: [Vinícius Mendes](https://github.com/yabamiah)
 
 | ID | Critério de avaliação | Avaliação (Sim/Não/Não aplicável) | Observações | Referências | Imagem da Referência |
 |---|----------------------|------------------------------------|---------------|--------------|-------------|
-|01| A Matriz de Rastreabilidade está sendo representada em uma matriz? | | | Página: 28, Pós Rastreabilidade. Documento: MILENE SERRANO, MAURÍCIO SERRANO, Requisitos - Aula 26, Universidade de Brasília - Faculdade do Gama | ![Screenshot_20231202_192120](Screenshot_20231202_192120.png)| 
-|02| A Matriz de Rastreabilidade contém uma coluna que contém as identificações dos requisitos?| | |  Página: 30, Pós Rastreabilidade. Documento: MILENE SERRANO, MAURÍCIO SERRANO, Requisitos - Aula 26, Universidade de Brasília - Faculdade do Gama | ![Screenshot_20231202_192147](Screenshot_20231202_192147.png) |
-|03| A Matriz de Rastreabilidade contém uma coluna com a descrição do requisito? | | |Página: 30, Pós Rastreabilidade. Documento: MILENE SERRANO, MAURÍCIO SERRANO, Requisitos - Aula 26, Universidade de Brasília - Faculdade do Gama | ![Screenshot_20231202_192147](Screenshot_20231202_192147.png)|
-|04| A Matriz de Rastreabilidade contém uma coluna com artefatos relacionados com a origem do requisito?| | | Página: 30, Pós Rastreabilidade. Documento: MILENE SERRANO, MAURÍCIO SERRANO, Requisitos - Aula 26, Universidade de Brasília - Faculdade do Gama | ![Screenshot_20231202_192147](Screenshot_20231202_192147.png)
-|05| A Matriz de Rastreabilidade contém uma coluna com artefatos que foram gerados a partir dos requisitos?| | |Página: 32, Pós Rastreabilidade. Documento: MILENE SERRANO, MAURÍCIO SERRANO, Requisitos - Aula 26, Universidade de Brasília - Faculdade do Gama| ![Screenshot_20231202_192208](Screenshot_20231202_192208.png) |
-|06| A Matriz de Rastreabilidade contém uma coluna indicando a dependências entre requisitos? |  |  | Página: 13, Capítulo 3. Prática da rastreabilidade de requisitos. SAYÃO, Miriam; LEITE, Julio. Rastreabilidade de Requisitos. PUC-Rio: Departamento de Informática, ISSN 0103-9741, Rio de Janeiro, 2005. | ![Screenshot_20231203_143550](Screenshot_20231203_143550.png) |
+|01| A Matriz de Rastreabilidade está sendo representada em uma matriz? | | | Página: 28, Pós Rastreabilidade. Documento: MILENE SERRANO, MAURÍCIO SERRANO, Requisitos - Aula 26, Universidade de Brasília - Faculdade do Gama | ![Screenshot_20231202_192120](../../../assets/Screenshot_20231202_192120.png)| 
+|02| A Matriz de Rastreabilidade contém uma coluna que contém as identificações dos requisitos?| | |  Página: 30, Pós Rastreabilidade. Documento: MILENE SERRANO, MAURÍCIO SERRANO, Requisitos - Aula 26, Universidade de Brasília - Faculdade do Gama | ![Screenshot_20231202_192147](../../../assets/Screenshot_20231202_192147.png) |
+|03| A Matriz de Rastreabilidade contém uma coluna com a descrição do requisito? | | |Página: 30, Pós Rastreabilidade. Documento: MILENE SERRANO, MAURÍCIO SERRANO, Requisitos - Aula 26, Universidade de Brasília - Faculdade do Gama | ![Screenshot_20231202_192147](../../../assets/Screenshot_20231202_192147.png)|
+|04| A Matriz de Rastreabilidade contém uma coluna com artefatos relacionados com a origem do requisito?| | | Página: 30, Pós Rastreabilidade. Documento: MILENE SERRANO, MAURÍCIO SERRANO, Requisitos - Aula 26, Universidade de Brasília - Faculdade do Gama | ![Screenshot_20231202_192147](../../../assets/Screenshot_20231202_192147.png)
+|05| A Matriz de Rastreabilidade contém uma coluna com artefatos que foram gerados a partir dos requisitos?| | |Página: 32, Pós Rastreabilidade. Documento: MILENE SERRANO, MAURÍCIO SERRANO, Requisitos - Aula 26, Universidade de Brasília - Faculdade do Gama| ![Screenshot_20231202_192208](../../../assets/Screenshot_20231202_192208.png) |
+|06| A Matriz de Rastreabilidade contém uma coluna indicando a dependências entre requisitos? |  |  | Página: 13, Capítulo 3. Prática da rastreabilidade de requisitos. SAYÃO, Miriam; LEITE, Julio. Rastreabilidade de Requisitos. PUC-Rio: Departamento de Informática, ISSN 0103-9741, Rio de Janeiro, 2005. | ![Screenshot_20231203_143550](../../../assets/Screenshot_20231203_143550.png) |
 
 Fonte: [Vinícius Mendes](https://github.com/yabamiah)
 
@@ -71,7 +71,8 @@ Fonte: [Vinícius Mendes](https://github.com/yabamiah)
 | Vinícius Mendes | 03/12/2023 | 14:40/14:47|
 
 ## Sugestões de Melhorias
-
+De acorda com a inspeção feita, foi possível encontrar algumas possíveis melhorias para o artefato em questão, as melhorias serão descritas logo abaixo junto ao ID da verificação:
+- **ID06**: Inserir uma nova coluna indicando a dependência entre os requisitos
 
 ## Referência Bibliográfica
 > Carteira Digital de Trânsito. Requisitos de Software. Distrito Federal, 2023. Disponível em: https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/. Acesso em: 02/12/2023
