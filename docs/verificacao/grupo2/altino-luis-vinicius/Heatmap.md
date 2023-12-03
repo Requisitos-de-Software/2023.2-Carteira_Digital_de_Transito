@@ -45,13 +45,19 @@ Na tabela 2 podemos observar o checklist preenchido após verificação do artef
 
 </center>
 
+**Tabela 3** - Cronograma de verificação
+
+| Participantes | Data | Horário | 
+|--------------|-------|---------|
+| Luis Miranda | 02/12/2023 | 19:25/19:32|
+
 ## Sugestões de Melhorias
 
 Foi encontrado uma sugestão de melhoria neste artefato. O [grupo](https://github.com/Requisitos-de-Software/2023.2-Carteira_Digital_de_Transito) já tinha feito uma correção pós-apresentação desta entrega.
 
 <center>
 
-**Tabela 3** - Sugestões de melhoria - Cronograma
+**Tabela 4** - Sugestões de melhoria - Cronograma
 
 | ID | Descrição do problema | Sugestão de melhoria |
 | --- | ---------------------| ---------------------- |
