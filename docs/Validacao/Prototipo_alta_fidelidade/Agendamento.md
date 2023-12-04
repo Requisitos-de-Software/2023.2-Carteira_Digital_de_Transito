@@ -71,6 +71,11 @@ Desta forma temos os seguintes resultados obtidos a partir da avaliação do pro
 2. Foi possível identificar problemas de usabilidade preliminares?
     - Não foi possível identificar problemas de usabilidade.
 
+## Bibliografia 
+
+> FIGMA, Figma - Software de design colaborativo. Figma. [https://www.figma.com/](https://www.figma.com/file/O7bSLvnevQwsyFcM2g3VYf/carteira_digital_transito?type=design&mode=design&t=35FppirBalAoXBPN-0). Acesso em : 03/12/2023
+>
+> BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador. Editora Elsevier, Rio de Janeiro, 2010.
 
 ## Histórico de Versões
 
