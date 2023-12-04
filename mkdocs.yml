@@ -120,6 +120,6 @@ nav:
         - Backlog do produto: verificacao/grupo3/backlog.md
         - Histórias de Usuário: verificacao/grupo3/verificacao-historias-de-usuario.md
         - NFR Framework: verificacao/grupo3/modelagem/agil/nfr.md
-    - Validação:
-      - Agendamento de serviço: Validacao/Prototipo_alta_fidelidade/Agendamento.md
+  - Validação:
+    - Agendamento de serviço: Validacao/Prototipo_alta_fidelidade/Agendamento.md
 
