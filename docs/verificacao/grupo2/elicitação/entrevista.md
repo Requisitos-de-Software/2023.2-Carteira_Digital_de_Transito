@@ -76,6 +76,20 @@ Fonte: [Milena Baruc](https://github.com/MilenaBaruc)
 
 </center>
 
+## Dados gráficos
+
+Segue no gráfico 1, o gráfico onde podemos ver com maior facilidade os erros, acertos e incompletos do artefato.
+
+<center>
+
+**Gráfico 1** - Dados visuais
+
+![Gráfico Especificação Suplementar](../../../assets/gráficos_milena/grafico_entrevista.jpg)
+
+Fonte: [Milena Baruc](https://github.com/MilenaBaruc)
+
+</center>
+
 ## Sugestões de Melhorias
 
 Em geral o artefato está ótimo, só precisa de algumas alterações. Sendo assim, a seguir segue as sugestões de melhorias:
