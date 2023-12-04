@@ -19,7 +19,7 @@ Na Figura 1, é possível ver imagens do protótipo de alta fidelidade feito com
 
 **Figura 1** - Protótipo de Alta Fidelidade - Agendamento
 
-![Protótipo de Alta Fidelidade - Agendamento](../../../assets/agendamento.PNG)
+![Protótipo de Alta Fidelidade - Agendamento](../../assets/Agendamento.PNG)
 
 Fonte: [Mayara Alves](https://github.com/Mayara-tech) 
 </center>
@@ -53,7 +53,7 @@ O cronograma executado para avaliação do protótipo pode ser observado na tabe
 **Tabela 1** - Cronograma executado - Protótipo de alta fidelidade
 
 | Data | Descrição | entrevistadora |  Entrevistado | Horário | Entrevista
-| --- | ---------------------| ---------------------- |
+| --- | ---------------------| ---------------------- |---------------------| ---------------------- | ---------------------------- |
 | 04/12/2023 | Entrevista de Avaliação do protótipo de alta fidelidade | [Mayara Alves](https://github.com/Mayara-tech) | Igor Luna Almeida | 09h10/09h18  | [link](jkdbs)
 
 Fonte: [Mayara Alves](https://github.com/Mayara-tech) 
