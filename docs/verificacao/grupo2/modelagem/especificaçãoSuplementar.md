@@ -58,13 +58,27 @@ Fonte: [Milena Baruc](https://github.com/MilenaBaruc)
 | -------------------------------------------------------------------------------------------- | ---------- | ----- | ------------------- | ------------- |
 | [Milena Baruc](https://github.com/MilenaBaruc)                                               | 02/12/2023 | 17:00/17:30 | [Verificação individual](https://youtu.be/gGi9UGBSIMw) | 00:12:26 |
 
-Fonte: [Milena Baruc](https://github.com/MilenaBaruc) 
+Fonte: [Milena Baruc](https://github.com/MilenaBaruc)
+
+</center>
+
+## Dados gráficos
+
+<center>
+
+Segue no gráfico 1, o gráfico onde podemos ver com maior facilidade os erros, acertos e incompletos do artefato.
+
+**Gráfico 1** - Dados visuais
+
+![Gráfico Especificação Suplementar](../../../assets/gráficos_milena/grafico_especificacao.jpg)
+
+Fonte: [Milena Baruc](https://github.com/MilenaBaruc)
 
 </center>
 
 ## Sugestões de Melhorias
 
-O artefato verificado está ótimo, ao meu ver, só devemos ter atençao caso tenha algum erro ortográfico.
+O artefato verificado está ótimo, porém o nome do artefato no barra lateral está errada.
 
 ## Referência Bibliografica
 
