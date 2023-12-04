@@ -77,11 +77,13 @@ Na tabela 3 e 4 podemos observar os checklists preenchidos após verificação d
 
 </center>
 
+## Verificação em Trio
+
 **Tabela 3** - Cronograma de verificação
 
 | Participantes | Data | Horário | Link da Gravação |
 |--------------|-------|---------|------------------|
-| Luis Miranda | 03/12/2023 | 20:40/20:47|  [Link da gravação]()        |
+| Luis Miranda, Vinicius Mendes e Altino Arthur | 04/12/2023 | 20:40/20:47|  [Link da gravação]()        |
 
 ## Sugestões de Melhorias
 
