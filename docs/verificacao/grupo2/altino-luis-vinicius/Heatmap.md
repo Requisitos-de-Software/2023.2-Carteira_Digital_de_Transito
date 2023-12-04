@@ -98,16 +98,21 @@ Abaixo estão os resultados obtidos na verificação do artefato [HeatMap](https
 
 <center>
   
-<font size="3"><p style="text-align: center"><b>Figura 1:</b> Resultados do artefato HeatMap</p></font>
-<img src="https://github.com/Requisitos-de-Software/2023.2-Carteira_Digital_de_Transito/blob/Verificacao-Luis-Vinicius-Altino/docs/assets/Grafico1-Verifica%C3%A7%C3%A3oHeatMap.png" style="width: 45%;">
+<font size="3"><p style="text-align: center"><b>Figura 1:</b> Resultados do artefato HeatMap Checklist Geral</p></font>
+<img src="https://github.com/Requisitos-de-Software/2023.2-Carteira_Digital_de_Transito/blob/Verificacao-Luis-Vinicius-Altino/docs/assets/Grafico-HeatmapGeral.png" style="width: 45%;">
+
+<font size="3"><p style="text-align: center"><b>Figura 2:</b> Resultados do artefato HeatMap Checklist Especifico</p></font>
+<img src="https://github.com/Requisitos-de-Software/2023.2-Carteira_Digital_de_Transito/blob/Verificacao-Luis-Vinicius-Altino/docs/assets/Grafico2-Verifica%C3%A7%C3%A3oAPP.png" style="width: 45%;">
 
 </center>
 
 <font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/LuisMiranda10">Luis Miranda</a></p></font>
 
+## Referência Bibliográfica
+> Carteira Digital de Trânsito. Requisitos de Software. Distrito Federal, 2023. Disponível em: https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/. Acesso em: 02/12/2023
+
 ## Bibliografia
-
-
+> SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição, Editora Campus, 2010
 
 ## 📑 Histórico de Versões
 
