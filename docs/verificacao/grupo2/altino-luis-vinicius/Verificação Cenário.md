@@ -17,7 +17,7 @@ A verificação do artefato seguirá o [planejamento](https://github.com/Requis
 | 3  | O artefato possui referências bibliográficas e/ou bibliografia?                |            |            |  REQUISITOS DE SOFTWARE. Carteira Digital de Trânsito. Distrito Federal, 2023. Disponível em: <https://github.com/Requisitos-de-Software/2023.2-Carteira_Digital_de_Transito/>. Acesso em: 02/12/2023.          | 
 | 4  | Todos os textos estão na norma padrão?                                         |            |            |   REQUISITOS DE SOFTWARE. Carteira Digital de Trânsito. Distrito Federal, 2023. Disponível em: <https://github.com/Requisitos-de-Software/2023.2-Carteira_Digital_de_Transito/>. Acesso em: 02/12/2023.         | 
 | 5  | Há introdução do artefato?                                                     |            |            |    REQUISITOS DE SOFTWARE. Carteira Digital de Trânsito. Distrito Federal, 2023. Disponível em: <https://github.com/Requisitos-de-Software/2023.2-Carteira_Digital_de_Transito/>. Acesso em: 02/12/2023.        | 
-| 6  | Há metodologia de como foi conduzido o artefato?                               |            |            |  REQUISITOS DE SOFTWARE. Carteira Digital de Trânsito. Distrito Federal, 2023. Disponível em: <https://github.com/Requisitos-de-Software/2023.2-Carteira_Digital_de_Transito/>. Acesso em: 02/12/2023.          | 
+| 6  | Há metodologia de como foi conduzido o artefato?                               |    |            |  REQUISITOS DE SOFTWARE. Carteira Digital de Trânsito. Distrito Federal, 2023. Disponível em: <https://github.com/Requisitos-de-Software/2023.2-Carteira_Digital_de_Transito/>. Acesso em: 02/12/2023.          | 
 
 Fonte: [Vinícius Mendes](https://github.com/yabamiah)
 
@@ -25,18 +25,18 @@ Fonte: [Vinícius Mendes](https://github.com/yabamiah)
 
 | ID | Critério de avaliação | Avaliação (Sim/Não/Não aplicável) | Observações | Referências | Imagem da Referência |
 |---|----------------------|------------------------------------|---------------|--------------|-------------|
-|01| O cenário possui um título que descreve brevemente a história descrita? | | | Página: 183-184, Capítulo 6. Organização do Espaço de Problema. Livro: SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição, Editora Campus, 2010 | ![Screenshot_20231202_125818](../../../assets/Screenshot_20231202_125818.png)|
-|02| É possível observar no cenário uma história contando sobre pessoas realizando alguma atividade sobre o aplicativo do projeto? | | | Página: 183-184, Capítulo 6. Organização do Espaço de Problema. Livro: SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição, Editora Campus, 2010 | ![Screenshot_20231202_130036](../../../assets/Screenshot_20231202_130036.png) |
-|03| O cenário possui um enredo que contém sequências de ações e eventos? (O que os usuários fazem, o que acontece com eles)| | | Página: 183-184, Capítulo 6. Organização do Espaço de Problema. Livro: SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição, Editora Campus, 2010 | ![Screenshot_20231202_130141](../../../assets/Screenshot_20231202_130141.png) |
-|04| O cenário possui o ambiente ou contexto? (Elemento que detalha a situação que motiva ou explica os objetivos, tarefas e reações dos atores do cenário) | | |Página: 183, Capítulo 6. Organização do Espaço de Problema. Livro: SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição, Editora Campus, 2010 | ![Screenshot_20231202_130244](../../../assets/Screenshot_20231202_130244.png) |
+|01| O cenário possui um título que descreve brevemente a história descrita? |  | | Página: 183-184, Capítulo 6. Organização do Espaço de Problema. Livro: SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição, Editora Campus, 2010 | ![Screenshot_20231202_125818](../../../assets/Screenshot_20231202_125818.png)|
+|02| É possível observar no cenário uma história contando sobre pessoas realizando alguma atividade sobre o aplicativo do projeto? |  | | Página: 183-184, Capítulo 6. Organização do Espaço de Problema. Livro: SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição, Editora Campus, 2010 | ![Screenshot_20231202_130036](../../../assets/Screenshot_20231202_130036.png) |
+|03| O cenário possui um enredo que contém sequências de ações e eventos? (O que os usuários fazem, o que acontece com eles)|  | | Página: 183-184, Capítulo 6. Organização do Espaço de Problema. Livro: SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição, Editora Campus, 2010 | ![Screenshot_20231202_130141](../../../assets/Screenshot_20231202_130141.png) |
+|04| O cenário possui o ambiente ou contexto? (Elemento que detalha a situação que motiva ou explica os objetivos, tarefas e reações dos atores do cenário) |  | |Página: 183, Capítulo 6. Organização do Espaço de Problema. Livro: SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição, Editora Campus, 2010 | ![Screenshot_20231202_130244](../../../assets/Screenshot_20231202_130244.png) |
 |05| O cenário possui um atores? (Pessoas que interagem com o sistema ou outros elementos do ambiente)| | | Página: 183-184, Capítulo 6. Organização do Espaço de Problema. Livro: SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição, Editora Campus, 2010 | ![Screenshot_20231202_130313](../../../assets/Screenshot_20231202_130313.png) |
-|06| O atores tiveram suas informações descritas? (Como nome, profissão e idade)| | | Página: 184, Capítulo 6. Organização do Espaço de Problema. Livro: SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição, Editora Campus, 2010 | ![Screenshot_20231202_130343](../../../assets/Screenshot_20231202_130343.png)|
-|07| Os atores presentes no cenários, foram baseados a partir das personas criadas? (São pessoas relevantes ao cenário)| | | Página: 184, Capítulo 6. Organização do Espaço de Problema. Livro: SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição, Editora Campus, 2010| ![Screenshot_20231202_130424](../../../assets/Screenshot_20231202_130424.png) |
-|08| É possível observar no cenário, um objetivo principal dos atores?(Desejo dos atores que os motivam a realizar ações)| | | Página: 184, Capítulo 6. Organização do Espaço de Problema. Livro: SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição, Editora Campus, 2010| ![Screenshot_20231202_130524](../../../assets/Screenshot_20231202_130524.png)|
-|09| O cenário possui um planejamento? (Sequências de ações dos atores que levam um objetivo a uma ação)| | | Página: 184, Capítulo 6. Organização do Espaço de Problema. Livro: SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição, Editora Campus, 2010| ![Screenshot_20231202_130552](../../../assets/Screenshot_20231202_130552.png)|
-|10| É possível observar as ações dos atores no cenário? (Comportamentos ou atividades realizadas)| | | Página: 184, Capítulo 6. Organização do Espaço de Problema. Livro: SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição, Editora Campus, 2010| ![Screenshot_20231202_130652](../../../assets/Screenshot_20231202_130652.png) |
-|11| É possível observar eventos externos que ajudam ou atrapalham o usuário a realizar suas atividades? (Eventos externos são eventos gerados por computador, sistema, produto ou qualquer elemento do ambiente) | | |  Página: 183, Capítulo 6. Organização do Espaço de Problema. Livro: SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição, Editora Campus, 2010| ![Screenshot_20231202_130719](../../../assets/Screenshot_20231202_130719.png) |
-|12| O cenário possui uma conclusão? (Uma interpretação das ações descrita no cenário)| | | Página: 184, Capítulo 6. Organização do Espaço de Problema. Livro: SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição, Editora Campus, 2010| ![Screenshot_20231202_131306](../../../assets/Cenario_20231202_131306.png) |
+|06| O atores tiveram suas informações descritas? (Como nome, profissão e idade)|  | | Página: 184, Capítulo 6. Organização do Espaço de Problema. Livro: SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição, Editora Campus, 2010 | ![Screenshot_20231202_130343](../../../assets/Screenshot_20231202_130343.png)|
+|07| Os atores presentes no cenários, foram baseados a partir das personas criadas? (São pessoas relevantes ao cenário)|  | | Página: 184, Capítulo 6. Organização do Espaço de Problema. Livro: SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição, Editora Campus, 2010| ![Screenshot_20231202_130424](../../../assets/Screenshot_20231202_130424.png) |
+|08| É possível observar no cenário, um objetivo principal dos atores?(Desejo dos atores que os motivam a realizar ações)|  | | Página: 184, Capítulo 6. Organização do Espaço de Problema. Livro: SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição, Editora Campus, 2010| ![Screenshot_20231202_130524](../../../assets/Screenshot_20231202_130524.png)|
+|09| O cenário possui um planejamento? (Sequências de ações dos atores que levam um objetivo a uma ação)|  | | Página: 184, Capítulo 6. Organização do Espaço de Problema. Livro: SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição, Editora Campus, 2010| ![Screenshot_20231202_130552](../../../assets/Screenshot_20231202_130552.png)|
+|10| É possível observar as ações dos atores no cenário? (Comportamentos ou atividades realizadas)|  | | Página: 184, Capítulo 6. Organização do Espaço de Problema. Livro: SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição, Editora Campus, 2010| ![Screenshot_20231202_130652](../../../assets/Screenshot_20231202_130652.png) |
+|11| É possível observar eventos externos que ajudam ou atrapalham o usuário a realizar suas atividades? (Eventos externos são eventos gerados por computador, sistema, produto ou qualquer elemento do ambiente) |  | |  Página: 183, Capítulo 6. Organização do Espaço de Problema. Livro: SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição, Editora Campus, 2010| ![Screenshot_20231202_130719](../../../assets/Screenshot_20231202_130719.png) |
+|12| O cenário possui uma conclusão? (Uma interpretação das ações descrita no cenário)|  | | Página: 184, Capítulo 6. Organização do Espaço de Problema. Livro: SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição, Editora Campus, 2010| ![Screenshot_20231202_131306](../../../assets/Cenario_20231202_131306.png) |
 
 Fonte: [Vinícius Mendes](https://github.com/yabamiah)
 
@@ -48,12 +48,12 @@ Na tabela 2 podemos observar o checklist preenchido após verificação do artef
 
 | ID | Critério de Avaliação                           | Avaliação ( Sim/ Não / Não Aplicável )             | Observações                       |
 |----| ------------------------------------------------|----------------------------------------------------|-----------------------------------|
-| 1  | O histórico de versão é padronizado?                                           |            |            |            
-| 2  | Possui o(s) autor(es) e o(s) revisor(es) do artefato?                          |            |            |  
-| 3  | O artefato possui referências bibliográficas e/ou bibliografia?                |            |            |   
-| 4  | Todos os textos estão na norma padrão?                                         |            |            |   
-| 5  | Há introdução do artefato?                                                     |            |            | 
-| 6  | Há metodologia de como foi conduzido o artefato?                               |            |            |
+| 1  | O histórico de versão é padronizado?                                           |     Sim       |            |            
+| 2  | Possui o(s) autor(es) e o(s) revisor(es) do artefato?                          |     Sim       |            |  
+| 3  | O artefato possui referências bibliográficas e/ou bibliografia?                |     Sim       |            |   
+| 4  | Todos os textos estão na norma padrão?                                         |     Sim       |            |   
+| 5  | Há introdução do artefato?                                                     |     Sim       |            | 
+| 6  | Há metodologia de como foi conduzido o artefato?                               |     Sim       |            |
 
 Fonte: [Vinícius Mendes](https://github.com/yabamiah)
 
@@ -61,18 +61,18 @@ Fonte: [Vinícius Mendes](https://github.com/yabamiah)
 
 | ID | Critério de avaliação | Avaliação (Sim/Não/Não aplicável) | Observações |
 |---|----------------------|------------------------------------|---------------|
-|01| O cenário possui um título que descreve brevemente a história descrita? |   |
-|02| É possível observar no cenário uma história contando sobre pessoas realizando alguma atividade sobre o aplicativo do projeto? |   |
-|03| O cenário possui um enredo que contém sequências de ações e eventos? (O que os usuários fazem, o que acontece com eles)|   |
-|04| O cenário possui o ambiente ou contexto? (Elemento que detalha a situação que motiva ou explica os objetivos, tarefas e reações dos atores do cenário) |    |
-|05| O cenário possui um atores? (Pessoas que interagem com o sistema ou outros elementos do ambiente)|     |
-|06| O atores tiveram suas informações descritas? (Como nome, profissão e idade)|     |
-|07| Os atores presentes no cenários, foram baseados a partir das personas criadas? (São pessoas relevantes ao cenário)|       |
-|08| É possível observar no cenário, um objetivo principal dos atores?(Desejo dos atores que os motivam a realizar ações)|      |
-|09| O cenário possui um planejamento? (Sequências de ações dos atores que levam um objetivo a uma ação)|      |
-|10| É possível observar as ações dos atores no cenário? (Comportamentos ou atividades realizadas)|         |
-|11| É possível observar eventos externos que ajudam ou atrapalham o usuário a realizar suas atividades? (Eventos externos são eventos gerados por computador, sistema, produto ou qualquer elemento do ambiente) |      |
-|12| O cenário possui uma conclusão? (Uma interpretação das ações descrita no cenário)|     |
+|01| O cenário possui um título que descreve brevemente a história descrita? | Sim  |
+|02| É possível observar no cenário uma história contando sobre pessoas realizando alguma atividade sobre o aplicativo do projeto? |  Não |
+|03| O cenário possui um enredo que contém sequências de ações e eventos? (O que os usuários fazem, o que acontece com eles)|  Sim |
+|04| O cenário possui o ambiente ou contexto? (Elemento que detalha a situação que motiva ou explica os objetivos, tarefas e reações dos atores do cenário) |  Sim  |
+|05| O cenário possui atores? (Pessoas que interagem com o sistema ou outros elementos do ambiente)| Sim    |
+|06| O atores tiveram suas informações descritas? (Como nome, profissão e idade)|  Não   |
+|07| Os atores presentes no cenários, foram baseados a partir das personas criadas? (São pessoas relevantes ao cenário)|   Não    |
+|08| É possível observar no cenário, um objetivo principal dos atores?(Desejo dos atores que os motivam a realizar ações)|    Sim  |
+|09| O cenário possui um planejamento? (Sequências de ações dos atores que levam um objetivo a uma ação)|   Sim   |
+|10| É possível observar as ações dos atores no cenário? (Comportamentos ou atividades realizadas)|      Sim   |
+|11| É possível observar eventos externos que ajudam ou atrapalham o usuário a realizar suas atividades? (Eventos externos são eventos gerados por computador, sistema, produto ou qualquer elemento do ambiente) |  Sim    | 
+|12| O cenário possui uma conclusão? (Uma interpretação das ações descrita no cenário)|  Não  |
 
 Fonte: [Vinícius Mendes](https://github.com/yabamiah)
 
@@ -80,6 +80,7 @@ Fonte: [Vinícius Mendes](https://github.com/yabamiah)
 
 | Participantes | Data | Horário | Link da gravação | Minutagem aonde começa |
 |--------------|-------|---------|-------------------|---------|
+| Vinícius Mendes| 04/12/2023 | 17:29 |        |        00:00      |
 
 ## Sugestões de Melhorias
 
