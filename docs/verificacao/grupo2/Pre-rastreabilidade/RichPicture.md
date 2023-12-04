@@ -13,24 +13,24 @@ A verificação do artefato seguirá o [planejamento](https://requisitos-de-soft
 
 **Tabela 1** - Checklist - Rich Picture 
 
-| ID | Descrição                                                                                                                      | Avaliação  | Observação                                                             |
-|----|--------------------------------------------------------------------------------------------------------------------------------|------------|------------------------------------------------------------------------|
-| 1  | O artefato possui Introdução?                                                                                                  | -          | -       |
-| 2  | O artefato possui a metodologia utilizada?                                                                    		      | -          | -    |
-| 3  | O artefato possui bibliografia/referências bibliográficas?                                                                     | -          | -  |
-| 4  | O artefato possui um histórico de versões com o id e descrição das versões, data, autores e revisores?                         | -          | -    |
-| 5  | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes?                                                   | -          | -         |
-| 6  | Todos os textos estão na norma padrão?                                       						      | -          | -            |
-| 7 | O rich picture possui atores, operações, armazenamento de dados, setas e o limite do sistema?  | - | - |
-| 8 | Foi utilizada alguma técnica na produção do rich picture? | - | - |
-| 9 | O rich picture possui mais textos do que imagens? | -  | - |
-| 10 | O artefato está bem desenhado e é possível de ser entendido? | - | - |
-| 11 | Ele conta uma história? | - | - |
-| 12 | O rich picture diz qual dado está sendo processado, qual está chegando ao sistema e qual informação está saindo?  | - | - |
-| 13 | O rich picture dá uma ideia do que realmente está acontecendo? | -| - |
-| 14 | Contém palavras-chave relevantes? | - | - |
-| 15 | Comunica mais ideias do que palavras? | -| - |
-| 16 | Contém a explicação dos componentes? | - | - |
+| ID | Descrição                                                                                                                      | Avaliação  | Observação  | Referência |  Imagem                                                           |
+|----|--------------------------------------------------------------------------------------------------------------------------------|------------|------------------------ | ------------ | ------------------------------------|
+| 1  | O artefato possui Introdução?                                                                                                  | -          | -       |  - | -  |
+| 2  | O artefato possui a metodologia utilizada?                                                                    		      | -          | -    | -| -|
+| 3  | O artefato possui bibliografia/referências bibliográficas?                                                                     | -          | -  | - | - |
+| 4  | O artefato possui um histórico de versões com o id e descrição das versões, data, autores e revisores?                         | -          | -    | - | - |
+| 5  | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes?                                                   | -          | -         | - | - |
+| 6  | Todos os textos estão na norma padrão?                                       						      | -          | -            | -| -|
+| 7 | O rich picture possui atores, operações, armazenamento de dados, setas e o limite do sistema?  | - | - | (Fonte: Requisitos – Aula 04. Milene Serrano e Maurício Serrano. Slide 14. " Componentes do rich picture: tores, operações, armazenamento de dados, setas e o limite do sistema. (pode ser observado no desenho do slide)")
+| 8 | Foi utilizada alguma técnica na produção do rich picture? | - | - | ( Fonte: The Rich Picture: A Tool for Reasoning About Work Context – Pág. 24 "Drawing a rich picture requires that the analyst work closely with the stakeholders so that the pictures capture the situation and related concerns from the stakeholders’ points of view."
+| 9 | O rich picture possui apenas estrutura suficiente para permitir registrar o processo e as preocupações? | -  | - | (Fonte: The Rich Picture: A Tool for Reasoning About Work Context – Pág. 24 "Include only enough structure to allow you to record the process and concerns. The latter requires that all the people who will use or could conceivably be affected by the introduction of the new system be included."
+| 10 | O artefato está bem desenhado e é possível de ser entendido por ambas as partes? | - | - | (Fonte: The Rich Picture: A Tool for Reasoning About Work Context – Pág. 24 “Drawing a rich picture requires that the analyst work closely with the stakeholders so that the pictures capture the situation and related concerns from the stakeholders’ points of view.”
+| 11 | O armazenamento de dados presente no Rich Picture está sendo representado graficamente por um retangulo?  | - | - | (Fonte: Software Development Project - CTEC2402. Pág. 4 "Data stores are essentially the tables in your database or files in the system. It is also necessary to show the type of data they contain. Only operations may read from or write to data stores. Represented graphically as rectangles.")
+| 12 | O rich picture diz qual dado está sendo processado, qual está chegando ao sistema e qual informação está saindo?  | - | - | (Fonte: Software Development Project - CTEC2402. Pág. 1 “Rich pictures can help you to identify: • Business processes and their data requirements • The actors involved in the processes and their responsibilities"
+| 13 | O rich picture dá uma ideia do que realmente está acontecendo? | -| - |  (Fonte: Não há fonte especifica que mostre que seja uma obrigatóriedade ao fazer um Rich Picture de colocar uma explicação dos componentes, entretanto e uma prática que ajuda na compreensão de todos do que está acontecendo, que é um dos requisitos para um bom Rich Picture. 
+| 14 | Contém palavras-chave relevantes? | - | - | (Fonte: The Rich Picture: A Tool for Reasoning About Work Context – Pág. 24 "Do not attempt to record all the intricacies of process; a broad brush approach is usually all that is needed")
+| 15 | Comunica mais ideias do que palavras? | -| - |   (Fonte: Não há fonte especifica que mostre que seja uma obrigatóriedade ao fazer um Rich Picture de colocar uma explicação dos componentes, entretanto e uma prática que ajuda na compreensão de todos do que está acontecendo, que é um dos requisitos para um bom Rich Picture. 
+| 16 | Contém a explicação dos componentes? | - | - | (Fonte: Não há fonte especifica que mostre que seja uma obrigatóriedade ao fazer um Rich Picture de colocar uma explicação dos componentes, entretanto e uma prática que ajuda na compreensão de todos do que está acontecendo, que é um dos requisitos para um bom Rich Picture. 
 
 Fonte: [Mayara Alves](https://github.com/Mayara-tech) 
 
@@ -55,8 +55,8 @@ Na tabela 2 podemos observar o checklist preenchido após verificação do artef
 | 7 | O rich picture possui atores, operações, armazenamento de dados, setas e o limite do sistema?  | Sim | |
 | 8 | Foi utilizada alguma técnica na produção do rich picture? | Não foi possível identificar | Não foi possível identificar a utilização alguma técnica logo que não esta identificado no texto. |
 | 9 | O rich picture possui mais Imagens do que Texto? | Sim  | - |
-| 10 | O artefato está bem desenhado e é possível de ser entendido? | Sim | - |
-| 11 | Ele conta uma história? | Sim | - |
+| 10 | O artefato está bem desenhado e é possível de ser entendido por ambas as partes? | Sim | - |
+| 11 | O armazenamento de dados presente no Rich Picture está sendo representado graficamente por um retangulo?  | Sim | - |
 | 12 | O rich picture diz qual dado está sendo processado, qual está chegando ao sistema e qual informação está saindo?  | Sim | - |
 | 13 | O rich picture dá uma ideia do que realmente está acontecendo? | Sim | - |
 | 14 | Contém palavras-chave relevantes? | Sim | - |
