@@ -84,6 +84,12 @@ Fonte: [Vinícius Mendes](https://github.com/yabamiah)
 
 ## Sugestões de Melhorias
 
+De acorda com a inspeção feita, foi possível encontrar algumas possíveis melhorias para o artefato em questão, as melhorias serão descritas logo abaixo junto ao ID da verificação:
+- **ID02**: O cenário deve ter uma história que contar sobre os atores realizando alguma atividade sobre o aplicativo do projeto.
+- **ID06**: Os atores devem ter suas informações descritas, como nome, profissão e idade.
+- **ID07**: Deve ser utilizado as personas criadas para serem utilizadas como base para os atores do cenário, e descrever se isso foi feito na meotodologia.
+- **ID12**: Os cenário devem possui uma conclusão ou uma interpretação da história descrita no cenário.
+
 
 ## Referência Bibliográfica
 > Carteira Digital de Trânsito. Requisitos de Software. Distrito Federal, 2023. Disponível em: https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/. Acesso em: 02/12/2023
