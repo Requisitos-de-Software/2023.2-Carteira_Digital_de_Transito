@@ -71,6 +71,7 @@ Na tabela 3 e 4 podemos observar o checklist preenchido após verificação do a
 
 <font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/LuisMiranda10">Luis Miranda</a></p></font>
 
+## Verificação individual
 **Tabela 5** - Cronograma de verificação
 
 | Participantes | Data | Horário | 
@@ -83,7 +84,7 @@ Foi encontrado uma sugestão de melhoria neste artefato, como é mostrado na tab
 
 <center>
 
-**Tabela 6** - Sugestões de melhoria - Cronograma
+**Tabela 6** - Sugestões de melhoria Checklist Geral - Cronograma
 
 | ID | Descrição do problema | Sugestão de melhoria |
 | --- | ---------------------| ---------------------- |
