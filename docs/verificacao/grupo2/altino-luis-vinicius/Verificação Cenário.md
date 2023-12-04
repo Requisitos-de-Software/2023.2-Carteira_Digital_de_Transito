@@ -80,7 +80,7 @@ Fonte: [Vinícius Mendes](https://github.com/yabamiah)
 
 | Participantes | Data | Horário | Link da gravação | Minutagem aonde começa |
 |--------------|-------|---------|-------------------|---------|
-| Vinícius Mendes| 04/12/2023 | 17:20 |        |        00:00      |
+| Vinícius Mendes| 04/12/2023 | 17:20 |   [Link da gravação](https://youtu.be/co-TCP8RCAg)     |        00:00      |
 
 ## Sugestões de Melhorias
 
