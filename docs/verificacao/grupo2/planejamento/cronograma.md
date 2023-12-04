@@ -82,7 +82,7 @@ Fonte: [Milena Baruc](https://github.com/MilenaBaruc)
 
 | Participantes | Data | Horário | Link da gravação | Minutagem aonde começa |
 | -------------------------------------------------------------------------------------------- | ---------- | ----- | ------------------- | ------------- |
-| [Milena Baruc](https://github.com/MilenaBaruc)                                               | 02/12/2023 | 17:00/17:30 | [Verificação individual](https://youtu.be/yA_uhZBVmig) | 00:19:00 |
+| [Milena Baruc](https://github.com/MilenaBaruc)                                               | 02/12/2023 | 17:00/17:30 | [Verificação individual](https://youtu.be/gGi9UGBSIMw) | 00:00:19 |
 
 Fonte: [Milena Baruc](https://github.com/MilenaBaruc) 
 
