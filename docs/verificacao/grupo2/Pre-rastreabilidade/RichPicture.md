@@ -13,14 +13,14 @@ A verificação do artefato seguirá o [planejamento](https://requisitos-de-soft
 
 **Tabela 1** - Checklist - Rich Picture 
 
-| ID | Descrição                                                                                                                      | Avaliação  | Observação  | Referência |  Imagem                                                           |
-|----|--------------------------------------------------------------------------------------------------------------------------------|------------|------------------------ | ------------ | ------------------------------------|
-| 1  | O artefato possui Introdução?                                                                                                  | -          | -       |  - | -  |
-| 2  | O artefato possui a metodologia utilizada?                                                                    		      | -          | -    | -| -|
-| 3  | O artefato possui bibliografia/referências bibliográficas?                                                                     | -          | -  | - | - |
-| 4  | O artefato possui um histórico de versões com o id e descrição das versões, data, autores e revisores?                         | -          | -    | - | - |
-| 5  | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes?                                                   | -          | -         | - | - |
-| 6  | Todos os textos estão na norma padrão?                                       						      | -          | -            | -| -|
+| ID | Descrição                                                                                                                      | Avaliação  | Observação  | Referência |  
+|----|------------------------------------------------------------------------|------------| ------------ | ------------------------------------|
+| 1  | O artefato possui Introdução?                                                                                                  | -          | -       |  - | 
+| 2  | O artefato possui a metodologia utilizada?                                                                    		      | -          | -    | -|
+| 3  | O artefato possui bibliografia/referências bibliográficas?                                                                     | -          | -  | - | 
+| 4  | O artefato possui um histórico de versões com o id e descrição das versões, data, autores e revisores?                         | -          | -    | - | 
+| 5  | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes?                                                   | -          | -         | - | 
+| 6  | Todos os textos estão na norma padrão?                                       						      | -          | -            | -| 
 | 7 | O rich picture possui atores, operações, armazenamento de dados, setas e o limite do sistema?  | - | - | (Fonte: Requisitos – Aula 04. Milene Serrano e Maurício Serrano. Slide 14. " Componentes do rich picture: tores, operações, armazenamento de dados, setas e o limite do sistema. (pode ser observado no desenho do slide)")
 | 8 | Foi utilizada alguma técnica na produção do rich picture? | - | - | ( Fonte: The Rich Picture: A Tool for Reasoning About Work Context – Pág. 24 "Drawing a rich picture requires that the analyst work closely with the stakeholders so that the pictures capture the situation and related concerns from the stakeholders’ points of view."
 | 9 | O rich picture possui apenas estrutura suficiente para permitir registrar o processo e as preocupações? | -  | - | (Fonte: The Rich Picture: A Tool for Reasoning About Work Context – Pág. 24 "Include only enough structure to allow you to record the process and concerns. The latter requires that all the people who will use or could conceivably be affected by the introduction of the new system be included."
@@ -38,7 +38,7 @@ Fonte: [Mayara Alves](https://github.com/Mayara-tech)
 
 ## Desenvolvimento 
 
-Na tabela 2 podemos observar o checklist preenchido após verificação do artefato Rich Picture. Este checklist, minuciosamente preenchido, reflete os resultados, observações e considerações resultantes da análise realizada no artefato.
+Na tabela 2 podemos observar o checklist preenchido após verificação do artefato Rich Picture, a verificação do artefato pode ser visualizada pelo [link](https://youtu.be/tReCyiuQ-Pg). Este checklist, minuciosamente preenchido, reflete os resultados, observações e considerações resultantes da análise realizada no artefato.
 
 <center>
 
