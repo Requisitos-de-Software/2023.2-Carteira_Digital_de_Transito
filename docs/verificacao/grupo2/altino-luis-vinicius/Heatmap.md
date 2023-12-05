@@ -1,7 +1,8 @@
 # Verificação do artefato HeatMap
 
 ## Introdução
-Este documento é uma verificação do artefato [HeatMap](https://github.com/Requisitos-de-Software/2023.2-Carteira_Digital_de_Transito/blob/main/docs/planejamento/Heatmap.md) na versão 1.2 de data 27/09/2023 elaborado pelo [Grupo 2](https://github.com/Requisitos-de-Software/2023.2-Carteira_Digital_de_Transito).
+Este documento é uma verificação do artefato [HeatMap](https://github.com/Requisitos-de-Software/2023.2-Carteira_Digital_de_Transito/blob/main/docs/planejamento/Heatmap.md) na versão 1.2 de data 27/09/2023, autorada por [Limirio Correia](https://github.com/LimirioGuimaraes), que é integrante do [Grupo 2](https://github.com/Requisitos-de-Software/2023.2-Carteira_Digital_de_Transito). O propósito desta verificação é identificar possíveis problemas no artefato.
+
 
 ## Metodologia
 
