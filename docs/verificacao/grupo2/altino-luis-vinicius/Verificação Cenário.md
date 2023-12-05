@@ -90,6 +90,21 @@ De acorda com a inspeção feita, foi possível encontrar algumas possíveis mel
 - **ID07**: Deve ser utilizado as personas criadas para serem utilizadas como base para os atores do cenário, e descrever se isso foi feito na meotodologia.
 - **ID12**: Os cenário devem possui uma conclusão ou uma interpretação da história descrita no cenário.
 
+## Porcentual de aproveitamento do Checklist geral
+
+**Figura 1** - Gráfico de setores do porcentual de aproveitamento do checklist geral
+
+![Untitled design (1).png](../../../assets/Untitleddesign(1).png)
+
+Fonte: [Vinícius Mendes](https://github.com/yabamiah)
+### Porcentual de aproveitamento do Checklist específico
+
+**Figura 2** - Gráfico de setores do porcentual de aproveitamento do checklist específico
+
+![Untitled design (6).png](../../../assets/Untitleddesign(6).png)
+
+Fonte: [Vinícius Mendes](https://github.com/yabamiah)
+
 
 ## Referência Bibliográfica
 > Carteira Digital de Trânsito. Requisitos de Software. Distrito Federal, 2023. Disponível em: https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/. Acesso em: 02/12/2023
