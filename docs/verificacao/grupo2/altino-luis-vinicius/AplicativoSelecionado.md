@@ -95,13 +95,13 @@ Abaixo estão os resultados obtidos na verificação do artefato [Aplicativo Sel
 <center>
   
 <font size="3"><p style="text-align: center"><b>Figura 1:</b> Resultados do artefato Aplicativo Selecionado Checklist Geral</p></font>
-![Fig1](/assets/Grafico2-VerificaçãoAPP.png)
+![Fig1](../../../assets/Grafico2-VerificaçãoAPP.png)
 
 <font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/LuisMiranda10">Luis Miranda</a></p></font>
 
 <font size="3"><p style="text-align: center"><b>Figura 2:</b> Resultados do artefato Aplicativo Selecionado Checklist Especifico</p></font>
 
-![Fig1](/assets/Grafico2-VerificaçãoAPP.png)
+![Fig1](../../../assets/Grafico2-VerificaçãoAPP.png)
 
 </center>
 

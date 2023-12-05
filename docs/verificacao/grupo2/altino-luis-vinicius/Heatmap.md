@@ -102,12 +102,12 @@ Abaixo estão os resultados obtidos na verificação do artefato [HeatMap](https
   
 <font size="3"><p style="text-align: center"><b>Figura 1:</b> Resultados do artefato HeatMap Checklist Geral</p></font>
 
-![Fig1](/assets/Grafico-HeatmapGeral.png)
+![Fig1](../../../assets/Grafico-HeatmapGeral.png)
 
 <font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/LuisMiranda10">Luis Miranda</a></p></font>
 
 <font size="3"><p style="text-align: center"><b>Figura 2:</b> Resultados do artefato HeatMap Checklist Especifico</p></font>
-![Fig2](/assets/Grafico2-VerificaçãoAPP.png)
+![Fig2](../../../assets/Grafico2-VerificaçãoAPP.png)
 
 </center>
 
