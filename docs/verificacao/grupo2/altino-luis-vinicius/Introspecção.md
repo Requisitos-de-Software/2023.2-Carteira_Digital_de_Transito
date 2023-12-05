@@ -77,9 +77,9 @@ Na tabela 3 e 4 podemos observar os checklists preenchidos após verificação d
 
 </center>
 
-## Verificação em Trio
+## Inspeção em Trio
 
-**Tabela 3** - Cronograma de verificação
+**Tabela 5** - Cronograma da inspeção
 
 | Participantes | Data | Horário | Link da Gravação |
 |--------------|-------|---------|------------------|
