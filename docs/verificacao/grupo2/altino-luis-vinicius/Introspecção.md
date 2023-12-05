@@ -112,7 +112,7 @@ Abaixo estão os resultados obtidos na verificação do artefato [Introspecção
 <font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/LuisMiranda10">Luis Miranda</a></p></font>
 
 <font size="3"><p style="text-align: center"><b>Figura 2:</b> Resultados do artefato HeatMap Checklist Especifico</p></font>
-<img src="" style="width: 45%;">
+<img src="https://github.com/Requisitos-de-Software/2023.2-Carteira_Digital_de_Transito/blob/main/docs/assets/Grafico-100%24Especifico.png" style="width: 45%;">
 
 </center>
 
