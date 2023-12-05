@@ -129,6 +129,6 @@ Abaixo estão os resultados obtidos na verificação do artefato [Introspecção
 
 | Versão | Data       | Descrição                                       | Autor                                          | Revisor                                      |
 | ------ | ---------- | ----------------------------------------------- | -----------------------------------------------| ---------------------------------------------|
-| `1.0`  | 02/12/2023 | Criação do Documento | [Luis Miranda](https://github.com/LuisMiranda10)  |                       |
+| `1.0`  | 02/12/2023 | Criação do Documento | [Luis Miranda](https://github.com/LuisMiranda10)  | [Vinicius Mendes](https://github.com/yabamiah)                      |
 
 
