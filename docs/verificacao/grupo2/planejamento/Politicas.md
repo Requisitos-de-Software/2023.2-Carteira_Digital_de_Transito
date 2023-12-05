@@ -6,7 +6,7 @@ Este documento é uma verificação do artefato [Políticas](https://requisitos-
 
 ## Metodologia 
 
-A verificação do artefato seguirá o [planejamento](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/verificacao/grupo2/planejamendoDaVerificacao.md) estabelecido pelo nosso grupo. Conforme detalhado no planejamento, destaca-se a relevância do subtópico da metodologia neste documento, para apresentar a tabela contendo os checklists utilizados para realizar essa verificação deste artefato em especifico. Podemos observar o referido checklist referente a verificação das Políticas na Tabela 1. 
+A verificação do artefato seguirá o [planejamento](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/verificacao/grupo2/planejamendoDaVerificacao.md) estabelecido pelo nosso grupo. Conforme detalhado no planejamento, destaca-se a relevância do subtópico da metodologia neste documento, para apresentar a tabela contendo os checklists utilizados para realizar essa verificação deste artefato em especifico, as questões do checklist foram retiradas do [GitHub Docs](https://docs.github.com/pt/get-started/quickstart/github-flow). Podemos observar o referido checklist referente a verificação das Políticas na Tabela 1. 
 
 <center>
 
@@ -128,6 +128,10 @@ Como proposto por Fagan, para o retrabalho o autor do artefato [Breno Queiroz](h
 
 Fonte: [Mayara Alves](https://github.com/Mayara-tech) 
 </center>
+
+## Referência bibliografica 
+
+GITHUB, Inc. Understanding the GitHub Flow. Disponível em: <https://guides.github.com/introduction/flow/> Acesso em: 04/12/2023
 
 ## Bibliografia
 
