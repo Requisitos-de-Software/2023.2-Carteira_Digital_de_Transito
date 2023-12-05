@@ -54,7 +54,7 @@ O cronograma executado para avaliação do protótipo pode ser observado na tabe
 
 | Data | Descrição | entrevistadora |  Entrevistado | Horário | Entrevista
 | --- | ---------------------| ---------------------- |---------------------| ---------------------- | ---------------------------- |
-| 04/12/2023 | Entrevista de Avaliação do protótipo de alta fidelidade | [Mayara Alves](https://github.com/Mayara-tech) | Igor Luna Almeida | 09h10/09h18  | [link](jkdbs)
+| 04/12/2023 | Entrevista de Avaliação do protótipo de alta fidelidade | [Mayara Alves](https://github.com/Mayara-tech) | Igor Luna Almeida | 09h10/09h18  | [link](https://youtu.be/VnHYa7CGyJU)
 
 Fonte: [Mayara Alves](https://github.com/Mayara-tech) 
 </center>
