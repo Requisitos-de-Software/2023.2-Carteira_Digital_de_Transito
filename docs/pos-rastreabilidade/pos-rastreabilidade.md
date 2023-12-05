@@ -2,8 +2,7 @@
 
 ## Introdução
 
-Este documento inaugura uma etapa crucial em nosso projeto, focada na pós-rastreabilidade, com o propósito fundamental de estabelecer uma conexão sólida entre requisitos, arquitetura e implementação. Nossa abordagem visa destacar 
-de forma explícita as relações de dependência entre os requisitos e seus artefatos correlacionados, abrangendo as esferas de requisitos, arquitetura e implementação. A importância da pós-rastreabilidade reside na sua capacidade de revelar as conexões ocultas e as interações complexas entre diferentes componentes do software. Isso é crucial para identificar problemas potenciais, otimizar o desempenho e assegurar a conformidade do produto final com as expectativas dos usuários. Com esse mapeamento, torna-se possível antecipar desafios, facilitar ajustes e garantir que cada decisão tomada esteja alinhada com os objetivos do projeto. Assim, ao explorar as intricadas relações entre requisitos, arquitetura e implementação, este documento se propõe a ser uma ferramenta vital na compreensão do panorama do projeto.
+Este documento inaugura uma etapa crucial em nosso projeto, focada na pós-rastreabilidade, com o propósito fundamental de estabelecer uma conexão sólida entre requisitos, arquitetura e implementação. Nossa abordagem visa destacar de forma explícita as relações de dependência entre os requisitos e seus artefatos correlacionados, abrangendo as esferas de requisitos, arquitetura e implementação. A importância da pós-rastreabilidade reside na sua capacidade de revelar as conexões ocultas e as interações complexas entre diferentes componentes do software. Isso é crucial para identificar problemas potenciais, otimizar o desempenho e assegurar a conformidade do produto final com as expectativas dos usuários. Com esse mapeamento, torna-se possível antecipar desafios, facilitar ajustes e garantir que cada decisão tomada esteja alinhada com os objetivos do projeto. Assim, ao explorar as intricadas relações entre requisitos, arquitetura e implementação, este documento se propõe a ser uma ferramenta vital na compreensão do panorama do projeto.
 
 ## Metodologia
 
@@ -543,14 +542,17 @@ Fonte: [Limirio Guimarães](https://github.com/LimirioGuimaraes).
 </center>
 
 # Referência Bibliográficas
+
 > 1.</a> TORANZO, M.; CASTRO, J; MELLO, E. Uma proposta para melhorar o rastreamento de requisitos. PUC-Rio: Workshop em Engenharia de Requisitos, Rio de Janeiro, 2002. Disponível em: http://wer.inf.puc-rio.br/WERpapers/artigos/artigos_WER02/toranzo.pdf. Acesso em: 17/11/2023.<br/>
 > 2. Slides da Aula 26 da Professora Milene Serrano. Disponível em: https://aprender3.unb.br/pluginfile.php/2692879/mod_resource/content/1/Requisitos%20-%20Aula%20026.pdf. Acesso em: 18/11/2023.
 
 # Bibliografia
+
 > KLAUS POHL, CHRIS RUPP. Requirements Engineering Fundamentals.<br/>
 > REQUISITOS DE SOFTWARE. Bilheteria Digital. Distrito Federal, 2023. Disponível em: <https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/>. Acesso em: 17/11/2023.
 
 ## Histórico de Versões
+
 |Versão|Data|Descrição|Autor|Revisor|
 |:----:|----|---------|-----|:-------:|
 |`1.0`|16/11/2023|Criação do documento|[Limirio Guimarães](https://github.com/LimirioGuimaraes) | | 
@@ -559,4 +561,3 @@ Fonte: [Limirio Guimarães](https://github.com/LimirioGuimaraes).
 |`1.2`|20/11/2023|Adicionada tabela dos requisitos RF28, RF30, RF31, RF24, RF26 | [Milena Baruc](https://github.com/MilenaBaruc) | |
 |`1.3`|20/11/2023|Adicionada tabela dos requisitos RF13, RF9, RF19, RF17, RF18, RNF09 | [Vinícius Mendes](https://github.com/yabamiah) | |
 |`1.3`|20/11/2023|Adicionada tabela dos requisitos RF05, RF14, RF21, RF22, RF29 | [Mayara Alves](https://github.com/Mayara-tech) | |
- 
