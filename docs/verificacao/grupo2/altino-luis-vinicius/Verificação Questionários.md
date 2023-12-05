@@ -51,12 +51,12 @@ Na tabela 2 podemos observar o checklist preenchido após verificação do artef
 
 | ID | Critério de Avaliação                           | Avaliação ( Sim/ Não / Não Aplicável )             | Observações                       |
 |----| ------------------------------------------------|----------------------------------------------------|-----------------------------------|
-| 1  | O histórico de versão é padronizado?                                           |            |            |            
-| 2  | Possui o(s) autor(es) e o(s) revisor(es) do artefato?                          |            |            |  
-| 3  | O artefato possui referências bibliográficas e/ou bibliografia?                |            |            |   
-| 4  | Todos os textos estão na norma padrão?                                         |            |            |   
-| 5  | Há introdução do artefato?                                                     |            |            | 
-| 6  | Há metodologia de como foi conduzido o artefato?                               |            |            |
+| 1  | O histórico de versão é padronizado?                                           |      Sim      |            |            
+| 2  | Possui o(s) autor(es) e o(s) revisor(es) do artefato?                          |      Sim      |            |  
+| 3  | O artefato possui referências bibliográficas e/ou bibliografia?                |      Sim     |            |   
+| 4  | Todos os textos estão na norma padrão?                                         |      Sim      |            |   
+| 5  | Há introdução do artefato?                                                     |     Sim       |            | 
+| 6  | Há metodologia de como foi conduzido o artefato?                               |     Sim       |            |
 
 Fonte: [Vinícius Mendes](https://github.com/yabamiah)
 
@@ -64,19 +64,19 @@ Fonte: [Vinícius Mendes](https://github.com/yabamiah)
 
 | ID | Critério de avaliação | Avaliação (Sim/Não/Não aplicável) | Observações |
 |---|----------------------|------------------------------------|---------------|
-|01| Para realizar a técnica do Questionário, foi criado um formulário físico ou on-line? |    |
-|02| As perguntas do questionário possuíam indicações claras de como respondê-las? (Se eram perguntas de múltiplas escolhas, pergunta textual curta ou longa, perguntas de escala numérica, etc...)|     |
-|03| O questionário contém perguntas abertas (Perguntas onde os participantes podem responder de forma discursiva e livre) e perguntas fechadas (Perguntas com resposta de Sim/Não)? |      |
-|04| O questionário possuí indicações claras de quais perguntas são obrigatórias? |         |
-|05| O questionário contém mais perguntas fechadas do que abertas? |          |
-|06| As perguntas fechadas do Questionário apresentam opções neutras como resposta? (Não sei, não quero responder, outros)|       |
-|07| O questionário contém perguntas sobre informações demográficas? (Idade, sexo e país)|        |
-|08| O questionário contém perguntas sobre habilidades com tecnologias? (tempo de experiência com tecnologias e domínio sobre as tecnologias) |        |
-|09| O questionário contém perguntas sobre educação? (grau de instrução e área de formação) |       |
-|10| O questionário contém perguntas sobre a principal tarefas que realizam no contexto do aplicativo do projeto? (Exemplo: pagar conta, visualizar boleto, etc...) |       |
-|11| Foi gerado uma análise dos dados coletados pelo Questionário? (Gráficos, tabelas ou outras formas de visualização de dados) |       |
-|12| No questionário foi apresentado o termo de consentimento de forma clara? |        |
-|13| O questionário foi divulgado de forma dispersa? (Foi descrito se o questionário foi divulgado para pessoas dispersas geograficamente e de grupos diferentes) |      |
+|01| Para realizar a técnica do Questionário, foi criado um formulário físico ou on-line? |   Sim |  Não espicíficou se o formulário era online e nem em qual plataforma foi criado |
+|02| As perguntas do questionário possuíam indicações claras de como respondê-las? (Se eram perguntas de múltiplas escolhas, pergunta textual curta ou longa, perguntas de escala numérica, etc...)|   Não  |   Não foi possível inspecionar, já que não havia o link disponível |
+|03| O questionário contém perguntas abertas (Perguntas onde os participantes podem responder de forma discursiva e livre) e perguntas fechadas (Perguntas com resposta de Sim/Não)? |  Incompleto   |  Não havia questões abertas |
+|04| O questionário possuí indicações claras de quais perguntas são obrigatórias? |    Não     |  Não foi possível inspecionar, já que não havia o link disponível | 
+|05| O questionário contém mais perguntas fechadas do que abertas? |       Sim  |
+|06| As perguntas fechadas do Questionário apresentam opções neutras como resposta? (Não sei, não quero responder, outros)|  Sim      |
+|07| O questionário contém perguntas sobre informações demográficas? (Idade, sexo e país)|    Sim    |  |
+|08| O questionário contém perguntas sobre habilidades com tecnologias? (tempo de experiência com tecnologias e domínio sobre as tecnologias) |   Sim    |
+|09| O questionário contém perguntas sobre educação? (grau de instrução e área de formação) |  Sim     |
+|10| O questionário contém perguntas sobre a principal tarefas que realizam no contexto do aplicativo do projeto? (Exemplo: pagar conta, visualizar boleto, etc...) | Sim      |
+|11| Foi gerado uma análise dos dados coletados pelo Questionário? (Gráficos, tabelas ou outras formas de visualização de dados) | Sim      |
+|12| No questionário foi apresentado o termo de consentimento de forma clara? |   Não     |   Não foi possível inspecionar, já que não havia o link disponível |
+|13| O questionário foi divulgado de forma dispersa? (Foi descrito se o questionário foi divulgado para pessoas dispersas geograficamente e de grupos diferentes) |   Não   |
 
 Fonte: [Vinícius Mendes](https://github.com/yabamiah)
 
@@ -84,11 +84,34 @@ Fonte: [Vinícius Mendes](https://github.com/yabamiah)
 
 | Participantes | Data | Horário | Link da gravação | Minutagem aonde começa |
 |--------------|-------|---------|-------------------|---------|
+| Vinícius Mendes, Luis Miranda e Breno Queiroz | 05/12/2023 | 1:10/1:17 | [Link da gravação](https://youtu.be/0K9YIb2jCr8) | 00:00 |
 
 </center>
 
 ## Sugestões de Melhorias
+De acorda com a inspeção feita, foi possível encontrar algumas possíveis melhorias para o artefato em questão, as melhorias serão descritas logo abaixo junto ao ID da verificação:
 
+- **ID02, ID04 e ID12**: Deixar o link do formulário disponível no documento do artefato para que possa ser inspecionado.
+- **ID03**: Colocar ao menos uma questão do tipo aberta no formulário.
+- **ID13**: Divulgar o formulário não só em em um tipo de grupro de usuários, a idea é coletar informações de maior grupos dipersos possíveis.
+
+## Acompanhamento
+Logo abaixo, será apresentado as **Figuras 1 e 2**, que irão representar o porcentual de aproveitamento dos checklists, utilizando como o parâmetro "Sim", "Não" e "Não aplicável".
+
+## Porcentual de aproveitamento do Checklist geral
+
+**Figura 1** - Gráfico de setores do porcentual de aproveitamento do checklist geral
+
+![Untitled design (1).png](../../../assets/Untitleddesign(1).png)
+
+Fonte: [Vinícius Mendes](https://github.com/yabamiah)
+### Porcentual de aproveitamento do Checklist específico
+
+**Figura 2** - Gráfico de setores do porcentual de aproveitamento do checklist específico
+
+![Untitled design (7).png](../../../assets/Untitleddesign(7).png)
+
+Fonte: [Vinícius Mendes](https://github.com/yabamiah)
 
 ## Referência Bibliográfica
 > Carteira Digital de Trânsito. Requisitos de Software. Distrito Federal, 2023. Disponível em: https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/. Acesso em: 02/12/2023
