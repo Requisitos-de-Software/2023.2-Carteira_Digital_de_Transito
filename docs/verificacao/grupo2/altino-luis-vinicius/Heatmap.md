@@ -71,8 +71,9 @@ Na tabela 3 e 4 podemos observar o checklist preenchido após verificação do a
 
 <font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/LuisMiranda10">Luis Miranda</a></p></font>
 
-## Verificação individual
-**Tabela 5** - Cronograma de verificação
+## Inspeção individual
+
+**Tabela 5** - Cronograma de inspeção
 
 | Participantes | Data | Horário | 
 |--------------|-------|---------|
