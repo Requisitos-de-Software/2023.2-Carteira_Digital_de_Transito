@@ -108,11 +108,12 @@ Abaixo estão os resultados obtidos na verificação do artefato [Introspecção
 <center>
   
 <font size="3"><p style="text-align: center"><b>Figura 1:</b> Resultados do artefato Introspecção Checklist Geral</p></font>
-<img src="https://github.com/Requisitos-de-Software/2023.2-Carteira_Digital_de_Transito/blob/Verificacao-Luis-Vinicius-Altino/docs/assets/Grafico2-Verifica%C3%A7%C3%A3oAPP.png" style="width: 45%;">
+![Fig1](/assets/Grafico2-VerificaçãoAPP.png)
+
 <font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/LuisMiranda10">Luis Miranda</a></p></font>
 
 <font size="3"><p style="text-align: center"><b>Figura 2:</b> Resultados do artefato HeatMap Checklist Especifico</p></font>
-<img src="https://github.com/Requisitos-de-Software/2023.2-Carteira_Digital_de_Transito/blob/main/docs/assets/Grafico-100%24Especifico.png" style="width: 45%;">
+![Fig1](/assets/Grafico-100$Especifico.png)
 
 </center>
 
