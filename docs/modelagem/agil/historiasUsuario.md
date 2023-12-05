@@ -14,13 +14,13 @@ Para a produção desse artefato foi utilizada a entrevista presente na [metodol
 
 ## Histórias de Usuário
 
-As tabelas de 1 a 17 descrevem as histórias de usuário elicitadas.
+As tabelas de 1 a 17 descrevem as histórias de usuário elicitadas, foram retiradas do artefato [Product Backlog](../agil/backlog.md/#épicos). Além disso, no mesmo artefato, estão presentes requisitos relacionados de cada história de usuário.
 
 ### US01 - Fazer login com GOV
 
 <center>
 
-Tabela 1 - História de Usuário fazer login com GOV
+**Tabela 1 -** História de Usuário fazer login com GOV
 
 | **ID**                   | **Nome**  |
 | ------------------------ | --------- |
@@ -37,7 +37,7 @@ Fonte: [Milena Baruc](https://github.com/MilenaBaruc)
 
 <center>
 
-Tabela 2 - História de Usuário fazer logoff com GOV
+**Tabela 2 -** História de Usuário fazer logoff com GOV
 
 | **ID**                   | **Nome**  |
 | ------------------------ | --------- |
@@ -54,7 +54,7 @@ Fonte: [Milena Baruc](https://github.com/MilenaBaruc)
 
 <center>
 
-Tabela 3 - História de Usuário acessar Carteira de Habilitação
+**Tabela 3 -** História de Usuário acessar Carteira de Habilitação
 
 | **ID**                   | **Nome**  |
 | ------------------------ | --------- |
@@ -71,7 +71,7 @@ Fonte: [Milena Baruc](https://github.com/MilenaBaruc)
 
 <center>
 
-Tabela 4 - História de Usuário adicionar Documento CLRV-e
+**Tabela 4 -** História de Usuário adicionar Documento CLRV-e
 
 | **ID**                   | **Nome**  |
 | ------------------------ | --------- |
@@ -88,7 +88,7 @@ Fonte: [Milena Baruc](https://github.com/MilenaBaruc)
 
 <center>
 
-Tabela 5 - História de Usuário acessar Documento CLRV-e
+**Tabela 5 -** História de Usuário acessar Documento CLRV-e
 
 | **ID**                   | **Nome**  |
 | ------------------------ | --------- |
@@ -105,7 +105,7 @@ Fonte: [Milena Baruc](https://github.com/MilenaBaruc)
 
 <center>
 
-Tabela 6 - História de Usuário visualizar Exames Toxicológicos
+**Tabela 6 -** História de Usuário visualizar Exames Toxicológicos
 
 | **ID**                   | **Nome**  |
 | ------------------------ | --------- |
@@ -122,7 +122,7 @@ Fonte: [Milena Baruc](https://github.com/MilenaBaruc)
 
 <center>
 
-Tabela 7 - História de Usuário acessar Infração
+**Tabela 7 -** História de Usuário acessar Infração
 
 | **ID**                   | **Nome**  |
 | ------------------------ | --------- |
@@ -139,7 +139,7 @@ Fonte: [Milena Baruc](https://github.com/MilenaBaruc)
 
 <center>
 
-Tabela 8 - História de Usuário pagar infração
+**Tabela 8 -** História de Usuário pagar infração
 
 | **ID**                   | **Nome**  |
 | ------------------------ | --------- |
@@ -156,7 +156,7 @@ Fonte: [Milena Baruc](https://github.com/MilenaBaruc)
 
 <center>
 
-Tabela 9 - História de Usuário consultar Campanhas e Projetos
+**Tabela 9 -** História de Usuário consultar Campanhas e Projetos
 
 | **ID**                   | **Nome**  |
 | ------------------------ | --------- |
@@ -173,7 +173,7 @@ Fonte: [Milena Baruc](https://github.com/MilenaBaruc)
 
 <center>
 
-Tabela 10 - História de Usuário visualizar Cadastro Positivo
+**Tabela 10 -** História de Usuário visualizar Cadastro Positivo
 
 | **ID**                   | **Nome**  |
 | ------------------------ | --------- |
@@ -190,7 +190,7 @@ Fonte: [Milena Baruc](https://github.com/MilenaBaruc)
 
 <center>
 
-Tabela 11 - História de Usuário aderir ao Sistema de Notificação Eletrônica
+**Tabela 11 -** História de Usuário aderir ao Sistema de Notificação Eletrônica
 
 | **ID**                   | **Nome**  |
 | ------------------------ | --------- |
@@ -207,7 +207,7 @@ Fonte: [Milena Baruc](https://github.com/MilenaBaruc)
 
 <center>
 
-Tabela 12 - História de Usuário central de Mensagens
+**Tabela 12 -** História de Usuário central de Mensagens
 
 | **ID**                   | **Nome**  |
 | ------------------------ | --------- |
@@ -224,7 +224,7 @@ Fonte: [Milena Baruc](https://github.com/MilenaBaruc)
 
 <center>
 
-Tabela 13 - História de Usuário tirar foto para o perfil
+**Tabela 13 -** História de Usuário tirar foto para o perfil
 
 | **ID**                   | **Nome**  |
 | ------------------------ | --------- |
@@ -241,7 +241,7 @@ Fonte: [Milena Baruc](https://github.com/MilenaBaruc)
 
 <center>
 
-Tabela 14 - História de Usuário remover foto de perfil
+**Tabela 14 -** História de Usuário remover foto de perfil
 
 | **ID**                   | **Nome**  |
 | ------------------------ | --------- |
@@ -258,7 +258,7 @@ Fonte: [Milena Baruc](https://github.com/MilenaBaruc)
 
 <center>
 
-Tabela 15 - História de Usuário escolher foto da galeria
+**Tabela 15 -** História de Usuário escolher foto da galeria
 
 | **ID**                   | **Nome**  |
 | ------------------------ | --------- |
@@ -275,7 +275,7 @@ Fonte: [Milena Baruc](https://github.com/MilenaBaruc)
 
 <center>
 
-Tabela 16 - História de Usuário visualizar cursos especializados
+**Tabela 16 -** História de Usuário visualizar cursos especializados
 
 | **ID**                   | **Nome**  |
 | ------------------------ | --------- |
@@ -292,7 +292,7 @@ Fonte: [Milena Baruc](https://github.com/MilenaBaruc)
 
 <center>
 
-Tabela 17 - História de Usuário permitir biometria para desbloquear a carteira
+**Tabela 17 -** História de Usuário permitir biometria para desbloquear a carteira
 
 | **ID**                   | **Nome**  |
 | ------------------------ | --------- |
@@ -313,4 +313,5 @@ Fonte: [Milena Baruc](https://github.com/MilenaBaruc)
 
 | Versão |    Data    |      Descrição      |       Autor     | Revisor(es)  |
 | ------ | ---------- | ------------------- | --------------- | ------------ |
-| 1.0    | 06/10/2023 | Criação do template | [Milena Baruc](https://github.com/MilenaBaruc) |[Altino Arthur](https://github.com/arthurrochamoreira) |
+| `1.0`  | 06/11/2023 | Criação do template | [Milena Baruc](https://github.com/MilenaBaruc) |[Altino Arthur](https://github.com/arthurrochamoreira) |
+| `2.0`  | 05/12/2023 | Correção de acordo com as verificações | [Milena Baruc](https://github.com/MilenaBaruc) | [nome](https://github.com/) |
