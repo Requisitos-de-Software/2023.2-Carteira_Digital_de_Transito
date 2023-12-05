@@ -87,28 +87,40 @@ nav:
       - NFR Framework: modelagem/agil/framework.md
       - Product Backlog: modelagem/agil/backlog.md
       - Histórias de Usuário: modelagem/agil/historiasUsuario.md
+
+
   - Verificação:
     - Grupo 2:
+      - Planejamento da verificação: verificacao/grupo2/planejamendoDaVerificacao.md 
       - Planejamento:
-        - Aplicativo Selecionado: verificacao/grupo2/planejamento/AplicativoSelecionado.md
-        - Heatmap: verificacao/grupo2/planejamento/Heatmap.md
+        - Aplicativo Selecionado: verificacao/grupo2/altino-luis-vinicius/AplicativoSelecionado.md
+        - Heatmap: verificacao/grupo2/altino-luis-vinicius/Heatmap.md
         - Metodologia: verificacao/grupo2/planejamento/Metodologia.md
         - Políticas: verificacao/grupo2/planejamento/Politicas.md
+        - Cronograma: verificacao/grupo2/planejamento/cronograma.md
       - Pre-rastreabilidade:
         - Rich picture: verificacao/grupo2/Pre-rastreabilidade/RichPicture.md
       - Elicitação:
+        - Perfil de Usuário: verificacao/grupo2/altino-luis-vinicius/Verificação Perfil de Usuário.md
         - Técnicas:
-          - Introspecção: verificacao/grupo2/elicitacao/tecnicasDeElicitacao/o.md
+          - Introspecção: verificacao/grupo2/altino-luis-vinicius/Introspecção.md
           - Storyboard: verificacao/grupo2/ElicitacaoRequisitos/Storyboard.md
           - Glossário: verificacao/grupo2/ElicitacaoRequisitos/Glossario.md
+          - Questionário: verificacao/grupo2/altino-luis-vinicius/Verificação Questionários.md
         - Priorização de requisitos:
-          - $100: verificacao/grupo2/elicitacao/priorizacao/$100.md
+          - $100: verificacao/grupo2/altino-luis-vinicius/100$.md
           - First Things First: verificacao/grupo2/priorizacao/FirstThingsFirst.md 
-        - Modelagem:
-          - Léxicos: verificacao/grupo2/modelagem/lexicos.md  
+      - Modelagem:
+        - Léxicos: verificacao/grupo2/modelagem/lexicos.md  
         - Modelagem Ágil:
           - Histórias de Usuário: verificacao/grupo2/modelagemAgil/HistoriaUsuario.md   
-      - planejamento da verificação: verificacao/grupo2/planejamendoDaVerificacao.md 
+      - Rastreabilidade:
+        - Matriz de Rastreabilidade: verificacao/grupo2/altino-luis-vinicius/Verificação Matriz de Rastreabilidade.md
+
+
+
+
+
     - Grupo 3:
       - Planejamento da Verificação: verificacao/grupo3/planejamendoDaVerificacao.md 
       - Planejamento:
