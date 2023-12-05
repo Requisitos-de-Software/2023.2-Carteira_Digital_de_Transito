@@ -94,6 +94,9 @@ nav:
       - Planejamento da verificação: verificacao/grupo2/planejamendoDaVerificacao.md 
       - Planejamento:
         - Aplicativo Selecionado: verificacao/grupo2/altino-luis-vinicius/AplicativoSelecionado.md
+        - Ferramentas: 
+          - Inspecao: verificacao/grupo2/ferramentas/inspecao.md
+          - Verificação: verificacao/grupo2/ferramentas/verificacao.md
         - Heatmap: verificacao/grupo2/altino-luis-vinicius/Heatmap.md
         - Metodologia: verificacao/grupo2/planejamento/Metodologia.md
         - Políticas: verificacao/grupo2/planejamento/Politicas.md
@@ -128,7 +131,7 @@ nav:
         - Rich Picture: verificacao/grupo3/planejamento/richPicure.md
         - Aplicativo selecionado: verificacao/grupo3/planejamento/AplicativoSelecionado.md 
         - Cronogramas: verificacao/grupo3/planejamento/cronograma.md
-        - Ferramentas de Uso: verificacao/grupo3/planejamento/ferramentasDeUso.md
+        - Ferramentas: verificacao/grupo3/planejamento/ferramentasDeUso.md
         - Heatmap: verificacao/grupo3/planejamento/heatmap.md
         - Termos de Uso: verificacao/grupo3/planejamento/TermosDeUso.md 
       - Elicitação:
