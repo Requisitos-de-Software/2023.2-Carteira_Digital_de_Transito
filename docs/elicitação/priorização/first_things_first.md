@@ -2,14 +2,16 @@
 
 ## Introdução
 
-Dado que a priorização de requisitos é um processo crítico que envolve a classificação e seleção dos requisitos do sistema de acordo com sua importância, impacto e viabilidade, a abordagem _First Things First_ visa enfatizar a importância de focar nas tarefas e atividades mais cruciais e significativas antes de se dedicar a tarefas menos importantes. Assim, temos como ideia central que para ter mais prosutividade deve-se identificar e dedicar tempo significativo às atividades que tem mais impacto no projeto.
+Dado que a priorização de requisitos é um processo crítico que envolve a classificação e seleção dos requisitos do sistema de acordo com sua importância, impacto e viabilidade, a abordagem _First Things First_ visa enfatizar a importância de focar nas tarefas e atividades mais cruciais e significativas antes de se dedicar a tarefas menos importantes. Assim, temos como ideia central que para ter mais produtividade deve-se identificar e dedicar tempo significativo às atividades que tem mais impacto no projeto. <br>
+<br>
+O motivo da utilização dessa priorização de requisitos é que é um conceito importante para a gestão do tempo e das tarefas. Além disso, ajuda a focar no que é mais importante, reduz o estresse, aumenta a eficiência, ajuda na gestão do tempo e promove equilíbrio.  
 
 ## Metodologia
 
 A seguir, apresentamos as pessoas que contribuíram para o desenvolvimento desta abordagem, com seus nomes relacionados na Tabela 1:
 
 - *Mediador*: Encarregado de expor os requisitos listados;
--  *Usuário*: Encarregado de classificar benefícios e penalidades na implementação de cada requisito;
+- *Usuário*: Encarregado de classificar benefícios e penalidades na implementação de cada requisito;
 - *Desenvolvedor*: Encarregado de classificar custos e riscos na implementação de cada requisito.
 
 <center>
@@ -23,7 +25,7 @@ Tabela 1 - Participantes
 |[Victor Hugo](https://github.com/ViictorHugoo)  | Usuário            |
 
 **Fonte:** [Milena Baruc](https://github.com/MilenaBaruc)
- 
+
 </center>
 
 Foram realizadas duas reuniões na plataforma Teams, como podemos ver na tabela 2:
@@ -56,19 +58,20 @@ Para elaborar uma tabela em _First Things First_ deve-se seguir oito passos:
 
 ### Tabela das funcionalidades
 
-Utilizando os passos acima foi possível produzir a Tabela 1 abaixo. Tendo os seguintes pesos: 
+Utilizando os passos acima foi possível produzir a Tabela 1 abaixo. Tendo os seguintes pesos, que foram feitos por que o benefício deve ser maior que os outros pesos, a penalidade relativa e o custo relativo devem ser maior que o risco relativo, logo seguinto a seguinte onrdem: Benefício Relativo > Penalidade Relativa = Custo Relativo > Risco Relativo:
+
 * **Benefício Relativo**: peso 2
 * **Penalidade Relativa**: peso 1
 * **Custo Relativo**: peso 1
 * **Risco Relativo**: peso 0,5
 
-Para a produção da tabela 3, foi utilizado os dados da tabela 2 em <a href="../requisitos_elicitados.md"> requisitos elicitados </a>.
+Para a produção da tabela 3, foi utilizado os dados da tabela 2 no artefato [requisitos elicitados](../requisitos_elicitados.md) </a>.
 
 <center>
 
-Tabela 3 - Resultado da priorização
+**Tabela 3** - Resultado da priorização
 
-![Tabela FTF](/docs/assets/TabelaFTF.jpg)
+![Tabela FTF](../../assets/TabelaFTF.jpg)
 
 **Fonte:** [Milena Baruc](https://github.com/MilenaBaruc)
 
@@ -87,4 +90,4 @@ Tabela 3 - Resultado da priorização
 | `2.1` | 25/10/2023| Arrumando erros apresentação | [Milena Baruc](https://github.com/MilenaBaruc) | [Mayara Alves](https://github.com/Mayara-tech) |
 | `2.2` | 25/10/2023| Adicionando reuniões e cronograma | [Milena Baruc](https://github.com/MilenaBaruc) | [Mayara Alves](https://github.com/Mayara-tech)|
 | `2.3` | 25/10/2023| Adicionando tabela priorização | [Milena Baruc](https://github.com/MilenaBaruc) | [Mayara Alves](https://github.com/Mayara-tech)|
-
+| `3.0`  | 05/12/2023 | Correção de acordo com as verificações | [Milena Baruc](https://github.com/MilenaBaruc) | [nome](https://github.com/) |
