@@ -55,7 +55,7 @@ Na tabela 3, está verificado os principais léxicos que estão classificados co
 
 | **Símbolo** | **Tipo** | **Noção** | **Impacto** | **Dicionário** | **Autor** |
 |---------|------|--------|----------|------------|------------|
-| Cadastro positivo está inativo - (L01) | Estado | - O [condutor](#L02) autorizou participar voluntariamente no cadastro positivo </br> - Ocorre quando o condutor quebrou alguma regra do código de trânsito brasileiro  | - O [condutor](#L02) fica sem receber benefícios do Cadastro Positivo </br> - O cadastro só ficará ativo quando o condutor resolver a causa da situação | Cadastro positivo está desligado, Cadastro positivo está desativado|[Vinícius Mendes](https://github.com/yabamiah) | 
+| Cadastro positivo está inativo - (L01) | Estado | - O <a href="#L02">condutor</a> autorizou participar voluntariamente no cadastro positivo </br> - Ocorre quando o condutor quebrou alguma regra do código de trânsito brasileiro  | - O [condutor](#L02) fica sem receber benefícios do Cadastro Positivo </br> - O cadastro só ficará ativo quando o condutor resolver a causa da situação | Cadastro positivo está desligado, Cadastro positivo está desativado|[Vinícius Mendes](https://github.com/yabamiah) | 
 
 <font size="3"><p style="text-align: center"><b>Fonte:</b> Autor da descrição do léxico classificado como Estado, 2023</p></font>
 
