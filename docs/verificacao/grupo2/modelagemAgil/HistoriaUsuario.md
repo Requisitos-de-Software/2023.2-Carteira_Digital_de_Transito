@@ -43,6 +43,23 @@ Na tabela 2 podemos observar o checklist preenchido após verificação do artef
 
 **Tabela 2** - Checklist Preenchido 
 
+| ID | Descrição                                                                                                                      | Avaliação  | Observação                                                             |
+|----|--------------------------------------------------------------------------------------------------------------------------------|------------|------------------------------------------------------------------------|
+| 1  | O artefato possui Introdução?                                                                                                  | Conforme   | -                                                                      |
+| 2  | O artefato possui a metodologia utilizada?                                                                    		      | Conforme   | -                                                                      |
+| 3  | O artefato possui bibliografia/referências bibliográficas?                                                                     | Conforme   | -                                                                      |
+| 4  | O artefato possui um histórico de versões com o id e descrição das versões, data, autores e revisores?                         | Conforme   | -                                                                      |
+| 5  | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes?                                                   | Conforme   | -                                                                      |
+| 6  | Todos os textos estão na norma padrão?                                       						      | Conforme   | -                                                                      |
+| 7  | Os títulos das histórias de usuário são auto-explicativos?			      					      | Conforme   | -		|
+| 8  | O "quem", "o que" e o "por que" estão definidos na história de usuário?                                                        | Conforme   | -                                                                      |
+| 9  | A história possui critérios de aceitação?                                                                                      | Conforme   | -  								    |
+| 10 | Os critérios de aceitação das histórias foram definidos?                                                                       | Conforme   | -                                                                      |
+| 11 | Todas as histórias de usuário podem ser testadas?                                                             		      | Conforme   | -                                                                      |
+| 12  | Uma fonte de onde foram retiradas as histórias?					                              		      | Não Conforme| -  								    |
+| 13  | FAs histórias de usuário estão bem escritas, com linguagem clara e sem ambiguidades?       				      | Conforme   | -                                                                      |   
+| 14  | As histórias de usuário estão relacionadas aos requisitos funcionais e não funcionais do sistema? 		      	      | Incompleto | Estão no entanto os requisitos não são referenciados nas histórias, para pessoas que desconhecem o projeto pode ser difícil identificar. |
+| 15  | As histórias de usuário estão bem estruturadas, com uma introdução, descrição e critérios de aceitação claros? 	      	      |  Conforme   | -                                                                      | 
 
 
 Fonte: [Limirio Guimarães](https://github.com/LimirioGuimaraes)
@@ -52,7 +69,7 @@ Fonte: [Limirio Guimarães](https://github.com/LimirioGuimaraes)
 
 ## Sugestões de Melhorias
 
-
+Referenciar os requisitos aos quais as histórias se referem.
 
 ## Acompanhamento
 
@@ -62,7 +79,7 @@ A figura 1 apresenta um gráfico com o percentual de respostas sim, não, incomp
 
 **Figura 1** - Percentual das respostas obtidas na verificação 
 
-![Gráfico percentual de respostas](../../../assets/percentual_Avaliação1.PNG)
+![Gráfico percentual de respostas](../../../assets/pizza-hu.png)
 
 Fonte: [Limirio Guimarães](https://github.com/LimirioGuimaraes) 
 </center>
@@ -81,14 +98,14 @@ Fonte: [Limirio Guimarães](https://github.com/LimirioGuimaraes)
 
 Através dos checklists realizados podemos observar que:
 
-- 15/18  exigências são atendidas;
-- 1/18 exigências estão incompletas;
-- 2/18 exigências estão erradas ou não foram realizadas.
-- 0/18 não se aplica.
+- 13/15  exigências são atendidas;
+- 1/15 exigências estão incompletas;
+- 1/15 exigências estão erradas ou não foram realizadas.
+- 0/15 não se aplica.
 
-Onde 18 é a quantidade de itens avaliados na verificação.
+Onde 15 é a quantidade de itens avaliados na verificação.
 
-Portanto, com base no cálculo apresentado, pode-se dizer que o aproveitamento deste artefato está em 75%.
+Portanto, com base no cálculo apresentado, pode-se dizer que o aproveitamento deste artefato está em 83,37%.
 
 
 ## Retrabalho
@@ -120,6 +137,7 @@ Fonte: [Limirio Guimarães](https://github.com/LimirioGuimaraes)
 | Versão |    Data    |       Descrição      | Autor                |   Revisor   |
 | ------ | ---------- | -------------------- | ---------------------| ----------- |
 | `1.0`  | 27/11/2023 | Criação do Documento | [Limirio Guimarães](https://github.com/LimirioGuimaraes)| |
+| `1.1`  | 04/12/2023 | Criação do Documento | [Limirio Guimarães](https://github.com/LimirioGuimaraes)| |
 
 
 
