@@ -27,7 +27,7 @@ O princípio da circularidade é a propriedade dos léxicos convocarem entre si,
   
 <p align="center"><b>Tabela 02</b> - Template do LAL.</p>
 
-| **Símbolo** | **Tipo** | **Noção** | **Impacto** | **Dicionário** |
+| **Símbolo** | **Tipo** | **Noção** | **Impacto** | **Sinônimo** |
 |---------|------|--------|----------|------------|
 | Nome do léxico | Verbo/Objeto/Estado | Denotação do símbolo | Conotação do símbolo | Sinônimos |
 
@@ -43,8 +43,6 @@ A seguir, serão apresentados todas as descrições de léxicos identificados na
 - Léxico de Estado 
 - Léxico de Objeto
 - Léxico de Verbo
-   
-Os representamos em um template da Tabela 2.
 
 ## Estado
 
@@ -53,7 +51,7 @@ Na tabela 3, está verificado os principais léxicos que estão classificados co
 ### <a name=""></a>Tabela 03</b> - Léxicos classificados como:  "Estado"
 
 
-| **Símbolo** | **Tipo** | **Noção** | **Impacto** | **Dicionário** | **Autor** |
+| **Símbolo** | **Tipo** | **Noção** | **Impacto** | **Sinônimo** | **Autor** |
 |---------|------|--------|----------|------------|------------|
 | <a id="L01">Cadastro positivo está inativo - (L01)</a> | Estado | - O <a href="#L02">condutor</a> autorizou participar voluntariamente no cadastro positivo </br> - Ocorre quando o <a href="#L02">condutor</a> quebrou alguma regra do código de trânsito brasileiro  | - O <a href="#L02">condutor</a> fica sem receber benefícios do Cadastro Positivo </br> - O cadastro só ficará ativo quando o <a href="#L02">condutor</a> resolver a causa da situação | Cadastro positivo está desligado, Cadastro positivo está desativado|[Vinícius Mendes](https://github.com/yabamiah) | 
 
@@ -65,7 +63,7 @@ Na tabela 4, está verificado os principais léxicos que estão classificados co
 
 ### <a name=""></a>Tabela 04</b> - Léxicos classificados como:  "Objeto"
 
-| **Símbolo** | **Tipo** | **Noção** | **Impacto** | **Dicionário** | **Autor** |
+| **Símbolo** | **Tipo** | **Noção** | **Impacto** | **Sinônimo** | **Autor** |
 |---------|------|--------|----------|------------|------------|
 |<a id="L02"> Condutor (Usuário) - (L02)</a> | Objeto | - Pessoa que conduz um automóvel </br> - Responsável pelo veículo </br> - Responsável pelas <a href="#L03">infrações</a> </br> - <a href="#L02">Condutor</a> pode ser alguém que queira visualizar sua CNH digital </br> - O <a href="#L02">condutor</a> pode ser alguém que queira visualizar a CRLV digital | - O <a href="#L02">condutor</a> pode baixar sua CNH digital </br> - O <a href="#L02">condutor</a> pode visualizar seu histórico de emissões da CNH  </br> - O <a href="#L02">condutor</a> pode adicionar os seus veículos </br> - O <a href="#L02">condutor</a> pode consultar as suas <a href="#L03">infrações</a> | Motorista, volante, guia, piloto | [Vinícius Mendes](https://github.com/yabamiah) | 
 | <a id="L03">Infração - (L03)</a> | Objeto | - Violação de alguma lei de trânsito </br> - A infração é visualizada pelo <a href="#L02">condutor</a> | - O <a href="#L02">condutor</a> pode visualizar as infrações cometidas filtrando infrator ou veículo </br> - O <a href="#L02">condutor</a> pode visualizar a situação da infração </br> - O <a href="#L02">condutor</a> pode visualizar o motivo da infração </br> - O <a href="#L02">condutor</a> pode consultar o valor da infração a ser paga| Desobediência, Violação |[Luis Miranda](https://github.com/LuisMiranda10) |
@@ -81,7 +79,7 @@ Na tabela 5, está verificado os principais léxicos que estão classificados co
 
 ### <a name="">Tabela 05</a> - Léxicos classificados como:  "Verbo"
 
-| **Símbolo** | **Tipo** | **Noção** | **Impacto** | **Dicionário** | **Autor** |
+| **Símbolo** | **Tipo** | **Noção** | **Impacto** | **Sinônimo** | **Autor** |
 |---------|------|--------|----------|------------|------------|
 | <a id="L07">Cadastrar CNH - (L07)</a> | Verbo | - Tarefa realizada pelo <a href="#L02">condutor</a> </br> - Acontece quando o <a href="#L02">condutor</a> precisa visualizar sua CNH pela primeira vez </br> - <a href="#L02">condutor</a> valida o cadastro com uma foto de sua CNH  | - O <a href="#L02">condutor</a> consegue visualizar a sua CNH  | Registrar CNH, Inscrever CNH, Fichar CNH | [Vinícius Mendes](https://github.com/yabamiah) | 
 |<a id="L08"> Consultar infrações - (L08)</a> | Verbo | - Tarefa realizada pelo <a href="#L02">condutor</a> </br> - Acontece quando o <a href="#L02">condutor</a> quer visualizar alguma [infrações](#L03) </br> - <a href="#L02">condutor</a> pode escolher consultar <a href="#L03">infrações</a> por condutor ou por veículo </br> - O sistema divide as <a href="#L03">infrações</a> em categorias de vencidas, a vencer e pagas | - O <a href="#L02">condutor</a> consegue verificar <a href="#L03">infrações</a> vencidas e as não pagas </br> - O <a href="#L02">condutor</a> pode visualizar uma <a href="#L03">infrações</a> </br> - O sistema pode gerar o boleto da <a href="#L03">infrações</a> </br> - O sistema pode gerar PDF da <a href="#L03">infrações</a> |  Examinar infrações, Estudar infrações, Ler infrações| [Vinícius Mendes](https://github.com/yabamiah) | 
