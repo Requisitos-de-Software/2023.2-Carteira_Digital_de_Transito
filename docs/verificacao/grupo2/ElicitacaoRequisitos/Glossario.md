@@ -41,7 +41,21 @@ Na tabela 2 podemos observar o checklist preenchido após verificação do artef
 
 **Tabela 2** - Checklist Preenchido 
 
-
+| ID | Descrição                                                                                                                      | Avaliação  | Observação                                                             |
+|----|--------------------------------------------------------------------------------------------------------------------------------|------------|------------------------------------------------------------------------|
+| 1  | O artefato possui Introdução?                                                                                                  | Conforme   | -                                                                      |
+| 2  | O artefato possui a metodologia utilizada?                                                                    		      | Conforme   | -                                                                      |
+| 3  | O artefato possui bibliografia/referências bibliográficas?                                                                     | Conforme   | -                                                                      |
+| 4  | O artefato possui um histórico de versões com o id e descrição das versões, data, autores e revisores?                         | Conforme   | -                                                                      |
+| 5  | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes?                                                   | Conforme   | -                                                                      |
+| 6  | Todos os textos estão na norma padrão?                                       						      | Incompleto | A tabela 2 não é chamada no texto.                              |
+| 7  | Um cronograma (data e horário) e local para realização da elicitação dos requisitos com os envolvidos?			      | Não Conforme| - 									    |
+| 8  | A gravação e o(s) registro(s) da atividade de elicitação dos requisitos?                                                       | Não Conforme| Mesmo não uma técnica que tem participação direta de usuário um vídeo agregaria.|
+| 9  | Está especificado o papel de cada participante?                                                                                | Incompleto | Não está explicito no texto, mas pelo histórico de versões pode-se deduzir.|
+| 10 | Os requisitos elicitados estão identificados por IDs?	                                                                      | Conforme | -                                                                      |
+| 11 | Os requisitos foram qualificados em funcionais e não funcionais?	                                                              | Conforme   | -                                                                      |
+| 12  | O glossário foi bem definido?									                              | Conforme   | -  								    |
+| 13  | Foi explicado o que cada termo significa dentro do aplicativo?								      | Conforme   | -  								    |
 
 Fonte: [Limirio Guimarães](https://github.com/LimirioGuimaraes)
 
@@ -50,7 +64,7 @@ Fonte: [Limirio Guimarães](https://github.com/LimirioGuimaraes)
 
 ## Sugestões de Melhorias
 
-
+Mesmo não uma técnica que tem participação direta de usuário um vídeo agregaria.
 
 ## Acompanhamento
 
@@ -60,7 +74,7 @@ A figura 1 apresenta um gráfico com o percentual de respostas sim, não, incomp
 
 **Figura 1** - Percentual das respostas obtidas na verificação 
 
-![Gráfico percentual de respostas](../../../assets/percentual_Avaliação1.PNG)
+![Gráfico percentual de respostas](../../../assets/pizza-glossario.png)
 
 Fonte: [Limirio Guimarães](https://github.com/LimirioGuimaraes) 
 </center>
@@ -79,14 +93,14 @@ Fonte: [Limirio Guimarães](https://github.com/LimirioGuimaraes)
 
 Através dos checklists realizados podemos observar que:
 
-- 15/18  exigências são atendidas;
-- 1/18 exigências estão incompletas;
-- 2/18 exigências estão erradas ou não foram realizadas.
-- 0/18 não se aplica.
+- 9/13 exigências são atendidas;
+- 2/13 exigências estão incompletas;
+- 2/13 exigências estão erradas ou não foram realizadas.
+- 0/13 não se aplica.
 
-Onde 18 é a quantidade de itens avaliados na verificação.
+Onde 13 é a quantidade de itens avaliados na verificação.
 
-Portanto, com base no cálculo apresentado, pode-se dizer que o aproveitamento deste artefato está em 75%.
+Portanto, com base no cálculo apresentado, pode-se dizer que o aproveitamento deste artefato está em 61,52%.
 
 
 ## Retrabalho
@@ -118,4 +132,5 @@ Fonte: [Limirio Guimarães](https://github.com/LimirioGuimaraes)
 | Versão |    Data    |       Descrição      | Autor                |   Revisor   |
 | ------ | ---------- | -------------------- | ---------------------| ----------- |
 | `1.0`  | 27/11/2023 | Criação do Documento | [Limirio Guimarães](https://github.com/LimirioGuimaraes)| |
+| `1.1`  | 04/12/2023 | Adicionado Desenvolvimento | [Limirio Guimarães](https://github.com/LimirioGuimaraes)| |
 
