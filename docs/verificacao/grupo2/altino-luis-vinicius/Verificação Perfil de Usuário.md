@@ -2,7 +2,7 @@
 
 ## Introdução
 
-Este documento é uma verificação do artefato [Perfil de Usuário](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/elicita%C3%A7%C3%A3o/PerfildeUsuario/PerfilUsuario/) na versão 1.7 de data 20/11/2023, autorado por [Vinícius Mendes](https://github.com/yabamiah), que é integrante do [grupo 02](https://github.com/Requisitos-de-Software/2023.2-Carteira_Digital_de_Transito), cujo projeto tem como foco o [Aplicativo Carteira Digital de Trânsito](https://play.google.com/store/apps/details?id=br.gov.serpro.cnhe&hl=pt_BR&gl=US), o propósito desta verificação é identificar possíveis problemas no artefato.
+Este documento é uma verificação do artefato [Perfil de Usuário](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/elicita%C3%A7%C3%A3o/PerfildeUsuario/PerfilUsuario/) na versão 1.7 de data 20/11/2023, autorado por [Mayara Alves](https://github.com/Mayara-tech), que é integrante do [grupo 02](https://github.com/Requisitos-de-Software/2023.2-Carteira_Digital_de_Transito), cujo projeto tem como foco o [Aplicativo Carteira Digital de Trânsito](https://play.google.com/store/apps/details?id=br.gov.serpro.cnhe&hl=pt_BR&gl=US), o propósito desta verificação é identificar possíveis problemas no artefato.
 
 ## Metodologia
 
@@ -87,6 +87,22 @@ De acorda com a inspeção feita, foi possível encontrar algumas possíveis mel
 - **ID03 e ID08**: Poderia ter colocado uma linkagem para as técnicas utilizadas
 - **ID02**: Não foi apresentado 
 - **ID08**: Para não causar ambiguidade, deve ser descrito que foi utilizado a técnica de análise documental na seção "Definição do Perfil de Usuário"
+
+## Acompanhamento
+Logo abaixo, será apresentado as **Figuras 1 e 2**, que irão representar o porcentual de aproveitamento dos checklists, utilizando como o parâmetro "Sim", "Não" e "Não aplicável".
+
+## Porcentual de aproveitamento do Checklist geral
+
+**Figura 1** - Gráfico de setores do porcentual de aproveitamento do checklist geral
+![Untitled design (1).png](../../../assets/Untitleddesign(1).png)
+
+Fonte: [Vinícius Mendes](https://github.com/yabamiah)
+### Porcentual de aproveitamento do Checklist específico
+
+**Figura 2** - Gráfico de setores do porcentual de aproveitamento do checklist específico
+![Untitled design 2.png](../../../assets/Untitleddesign2.png)
+
+Fonte: [Vinícius Mendes](https://github.com/yabamiah)
 
 ## Referência Bibliográfica
 > Carteira Digital de Trânsito. Requisitos de Software. Distrito Federal, 2023. Disponível em: https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/. Acesso em: 02/12/2023
