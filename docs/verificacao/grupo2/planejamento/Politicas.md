@@ -34,7 +34,7 @@ Fonte: [Mayara Alves](https://github.com/Mayara-tech)
 
 ## Desenvolvimento 
 
-Na tabela 2 podemos observar o checklist preenchido após verificação do artefato políticas. Este checklist, minuciosamente preenchido, reflete os resultados, observações e considerações resultantes da análise realizada no artefato.
+Na tabela 2 podemos observar o checklist preenchido após verificação do artefato políticas, a gravação da verificação do artefato esta disponivel neste [link](https://youtu.be/oXwDZap_4eo). Este checklist, minuciosamente preenchido, reflete os resultados, observações e considerações resultantes da análise realizada no artefato.
 
 <center>
 
@@ -42,19 +42,19 @@ Na tabela 2 podemos observar o checklist preenchido após verificação do artef
 
 | ID | Descrição                                                                                                                      | Avaliação  | Observação                                                             |
 |----|--------------------------------------------------------------------------------------------------------------------------------|------------|------------------------------------------------------------------------|
-| 1  | O artefato possui Introdução?                                                                                                  | -          | -       |
-| 2  | O artefato possui a metodologia utilizada?                                                                    		      | -          | -    |
-| 3  | O artefato possui bibliografia/referências bibliográficas?                                                                     | -          | -  |
-| 4  | O artefato possui um histórico de versões com o id e descrição das versões, data, autores e revisores?                         | -          | -    |
-| 5  | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes?                                                   | -          | -         |
-| 6  | Todos os textos estão na norma padrão?                                       						      | -          | -            |
-| 7  | As políticas são expressas de maneira clara e compreensível para todos os membros da equipe?                                                 | -          | -       |
-| 8  | As políticas estão alinhadas com os objetivos do projeto e da equipe de desenvolvimento?                                      		      | -          | -    |
-| 9  | As políticas estão acessíveis a todos os membros da equipe e são facilmente localizáveis?                                                                     | -          | -  |
-| 10  | Cada política define claramente as responsabilidades dos membros da equipe em relação à sua implementação?           | -          | -    |
-| 11 | As políticas incentivam a colaboração entre os membros da equipe?                                       | -          | -         |
-| 12 | As políticas foram avaliadas quanto ao seu impacto na organização, qualidade do projeto e eficiência do desenvolvimento?           | -          | -            |
-| 13 | Existem uma instrução em relação ao uso das políticas                      		      | -          | -    |
+| 1  | O artefato possui Introdução?                                                                                                  | Sim        | -       |
+| 2  | O artefato possui a metodologia utilizada?                                                                    		      | Não          | O artefato não especifica como foi feita a escolha e construção das políticas   |
+| 3  | O artefato possui bibliografia/referências bibliográficas?                                                                     | Sim         | -  |
+| 4  | O artefato possui um histórico de versões com o id e descrição das versões, data, autores e revisores?                         | Sim        | -    |
+| 5  | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes?                                                   | Sim         | -         |
+| 6  | Todos os textos estão na norma padrão?                                       						      | Sim         | -            |
+| 7  | As políticas são expressas de maneira clara e compreensível para todos os membros da equipe?                                                 | Sim         | -       |
+| 8  | As políticas estão alinhadas com os objetivos do projeto e da equipe de desenvolvimento?                                      		      | Sim         | -    |
+| 9  | As políticas estão acessíveis a todos os membros da equipe e são facilmente localizáveis?                                                                     | Sim         | -  |
+| 10  | Cada política define claramente as responsabilidades dos membros da equipe em relação à sua implementação?           | Não          | Não foi especificado o papel de cada membro da equipe dentro das politicas    |
+| 11 | As políticas incentivam a colaboração entre os membros da equipe?                                       | Sim        | -         |
+| 12 | As políticas foram avaliadas quanto ao seu impacto na organização, qualidade do projeto e eficiência do desenvolvimento?           | Sim         | -            |
+| 13 | Existem uma instrução em relação ao uso das políticas                      		      | Sim         | -    |
 
 Fonte: [Mayara Alves](https://github.com/Mayara-tech) 
 
@@ -71,7 +71,8 @@ De maneira geral o artefato apresenta uma boa qualidade, uma boa formatação e 
 
 | ID | Descrição do problema | Sugestão de melhoria |
 | --- | ---------------------| ---------------------- |
-|     |                      |                        | 
+|  02   |  O artefato não especifica como foi feita a escolha e construção das políticas                    |   É sugerido que seja feito a construção de uma metodologia explicando como foi construido e elaborado a politicas utilizadas pela equipe                    | 
+|  10   | Não foi especificado o papel de cada membro da equipe dentro das politicas               |   É sugerido que seja feito a distribuição do papel de cada membro da equipe dentro de cada política            | 
 
 Fonte: [Mayara Alves](https://github.com/Mayara-tech) 
 </center>
@@ -84,7 +85,7 @@ A figura 1 apresenta um gráfico com o percentual de respostas sim, não, incomp
 
 **Figura 1** - Percentual das respostas obtidas na verificação 
 
-![Gráfico percentual de respostas](../../../assets/percentual_Avaliação4.PNG)
+![Gráfico percentual de respostas](../../../assets/percentual_Avaliação_politicas.PNG)
 
 Fonte: [Mayara Alves](https://github.com/Mayara-tech) 
 </center>
@@ -102,14 +103,14 @@ Fonte: [Mayara Alves](https://github.com/Mayara-tech)
 
 Através dos checklists realizados podemos observar que:
 
-- 0/13  exigências são atendidas;
+- 11/13  exigências são atendidas;
 - 0/13 exigências estão incompletas;
-- 0/13 exigências estão erradas ou não foram realizadas.
+- 2/13 exigências estão erradas ou não foram realizadas.
 - 0/13 não se aplica.
 
 onde 13 é a quantidade de itens avaliados na verificação.
 
-Portanto, com base no cálculo apresentado, pode-se dizer que o aproveitamento deste artefato está em %.
+Portanto, com base no cálculo apresentado, pode-se dizer que o aproveitamento deste artefato está em 69,23%.
 
 
 ## Retrabalho
@@ -122,8 +123,8 @@ Como proposto por Fagan, para o retrabalho o autor do artefato [Breno Queiroz](h
 
 | Data de Correção | Descrição                                                                             |                Responsável(eis)                |                 Revisor(es)                 |      Status      |
 | :--------------: | :------------------------------------------------------------------------------------ | :--------------------------------------------: | :-----------------------------------------: | :--------------: |
-|    30/11/2023    |               |  [Breno Queiroz](https://github.com/Brenob6)  | [Mayara Alves](https://github.com/Mayara-tech) |  |
-|    30/11/2023    |  | [Breno Queiroz](https://github.com/Brenob6) | [Mayara Alves](https://github.com/Mayara-tech) |  |
+|    05/12/2023    | Construção da  metodologia               |  [Breno Queiroz](https://github.com/Brenob6)  | [Mayara Alves](https://github.com/Mayara-tech) |  |
+|    05/12/2023    | distribuição do papel de cada membro da equipe dentro de cada política  | [Breno Queiroz](https://github.com/Brenob6) | [Mayara Alves](https://github.com/Mayara-tech) |  |
 
 
 Fonte: [Mayara Alves](https://github.com/Mayara-tech) 
