@@ -74,11 +74,11 @@ Na tabela 3 e 4 podemos observar o checklist preenchido após verificação do a
 
 </center>
 
-## Verificação Individual
+## Inspeção Individual
 
-Na tabela 5 podemos ver o link da gravação da verificação feita no artefato.
+Na tabela 5 podemos ver o link da gravação da inspeção feita no artefato.
 
-**Tabela 5** - Cronograma de verificação
+**Tabela 5** - Cronograma de inspeção
 
 | Participantes | Data | Horário |
 |--------------|-------|---------|
