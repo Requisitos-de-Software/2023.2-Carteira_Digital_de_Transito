@@ -77,7 +77,7 @@ Desta forma temos os seguintes resultados obtidos a partir da avaliação do pro
 >
 > BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador. Editora Elsevier, Rio de Janeiro, 2010.
 
-## Histórico de Versões
+## 📑 Histórico de Versões
 
 | Versão | Data       | Descrição            |                       Autor                        |                     Revisor                      |
 | :----: | ---------- | -------------------- | :------------------------------------------------: | :----------------------------------------------: |
