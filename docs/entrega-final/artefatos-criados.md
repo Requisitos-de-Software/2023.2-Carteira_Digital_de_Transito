@@ -10,7 +10,7 @@ A **Tabela 01** abrange os artefatos produzidos durante a fase de planejamento.
 
 <center> 
 
-Tabela 1: Planejamento<br/>
+Tabela 01: Planejamento<br/>
 
 | 			Artefato 			|	 Descrição 	| 				Autor(es)	 			| 				Revisor(es)				|
 | ----------------------------------------------------- | --------------------- | --------------------------------------------------------------------- | --------------------------------------------------------------------- |
@@ -29,7 +29,7 @@ A **Tabela 02** abrange o primeiro artefato de pré-rastreabilidade confeccionad
 
 <center> 
 
-Tabela 2: Pré-rastreabilidade<br/>
+Tabela 02: Pré-rastreabilidade<br/>
 
 | 			Artefato 			|	 Descrição 	| 				Autor(es)	 			| 				Revisor(es)				|
 | ----------------------------------------------------- | --------------------- | --------------------------------------------------------------------- | --------------------------------------------------------------------- |
@@ -43,7 +43,7 @@ A **Tabela 03** abrange os artefatos criados durante a etapa de elicitação de 
 
 <center> 
 
-Tabela 3: Artefatos criados durante a etapa de elicitação de requisitos<br/>
+Tabela 03: Artefatos criados durante a etapa de elicitação de requisitos<br/>
 
 | 			Artefato 			|	 Descrição 	| 				Autor(es)	 			| 				Revisor(es)				|
 | ----------------------------------------------------- | --------------------- | --------------------------------------------------------------------- | --------------------------------------------------------------------- |
@@ -72,7 +72,7 @@ A **Tabela 04** abrange os artefatos relacionados a modelagem de requisitos.
 
 <center> 
 
-Tabela 4: Modelagem<br/>
+Tabela 04: Modelagem<br/>
 
 | 			Artefato 			|	 Descrição 	| 				Autor(es)	 			| 				Revisor(es)				|
 | ----------------------------------------------------- | --------------------- | --------------------------------------------------------------------- | --------------------------------------------------------------------- |
@@ -89,6 +89,27 @@ Fonte: [Limirio Guimarães](https://github.com/LimirioGuimaraes)
 
 </center>
 
+As **Tabelas 05** e **06** abarcam as verificações dos artefatos realizadas pelo nosso grupo. A Tabela 05 consolida a verificação dos artefatos do Grupo 03, enquanto a Tabela 06 exibe os artefatos provenientes do nosso próprio grupo.
+
+<center> 
+
+Tabela 05: Verificação Dos artefatos do grupo 03<br/>
+
+| 			Artefato 			|	 Descrição 	| 				Autor(es)	 			| 				Revisor(es)				|
+| ----------------------------------------------------- | --------------------- | --------------------------------------------------------------------- | --------------------------------------------------------------------- |
+|[Rich Picture](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/pré-rastreabilidade/rich%20picture/)|Ferramenta visual para expressar ideias e analisar problemas.| [Milena Baruc](https://github.com/MilenaBaruc)|[Limírio Guimarães](https://github.com/LimirioGuimaraes) e [Mayara Alves](https://github.com/Mayara-tech)|
+
+Fonte: [Limirio Guimarães](https://github.com/LimirioGuimaraes)
+
+Tabela 06: Verificação Dos artefatos do grupo 03<br/>
+
+| 			Artefato 			|	 Descrição 	| 				Autor(es)	 			| 				Revisor(es)				|
+| ----------------------------------------------------- | --------------------- | --------------------------------------------------------------------- | --------------------------------------------------------------------- |
+|[Rich Picture](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/pré-rastreabilidade/rich%20picture/)|Ferramenta visual para expressar ideias e analisar problemas.| [Milena Baruc](https://github.com/MilenaBaruc)|[Limírio Guimarães](https://github.com/LimirioGuimaraes) e [Mayara Alves](https://github.com/Mayara-tech)|
+
+Fonte: [Limirio Guimarães](https://github.com/LimirioGuimaraes)
+
+</center>
 
 ## Conclusão
 
