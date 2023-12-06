@@ -36,9 +36,9 @@ na qual toda a dinâmica do Three Level Scale foi explicada e a usuário categor
 Fonte: [Mayara Alves](https://github.com/Mayara-tech) 
 </center>
 
-Para a priorização foram escolhidos apenas alguns requisitos elicitados, que coincidiam com o entendimento do usuário e que facilitariam o entendimento do usuário na priorização também foi levado em consideração a dependência entre os requisitos. A tabela 2 apresentam os resultados dessa priorização.
-
 ## Requisitos priorizados
+
+Para a priorização foram escolhidos apenas alguns requisitos elicitados, que coincidiam com o entendimento do usuário e que facilitariam o entendimento do usuário na priorização também foi levado em consideração a dependência entre os requisitos. A tabela 2 apresentam os resultados dessa priorização.
 
 Legenda das tabelas: 
 
