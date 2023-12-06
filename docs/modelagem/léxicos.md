@@ -99,5 +99,5 @@ Na tabela 5, está verificado os principais léxicos que estão classificados co
 |--------|------|------------|--------|--------|
 |`1.0` | 20/10/2023 | Criação da página de Léxicos | [Vinícius Mendes](https://github.com/yabamiah) e [Luis Miranda](https://github.com/LuisMiranda10) |[Breno Queiroz](https://github.com/brenob6) |
 |`1.1` | 22/10/2023 | Modificação na tabela de Léxicos | [Vinícius Mendes](https://github.com/yabamiah) e [Luis Miranda](https://github.com/LuisMiranda10) |[Breno Queiroz](https://github.com/brenob6)|
-|`1.2` | 13/11/2023 | Atualizando a tabela de Léxicos | [Vinícius Mendes](https://github.com/yabamiah)  | [Luis Miranda](https://github.com/LuisMiranda10) |
-|`1.3` | 05/12/2023 | Correção da página de Léxicos | [Luis Miranda](https://github.com/LuisMiranda10)  |  |
+|`1.2` | 13/11/2023 | Atualizando a tabela de Léxicos | [Vinícius Mendes](https://github.com/yabamiah)  | [Luis Miranda](https://github.com/LuisMiranda10) | [Breno Queiroz](https://github.com/brenob6) |
+|`1.3` | 05/12/2023 | Correção da página de Léxicos | [Luis Miranda](https://github.com/LuisMiranda10)  | [Breno Queiroz](https://github.com/brenob6) |
