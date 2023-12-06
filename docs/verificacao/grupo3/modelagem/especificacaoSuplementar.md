@@ -84,4 +84,4 @@ Web Content Accessibility Guidelines (WCAG).
 
 | Versão | Data         | Descrição             | Autor                                         | Revisor                   |
 | ------ | ----         | ---------             | -----                                         | -------                   |
-| `1.0`  | 12/11/2023   | Criação do documento  | [Breno Queiroz](https://github.com/brenob6)   | [](https://github.com/)   |
+| `1.0`  | 12/11/2023   | Criação do documento  | [Breno Queiroz](https://github.com/brenob6)   | [Limírio Guimarães](https://github.com/LimirioGuimaraes)   |
