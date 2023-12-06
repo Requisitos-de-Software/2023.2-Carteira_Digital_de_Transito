@@ -99,7 +99,7 @@ A próxima reunião ficou marcada para o dia 25/10/2023, às 22:00.
 
 </center>
 
-## Histórico de versão
+## 📑 Histórico de versão
 
 | Versão | Data      | Descrição | Autor | Revisor |
 | :-:    | :-----:   | :------   | ----  | ------- |
