@@ -93,11 +93,11 @@ nav:
     - Grupo 2:
       - Planejamento da verificação: verificacao/grupo2/planejamendoDaVerificacao.md 
       - Planejamento:
-        - Aplicativo Selecionado: verificacao/grupo2/altino-luis-vinicius/AplicativoSelecionado.md
+        - Aplicativo Selecionado: verificacao/grupo2/planejamento/AplicativoSelecionado.md
         - Ferramentas: 
           - Inspecao: verificacao/grupo2/ferramentas/inspecao.md
           - Verificação: verificacao/grupo2/ferramentas/verificacao.md
-        - Heatmap: verificacao/grupo2/altino-luis-vinicius/Heatmap.md
+        - Heatmap: verificacao/grupo2/planejamento/Heatmap.md
         - Metodologia: verificacao/grupo2/planejamento/Metodologia.md
         - Políticas: verificacao/grupo2/planejamento/Politicas.md
         - Cronograma: verificacao/grupo2/planejamento/cronograma.md
@@ -157,4 +157,5 @@ nav:
         - NFR Framework: verificacao/grupo3/modelagem/agil/nfr.md
   - Validação:
     - Agendamento de serviço: Validacao/Prototipo_alta_fidelidade/Agendamento.md
-
+  - Entrega Final:
+    - Sintese das Verificações: entrega-final/sintese-verificacoes.md
