@@ -221,7 +221,11 @@ Abaixo, é mostrado na tabela 7 os partipantes que estiverem presente na gravaç
  Fonte: [Luis Miranda](https://github.com/LuisMiranda10.png)
 </details>
 
+## Histórico de Versões
 
+| **Versão** | **Data** | **Descrição** | **Autor** | **Revisor** |
+|--------|------|------------|--------|--------|
+|`1.0` | 20/10/2023 | Criação da página da Tabela de Apresentações| [Luis Miranda](https://github.com/LuisMiranda10) | |
 
 
 
