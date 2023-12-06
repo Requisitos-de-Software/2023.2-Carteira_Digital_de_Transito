@@ -70,8 +70,11 @@ As verificação seguira
 
     | Artefato | Autor | Revisor |
     |---|---|---|
-    | Léxicos | Mayara Alves | Breno Queiroz |
-    | História de Usuário |
+    | [Léxicos](../../verificacao/grupo2/modelagem/lexicos) | Mayara Alves | Breno Queiroz |
+    | [Cenários](../../verificacao/grupo2/modelagem/Cenário)| Vinícius Mendes |
+    | [Caso de Uso]() |
+    | [Especificação Suplementar](../../verificacao/grupo2/modelagem/especificaçãoSuplementar) | Milena Baruc | Luis Miranda |
+    | [História de Usuário](../../verificacao/grupo2/modelagem/HistoriaUsuario) | Limirio Guimarães | Breno Queiroz |
 
     **Fonte**: [Breno Queiroz](https://github.com/brenob6)
 
