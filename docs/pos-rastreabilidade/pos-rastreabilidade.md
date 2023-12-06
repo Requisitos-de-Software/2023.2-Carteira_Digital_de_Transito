@@ -550,13 +550,13 @@ Fonte: [Limirio Guimarães](https://github.com/LimirioGuimaraes).
 > KLAUS POHL, CHRIS RUPP. Requirements Engineering Fundamentals.<br/>
 > REQUISITOS DE SOFTWARE. Bilheteria Digital. Distrito Federal, 2023. Disponível em: <https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/>. Acesso em: 17/11/2023.
 
-## Histórico de Versões
+## 📑 Histórico de Versões
 |Versão|Data|Descrição|Autor|Revisor|
 |:----:|----|---------|-----|:-------:|
-|`1.0`|16/11/2023|Criação do documento|[Limirio Guimarães](https://github.com/LimirioGuimaraes) | | 
-|`1.1`|18/11/2023|Adicionada tabela dos requisitos RF4, RF10, RNF3, RNF7, RNF8 e RNF10 |[Limirio Guimarães](https://github.com/LimirioGuimaraes) | | 
-|`1.1`|18/11/2023|Adicionada tabela dos requisitos RF6, RF11, RNF1, RF20, RF12, RNF4 | [Luis Miranda](https://github.com/LuisMiranda10) | |
-|`1.2`|20/11/2023|Adicionada tabela dos requisitos RF28, RF30, RF31, RF24, RF26 | [Milena Baruc](https://github.com/MilenaBaruc) | |
-|`1.3`|20/11/2023|Adicionada tabela dos requisitos RF13, RF9, RF19, RF17, RF18, RNF09 | [Vinícius Mendes](https://github.com/yabamiah) | |
-|`1.3`|20/11/2023|Adicionada tabela dos requisitos RF05, RF14, RF21, RF22, RF29 | [Mayara Alves](https://github.com/Mayara-tech) | |
+|`1.0`|16/11/2023|Criação do documento|[Limirio Guimarães](https://github.com/LimirioGuimaraes) | [Mayara Alves](https://github.com/Mayara-tech) | 
+|`1.1`|18/11/2023|Adicionada tabela dos requisitos RF4, RF10, RNF3, RNF7, RNF8 e RNF10 |[Limirio Guimarães](https://github.com/LimirioGuimaraes) | [Mayara Alves](https://github.com/Mayara-tech) | 
+|`1.1`|18/11/2023|Adicionada tabela dos requisitos RF6, RF11, RNF1, RF20, RF12, RNF4 | [Luis Miranda](https://github.com/LuisMiranda10) | [Limirio Guimarães](https://github.com/LimirioGuimaraes) |
+|`1.2`|20/11/2023|Adicionada tabela dos requisitos RF28, RF30, RF31, RF24, RF26 | [Milena Baruc](https://github.com/MilenaBaruc) | [Limirio Guimarães](https://github.com/LimirioGuimaraes) |
+|`1.3`|20/11/2023|Adicionada tabela dos requisitos RF13, RF9, RF19, RF17, RF18, RNF09 | [Vinícius Mendes](https://github.com/yabamiah) | [Limirio Guimarães](https://github.com/LimirioGuimaraes) |
+|`1.3`|20/11/2023|Adicionada tabela dos requisitos RF05, RF14, RF21, RF22, RF29 | [Mayara Alves](https://github.com/Mayara-tech) | [Limirio Guimarães](https://github.com/LimirioGuimaraes) |
  
