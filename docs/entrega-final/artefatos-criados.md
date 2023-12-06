@@ -172,7 +172,11 @@ Tabela 02: Pré-rastreabilidade<br/>
 
 | 			Artefato 			|	 Descrição 	| 				Autor(es)	 			| 				Revisor(es)				|
 | ----------------------------------------------------- | --------------------- | --------------------------------------------------------------------- | --------------------------------------------------------------------- |
-|[Rich Picture](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/pré-rastreabilidade/rich%20picture/)|Ferramenta visual para expressar ideias e analisar problemas.| [Milena Baruc](https://github.com/MilenaBaruc)|[Limírio Guimarães](https://github.com/LimirioGuimaraes) e [Mayara Alves](https://github.com/Mayara-tech)|
+|[Matriz Geral](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/pos-rastreabilidade/matriz-geral/)|A matriz geral é um documento que permite a apresentação dos requisitos elicitados no projeto juntamente com sua pré e pós rastreabilidade.|[Limírio Guimarães](https://github.com/LimirioGuimaraes), [Luis Eduardo](https://github.com/LuisMiranda10), [Mayara Alves](https://github.com/Mayara-tech), [Milena Baruc](https://github.com/MilenaBaruc), e [Vinicius Mendes](https://github.com/yabamiah) | [Breno Queiroz](https://github.com/brenob6), [Limírio Guimarães](https://github.com/LimirioGuimaraes) e [Vinicius Mendes](https://github.com/yabamiah) |
+|[Pós-Rastreabilidade](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/pos-rastreabilidade/pos-rastreabilidade/)|Este artefato objetiva realizar a conexão entre requisitos, arquitetura e implementação.|  [Limírio Guimarães](https://github.com/LimirioGuimaraes), [Luis Eduardo](https://github.com/LuisMiranda10), [Mayara Alves](https://github.com/Mayara-tech), [Milena Baruc](https://github.com/MilenaBaruc), e [Vinicius Mendes](https://github.com/yabamiah)| [Limírio Guimarães](https://github.com/LimirioGuimaraes) e [Mayara Alves](https://github.com/Mayara-tech) |
+|**Validação**|
+|[Protótipo de Alta Fidelidade - Realizar Agendamento de Serviços](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/Validacao/Prototipo_alta_fidelidade/Agendamento/)|Verificação do artefato.| [Mayara Alves](https://github.com/Mayara-tech) | [Limírio Guimarães](https://github.com/LimirioGuimaraes) |
+
 
 Fonte: [Limirio Guimarães](https://github.com/LimirioGuimaraes)
 
