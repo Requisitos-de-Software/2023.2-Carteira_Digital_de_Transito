@@ -75,4 +75,4 @@ Chamar as imagens e tabelas no texto. Existem alguns pequenos erros no gráficos
 
 | Versão | Data | Descrição | Autor | Revisor |
 |--------|------|------------|------|---------|
-| 1.0 | 13/11/2023 | Criação do documento |  [Breno Queiroz](https://github.com/brenob6) | [](https://github.com/) | 
+| 1.0 | 13/11/2023 | Criação do documento |  [Breno Queiroz](https://github.com/brenob6) | [Limírio Guimarães](https://github.com/LimirioGuimaraes) | 
