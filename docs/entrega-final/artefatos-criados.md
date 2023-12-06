@@ -6,6 +6,19 @@ Para registrar todos os itens feitos em cada fase do projeto, este documento vis
 
 ## Tabelas
 
+A **Tabela 01** abrange os artefatos produzidos durante a fase de planejamento.
+
+<center> 
+
+Tabela 1: Planejamento<br/>
+
+
+
+Fonte: [Limirio Guimarães](https://github.com/LimirioGuimaraes)
+
+</center>
+
+
 
 ## Conclusão
 
