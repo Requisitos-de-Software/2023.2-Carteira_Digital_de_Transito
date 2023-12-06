@@ -2,27 +2,36 @@
 
 ## Introdução
 
-Com o objetivo de facilitar o gerenciamento e a execução do projeto, realizou-se um levantamento de possíveis ferramentas com a intenção de agilizar determinadas atividades e a produção de artefatos. As ferramentas escolhidas para a realização do projeto estão apresentadas na Tabela 1. Todas essas ferramentas foram selecionadas com base nas utilizadas em projetos anteriores, como a Bilheteria Digital^1^ . Além disso, também utilizamos a experiência e os conhecimentos dos integrantes do grupo como referência na escolha.
+A escolha das ferramentas adequadas é essencial para o sucesso de projetos. Elas são vitais para aprimorar a eficiência e facilitar a comunicação e colaboração entre os membros da equipe. Este documento destaca o conjunto de ferramentas selecionadas para apoiar e otimizar nosso projeto, com base na experiência anterior dos membros em projetos como a Bilheteria Digital e o Banco Central do Brasil. Estas ferramentas foram escolhidas por sua capacidade de atender às necessidades atuais e futuras, integrando-se harmoniosamente ao nosso fluxo de trabalho.
 
-## Ferramentas Utilizadas
+Nossa meta é fornecer uma compreensão clara do propósito de cada ferramenta dentro do nosso ecossistema de trabalho e como elas se complementam, estabelecendo um padrão de trabalho produtivo e coeso.
 
-<font size="3"><p style="text-align: center"><b>Tabela 1</b> - Ferramentas Utilizadas no Projeto</p></font>
+## Metodologia
+
+A seleção das ferramentas foi um processo, fundamentado na experiência e no conhecimento coletivo da equipe. Seguimos um processo simplificado para identificar as necessidades do projeto, como comunicação, gestão de código, design, documentação e compartilhamento de arquivos. Levamos em consideração a eficácia comprovada das ferramentas em iniciativas anteriores e buscamos um consenso entre os membros da equipe para garantir uma escolha que refletisse nossas necessidades comuns.
+
+A seguir, a **Tabela 1** detalha as ferramentas que escolhemos para o projeto:
+
+## Ferramentas 
+
+<center>
+**Tabela 1** - Ferramentas Escolhidas 
 
 
-|                                                           |        Ferramenta         |                               Finalidade                                  |
-| :-------------------------------------------------------: | :-----------------------: | :--------------------------------------------------------------------:    |
-|![]( ../assets/teams.png){width=75x}           |           Teams           |        Realizar reuniões virtuais, compartilhar documentos e colaborar em tempo real, tornando a comunicação rápida e eficaz., juntamente com organização de documentos.        | 
-|![](../assets/github.png){width=75x}           |          GitHub           |        Controle de versão e colaboração em projetos, permitindo o rastreamento de mudanças nos artefatos do projeto e facilitando a revisão de código, tornando a colaboração eficiente e organizada.     |
-|![](../assets/figma.png){width=75x}            |           Figma           |        Design da interface de apresentação de resultados.                               |
-|![](../assets/mkdocs.png){width=75x}           |          MkDocs           |        Simplificar a criação, a organização e a manutenção da documentação do projeto de forma eficaz.               |
-|![](../assets/vscode.png){width=75x}           |    Visual Studio Code     |         Desenvolvimento de código/documentação e programação.                 |
-|![](../assets/whatsapp.png){width=75x}         |         WhatsApp          |         Comunicação da equipe por meio de mensagens diretas.                  |
-|![](../assets/youtube.jpg){width=75x}          |          YouTube          |         Hospedagem de vídeos de apresentações e reuniões.                     |
-|![](../assets/gdrive.png){width=75x}           |       Google Drive        |                     Compartilhamento de arquivos.                             |
-|![](../assets/thispersondoesntexist.png){width=75x}  | This Person Doesn't Exist |              Geração de imagens de personas fictícias.                  |
+| Ferramenta | Nome | Finalidade |
+|------------|------|------------|
+| ![](../assets/teams.png){width=75} | Microsoft Teams | Utilizado para reuniões virtuais, compartilhamento de documentos e colaboração em tempo real, promovendo comunicação rápida e eficaz. |
+| ![](../assets/github.png){width=75} | GitHub | Serve para controle de versão e colaboração em projetos, com rastreamento de alterações e revisão de código, facilitando a colaboração organizada. |
+| ![](../assets/figma.png){width=75} | Figma | Ferramenta de design para a criação e colaboração em UI/UX, usada na prototipação de alternativas de design para o site do projeto. |
+| ![](../assets/mkdocs.png){width=75} | MkDocs | Utilizado para simplificar a criação e manutenção de documentação de projetos de forma organizada e eficiente. |
+| ![](../assets/vscode.png){width=75} | Visual Studio Code | Editor de código para desenvolvimento e documentação, com suporte a extensões e integração com Git. |
+| ![](../assets/whatsapp.png){width=75} | WhatsApp | Plataforma de mensagens para comunicação rápida e direta entre membros da equipe. |
+| ![](../assets/youtube.jpg){width=75} | YouTube | Plataforma para hospedar vídeos de apresentações e reuniões do projeto. |
+| ![](../assets/gdrive.png){width=75} | Google Drive | Serviço de compartilhamento e armazenamento de arquivos, utilizado para distribuição de documentos e arquivos de mídia. |
+| ![](../assets/thispersondoesntexist.png){width=75} | This Person Does Not Exist | Geração de imagens de personas fictícias para prototipagem e demonstrações. |
 |![](../assets/canvas.jpg){width=75x}           | Canvas |              Criação de personas  e confecção do RichPicture, assim como possiveis elementos visuais necessários.    |
 
-<font size="3"><p style="text-align: center">Fonte: Autores do Grupo 2.</p></font>
+<font size="3"><p style="text-align: center">[Limírio Guimarães](https://github.com/LimirioGuimaraes) </p></font>
 
 ## Referência Bibliográficas
 
@@ -49,3 +58,4 @@ Com o objetivo de facilitar o gerenciamento e a execução do projeto, realizou-
 |  `1.0`  | 19/09/2023 |            Criação da página de ferramentas.            | [Limírio Guimarães](https://github.com/LimirioGuimaraes)  | [Mayara Alves](https://github.com/Mayara-tech) |
 |  `1.1`  | 27/09/2023 |            Melhor descrição do uso das ferramentas      | [Limírio Guimarães](https://github.com/LimirioGuimaraes)  | [Mayara Alves](https://github.com/Mayara-tech) |
 |  `1.2`  | 21/11/2023 |            Correção Verificação Grupo 01: O título do artefato está "quebrado"       | [Altino Arthur](https://github.com/arthurrochamoreira)  | [Mayara Alves](https://github.com/Mayara-tech) |
+|`2.0` | 05/12/2023 | Correção da página após verificação dos artefatos | [Limírio Guimarães](https://github.com/LimirioGuimaraes) | [Mayara Alves](https://github.com/Mayara-tech)|
