@@ -10,7 +10,7 @@ Para a realização do Heatmap, cada integrante do grupo preencheu uma tabela, a
 
 ![Heatmap](../assets/heatmap.png)
 
-Fonte: [Limirio Correia](https://github.com/LimirioGuimaraes)
+Fonte: [Limirio Guimarães](https://github.com/LimirioGuimaraes)
 
 ### Resultado
 Com base nos resultados analisados no heatmap, o grupo promoveu uma discussão a fim de alcançar um consenso sólido. Após cuidadosa deliberação, a equipe chegou a uma decisão unânime e estrategicamente ponderada: as reuniões serão agendadas para as **quintas-feiras às 21 horas** com duração esperada de até 1h30min. Essa escolha representa o compromisso coletivo com a otimização do nosso tempo e recursos, visando alcançar nossos objetivos de maneira eficaz e eficiente durante todas as etapas de desenvolvimento da disciplina. 
@@ -22,4 +22,4 @@ Com base nos resultados analisados no heatmap, o grupo promoveu uma discussão a
 
 Versão  |   Data   | Descrição | Autor(es) | Revisor(es)
 --------- | ------ | ------ | ---------- | ----------
-`1.0` | 27/09/2023| Criação do Heatmap |[Limirio Correia](https://github.com/LimirioGuimaraes)| [Altino Arthur](https://github.com/arthurrochamoreira), [Breno Queiroz](https://github.com/brenob6), [Limirio Correia](https://github.com/LimirioGuimaraes), [Luis Eduardo](https://github.com/LuisMiranda10), [Mayara Alves](https://github.com/Mayara-tech), [Milena Baruc](https://github.com/MilenaBaruc) e [Vinicius Mendes](https://github.com/yabamiah) 
+`1.0` | 27/09/2023| Criação do Heatmap |[Limirio Guimarães](https://github.com/LimirioGuimaraes)| [Altino Arthur](https://github.com/arthurrochamoreira), [Breno Queiroz](https://github.com/brenob6), [Luis Eduardo](https://github.com/LuisMiranda10), [Mayara Alves](https://github.com/Mayara-tech), [Milena Baruc](https://github.com/MilenaBaruc) e [Vinicius Mendes](https://github.com/yabamiah) 
