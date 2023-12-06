@@ -17,12 +17,12 @@ Na Tabela 1, tem-se o cronograma de entrega de todas as etapas do projeto.
 | 4                 | Modelagem de Requisitos | Modelagem de Requisitos: Ágil (Histórias de Usuário, Backlogs, NFRFramework) | 05/11/2023 | 06/11/2023 | 07/11/2023 | 06/11/2023 |
 | 5.1               | Análise de Requisitos | Análise de Requisitos: Verificação e Validação – Grupo + 1 | 12/11/2023 | 13/11/2023 | 14/11/2023 | 13/11/2023 |
 | 6                 | Pós-Rastreabilidade - Gerência II | Pós-Rastreabilidade - Gerência II | 19/11/2023 | 20/11/2023 | 21/11/2023 | 20/11/2023 |
-| 5.2               | Análise de Requisitos | Análise de Requisitos: Verificação e Validação II | 28/11/2023 | 29/11/2023 | 30/11/2023 | 29/11/2023 |
-
-
+| 5.2               | Análise de Requisitos | Análise de Requisitos: Verificação e Validação II | 04/12/2023* | 04/12/2023* | 05/12/2023* | 04/12/2023* |
 
 <font size="3"><p style="text-align: center">Fonte: [Mayara Alves](https://github.com/Mayara-tech).</p></font>
 
+- [*] Alteração na data de entrega.
+  
 ## Cronograma do Projeto
 
 ### Cronograma planejado entrega 1.
@@ -126,6 +126,7 @@ Na Tabela 6, tem-se o cronograma planejado para todas as atividades da terceira 
 | Gravar reunião                                 | 25/10/2023 | 25/10/2023 | Altino, Breno, Limírio, Luis, Mayara, Milena, Vinícius | Altino, Breno, Limírio, Luis, Mayara, Milena, Vinícius | 25/10/2023          |
 | Correção após a Entrega 3                     | 26/10/2023 | 29/10/2023 | Altino, Breno, Limírio, Luis, Mayara, Milena, Vinícius | Altino, Breno, Limírio, Luis, Mayara, Milena, Vinícius | 29/10/2023          |
 
+<font size="3"><p style="text-align: center">Fonte: [Mayara Alves](https://github.com/Mayara-tech).</p></font>
 
 ### Cronograma executado entrega 3.
 Na Tabela 7, tem-se o cronograma executado para todas as atividades da terceira entrega.
@@ -191,6 +192,26 @@ Na Tabela 10, tem-se o cronograma planejado para todas as atividades da entrega 
 | Correção após a Entrega 5.1                    | 14/11/2023 | 17/11/2023 | Altino, Breno, Limírio, Luis, Mayara, Milena, Vinícius | Altino, Breno, Limírio, Luis, Mayara, Milena, Vinícius | 17/11/2023          |
 
 Fonte: [Altino Arthur](https://github.com/arthurrochamoreira)
+
+
+### Cronograma executado entrega 5.1.
+
+Na Tabela 11, tem-se o cronograma executado para todas as atividades da entrega 5.1.
+
+<p align="center"><b>Tabela 11</b> - Cronograma executado da etapa 5.1 - Análise de Requisitos</p>
+
+| **Atividade**                                   | **Início** | **Fim**     | **Responsáveis**                        | **Revisores**                           | **Data de Revisão** |
+|-----------------------------------------------|------------|------------|-----------------------------------------|-----------------------------------------|---------------------|
+| Verificação Grupo 3 - Rich picture, Cronograma, Cenário e Three Level Scale | 07/11/2023 | 13/11/2023 | Mayara | Milena                               | 12/11/2023     |
+| Verificação Grupo 3 - Brainstorming, Introspecção, Observação e Questionário   | 07/11/2023 | 12/11/2023 | Limírio                               | Mayara                               | 12/11/2023          |
+| Verificação Grupo 3 - Personas, Léxicos, moscow e Casos de uso |  07/11/2023 | 12/11/2023 | Vinicius                       | Milena Baruc                              | 12/11/2023          |
+| Verificação Grupo 3 - Padronização do projeto, Ferramentas de uso, $100 e Introdução (priorização) | 07/11/2023 | 13/11/2023 | Milena | Mayara                              | 13/11/2023     |
+| Verificação Grupo 3 - Brainstorming, Introspecção, Observação e Questionário   | 07/11/2023 | 12/11/2023 | Limírio                               | Mayara                               | 12/11/2023          |
+| Verificação Grupo 3 - Aplicativo selecionado, Heatmap e Termos de Uso  |  07/11/2023 | 13/11/2023 | Luis                     | Milena Baruc                              | 13/11/2023       |
+| Verificação Grupo 3 - Especificação suplementar  |  07/11/2023 | 12/11/2023 | Breno                    | Mayara | 12/11/2023       |
+| Gravar reunião                                 | 13/11/2023 | 13/11/2023 | Mayara, Milena, Arthur, Altino         |                                         | 06/11/2023          |
+| Correção após a Entrega 5.1                    | 14/11/2023 | 17/11/2023 | Altino, Breno, Limírio, Luis, Mayara, Milena, Vinícius | Altino, Breno, Limírio, Luis, Mayara, Milena, Vinícius | 17/11/2023          |
+
 
 ### Cronograma planejado entrega 6.
 
