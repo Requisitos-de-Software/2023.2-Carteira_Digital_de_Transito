@@ -33,6 +33,8 @@ A seguir, a **Tabela 1** detalha as ferramentas que escolhemos para o projeto:
 
 <font size="3"><p style="text-align: center">[Limírio Guimarães](https://github.com/LimirioGuimaraes) </p></font>
 
+</center>
+
 ## Referência Bibliográficas
 
 > <a id=“RP2” href=“#TEC2”>1.</a> BILHETERIA DIGITAL. Requisitos de software. Distrito Federal, 2023. Disponível em: <https://github.com/Requisitos-de-Software/2023.1-BilheteriaDigital>. Acesso em: 06/10/2023.
