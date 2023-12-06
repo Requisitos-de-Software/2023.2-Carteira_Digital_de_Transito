@@ -1,4 +1,4 @@
-# Aplicativo 
+# Aplicativo selecionado
 
 ## Introdução
 
