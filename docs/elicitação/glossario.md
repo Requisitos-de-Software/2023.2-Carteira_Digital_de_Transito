@@ -65,4 +65,4 @@ Fonte: [Vinícius Mendes](https://github.com/yabamiah).
 |`1.1`| 07/09/2023 | Arrumando tabela de requisitos e adicionais mais informações| [Vinícius Mendes](https://github.com/yabamiah)| [Mayara Alves](https://github.com/Mayara-tech) |
 |`1.2`| 07/09/2023 | Arrumando a seção de metodologia | [Vinícius Mendes](https://github.com/yabamiah)| [Luís Miranda](https://github.com/LuisMiranda10) |
 |`1.3`| 22/10/2023| Atualizando req elicitados na Tabela 2 | [Vinícius Mendes](https://github.com/yabamiah) | [Mayara Alves](https://github.com/Mayara-tech) |
-|`2.0` | 05/10/2023 | Correção final do artefato | [Vinícius Mendes](htpps://github.com/yabamiah) | [Altino Arthur](https://github.com/arthurrochamoreira) | 
+|`2.0` | 05/10/2023 | Correção final do artefato |  [Vinícius Mendes](https://github.com/yabamiah) | [Altino Arthur](https://github.com/arthurrochamoreira) | 
