@@ -2,7 +2,8 @@
 
 ## Introdução
 
-A seleção de um aplicativo para a disciplina de requisitos é um processo estratégico que pode influenciar significativamente o sucesso do desenvolvimento dos artefatos durante a disciplina. Portanto, a abordagem adotada pela equipe, envolvendo a apresentação de candidatos e a revisão criteriosa, demonstra um compromisso com a qualidade e a eficiência do desenvolvimento da disciplina, visando atender às necessidades do projeto. 
+A seleção de um aplicativo para a disciplina de requisitos é um processo estratégico que pode influenciar significativamente o sucesso do desenvolvimento dos artefatos durante a disciplina. Portanto, a abordagem adotada pela equipe para escolha do aplicativo envolve a seleção de possiveis candidatos de acordo com os critérios de escolha e a revisão criteriosa com toda equipe para seleção do aplicativo escolhido, isso demonstra um compromisso com a qualidade e a eficiência do desenvolvimento da disciplina.
+
 
 ## Critérios de escolha 
 
@@ -29,7 +30,7 @@ A seleção de um aplicativo para a disciplina de requisitos é um processo estr
   
 ## Aplicativo escolhido 
 
-Com base nos critérios estabelecidos e orientação do professor sobre os aspectos que devem ser avaliados, o grupo optou por escolher o aplicativo da carteira digital de trânsito para o estudo ao longo da disciplina. O principal aspecto que influenciou a escolha do aplicativo foi o público-alvo diversificado e de fácil acesso atendido pelo aplicativo. Proporcionando uma variedade de cenários de uso que enriquecem a análise de requisitos.
+Com base nos critérios estabelecidos e orientação do professor sobre os aspectos que devem ser avaliados, o grupo optou por escolher o aplicativo da carteira digital de trânsito para o estudo ao longo da disciplina. O principal aspecto que influenciou a escolha do aplicativo foi o diferencial do público-alvo diversificado e a familiaridade de toda a equipe com o aplicativo. O que proporciona uma maior intimidade da equipe com o aplicativo.
 
 ## Sobre o aplicativo 
 
@@ -90,3 +91,4 @@ Versão  |   Data   | Descrição | Autor(es) | Revisor(es)
 `1.0` | 19/09/2023| Criação do documento | [Mayara Alves](https://github.com/Mayara-tech) | [Limirio Guimarães](https://github.com/LimirioGuimaraes)|
 `1.1` | 28/09/2023 | Alterações após apresentação | [Milena Baruc](https://github.com/MilenaBaruc) | [Vinicius Mendes](https://github.com/yabamiah)|
 `1.2` | 29/09/2023 | Alteração aplicativos sugeridos | [Milena Baruc](https://github.com/MilenaBaruc) | [Vinicius Mendes](https://github.com/yabamiah)|
+`1.3` | 06/12/2023 | Correção do artefato | [Mayara Alves](https://github.com/Mayara-tech) |[Limirio Guimarães](https://github.com/LimirioGuimaraes)|
