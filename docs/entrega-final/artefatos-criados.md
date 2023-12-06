@@ -68,6 +68,27 @@ Fonte: [Limirio Guimarães](https://github.com/LimirioGuimaraes)
 
 </center>
 
+A **Tabela 04** abrange os artefatos relacionados a modelagem de requisitos.
+
+<center> 
+
+Tabela 4: Modelagem<br/>
+
+| 			Artefato 			|	 Descrição 	| 				Autor(es)	 			| 				Revisor(es)				|
+| ----------------------------------------------------- | --------------------- | --------------------------------------------------------------------- | --------------------------------------------------------------------- |
+|[Cenários](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/cenarios/)|Os cenários se apresentam como descrições detalhadas, geralmente em linguagem natural, de situações ou eventos que envolvem determinados atores.| [Mayara Alves](https://github.com/Mayara-tech) | [Breno Queiroz](https://github.com/brenob6) e [Vinicius Mendes](https://github.com/yabamiah) |
+|[Casos de Uso](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/casosDeUso/)|Um caso de uso se refere a uma descrição detalhada de como o sistema será utilizado em uma determinada situação ou contexto.| [Limírio Guimarães](https://github.com/LimirioGuimaraes)| [Breno Queiroz](https://github.com/brenob6) |
+|[Léxicos](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/léxicos/)|O Léxico é uma notação que, por meio da descrição de termos, tem como objetivo descrever os símbolos de uma linguagem. |[Luis Eduardo](https://github.com/LuisMiranda10) e [Vinicius Mendes](https://github.com/yabamiah) | [Breno Queiroz](https://github.com/brenob6) e [Luis Eduardo](https://github.com/LuisMiranda10) |
+|[Especificação Suplementar](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/especificacao-suplementar/)| Especificação Suplementar pode ser definida como um documento em linguagem natural no qual são descritos os requisitos num sistema. |  [Breno Queiroz](https://github.com/brenob6) | [Mayara Alves](https://github.com/Mayara-tech)  |
+|Ágil|
+|[NFR Framework](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/agil/framework/)| Uma forma de representação e análise dos Requisitos Não-Funcionais é o NFR Framework, o qual visa à implementação de resoluções particulares. | [Limírio Guimarães](https://github.com/LimirioGuimaraes) e [Mayara Alves](https://github.com/Mayara-tech) | [Limírio Guimarães](https://github.com/LimirioGuimaraes) e [Mayara Alves](https://github.com/Mayara-tech) |
+|[Backlog do Produto](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/agil/backlog/)| O Backlog do Produto é um artefato da metodologia ágil que toma a forma de uma lista de todas as tarefas pendentes a serem feitas em um projeto. | [Altino Arthur](https://github.com/arthurrochamoreira)  |  [Milena Baruc](https://github.com/MilenaBaruc) |
+|[Histórias de Usuário](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/modelagem/agil/historiasUsuario/)| A história de usuário é uma técnica de elicitação de requisitos amplamente utilizada nas metodologias de desenvolvimento ágil e se refere a descrições concisas e de alto nível de uma funcionalidade desejada em termos do cliente. | [Milena Baruc](https://github.com/MilenaBaruc) | [Altino Arthur](https://github.com/arthurrochamoreira)|
+
+Fonte: [Limirio Guimarães](https://github.com/LimirioGuimaraes)
+
+</center>
+
 
 ## Conclusão
 
