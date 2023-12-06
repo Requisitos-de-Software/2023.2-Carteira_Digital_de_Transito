@@ -107,4 +107,4 @@ Em geral, o artefato está bem condizente com o que foi solicitado, porém neces
 
 | Versão | Data       | Descrição                                       | Autor                                          | Revisor                                      |
 | ------ | ---------- | ----------------------------------------------- | -----------------------------------------------| ---------------------------------------------|
-| `1.0`  | 02/12/2023 | Criação do Documento | [Milena Baruc](https://github.com/MilenaBaruc)  | [nome](https://github.com/)|
+| `1.0`  | 02/12/2023 | Criação do Documento | [Milena Baruc](https://github.com/MilenaBaruc)  |  [Limírio Guimarães](https://github.com/LimirioGuimaraes)|
