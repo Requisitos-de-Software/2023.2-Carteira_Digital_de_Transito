@@ -55,6 +55,7 @@ Fonte: [Breno Queiroz](https://github.com/brenob6), [Limirio Guimarães](https:/
 > Marcelo Medeiros Eler. Aula 5 - Requisitos de Software - Conceitos e Técnicas de Elicitação. Universidade de São Paulo, 2006. Disponível em: [https://edisciplinas.usp.br/pluginfile.php/7993139](https://edisciplinas.usp.br/pluginfile.php/7993139/mod_resource/content/1/05%20-%20Requisitos%20de%20Software%20-%20Conceitos%20e%20T%C3%A9cnicas%20de%20Elicita%C3%A7%C3%A3o.PDF).<br>
 
 ## 📑 Histórico de Versões
-| **Versão**   |   **Data**   | **Descrição** | **Autor** | **Revisor** |
+| **Versão**   |   **Data**   | **Descrição** | **Autores** | **Revisor** |
 |--------|---------|-----------|--------|---------|
 |`1.0`| 21/10/2023 | Criação da página de introspecção | [Breno Queiroz](https://github.com/brenob6), [Limirio Guimarães](https://github.com/LimirioGuimaraes) e [Mayara Alves](https://github.com/Mayara-tech)| [Vinicius Mendes](https://github.com/yabamiah) |
+|`1.1`| 06/12/2023 | Ajustes na padronização do projeto | [Limirio Guimarães](https://github.com/LimirioGuimaraes)  |[Mayara Alves](https://github.com/Mayara-tech) |
