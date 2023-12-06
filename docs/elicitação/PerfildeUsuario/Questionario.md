@@ -8,7 +8,7 @@ de forma eficiente, tornando possível a criação de perfis de usuário represe
 O uso do questionário permitir abordar de forma concisa uma série de tópicos relevantes, para definição do perfil de usuário. Portanto, a escolha deste método de pesquisa está alinhada com os objetivos estabelecidos, garantindo que as informações coletadas sejam abrangentes e pertinentes para informar as decisões futuras de desenvolvimento e aprimoramento do aplicativo.
 
 ## Metodologia 
-Pensando nisso a equipe realizou a elaboração de um questionário através do google-forms com intuito de conhecer o perfil de usuário do aplicativo Carteira Digital de Trânsito. O questionário engloba um total 8 perguntas sobre aspectos gerais do usuário do aplicativo e foi divulgado em grupos da comunidade acadêmica da UnB - FGA atráves do aplicativo whatsapp e telegram entre o período de 24 a 27 de setembro de 2023. 
+Pensando nisso a equipe realizou a elaboração de um questionário através do google-forms^1^ com intuito de conhecer o perfil de usuário do aplicativo Carteira Digital de Trânsito. O questionário engloba um total 8 perguntas sobre aspectos gerais do usuário do aplicativo e foi divulgado em grupos da comunidade acadêmica da UnB - FGA atráves do aplicativo whatsapp e telegram entre o período de 24 a 27 de setembro de 2023. 
 
 ### Perguntas Realizadas
 
@@ -96,6 +96,9 @@ De acordo com a figura 8 em relação ao grau de afinidade com os dispositivos e
 ![Figura 8. Questão 8](../../assets/Grafico-8.PNG)
 <font size="3"><p style="text-align: center">Fonte: [Mayara Alves](https://github.com/Mayara-tech).</p></font>
 
+## Referência bibliografica
+
+> Google LLC. Google Forms. Disponível em: [https://www.google.com/intl/pt-BR/forms/about/](https://www.google.com/intl/pt-BR/forms/about/). Acesso em: 29/09/2023.
 
 ## Bibliografia
 > BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
