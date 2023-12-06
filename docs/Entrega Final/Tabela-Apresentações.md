@@ -159,7 +159,6 @@ Abaixo, é mostrado na tabela 5 os partipantes que estiverem presente na gravaç
 
 |   Participantes                                                 |
 ------------------------------------------------------------------|
-[Altino Arthur](https://github.com/arthurrochamoreira.png) |
 [Breno](https://github.com/brenob6.png) |
 [Limirio Guimarães](https://github.com/LimirioGuimaraes.png) |
 [Luis Miranda](https://github.com/LuisMiranda10.png)|
