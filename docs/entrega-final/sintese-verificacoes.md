@@ -16,10 +16,9 @@ As verificação seguira
     | Artefato | Autor | Revisor |
     |---|---|---|
     | [Aplicativo Escolhido](../../verificacao/grupo2/planejamento/AplicativoSelecionado) | Luis Miranda | Limirio Guimarães |
-    | [Cronograma](../../verificacao/grupo2/planejamento/cronograma) | Milena Baruc |  |
-    | [Ferramentas](../../verificacao/grupo2/planejamento/) | Breno Queiroz |
-    | [Metodologia](../../verificacao/grupo2/planejamento/Metodologia) | Limirio Guimarães |  |
-    | [Politicas](../../verificacao/grupo2/planejamento/Politicas) | Mayara Alvas | |
+    | [Cronograma](../../verificacao/grupo2/planejamento/cronograma) | Milena Baruc | Limírio Guimarães |
+    | [Metodologia](../../verificacao/grupo2/planejamento/Metodologia) | Limirio Guimarães | Breno Queiroz
+    | [Politicas](../../verificacao/grupo2/planejamento/Politicas) | Mayara Alvas | Limirio Guimarães
     | [Heatmap](../../verificacao/grupo2/planejamento/Heatmap) | Luis Miranda | Vinícius Mendes
     | [Metodologia](../../verificacao/grupo2/planejamento/Metodologia) | Limirio Guimarães | Mayara Alves |
 
@@ -35,7 +34,7 @@ As verificação seguira
 
     | Artefato | Autor | Revisor |
     |---|---|---|
-    | Rich Picture | Mayara Alves |  |
+    | Rich Picture | Mayara Alves | Limirio Guimarães |
 
     **Fonte**: [Breno Queiroz](https://github.com/brenob6)
 
@@ -49,14 +48,14 @@ As verificação seguira
 
     | Artefato | Autor | Revisor |
     |---|---|---|
-    | [Perfil de Usuário](../../verificacao/grupo2/elicitação/PerfildeUsuário) | Vinicíus Mendes |  |
+    | [Perfil de Usuário](../../verificacao/grupo2/elicitação/PerfildeUsuário) | Vinicíus Mendes | Limirio Guimarães |
     | [Introspecção](../../verificacao/grupo2/elicitação/Introspecção) | Luis Miranda | Vinicius Mendes |
     | [Storyboard](../../verificacao/grupo2/elicitação/Storyboard) | Mayara Alves | Limirio Guimarães|
-    | [Glossário](../../verificacao/grupo2/elicitação/Glossario) | Limirio Guimarães | |
-    | [Questionário](../../verificacao/grupo2/elicitação/questionários) | Vinícius Mendes |
-    | [Entrevista](../../verificacao/grupo2/elicitação/entrevista) | Milena Baruc | Luis Miranda |
-    | [$100](../../verificacao/grupo2/elicitação/100$) | Luis Miranda | Vinícius Mendes |
-    | [First Things First](../../verificacao/grupo2/elicitação/FirstThingsFirst) | Mayara Alves |
+    | [Glossário](../../verificacao/grupo2/elicitação/Glossario) | Limirio Guimarães | Mayara Alves
+    | [Questionário](../../verificacao/grupo2/elicitação/questionários) | Vinícius Mendes | Limirio Guimarães
+    | [Entrevista](../../verificacao/grupo2/elicitação/entrevista) | Milena Baruc | Luis Miranda | 
+    | [$100](../../verificacao/grupo2/elicitação/100$) | Luis Miranda | Vinícius Mendes | Vinícius Mendes
+    | [First Things First](../../verificacao/grupo2/elicitação/FirstThingsFirst) | Mayara Alves | Limirio Guimarães
 
     **Fonte**: [Breno Queiroz](https://github.com/brenob6)
 
@@ -71,8 +70,7 @@ As verificação seguira
     | Artefato | Autor | Revisor |
     |---|---|---|
     | [Léxicos](../../verificacao/grupo2/modelagem/lexicos) | Mayara Alves | Breno Queiroz |
-    | [Cenários](../../verificacao/grupo2/modelagem/Cenário)| Vinícius Mendes |
-    | [Caso de Uso]() |
+    | [Cenários](../../verificacao/grupo2/modelagem/Cenário)| Vinícius Mendes | Limirio Guimarães
     | [Especificação Suplementar](../../verificacao/grupo2/modelagem/especificaçãoSuplementar) | Milena Baruc | Luis Miranda |
     | [História de Usuário](../../verificacao/grupo2/modelagem/HistoriaUsuario) | Limirio Guimarães | Breno Queiroz |
 
@@ -89,8 +87,7 @@ As verificação seguira
 
     | Artefato | Autor | Revisor |
     |---|---|---|
-    | Análise Hierárquica de Tarefas - HTA | 
-    | Concur Task Trees - CTT | Altino Arthur | Mayara Alves |
+    | [Matriz de Rastreabilidade](../../verificacao/grupo2/rastreabilidade/MatrizDeRastreabilidade) | Vinícius Mendes | Luis Eduardo |
 
     **Fonte**: [Breno Queiroz](https://github.com/brenob6)
 
