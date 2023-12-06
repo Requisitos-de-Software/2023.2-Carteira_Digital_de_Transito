@@ -58,5 +58,5 @@ Trocar o título "Notações Léxicos e Descrição" por "Metodologia".
 
 | Versão | Data | Descrição | Autor | Revisor |
 |--------|------|------------|------|---------|
-| 1.0 | 12/11/2023 | Criação do documento e do seu conteúdo |  [Vinícius Mendes](https://github.com/yabamiah) | [Milena Baruc](https://github.com/MilenaBaruc) | 
+| `1.0` | 12/11/2023 | Criação do documento e do seu conteúdo |  [Vinícius Mendes](https://github.com/yabamiah) | [Milena Baruc](https://github.com/MilenaBaruc) | 
 
