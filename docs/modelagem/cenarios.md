@@ -9,7 +9,7 @@ requisitos funcionais e não funcionais <a href="#REF1">^1^</a>.
 A abordagem escolhida para descrever os cenários neste projeto consiste na utilização de texto estruturado. Essa abordagem valida-se da utilização de linguagem natural semi-estruturada
 para melhor entendimento de cada cenário e validação dos requisitos por parte do cliente <a href="#REF2">^2^</a>. O formato desse modelo pode ser visualizado na Tabela 1.
 
-Os cenários identificados foram determinados a partir de um compilado dos requisitos elicitados pelo métodos 100, First Things First e Three Level Scale, documentados na seção de priorização.
+Os cenários identificados foram determinados a partir de um compilado dos requisitos elicitados pelo métodos [$100](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/elicita%C3%A7%C3%A3o/prioriza%C3%A7%C3%A3o/100/), [First Things First](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/elicita%C3%A7%C3%A3o/prioriza%C3%A7%C3%A3o/first_things_first/) e [Three Level Scale](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/elicita%C3%A7%C3%A3o/prioriza%C3%A7%C3%A3o/three_level_scale/), documentados na seção de priorização. 
 A escolha dos cenários foram feitas com base nas principais funcionalidades priorizadas, que podem ser observadas pelos Cenários de 1 a 10 descritos abaixo e identificados pela sigla Cx, onde 
 C significa cenário e X o número do cenário.
 
@@ -257,3 +257,4 @@ Versão  |   Data   | Descrição | Autor(es) | Revisor(es)
 --------- | ------ | ------ | ---------- | ----------
 `1.0` | 25/10/2023| Criação dos cenários  | [Mayara Alves](https://github.com/Mayara-tech) |[Breno Queiroz](https://github.com/brenob6)  |
 `1.1` | 06/11/2023| Adicionando cenários de funcionalidade não implementadas  | [Mayara Alves](https://github.com/Mayara-tech) |[Breno Queiroz](https://github.com/brenob6)  |
+`1.2` | 06/12/2023| Correção do artefato  | [Mayara Alves](https://github.com/Mayara-tech) |[Vinícius Mendes](https://github.com/Yaba)  |
