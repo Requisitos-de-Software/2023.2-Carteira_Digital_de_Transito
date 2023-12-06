@@ -148,4 +148,4 @@ Fonte: [Mayara Alves](https://github.com/Mayara-tech)
 
 | Versão | Data       | Descrição                                       | Autor                                          | Revisor                                      |
 | ------ | ---------- | ----------------------------------------------- | -----------------------------------------------| ---------------------------------------------|
-| `1.0`  | 26/11/2023 | Adicionando verificação do artefato Rich Picture   | [Mayara Alves](https://github.com/Mayara-tech) | [Limírio Guimarães](https://github.com/LimirioGuimaraes) |
+| `1.0`  | 27/11/2023 | Adicionando verificação do artefato Rich Picture   | [Mayara Alves](https://github.com/Mayara-tech) | [Luis Miranda](https://github.com/LuisMiranda) |
