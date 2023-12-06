@@ -143,8 +143,7 @@ Tabela 06: Verificação Dos artefatos do nosso grupo <br/>
 |[Verificação Cronograma](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/verificacao/grupo2/planejamento/cronograma/)|Verificação do artefato.| [Milena Baruc](https://github.com/MilenaBaruc) |  [Limírio Guimarães](https://github.com/LimirioGuimaraes) |
 |**Pré-rastreabilidade**|
 |[Verificação Rich Picture](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/verificacao/grupo2/Pre-rastreabilidade/RichPicture/)|Verificação do artefato.| [Mayara Alves](https://github.com/Mayara-tech) | [Limírio Guimarães](https://github.com/LimirioGuimaraes) |
-|[Verificação Perfil de Usuário](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/verificacao/grupo2/elicitação/PerfildeUsuário/)|Verificação do artefato.| [Vinicius Mendes](https://github.com/yabamiah)
-|[Limírio Guimarães](https://github.com/LimirioGuimaraes) |
+|[Verificação Perfil de Usuário](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/verificacao/grupo2/elicitação/PerfildeUsuário/)|Verificação do artefato.| [Vinicius Mendes](https://github.com/yabamiah) |[Limírio Guimarães](https://github.com/LimirioGuimaraes) |
 |**Técnicas de Elicitação**|
 |[Verificação Introspecção](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/verificacao/grupo2/elicitação/Introspecção/)|Verificação do artefato.| [Luis Eduardo](https://github.com/LuisMiranda10)| [Vinicius Mendes](https://github.com/yabamiah)|
 |[Verificação Storyboard](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/verificacao/grupo2/elicitação/Storyboard/)|Verificação do artefato.|[Mayara Alves](https://github.com/Mayara-tech) | [Limírio Guimarães](https://github.com/LimirioGuimaraes) |
