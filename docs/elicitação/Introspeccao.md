@@ -53,4 +53,4 @@ Após o exercício mental de utilizar o aplicativo da Carteira Digital de Trâns
 ## 📑 Histórico de Versões
 | **Versão**   |   **Data**   | **Descrição** | **Autor** | **Revisor** |
 |--------|---------|-----------|--------|---------|
-|`1.0`| 21/10/2023 | Criação da página de introspecção | [Breno Queiroz](https://github.com/brenob6), [Limirio Correia](https://github.com/LimirioGuimaraes) e [Mayara Alves](https://github.com/Mayara-tech)| [Vinicius Mendes](https://github.com/yabamiah) |
+|`1.0`| 21/10/2023 | Criação da página de introspecção | [Breno Queiroz](https://github.com/brenob6), [Limirio Guimarães](https://github.com/LimirioGuimaraes) e [Mayara Alves](https://github.com/Mayara-tech)| [Vinicius Mendes](https://github.com/yabamiah) |
