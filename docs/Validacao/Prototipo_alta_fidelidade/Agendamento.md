@@ -81,4 +81,4 @@ Desta forma temos os seguintes resultados obtidos a partir da avaliação do pro
 
 | Versão | Data       | Descrição            |                       Autor                        |                     Revisor                      |
 | :----: | ---------- | -------------------- | :------------------------------------------------: | :----------------------------------------------: |
-| `1.0`  | 03/12/2023 |  Criação do documento |  [Mayara Alves](https://github.com/Mayara-tech)    |  |
+| `1.0`  | 03/12/2023 |  Criação do documento |  [Mayara Alves](https://github.com/Mayara-tech)    | [Limírio Guimarães](https://github.com/LimirioGuimaraes) |
