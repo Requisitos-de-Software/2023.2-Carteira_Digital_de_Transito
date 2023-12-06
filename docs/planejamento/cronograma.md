@@ -169,14 +169,14 @@ Na Tabela 9, tem-se o cronograma executado para todas as atividades da quarta en
 
 | **Atividade**                                   | **Início** | **Fim**     | **Responsáveis**                        | **Revisores**                           | **Data de Revisão** |
 |-----------------------------------------------|------------|------------|-----------------------------------------|-----------------------------------------|---------------------|
-| Modelagem de Requisitos - Ágil: Histórias de usuário | 26/10/2023 | 06/11/2023 | Milena                                  | Arthur                                  | 06/11/2023          |
-| Modelagem de Requisitos - Ágil: Backlogs      | 26/10/2023 | 06/11/2023 | Arthur                                  | Milena                                  | 06/11/2023          |
-| Modelagem de Requisitos - Ágil: NFR Framework | 26/10/2023 | 06/11/2023 | Mayara, Altino                          | Breno                                   | 06/11/2023          |
+| Modelagem de Requisitos - Ágil: Histórias de usuário | 26/10/2023 | 06/11/2023 | Milena                                  | Altino                                 | 06/11/2023          |
+| Modelagem de Requisitos - Ágil: Backlogs      | 26/10/2023 | 06/11/2023 | Altino                                 | Milena                                  | 06/11/2023          |
+| Modelagem de Requisitos - Ágil: NFR Framework | 26/10/2023 | 06/11/2023 | Mayara, Limírio                        | Mayara, Limírio                                                       | 06/11/2023          |
 | Gravar reunião                                 | 06/11/2023 | 06/11/2023 | Mayara, Milena, Arthur, Altino         |                                         | 06/11/2023          |
 | Correção após a Entrega 4                     | 07/11/2023 | 10/11/2023 | Altino, Breno, Limírio, Luis, Mayara, Milena, Vinícius | Altino, Breno, Limírio, Luis, Mayara, Milena, Vinícius | 10/11/2023          |
 
 
-Fonte: [Altino Arthur](https://github.com/arthurrochamoreira)
+Fonte: [Mayara Alves](https://github.com/Mayara-tech)
 
 ### Cronograma planejado entrega 5.1.
 
@@ -268,9 +268,15 @@ Na Tabela 15, tem-se o cronograma executado para todas as atividades da quarta e
 
 | **Atividade**                                   | **Início** | **Fim**     | **Responsáveis**                        | **Revisores**                           | **Data de Revisão** |
 |-----------------------------------------------|------------|------------|-----------------------------------------|-----------------------------------------|---------------------|
-| Pós-rastreabilidade  | 16/11/2023 | 20/11/2023  | Altino, Breno, Limírio, Luis, Mayara, Milena, Vinícius | Altino, Breno, Limírio, Luis, Mayara, Milena, Viníciu   | 20/11/2023          |
-| Matriz de rastreabilidade    | 16/11/2023 | 20/11/2023  | Altino, Breno, Limírio, Luis, Mayara, Milena, Vinícius | Altino, Breno, Limírio, Luis, Mayara, Milena, Viníciu   | 20/11/2023          |
-| Gravar reunião                          | 04/12/2023 | 04/12/2023 | Altino, Breno, Limírio, Luis, Mayara, Milena, Vinícius | Altino, Breno, Limírio, Luis, Mayara, Milena, Vinícius | 29/11/2023          |
+| Validação - Protótipo de alta fidelidade - Agendamento de serviço  | 22/11/2023 | 03/12/2023  | Mayara | Limírio   | 03/12/2023          |
+| Verificação - Políticas, RichPicture, Storyboard, First Things First, Léxicos | 22/11/2023 | 27/11/2023  | Mayara | Luis |27/11/2023
+| Verificação - Metodologia, Glossário e Histórias de usuários  | 22/11/2023 | 04/12/2023 | Limírio | Breno | 04/12/2023
+| Verificação - Cronograma, Documentação, Entrevista, Especificação Suplementar | 22/11/2023 | 02/12/2023 | Milena | Luis | 04/12/2023
+| Verificação - Ferramentas, Personas, Backlog,  Three Level Scale, Pós rastreabilidade | 22/11/2023 | 04/12/2023 | Breno | Limirio | 04/12/2023
+| Verificação - Heatmap, Aplicativo selecionado, 100$, Instrospecção | 22/11/2023 | 02/12/2023 | Luis | Vinicius | 02/12/2023
+| Verificação - Perfil de usuário, Questionário, Cenários, Matriz Geral | 22/11/2023 | 03/12/2023 | Vinicius | Mayara | 03/12/2023
+| Verificação - NFR Framework, Requisitos Elicitados, Casos de uso | 22/11/2023 | 04/12/2023 | Arthur | Luis | 04/12/2023
+| Gravar reunião                          | 04/12/2023 | 04/12/2023 | Altino, Breno, Limírio, Luis, Mayara, Milena, Vinícius | Altino, Breno, Limírio, Luis, Mayara, Milena, Vinícius | 04/12/2023        |
 | Correção após a Entrega 5.2             | 05/12/2023 | 06/12/2023 | Altino, Breno, Limírio, Luis, Mayara, Milena, Vinícius | Altino, Breno, Limírio, Luis, Mayara, Milena, Vinícius | 06/12/2023          |
 
 Fonte: [Mayara Alves](https://github.com/Mayara-tech)
