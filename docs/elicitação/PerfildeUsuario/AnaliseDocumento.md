@@ -30,7 +30,7 @@ Podemos observar na figura 2, que as principais faixa etárias caracteristica do
 <font size="3"><p style="text-align: center">**Figura 2** - Faixa etária dos condutores</p></font>
 <center>
 
-![Figura 2. Faixa etária dos condutores](../../assets/Grafico-Idade.PNG){center}
+![Figura 2. Faixa etária dos condutores](../../assets/Grafico-Idade.PNG)
 
 </center>
 
