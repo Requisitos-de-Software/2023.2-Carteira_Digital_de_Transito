@@ -2,9 +2,9 @@
 
 ## Introdução
 
-A técnica de priorização _Three Level Scale_<a id="FTF1" href="#FTF1Ref">^1^</a> envolve a categorização dos requisitos em três categorias de acordo com sua prioridade 
-relativa: alta, média e baixa prioridade. Nesse projeto, essa técnica foi utilizada por um desenvolvedor e um usuário, com o primeiro servindo de mediador e guiando o 
-segundo durante o processo. Foi utilizado como inspiração o projeto _1/2023 Bilheteria Digital_<a id="FTF2" href="#FTF2Ref">^2^</a>.
+A técnica de priorização Three Level Scale envolve a categorização dos requisitos em três categorias de acordo com sua prioridade 
+relativa: alta, média e baixa prioridade^1^. Nesse projeto, essa técnica foi utilizada por um desenvolvedor e um usuário, com o primeiro servindo de mediador e guiando o 
+segundo durante o processo. Foi utilizado como inspiração o projeto 1/2023 Bilheteria Digital^2^</a>.
 
 ## Metodologia
 
@@ -21,8 +21,22 @@ As dependências podem ter um efeito significativo na relevância e nas implica�
 Portanto, é aconselhável considerar cuidadosamente as interdependências ao avaliar os requisitos e tomar decisões bem informadas sobre sua ordenação.
 
 ## Participantes
-O usuário da aplicativo da Carteira Digital de Trânsito Igor Luna Almeida foi convidado para participar do presente método de priorização, informada dos fins de pesquisa deste e concordou com o uso das informações no projeto e com o termo de consertimento. Na data de 01/10/2023, das 10h às 10:18, foi realizada uma reunião presencial entre a usuária e o desenvolvedor Mayara Alves, 
-na qual toda a dinâmica do Three Level Scale foi explicada e a usuário categorizou os requisitos de acordo com sua visão. Para a priorização foram escolhidos apenas alguns requisitos elicitados, que coincidiam com o entendimento do usuário e que facilitariam o entendimento do usuário na priorização. A tabela 1 apresentam os resultados dessa priorização.
+O usuário da aplicativo da Carteira Digital de Trânsito Igor Luna Almeida foi convidado para participar do presente método de priorização, informada dos fins de pesquisa deste e concordou com o uso das informações no projeto e com o [termo de consertimento](https://github.com/Requisitos-de-Software/2023.2-Carteira_Digital_de_Transito/blob/main/docs/elicita%C3%A7%C3%A3o/Termo%20de%20Consentimento.pdf). Na data de 01/10/2023, das 10h às 10:18, foi realizada uma reunião presencial entre a usuário e o desenvolvedor Mayara Alves, 
+na qual toda a dinâmica do Three Level Scale foi explicada e a usuário categorizou os requisitos de acordo com sua visão, na tabela 1 podemos observar o cronograma executado da priorização.
+
+### cronograma executado 
+<center>
+
+**Tabela 1** - Cronograma executado - Priorização
+
+| Data | Descrição | entrevistadora |  Entrevistado | Horário | Entrevista
+| --- | ---------------------| ---------------------- |---------------------| ---------------------- | ---------------------------- |
+| 01/10/2023| Priorização  | [Mayara Alves](https://github.com/Mayara-tech) | Igor Luna Almeida | 10h00/10:18  | Presencial 
+
+Fonte: [Mayara Alves](https://github.com/Mayara-tech) 
+</center>
+
+Para a priorização foram escolhidos apenas alguns requisitos elicitados, que coincidiam com o entendimento do usuário e que facilitariam o entendimento do usuário na priorização também foi levado em consideração a dependência entre os requisitos. A tabela 2 apresentam os resultados dessa priorização.
 
 ## Requisitos priorizados
 
@@ -33,7 +47,7 @@ Legenda das tabelas:
 
 ### Requisitos Elicitados 
 
-<font size="3"><p style="text-align: center">Tabela 1: Requisitos Elicitados.</p></font>
+<font size="3"><p style="text-align: center">Tabela 2: Requisitos Elicitados.</p> </font>
 
 <center>
 
@@ -80,5 +94,6 @@ Legenda das tabelas:
 | ---------- | -----  | ------ | ---------- | ---------- |
 | `1.0` | 04/10/2023 | Criação da página | [Mayara Alves](https://github.com/Mayara-tech) | [Breno Queiroz](https://github.com/brenob6) |
 | `1.1` | 25/10/2023 | Adicionando rastreabilidade | [Mayara Alves](https://github.com/Mayara-tech) | [Breno Queiroz](https://github.com/brenob6) |
+| `1.2` | 25/10/2023 | Correção do artefato | [Mayara Alves](https://github.com/Mayara-tech) | [Milena Baruc](https://github.com/MilenaBaruc) |
 
  
