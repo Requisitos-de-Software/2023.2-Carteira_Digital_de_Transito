@@ -134,7 +134,32 @@ Tabela 06: Verificação Dos artefatos do nosso grupo <br/>
 
 | 			Artefato 			|	 Descrição 	| 				Autor(es)	 			| 				Revisor(es)				|
 | ----------------------------------------------------- | --------------------- | --------------------------------------------------------------------- | --------------------------------------------------------------------- |
-|[Rich Picture](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/pré-rastreabilidade/rich%20picture/)|Ferramenta visual para expressar ideias e analisar problemas.| [Milena Baruc](https://github.com/MilenaBaruc)|[Limírio Guimarães](https://github.com/LimirioGuimaraes) e [Mayara Alves](https://github.com/Mayara-tech)|
+|[Planejamento da Verificação](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/verificacao/grupo3/planejamendoDaVerificacao/)| Planejamento da verificação dos artefatos| [Limírio Guimarães](https://github.com/LimirioGuimaraes) | [Milena Baruc](https://github.com/MilenaBaruc) |
+|**Planejamento**|
+|[Verificação do Artefato Aplicativo Escolhido](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/verificacao/grupo2/planejamento/AplicativoSelecionado/)|Verificação do artefato.|  [Luis Eduardo](https://github.com/LuisMiranda10) | [Limírio Guimarães](https://github.com/LimirioGuimaraes) |
+|[Verificação Heatmap](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/verificacao/grupo2/planejamento/Heatmap/)|Verificação do artefato.|[Luis Eduardo](https://github.com/LuisMiranda10) | [Vinicius Mendes](https://github.com/yabamiah)|
+|[Verificação Metodologia](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/verificacao/grupo2/planejamento/Metodologia/)|Verificação do artefato.|[Limírio Guimarães](https://github.com/LimirioGuimaraes) | [Breno Queiroz](https://github.com/brenob6) |
+|[Verificação Políticas](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/verificacao/grupo2/planejamento/Politicas/)|Verificação do artefato.|[Mayara Alves](https://github.com/Mayara-tech) |  [Limírio Guimarães](https://github.com/LimirioGuimaraes) |
+|[Verificação Cronograma](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/verificacao/grupo2/planejamento/cronograma/)|Verificação do artefato.| [Milena Baruc](https://github.com/MilenaBaruc) |  [Limírio Guimarães](https://github.com/LimirioGuimaraes) |
+|**Pré-rastreabilidade**|
+|[Verificação Rich Picture](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/verificacao/grupo2/Pre-rastreabilidade/RichPicture/)|Verificação do artefato.| [Mayara Alves](https://github.com/Mayara-tech) | [Limírio Guimarães](https://github.com/LimirioGuimaraes) |
+|[Verificação Perfil de Usuário](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/verificacao/grupo2/elicitação/PerfildeUsuário/)|Verificação do artefato.| [Vinicius Mendes](https://github.com/yabamiah)
+|[Limírio Guimarães](https://github.com/LimirioGuimaraes) |
+|**Técnicas de Elicitação**|
+|[Verificação Introspecção](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/verificacao/grupo2/elicitação/Introspecção/)|Verificação do artefato.| [Luis Eduardo](https://github.com/LuisMiranda10)| [Vinicius Mendes](https://github.com/yabamiah)|
+|[Verificação Storyboard](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/verificacao/grupo2/elicitação/Storyboard/)|Verificação do artefato.|[Mayara Alves](https://github.com/Mayara-tech) | [Limírio Guimarães](https://github.com/LimirioGuimaraes) |
+|[Verificação Glossário](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/verificacao/grupo2/elicitação/Glossario/)|Verificação do artefato.| [Limírio Guimarães](https://github.com/LimirioGuimaraes) | [Mayara Alves](https://github.com/Mayara-tech) |
+|[Verificação Questionário](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/verificacao/grupo2/elicitação/questionários/)|Verificação do artefato.|  [Vinícius Mendes](https://github.com/yabamiah) | [Limírio Guimarães](https://github.com/LimirioGuimaraes) |
+|**Priorização de Requisitos**|
+|[Verificação $100](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/verificacao/grupo2/elicitação/100%24/)|Verificação do artefato.| [Luis Eduardo](https://github.com/LuisMiranda10) | [Vinicius Mendes](https://github.com/yabamiah)|
+|[Verificação First Things Firts](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/verificacao/grupo2/elicitação/FirstThingsFirst/)|Verificação do artefato.| [Mayara Alves](https://github.com/Mayara-tech) | [Limírio Guimarães](https://github.com/LimirioGuimaraes) |
+|**Modelagem**|
+|[Verificação Léxicos](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/verificacao/grupo2/modelagem/lexicos/)|Verificação do artefato.|  [Mayara Alves](https://github.com/Mayara-tech) | [Limírio Guimarães](https://github.com/LimirioGuimaraes) |
+|[Verificação Cenários](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/verificacao/grupo2/modelagem/Cenário/)|Verificação do artefato.| [Vinicius Mendes](https://github.com/yabamiah)  | [Limírio Guimarães](https://github.com/LimirioGuimaraes) |
+|[Verificação Especificação Suplementar](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/verificacao/grupo2/modelagem/especificaçãoSuplementar/)|Verificação do artefato.|  [Milena Baruc](https://github.com/MilenaBaruc) | [Luis Eduardo](https://github.com/LuisMiranda10) |
+|[Verificação Histórias de Usuário](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/verificacao/grupo2/modelagem/HistoriaUsuario/)|Verificação do artefato.|  [Limirio Guimarães](https://github.com/LimirioGuimaraes)| [Breno Queiroz](https://github.com/brenob6)|
+|**Rastreabilidade**|
+|[Matriz de Rastreabilidade](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/verificacao/grupo2/altino-luis-vinicius/Verificação%20Matriz%20de%20Rastreabilidade/)|Verificação do artefato.| [Vinicius Mendes](https://github.com/yabamiah) | [Luis Eduardo](https://github.com/LuisMiranda10) |
 
 Fonte: [Limirio Guimarães](https://github.com/LimirioGuimaraes)
 
