@@ -5,9 +5,34 @@ A utilização de questionários como parte do processo de criação de perfis d
 estruturada e quantificável, o que facilita a análise e a interpretação dos dados obtidos. Além disso, questionários podem ser administrados a um grande número de respondentes
 de forma eficiente, tornando possível a criação de perfis de usuário representativos de uma base diversificada de usuários potenciais. 
 
-### Metodologia 
-Pensando nisso a equipe realizou um questionário com intuito de conhecer o perfil de usuário do aplicativo Carteira Digital de Trânsito. O questionário engloba um total 8 perguntas sobre aspectos gerais do 
-usuário do aplicativo e foi divulgado em grupos da comunidade acadêmica atráves do aplicativo whatsapp e telegram entre o período de 24 a 27 de setembro de 2023. 
+O uso do questionário permitir abordar de forma concisa uma série de tópicos relevantes, para definição do perfil de usuário. Portanto, a escolha deste método de pesquisa está alinhada com os objetivos estabelecidos, garantindo que as informações coletadas sejam abrangentes e pertinentes para informar as decisões futuras de desenvolvimento e aprimoramento do aplicativo.
+
+## Metodologia 
+Pensando nisso a equipe realizou a elaboração de um questionário através do google-forms com intuito de conhecer o perfil de usuário do aplicativo Carteira Digital de Trânsito. O questionário engloba um total 8 perguntas sobre aspectos gerais do usuário do aplicativo e foi divulgado em grupos da comunidade acadêmica da UnB - FGA atráves do aplicativo whatsapp e telegram entre o período de 24 a 27 de setembro de 2023. 
+
+### Perguntas Realizadas
+
+A tabela 1 contém a seleção das perguntas utilizadas no questionário, a seleção das perguntas tem como base a especificação do perfil de usuário .
+
+<center>
+
+**Tabela 1:** questões do questionário
+
+|ID|Pergunta|
+|:--|:-|
+| 1 | Você já utilizou o aplicativo Carteira Digital de Trânsito?|
+| 2 | Qual seu gênero? |
+| 3 | Qual seu estado civil? |
+| 4 | Com qual frequência você utiliza o aplicativo da Carteira Digital de Trânsito? |
+| 5 | Qual seu principal objetivo ao utilizar a Carteira Digital de Trânsito? |
+| 6 | Qual a sua faixa etária ? |
+| 7 | Qual seu grau de escolaridade? |
+| 8 | Qual seu grau de afinidade com dispositivos tecnológicos? (Computadores, tablets, smartphones e etc.)? |
+
+<font size="3"><p>**Fonte:**[Mayara Alves](https://github.com/Mayara-tech).</p></font>
+
+</center>
+
 
 ### Resultado do questionário 
 O resultado no questionário teve o total de 18 respostas todas de acordo com o  [Termo de consentimento](termoConsentimento.pdf). O resultado das respostas são apresentados nas figuras de 1 a 8.
@@ -82,6 +107,7 @@ De acordo com a figura 8 em relação ao grau de afinidade com os dispositivos e
  Versão  |    Data    |                        Descrição                        |                                             Autor(es)                                             |                  Revisor(es)                   
  :-----: | :--------: | :-----------------------------------------------------: | :-----------------------------------------------------------------------------------------------: | :--------------------------------------------: 
   `1.0`  | 29/09/2023 |            Criação da página de questionário           | [Mayara Alves](https://github.com/Mayara-tech) | [Breno Queiroz](https://github.com/brenob6)
+  `1.1`  | 06/12/2023 |            Correção do artefato         | [Mayara Alves](https://github.com/Mayara-tech) | [Limírio Guimarães](https://github.com/Limirio)
 
 
 
