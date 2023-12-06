@@ -6,7 +6,7 @@ Nesta página está listado todos requisitos obtidos com a etapa de elicitação
 
 ## Metodologia 
 
-A metodologia adotada envolveu a consolidação de todos os requisitos funcionais (RF) e requisitos não funcionais (RNF) obtidos por meio de diversas técnicas de elicitação em uma tabela estruturada (Tabela 3). Nesta tabela, cada requisito é identificado por um ID exclusivo descrito na tabela 2, categorizado como RF ou RNF para indicar seu tipo e acompanhado de um status de implementação. Além disso, a tabela também rastreia a origem de cada requisito, destacando se ele foi obtido por meio de técnicas como o Glossario, StoryBoard, Introspecção e Entrevista. Na Tabela 1, encontramos o cronograma de execução da elicitação de requisitos, que apresenta as datas de realização do levantamento de requisitos.
+A metodologia adotada envolveu a consolidação de todos os requisitos funcionais (RF) e requisitos não funcionais (RNF) obtidos por meio de diversas técnicas de elicitação em duas tabelas estruturadas sendo elas respectivamente, tabela 3 e tabela 4. Nestas tabelas, cada requisito é identificado por um ID exclusivo descrito na tabela 2, categorizado como RF ou RNF para indicar seu tipo e acompanhado de um status de implementação. Além disso, a tabela também rastreia a origem de cada requisito, destacando se ele foi obtido por meio de técnicas como o Glossario, StoryBoard, Introspecção e Entrevista. Na Tabela 1, encontramos o cronograma de execução da elicitação de requisitos, que apresenta as datas de realização do levantamento de requisitos.
 
 <p align="center"><b>Tabela 01</b> - Cronograma de elicitação de requisitos .</p>
 <center>
@@ -59,23 +59,13 @@ Fonte: [Luis Miranda](https://github.com/LuisMiranda10) e [Mayara Alves](https:/
 | [ITP](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/elicita%C3%A7%C3%A3o/Introspeccao/), [ENT](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/elicita%C3%A7%C3%A3o/entrevista/) |Permite ao usuário fazer transferência de veículo							            |RF14   |  Não implementado  |
 | [ITP](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/elicita%C3%A7%C3%A3o/Introspeccao/), [ENT](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/elicita%C3%A7%C3%A3o/entrevista/) |Aplicativo deve possuir um FAQ 														|RF15   |   Implementado  |
 | [ITP](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/elicita%C3%A7%C3%A3o/Introspeccao/) |Aplicativo mostra restrições e indicadores (restrição no veiculo, multa, judicial) 	|RF16  |  Implementado     |
-| [ITP](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/elicita%C3%A7%C3%A3o/Introspeccao/) |O aplicativo permite visualizar a politica de privicidade								|RNF1   |  Implementado   |
 | [ITP](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/elicita%C3%A7%C3%A3o/Introspeccao/) |O aplicativo deve divulgar campanhas e projetos do DETRAN								|RF17   |  Implementado   |
-| [ITP](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/elicita%C3%A7%C3%A3o/Introspeccao/) |Validar cadastro de CNH																|RNF2   | Implementado     |
-| [ITP](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/elicita%C3%A7%C3%A3o/Introspeccao/) |Aplicativo funciona em multisistemas (android e IOS) 									|RNF3  |  Implementado    |
-| [ITP](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/elicita%C3%A7%C3%A3o/Introspeccao/) |Aplicativo possui interface simple 													|RNF4   | Implementado    |
-| [ITP](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/elicita%C3%A7%C3%A3o/Introspeccao/) |Aplicativo deve evitar erros e telas brancas durante o uso 							|RNF5  |  Não implementado    |
-| [ITP](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/elicita%C3%A7%C3%A3o/Introspeccao/) |Possui modo escuro/claro																|RNF6  |  Não implementado   |
 | [GL](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/elicita%C3%A7%C3%A3o/glossario/) | Deve ser possível consultar as siglas apresentadas| RF18 | Não implementado |f
 | [GL](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/elicita%C3%A7%C3%A3o/glossario/) | Deve ser possível baixar os CRLV dos veículos| RF19 | Implementado |
-| [GL](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/elicita%C3%A7%C3%A3o/glossario/) | Facilitar o usuário a chegar a funcionalidade de aderir ao SNE       | RNF7 | Implementado |
 | [GL](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/elicita%C3%A7%C3%A3o/glossario/) |Deve ser possível participar no Cadastro Positivo | RF20 | Implementado |
 | [GL](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/elicita%C3%A7%C3%A3o/glossario/), [ENT](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/elicita%C3%A7%C3%A3o/entrevista/) | Dever ser possível consultar a classificação da infração | RF21 | Não implementado |
 | [SB](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/elicita%C3%A7%C3%A3o/storyboard/), [ENT](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/elicita%C3%A7%C3%A3o/entrevista/) |Deve ser possível compartilhar os documentos de um veículo com seus coatores.| RF22 | Implementado
 | [SB](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/elicita%C3%A7%C3%A3o/storyboard/) |O usuário deve conseguir solicitar a outro usuário o compartilhamento dos documentos do veículo.| RF23 | Implementado
-| [SB](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/elicita%C3%A7%C3%A3o/storyboard/) |Deve ser possível acessar a CNH(digital) mesmo sem acesso a internet.| RNF8 | Implementado
-| [SB](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/elicita%C3%A7%C3%A3o/storyboard/) |Deve existir um prazo de validade do compartilhamento da CNH.| RNF9 | Não implementado
-| [SB](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/elicita%C3%A7%C3%A3o/storyboard/), [ENT](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/elicita%C3%A7%C3%A3o/entrevista/) |O aplicativo deve alertar o usuário caso seja multado .|RNF10 | Não implementado
 | [ENT](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/elicita%C3%A7%C3%A3o/entrevista/)  | O aplicativo deve permitir a pesquisa de informações sobre veículos por meio do número da placa. | RF24 | Não implementado |
 | [ENT](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/elicita%C3%A7%C3%A3o/entrevista/), [GLO](https://github.com/Requisitos-de-Software/2023.2-Carteira_Digital_de_Transito/blob/main/docs/elicita%C3%A7%C3%A3o/glossario.md) | Deve ser possível cadastrar e gerenciar múltiplos veículos na carteira digital. | RF25 | Implementado |
 | [ENT](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/elicita%C3%A7%C3%A3o/entrevista/) | O aplicativo deve disponibilizar informações em tempo real sobre condições de tráfego, acidentes e congestionamentos. | RF26 | Não implementado |
@@ -85,7 +75,7 @@ Fonte: [Luis Miranda](https://github.com/LuisMiranda10) e [Mayara Alves](https:/
 | [ENT](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/elicita%C3%A7%C3%A3o/entrevista/) | O aplicativo deve notificar o usuário sobre recalls e informações importantes do fabricante do veículo. | RF30 | Não implementado |
 | [ENT](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/elicita%C3%A7%C3%A3o/entrevista/) | Deve ser possível obter informações sobre as normas de trânsito, regulamentações e penalidades em vigor. | RF31 | Não implementado |
 
-Fonte: [Luis Miranda](https://github.com/LuisMiranda10) e [Mayara Alves](https://github.com/Mayara-tech)
+Fonte: [Limírio](https://github.com/LimirioGuimaraes), [Luis Miranda](https://github.com/LuisMiranda10) e [Mayara Alves](https://github.com/Mayara-tech)
   
 </center>
 
