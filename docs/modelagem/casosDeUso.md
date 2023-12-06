@@ -191,8 +191,9 @@ As tabelas de 2 a 8 mostram a especialização dos casos de uso identificados.
 ## 📑Histórico de Versões
 
 | Versão |    Data    |      Descrição      |       Autor     | Revisor(es)  |
-| ------ | ---------- | ------------------- | --------------- | ------------ |
-| 1.0    | 19/10/2023 | Criação do template | [Limirio Guimarães](https://github.com/LimirioGuimaraes) |[Breno Queiroz](https://github.com/brenob6) |
-| 1.1    | 21/10/2023 | Adicionado introdução, metodologia e glossário | [Limirio Guimarães](https://github.com/LimirioGuimaraes) |[Breno Queiroz](https://github.com/brenob6)|
-| 1.2    | 21/10/2023 | Adicionado diagrama de casos de uso | [Limirio Guimarães](https://github.com/LimirioGuimaraes) |[Breno Queiroz](https://github.com/brenob6)|
-| 1.3    | 21/10/2023 | Adicionada as tabelas de especialização dos casos de uso| [Limirio Guimarães](https://github.com/LimirioGuimaraes) | [Breno Queiroz](https://github.com/brenob6)|
+| ----- | ---------- | ------------------- | --------------- | ------------ |
+| `1.0` | 19/10/2023 | Criação do template | [Limirio Guimarães](https://github.com/LimirioGuimaraes) |[Breno Queiroz](https://github.com/brenob6) |
+| `1.1` | 21/10/2023 | Adicionado introdução, metodologia e glossário | [Limirio Guimarães](https://github.com/LimirioGuimaraes) |[Breno Queiroz](https://github.com/brenob6)|
+| `1.2` | 21/10/2023 | Adicionado diagrama de casos de uso | [Limirio Guimarães](https://github.com/LimirioGuimaraes) |[Breno Queiroz](https://github.com/brenob6)|
+| `1.3` | 21/10/2023 | Adicionada as tabelas de especialização dos casos de uso| [Limirio Guimarães](https://github.com/LimirioGuimaraes) | [Breno Queiroz](https://github.com/brenob6)|
+| `2.0` | 05/12/2023 | Correção da página após verificação dos artefatos | [Limírio Guimarães](https://github.com/LimirioGuimaraes) | [Mayara Alves](https://github.com/Mayara-tech)|
