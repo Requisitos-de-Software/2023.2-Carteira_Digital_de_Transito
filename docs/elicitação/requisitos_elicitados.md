@@ -82,6 +82,7 @@ Fonte: [Limírio](https://github.com/LimirioGuimaraes), [Luis Miranda](https://g
 <p align="center"><b>Tabela 04</b> - Requisitos não funcionais elicitados no aplicativo Carteira Digital de Trânsito.</p>
 <center>
 
+
 | [ITP](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/elicita%C3%A7%C3%A3o/Introspeccao/) |O aplicativo permite visualizar a politica de privicidade |RNF1   |  Implementado   |
 | [ITP](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/elicita%C3%A7%C3%A3o/Introspeccao/) |Validar cadastro de CNH |RNF2   | Implementado     |
 | [ITP](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/elicita%C3%A7%C3%A3o/Introspeccao/) |Aplicativo funciona em multisistemas (android e IOS)|RNF3  |  Implementado    |
@@ -91,7 +92,8 @@ Fonte: [Limírio](https://github.com/LimirioGuimaraes), [Luis Miranda](https://g
 | [GL](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/elicita%C3%A7%C3%A3o/glossario/) | Facilitar o usuário a chegar a funcionalidade de aderir ao SNE| RNF7 | Implementado |
 | [SB](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/elicita%C3%A7%C3%A3o/storyboard/) |Deve ser possível acessar a CNH(digital) mesmo sem acesso a internet.| RNF8 | Implementado
 | [SB](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/elicita%C3%A7%C3%A3o/storyboard/) |Deve existir um prazo de validade do compartilhamento da CNH.| RNF9 | Não implementado
-| [SB](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/elicita%C3%A7%C3%A3o/storyboard/), [ENT](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/elicita%C3%A7%C3%A3o/entrevista/) |O aplicativo deve alertar o usuário caso seja multado .|RNF10 | Não implementado
+| [SB](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/elicita%C3%A7%C3%A3o/storyboard/), [ENT](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/elicita%C3%A7%C3%A3o/entrevista/) |O aplicativo deve alertar o usuário caso seja multado .|RNF10 | Não implementado |
+
 
 Fonte: [Limírio](https://github.com/LimirioGuimaraes), [Luis Miranda](https://github.com/LuisMiranda10) e [Mayara Alves](https://github.com/Mayara-tech)
   
