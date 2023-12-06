@@ -43,11 +43,16 @@ A **Tabela 03** abrange os artefatos criados durante a etapa de elicitação de 
 
 <center> 
 
-Tabela 3: Pré-rastreabilidade<br/>
+Tabela 3: Artefatos criados durante a etapa de elicitação de requisitos<br/>
 
 | 			Artefato 			|	 Descrição 	| 				Autor(es)	 			| 				Revisor(es)				|
 | ----------------------------------------------------- | --------------------- | --------------------------------------------------------------------- | --------------------------------------------------------------------- |
-|[Rich Picture](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/pré-rastreabilidade/rich%20picture/)|Ferramenta visual para expressar ideias e analisar problemas.| [Milena Baruc](https://github.com/MilenaBaruc)|[Limírio Guimarães](https://github.com/LimirioGuimaraes) e [Mayara Alves](https://github.com/Mayara-tech)|
+|Definição Perfil de Usuário|
+|[Questionário](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/elicitação/PerfildeUsuario/Questionario/)| Técnica para obtenção de dados demográficos dos usuários | [Mayara Alves](https://github.com/Mayara-tech)|[Breno Queiroz](https://github.com/brenob6)|
+|[Análise de documentos](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/elicitação/PerfildeUsuario/AnaliseDocumento/)| Examina documentos, registros e fontes de informações relevantes para entender o perfil do usuário e suas necessidades  |  [Mayara Alves](https://github.com/Mayara-tech)|[Breno Queiroz](https://github.com/brenob6)|
+|[Perfil de Usuário](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/elicitação/PerfildeUsuario/PerfilUsuario/)| Perfil definido aos usuários do aplicativo | [Mayara Alves](https://github.com/Mayara-tech)|[Breno Queiroz](https://github.com/brenob6)|
+|Personas|
+|[Personas](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/elicitação/personas/)| Personagens fictícios criados para representar usuários do aplicativo |  [Altino Arthur](https://github.com/arthurrochamoreira) e  [Mayara Alves](https://github.com/Mayara-tech) |  [Altino Arthur](https://github.com/arthurrochamoreira) e  [Mayara Alves](https://github.com/Mayara-tech) |
 
 Fonte: [Limirio Guimarães](https://github.com/LimirioGuimaraes)
 
