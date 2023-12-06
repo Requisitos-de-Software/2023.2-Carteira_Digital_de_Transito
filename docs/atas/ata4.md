@@ -15,7 +15,7 @@ Arthur
 |**Início da reunião**| 21:40 | 22:05 |
 |**Fim da reunião**| 22:30 | 22:25 |
 
-**Fonte:** [Limirio Correia](https://github.com/LimirioGuimaraes)
+**Fonte:** [Limirio Guimarães](https://github.com/LimirioGuimaraes)
 
 </center>
 
@@ -36,7 +36,7 @@ Arthur
 | 6.Milena      |:x:                |milenabaruc072@gmail.com       |:fairy:        |
 | 7.Vinícius    |:white_check_mark: |viniciusmendes1019@gmail.com   |:cold_face:    |
 
-**Fonte:** [Limirio Correia](https://github.com/LimirioGuimaraes)
+**Fonte:** [Limirio Guimarães](https://github.com/LimirioGuimaraes)
 
 </center>
 
@@ -51,7 +51,7 @@ Arthur
 | 1 |  Verificar quais artefatos devem ser melhorados com base no feedback da primeira entrega |
 | 2 |   Definir os artefatos que serão produzidos para a segunda entrega |
 
-**Fonte:** [Limirio Correia](https://github.com/LimirioGuimaraes)
+**Fonte:** [Limirio Guimarães](https://github.com/LimirioGuimaraes)
 
 
 </center>
@@ -67,7 +67,7 @@ Arthur
 |   1    |  Definir os artefatos que serão produzidos para a segunda entrega |    todos        | 12/10/2023 |
 
 
-**Fonte:** [Limirio Correia](https://github.com/LimirioGuimaraes)
+**Fonte:** [Limirio Guimarães](https://github.com/LimirioGuimaraes)
 
 </center>
 
@@ -94,7 +94,7 @@ A próxima reunião ficou marcada para o dia 12/10/2023, às 22:00.
 | 6     | Padronizar histórico de versões                           | Luís                                           | 15/10/2023|
 
 
-**Fonte:** [Limirio Correia](https://github.com/LimirioGuimaraes)
+**Fonte:** [Limirio Guimarães](https://github.com/LimirioGuimaraes)
 
 </center>
 
@@ -102,4 +102,4 @@ A próxima reunião ficou marcada para o dia 12/10/2023, às 22:00.
 
 | Versão | Data      | Descrição | Autor | Revisor |
 | :-:    | :-----:   | :------   | ----  | ------- |
-| 1.0    |05/10/2023 | Criação da quarta ata |[Limirio Correia](https://github.com/LimirioGuimaraes)| [Milena Baruc](https://github.com/MilenaBaruc) |
+| 1.0    |05/10/2023 | Criação da quarta ata |[Limirio Guimarães](https://github.com/LimirioGuimaraes)| [Milena Baruc](https://github.com/MilenaBaruc) |
