@@ -107,7 +107,7 @@ Fonte: [Limirio Guimarães](https://github.com/LimirioGuimaraes)
 ## Bibliografia
 > KLAUS POHL, CHRIS RUPP. Requirements Engineering Fundamentals.
 
-## Histórico de Versões
+## 📑 Histórico de Versões
 |Versão|Data|Descrição|Autor|Revisor|
 |:----:|----|---------|-----|:-------:|
 |`1.0`|16/11/2023|Criação do documento|[Luis Miranda](https://github.com/LuisMiranda10) |[Limirio Guimarães](https://github.com/LimirioGuimaraes)| 
