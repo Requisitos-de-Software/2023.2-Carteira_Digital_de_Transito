@@ -50,9 +50,9 @@ Abaixo, é mostrado na tabela 1 os partipantes que estiverem presente na gravaç
 <h1>Entrega 2</h1>
 </summary>
 
-<p style="text-align: center"><a href="https://youtu.be/fwnilCMhktQ?si=-gzGJJkNhZOEhSKR" target="blanket">Vídeo apresentação 2</a></p>
+<p style="text-align: center"><a href="https://www.youtube.com/watch?v=i3t4XcQb4po" target="blanket">Vídeo apresentação 2</a></p>
 
-<p style="text-align: center"><iframe width="560" height="315" src="https://www.youtube.com/embed/fwnilCMhktQ?si=skG-3-fa_WKiKIiS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
+<p style="text-align: center"><iframe width="560" height="315" src="https://www.youtube.com/watch?v=i3t4XcQb4po" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
 
 Fonte: [Luis Miranda](https://github.com/LuisMiranda10.png)
 
