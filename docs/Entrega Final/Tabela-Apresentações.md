@@ -12,9 +12,16 @@ Esse documento vai apresentar os vídeos das apresentações de cada etapa do pr
 <h1>Entrega 1</h1>
 </summary>
 
-<p style="text-align: center"><a href="https://www.youtube.com/watch?v=e7p8hn9R-GQ" target="blanket">Vídeo apresentação 1</a></p>
+O vídeo no qual contém a apresentação de três participantes que foram gravados dentro do prazo de entrega não foram colocados quando foi enviado ao aprender 1 por quem enviou o arquivo, abaixo segue os vídeos com as respectivas datas da gravação ( estão no vídeo ) 
+
+<p style="text-align: center"><a href="https://www.youtube.com/watch?v=e7p8hn9R-GQ" target="blanket">Vídeo apresentação 1 sem 3 participantes</a></p>
+
+<p style="text-align: center"><a href="https://youtu.be/Vs6mQh16G1A" target="blanket">Vídeo apresentação 1 dos 3 participantes</a></p>
 
 <p style="text-align: center"><iframe width="560" height="315" src="https://www.youtube.com/embed/e7p8hn9R-GQ?si=l3UxJROddI4ttsoe" title="Apresentação 20/09/2023" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
+
+<p style="text-align: center"><iframe width="560" height="315" src="https://youtu.be/Vs6mQh16G1A" title="Apresentação 20/09/2023" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
+
 
 Fonte: [Luis Miranda](https://github.com/LuisMiranda10.png)
 
