@@ -182,7 +182,7 @@ Fonte: [Altino Arthur](https://github.com/arthurrochamoreira)
 
 Na Tabela 10, tem-se o cronograma planejado para todas as atividades da entrega 5.1.
 
-<p align="center"><b>Tabela 10</b>  - Planejamento do cronograma etapa 5.1 - Análise de Requisitos </p>
+<p align="center"><b>Tabela 10</b>  - Planejamento do cronograma etapa 5.1 - Análise de Requisitos I </p>
 
 | **Atividade**                                   | **Início** | **Fim**     | **Responsáveis**                        | **Revisores**                           | **Data de Revisão** |
 |-----------------------------------------------|------------|------------|-----------------------------------------|-----------------------------------------|---------------------|
@@ -198,7 +198,7 @@ Fonte: [Altino Arthur](https://github.com/arthurrochamoreira)
 
 Na Tabela 11, tem-se o cronograma executado para todas as atividades da entrega 5.1.
 
-<p align="center"><b>Tabela 11</b> - Cronograma executado da etapa 5.1 - Análise de Requisitos</p>
+<p align="center"><b>Tabela 11</b> - Cronograma executado da etapa 5.1 - Análise de Requisitos I </p>
 
 | **Atividade**                                   | **Início** | **Fim**     | **Responsáveis**                        | **Revisores**                           | **Data de Revisão** |
 |-----------------------------------------------|------------|------------|-----------------------------------------|-----------------------------------------|---------------------|
@@ -209,15 +209,16 @@ Na Tabela 11, tem-se o cronograma executado para todas as atividades da entrega 
 | Verificação Grupo 3 - Brainstorming, Introspecção, Observação e Questionário   | 07/11/2023 | 12/11/2023 | Limírio                               | Mayara                               | 12/11/2023          |
 | Verificação Grupo 3 - Aplicativo selecionado, Heatmap e Termos de Uso  |  07/11/2023 | 13/11/2023 | Luis                     | Milena Baruc                              | 13/11/2023       |
 | Verificação Grupo 3 - Especificação suplementar  |  07/11/2023 | 12/11/2023 | Breno                    | Mayara | 12/11/2023       |
-| Gravar reunião                                 | 13/11/2023 | 13/11/2023 | Mayara, Milena, Arthur, Altino         |                                         | 06/11/2023          |
+| Gravar reunião                                 | 13/11/2023 | 13/11/2023 | Mayara, Milena, Arthur, Altino         |                                         | 13/11/2023        |
 | Correção após a Entrega 5.1                    | 14/11/2023 | 17/11/2023 | Altino, Breno, Limírio, Luis, Mayara, Milena, Vinícius | Altino, Breno, Limírio, Luis, Mayara, Milena, Vinícius | 17/11/2023          |
 
+Fonte: [Mayara Alves](https://github.com/Mayara-tech)
 
 ### Cronograma planejado entrega 6.
 
-Na Tabela 11, tem-se o cronograma planejado para todas as atividades da sexta entrega.
+Na Tabela 12, tem-se o cronograma planejado para todas as atividades da sexta entrega.
 
-<p align="center"><b>Tabela 11</b> - Planejamento do cronograma etapa 6 - Pós-Rastreabilidade </p>
+<p align="center"><b>Tabela 12</b> - Planejamento do cronograma etapa 6 - Pós-Rastreabilidade </p>
 
 
 | **Atividade**                            | **Início** | **Fim**     | **Responsáveis**              | **Revisores**                 | **Data de Revisão** |
@@ -229,12 +230,26 @@ Na Tabela 11, tem-se o cronograma planejado para todas as atividades da sexta en
 
 Fonte: [Altino Arthur](https://github.com/arthurrochamoreira)
 
+### Cronograma executado entrega 6.
+
+Na Tabela 13, tem-se o cronograma executado para todas as atividades da quarta entrega.
+
+<p align="center"><b>Tabela 13</b> - Cronograma executado da etapa 6 - Pós-Rastreabilidade</p>
+
+| **Atividade**                                   | **Início** | **Fim**     | **Responsáveis**                        | **Revisores**                           | **Data de Revisão** |
+|-----------------------------------------------|------------|------------|-----------------------------------------|-----------------------------------------|---------------------|
+| Pós-rastreabilidade  | 16/11/2023 | 20/11/2023  | Altino, Breno, Limírio, Luis, Mayara, Milena, Vinícius | Altino, Breno, Limírio, Luis, Mayara, Milena, Viníciu   | 20/11/2023          |
+| Matriz de rastreabilidade    | 16/11/2023 | 20/11/2023  | Altino, Breno, Limírio, Luis, Mayara, Milena, Vinícius | Altino, Breno, Limírio, Luis, Mayara, Milena, Viníciu   | 20/11/2023          |
+| Gravar reunião                          | 20/11/2023 | 20/11/2023 | Altino, Breno, Limírio, Luis, Mayara, Milena, Vinícius | Altino, Breno, Limírio, Luis, Mayara, Milena, Vinícius | 20/11/2023          |
+| Correção após a Entrega 6               | 21/11/2023 | 25/11/2023 | Altino, Breno, Limírio, Luis, Mayara, Milena, Vinícius | Altino, Breno, Limírio, Luis, Mayara, Milena, Vinícius | 25/11/2023          |
+
+Fonte: [Mayara Alves](https://github.com/Mayara-tech)
 
 ### Cronograma planejado entrega 5.2
 
-Na Tabela 12, tem-se o cronograma planejado para todas as atividades da entrega 5.2.
+Na Tabela 14, tem-se o cronograma planejado para todas as atividades da entrega 5.2.
 
-<p align="center"><b>Tabela 12</b> - Planejamento do cronograma etapa 5.2 - Análise de Requisitos </p>
+<p align="center"><b>Tabela 14</b> - Planejamento do cronograma etapa 5.2 - Análise de Requisitos II </p>
 
 | **Atividade**                            | **Início** | **Fim**     | **Responsáveis**              | **Revisores**                 | **Data de Revisão** |
 |----------------------------------------|------------|------------|-------------------------------|------------------------------|---------------------|
@@ -245,6 +260,20 @@ Na Tabela 12, tem-se o cronograma planejado para todas as atividades da entrega 
 
 Fonte: [Altino Arthur](https://github.com/arthurrochamoreira)
 
+### Cronograma executado entrega 5.2.
+
+Na Tabela 15, tem-se o cronograma executado para todas as atividades da quarta entrega.
+
+<p align="center"><b>Tabela 15</b> - Cronograma executado da etapa 6 - Análise de Requisitos II</p>
+
+| **Atividade**                                   | **Início** | **Fim**     | **Responsáveis**                        | **Revisores**                           | **Data de Revisão** |
+|-----------------------------------------------|------------|------------|-----------------------------------------|-----------------------------------------|---------------------|
+| Pós-rastreabilidade  | 16/11/2023 | 20/11/2023  | Altino, Breno, Limírio, Luis, Mayara, Milena, Vinícius | Altino, Breno, Limírio, Luis, Mayara, Milena, Viníciu   | 20/11/2023          |
+| Matriz de rastreabilidade    | 16/11/2023 | 20/11/2023  | Altino, Breno, Limírio, Luis, Mayara, Milena, Vinícius | Altino, Breno, Limírio, Luis, Mayara, Milena, Viníciu   | 20/11/2023          |
+| Gravar reunião                          | 04/12/2023 | 04/12/2023 | Altino, Breno, Limírio, Luis, Mayara, Milena, Vinícius | Altino, Breno, Limírio, Luis, Mayara, Milena, Vinícius | 29/11/2023          |
+| Correção após a Entrega 5.2             | 05/12/2023 | 06/12/2023 | Altino, Breno, Limírio, Luis, Mayara, Milena, Vinícius | Altino, Breno, Limírio, Luis, Mayara, Milena, Vinícius | 06/12/2023          |
+
+Fonte: [Mayara Alves](https://github.com/Mayara-tech)
 
 
 ## Referências Bibliográficas
