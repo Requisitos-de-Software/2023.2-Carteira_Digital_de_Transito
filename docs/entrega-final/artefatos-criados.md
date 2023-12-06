@@ -97,11 +97,40 @@ Tabela 05: Verificação Dos artefatos do grupo 03<br/>
 
 | 			Artefato 			|	 Descrição 	| 				Autor(es)	 			| 				Revisor(es)				|
 | ----------------------------------------------------- | --------------------- | --------------------------------------------------------------------- | --------------------------------------------------------------------- |
-|[Rich Picture](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/pré-rastreabilidade/rich%20picture/)|Ferramenta visual para expressar ideias e analisar problemas.| [Milena Baruc](https://github.com/MilenaBaruc)|[Limírio Guimarães](https://github.com/LimirioGuimaraes) e [Mayara Alves](https://github.com/Mayara-tech)|
+|[Planejamento da Verificação](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/verificacao/grupo3/planejamendoDaVerificacao/)| Planejamento da verificação dos artefatos| [Limírio Guimarães](https://github.com/LimirioGuimaraes) | [Milena Baruc](https://github.com/MilenaBaruc) |
+|**Planejamento**|
+|[Padronização do Projeto](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/verificacao/grupo3/planejamento/padronizacaoDoProj/)|Verificação do artefato.|   |   |
+|[Rich Picture](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/verificacao/grupo3/planejamento/richPicure/)|Verificação do artefato.| [Mayara Alves](https://github.com/Mayara-tech) |  [Milena Baruc](https://github.com/MilenaBaruc) |
+|[Aplicativo selecionado](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/verificacao/grupo3/planejamento/AplicativoSelecionado/)|Verificação do artefato.|  [Luis Eduardo](https://github.com/LuisMiranda10)| [Milena Baruc](https://github.com/MilenaBaruc)  |
+|[Cronograma](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/verificacao/grupo3/planejamento/cronograma/)|Verificação do artefato.| [Mayara Alves](https://github.com/Mayara-tech) |  [Milena Baruc](https://github.com/MilenaBaruc) |
+|[Ferramentas](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/verificacao/grupo3/planejamento/ferramentasDeUso/)|Verificação do artefato.|  [Milena Baruc](https://github.com/MilenaBaruc) |   [Mayara Alves](https://github.com/Mayara-tech) |
+|[Heatmap](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/verificacao/grupo3/planejamento/heatmap/)|Verificação do artefato.|  [Luis Eduardo](https://github.com/LuisMiranda10)| [Milena Baruc](https://github.com/MilenaBaruc)  |
+|[Termos de Uso](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/verificacao/grupo3/planejamento/TermosDeUso/)|Verificação do artefato.| [Luis Eduardo](https://github.com/LuisMiranda10)| [Milena Baruc](https://github.com/MilenaBaruc)  |
+|**Elicitação**|
+|[Personas](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/verificacao/grupo3/elicitacao/personas/)|Verificação do artefato.| [Vinicius Mendes](https://github.com/yabamiah)| [Milena Baruc](https://github.com/MilenaBaruc) |
+|**Técnicas de Elicitação**|
+|[Brainstorming](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/verificacao/grupo3/elicitacao/tecnicasDeElicitacao/brainstorming/)|Verificação do artefato.| [Limírio Guimarães](https://github.com/LimirioGuimaraes)  |[Mayara Alves](https://github.com/Mayara-tech)|
+|[Introspecção](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/verificacao/grupo3/elicitacao/tecnicasDeElicitacao/introspeccao/)|Verificação do artefato.|[Limírio Guimarães](https://github.com/LimirioGuimaraes)|[Mayara Alves](https://github.com/Mayara-tech)|
+|[Observação](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/verificacao/grupo3/elicitacao/tecnicasDeElicitacao/observacao/)|Verificação do artefato.|[Limírio Guimarães](https://github.com/LimirioGuimaraes)|[Mayara Alves](https://github.com/Mayara-tech)|
+|[Questionário](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/verificacao/grupo3/elicitacao/tecnicasDeElicitacao/questionario/)|Verificação do artefato.|[Limírio Guimarães](https://github.com/LimirioGuimaraes)|[Mayara Alves](https://github.com/Mayara-tech)|
+|**Priorização de Requisitos**|
+|[Introdução (Priorização de Requisitos)](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/verificacao/grupo3/elicitacao/priorizacao/Introducao_Priorizacao/)|Verificação do artefato.| [Milena Baruc](https://github.com/MilenaBaruc) |[Mayara Alves](https://github.com/Mayara-tech)|
+|[$100](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/verificacao/grupo3/elicitacao/priorizacao/%24100/)|Verificação do artefato.| [Milena Baruc](https://github.com/MilenaBaruc) |[Mayara Alves](https://github.com/Mayara-tech)|
+|[Moscow](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/verificacao/grupo3/elicitacao/priorizacao/moscow/)|Verificação do artefato.|  [Vinicius Mendes](https://github.com/yabamiah) |[Milena Baruc](https://github.com/MilenaBaruc)|
+|[Three Level Scale](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/verificacao/grupo3/elicitacao/priorizacao/ThreeLevelScale/)|Verificação do artefato.|  [Mayara Alves](https://github.com/Mayara-tech)|[Milena Baruc](https://github.com/MilenaBaruc)|
+|**Modelagem**|
+|[Cenários](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/verificacao/grupo3/modelagem/cenarios/)|Verificação do artefato.| [Mayara Alves](https://github.com/Mayara-tech)|[Milena Baruc](https://github.com/MilenaBaruc)|
+|[Léxicos](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/verificacao/grupo3/modelagem/lexicos/)|Verificação do artefato.| [Vinicius Mendes](https://github.com/yabamiah) |[Milena Baruc](https://github.com/MilenaBaruc)|
+|[Casos de Uso](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/verificacao/grupo3/modelagem/casosDeUso/)|Verificação do artefato.|[Vinicius Mendes](https://github.com/yabamiah)|[Milena Baruc](https://github.com/MilenaBaruc)|
+|[Especificação Suplementar](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/verificacao/grupo3/modelagem/especificacaoSuplementar/)|Verificação do artefato.| [Breno Queiroz](https://github.com/brenob6)|[Limírio Guimarães](https://github.com/LimirioGuimaraes)|
+|**Modelagem Ágil**|
+|[Backlog do produto](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/verificacao/grupo3/backlog/)|Verificação do artefato.| [Altino Arthur](https://github.com/arthurrochamoreira)|[Milena Baruc](https://github.com/MilenaBaruc)|
+|[Histórias de Usuário](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/verificacao/grupo3/verificacao-historias-de-usuario/)|Verificação do artefato.| [Altino Arthur](https://github.com/arthurrochamoreira)|[Milena Baruc](https://github.com/MilenaBaruc)|
+|[NFR Framework](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/verificacao/grupo3/modelagem/agil/nfr/)|Verificação do artefato.|[Breno Queiroz](https://github.com/brenob6)|[Limírio Guimarães](https://github.com/LimirioGuimaraes)|
 
 Fonte: [Limirio Guimarães](https://github.com/LimirioGuimaraes)
 
-Tabela 06: Verificação Dos artefatos do grupo 03<br/>
+Tabela 06: Verificação Dos artefatos do nosso grupo <br/>
 
 | 			Artefato 			|	 Descrição 	| 				Autor(es)	 			| 				Revisor(es)				|
 | ----------------------------------------------------- | --------------------- | --------------------------------------------------------------------- | --------------------------------------------------------------------- |
