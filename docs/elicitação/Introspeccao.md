@@ -43,7 +43,7 @@ Após o exercício mental de utilizar o aplicativo da Carteira Digital de Trâns
 |ITP20 |Aplicativo deve evitar erros e telas brancas durante o uso 							|RNF  |  Não implementado    |
 |ITP21 |Possui modo escuro/claro																|RNF  |  Não implementado   |
 
-<p align="center"><b>Fonte</b>: Limírio Guimarães, Breno Queiroz e Mayara Alves </p>
+<p align="center"><b>Fonte</b>:  [Breno Queiroz](https://github.com/brenob6), [Limirio Guimarães](https://github.com/LimirioGuimaraes) e [Mayara Alves](https://github.com/Mayara-tech) </p>
 
 ## Bibliografia
 > Elicitação de Requisitos, PUC-Rio. Disponível em: [https://www.maxwell.vrac.puc-rio.br/15760/15760_3.PDF](https://www.maxwell.vrac.puc-rio.br/15760/15760_3.PDF).<br>
