@@ -33,7 +33,7 @@ Tabela 2: Pré-rastreabilidade<br/>
 
 | 			Artefato 			|	 Descrição 	| 				Autor(es)	 			| 				Revisor(es)				|
 | ----------------------------------------------------- | --------------------- | --------------------------------------------------------------------- | --------------------------------------------------------------------- |
-|[Rich Picture](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/pré-rastreabilidade/rich%20picture/)|Ferramenta visual para expressar ideias e analisar problemas.| [Milena Baruc](https://github.com/MilenaBaruc)|[Limírio Guimarães](https://github.com/LimirioGuimaraes) e Mayara Alves](https://github.com/Mayara-tech)|
+|[Rich Picture](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/pré-rastreabilidade/rich%20picture/)|Ferramenta visual para expressar ideias e analisar problemas.| [Milena Baruc](https://github.com/MilenaBaruc)|[Limírio Guimarães](https://github.com/LimirioGuimaraes) e [Mayara Alves](https://github.com/Mayara-tech)|
 
 Fonte: [Limirio Guimarães](https://github.com/LimirioGuimaraes)
 
