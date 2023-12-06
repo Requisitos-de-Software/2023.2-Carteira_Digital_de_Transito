@@ -2,7 +2,7 @@
 
 ## Introdução
 
-Esse documento vai apresentar os vídeos das apresentações de cada etapa do projeto com os links e com os nomes de cada participante do grupo que estavam presentes nas gravações.
+Esse documento vai apresentar os vídeos das apresentações de cada etapa do projeto do aplicativo [Carteira Digital de Trânsito](https://github.com/Requisitos-de-Software/2023.2-Carteira_Digital_de_Transito/blob/main/README.md), na matéria de Engenharia de Requisitos (REQ), com os links e com os nomes de cada participante do grupo que estavam presentes nas gravações.
 
 ## Vídeos de Apresentações
 
