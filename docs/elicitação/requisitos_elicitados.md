@@ -75,7 +75,7 @@ Fonte: [Luis Miranda](https://github.com/LuisMiranda10) e [Mayara Alves](https:/
 | [ENT](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/elicita%C3%A7%C3%A3o/entrevista/) | O aplicativo deve notificar o usuário sobre recalls e informações importantes do fabricante do veículo. | RF30 | Não implementado |
 | [ENT](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/elicita%C3%A7%C3%A3o/entrevista/) | Deve ser possível obter informações sobre as normas de trânsito, regulamentações e penalidades em vigor. | RF31 | Não implementado |
 
-Fonte: [Limírio](https://github.com/LimirioGuimaraes), [Luis Miranda](https://github.com/LuisMiranda10) e [Mayara Alves](https://github.com/Mayara-tech)
+Fonte: [Limírio Guimarães](https://github.com/LimirioGuimaraes), [Luis Miranda](https://github.com/LuisMiranda10) e [Mayara Alves](https://github.com/Mayara-tech)
   
 </center>
 
@@ -98,7 +98,7 @@ Fonte: [Limírio](https://github.com/LimirioGuimaraes), [Luis Miranda](https://g
 
 
 
-Fonte: [Limírio](https://github.com/LimirioGuimaraes), [Luis Miranda](https://github.com/LuisMiranda10) e [Mayara Alves](https://github.com/Mayara-tech)
+Fonte: [Limírio Guimarães](https://github.com/LimirioGuimaraes), [Luis Miranda](https://github.com/LuisMiranda10) e [Mayara Alves](https://github.com/Mayara-tech)
   
 </center>
 
@@ -107,9 +107,9 @@ Fonte: [Limírio](https://github.com/LimirioGuimaraes), [Luis Miranda](https://g
 
 | Versão |    Data    |    Descrição         | Autor(es)  |    Revisor(es) |                  
 |:-----: | :--------: | :-------------:      | :--------: | :-------------:| 
-| `1.0`    | 30/09/2023  | Criação do documento | Breno e [Limírio](https://github.com/LimirioGuimaraes)| [Mayara Alves](https://github.com/Mayara-tech)|
+| `1.0`    | 30/09/2023  | Criação do documento | Breno e [Limírio Guimarães](https://github.com/LimirioGuimaraes)| [Mayara Alves](https://github.com/Mayara-tech)|
 | `1.1`    | 21/10/2023  | Modificação da introdução e adição da rastreabilidade da tabela |[Luis Miranda](https://github.com/LuisMiranda10) e [Mayara Alves](https://github.com/Mayara-tech)| [Vinícius Mendes](https://github.com/yabamiah)|
 | `1.2`    | 25/10/2023  | Adicionando cronograma de elicitação |[Mayara Alves](https://github.com/Mayara-tech)| [Vinícius Mendes](https://github.com/yabamiah)|
-| `2.0`    | 06/12/2023  | Correções aplicadas ao artefato após a verificação | [Limírio](https://github.com/LimirioGuimaraes)| [Mayara Alves](https://github.com/Mayara-tech)|
+| `2.0`    | 06/12/2023  | Correções aplicadas ao artefato após a verificação | [Limírio Guimarães](https://github.com/LimirioGuimaraes)| [Mayara Alves](https://github.com/Mayara-tech)|
 
 
