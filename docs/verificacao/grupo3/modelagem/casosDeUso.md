@@ -58,4 +58,4 @@ Na verificação deste artefato, foi possível analisar que o artefato foi feito
 
 | Versão | Data | Descrição | Autor | Revisor |
 |--------|------|------------|------|---------|
-| 1.0 | 12/11/2023 | Criação do documento e do seu conteúdo |  [Vinícius Mendes](https://github.com/yabamiah) | [Milena Baruc](https://github.com/MilenaBaruc) | 
+| `1.0` | 12/11/2023 | Criação do documento e do seu conteúdo |  [Vinícius Mendes](https://github.com/yabamiah) | [Milena Baruc](https://github.com/MilenaBaruc) | 
