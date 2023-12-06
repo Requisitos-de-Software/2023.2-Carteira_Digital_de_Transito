@@ -231,7 +231,7 @@ Abaixo, é mostrado na tabela 7 os partipantes que estiverem presente na gravaç
 
 | **Versão** | **Data** | **Descrição** | **Autor** | **Revisor** |
 |--------|------|------------|--------|--------|
-|`1.0` | 20/10/2023 | Criação da página da Tabela de Apresentações| [Luis Miranda](https://github.com/LuisMiranda10) | |
+|`1.0` | 20/10/2023 | Criação da página da Tabela de Apresentações| [Luis Miranda](https://github.com/LuisMiranda10) | [Breno Queiroz](https://github.com/brenob6)|
 
 
 
