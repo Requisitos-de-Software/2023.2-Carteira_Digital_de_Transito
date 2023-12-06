@@ -17,6 +17,8 @@ O cenário imaginário elaborado foi: "Um jovem que tirou recentemente sua carte
 ## Requisitos Elicitados
 Após o exercício mental de utilizar o aplicativo da Carteira Digital de Trânsito para solucionar o problema de um usuário imaginário, conseguimos eliciar os requisitos apresentados na Tabela 1. Identificamos cada requisito por uma sigla formada por "ITP" + um número. Para representar o tipo do requisito, serão usadas as siglas "RF" ou "RNF", que representam o tipo do requisito funcional ou não funcional. Também indicaremos se já há uma implementação do requisito no aplicativo.
 
+<center>
+
 <p align="center"><b>Tabela 01</b> - Requisitos elicitados </p>
 
 | **Identificador** | **Requisitos** | **Tipo** | **Implementado** |
@@ -43,7 +45,9 @@ Após o exercício mental de utilizar o aplicativo da Carteira Digital de Trâns
 |ITP20 |Aplicativo deve evitar erros e telas brancas durante o uso 							|RNF  |  Não implementado    |
 |ITP21 |Possui modo escuro/claro																|RNF  |  Não implementado   |
 
-<p align="center"><b>Fonte</b>:  [Breno Queiroz](https://github.com/brenob6), [Limirio Guimarães](https://github.com/LimirioGuimaraes) e [Mayara Alves](https://github.com/Mayara-tech) </p>
+Fonte: [Breno Queiroz](https://github.com/brenob6), [Limirio Guimarães](https://github.com/LimirioGuimaraes) e [Mayara Alves](https://github.com/Mayara-tech) 
+
+</center>
 
 ## Bibliografia
 > Elicitação de Requisitos, PUC-Rio. Disponível em: [https://www.maxwell.vrac.puc-rio.br/15760/15760_3.PDF](https://www.maxwell.vrac.puc-rio.br/15760/15760_3.PDF).<br>
