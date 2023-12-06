@@ -152,7 +152,7 @@ As personas criadas possuem as características apresentadas na seção de <a hr
 
 > MACHADO, M. et al. Personas. Repositório da disciplina de Requisitos de Software da Universidade de Brasília, 2022. Disponível em: [https://requisitos-de-software.github.io/2022.2-Lichess/elicitacao/personas/](https://requisitos-de-software.github.io/2022.2-Lichess/elicitacao/personas/). Acesso em: 25 abr. 2023.
 
-## Histórico de Versões
+## 📑 Histórico de Versões
 
 | Versão | Data       | Descrição                                 | Autor(es)                                                                                           | Revisor(es)                                      |
 | ------ | ---------- | ----------------------------------------- | --------------------------------------------------------------------------------------------------- | ------------------------------------------------ |
