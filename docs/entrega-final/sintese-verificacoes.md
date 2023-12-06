@@ -49,13 +49,14 @@ As verificação seguira
 
     | Artefato | Autor | Revisor |
     |---|---|---|
-    | Perfil de Usuário | Vinicíus Mendes |  |
-    | Introspecção | Luis Miranda | Vinicius Mendes |
-    | Storyboard | Mayara Alves | Limirio Guimarães|
-    | Glossário | Limirio Guimarães | |
-    | Questionário | Vinícius Mendes |
-    | $100 | Luis Miranda | Vinícius Mendes |
-    | First Things First | Mayara Alves |
+    | [Perfil de Usuário](../../verificacao/grupo2/elicitação/PerfildeUsuário) | Vinicíus Mendes |  |
+    | [Introspecção](../../verificacao/grupo2/elicitação/Introspecção) | Luis Miranda | Vinicius Mendes |
+    | [Storyboard](../../verificacao/grupo2/elicitação/Storyboard) | Mayara Alves | Limirio Guimarães|
+    | [Glossário](../../verificacao/grupo2/elicitação/Glossario) | Limirio Guimarães | |
+    | [Questionário](../../verificacao/grupo2/elicitação/questionários) | Vinícius Mendes |
+    | [Entrevista](../../verificacao/grupo2/elicitação/entrevista) | Milena Baruc | Luis Miranda |
+    | [$100](../../verificacao/grupo2/elicitação/100$) | Luis Miranda | Vinícius Mendes |
+    | [First Things First](../../verificacao/grupo2/elicitação/FirstThingsFirst) | Mayara Alves |
 
     **Fonte**: [Breno Queiroz](https://github.com/brenob6)
 

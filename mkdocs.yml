@@ -104,15 +104,15 @@ nav:
       - Pre-rastreabilidade:
         - Rich picture: verificacao/grupo2/Pre-rastreabilidade/RichPicture.md
       - Elicitação:
-        - Perfil de Usuário: verificacao/grupo2/altino-luis-vinicius/Verificação Perfil de Usuário.md
+        - Perfil de Usuário: verificacao/grupo2/elicitação/PerfildeUsuário.md
         - Técnicas:
-          - Introspecção: verificacao/grupo2/altino-luis-vinicius/Introspecção.md
-          - Storyboard: verificacao/grupo2/ElicitacaoRequisitos/Storyboard.md
-          - Glossário: verificacao/grupo2/ElicitacaoRequisitos/Glossario.md
-          - Questionário: verificacao/grupo2/altino-luis-vinicius/Verificação Questionários.md
+          - Introspecção: verificacao/grupo2/elicitação/Introspecção.md
+          - Storyboard: verificacao/grupo2/elicitação/Storyboard.md
+          - Glossário: verificacao/grupo2/elicitação/Glossario.md
+          - Questionário: verificacao/grupo2/elicitação/questionários.md
         - Priorização de requisitos:
-          - $100: verificacao/grupo2/altino-luis-vinicius/100$.md
-          - First Things First: verificacao/grupo2/priorizacao/FirstThingsFirst.md 
+          - $100: verificacao/grupo2/elicitação/100$.md
+          - First Things First: verificacao/grupo2/elicitação/FirstThingsFirst.md 
       - Modelagem:
         - Léxicos: verificacao/grupo2/modelagem/lexicos.md  
         - Modelagem Ágil:
