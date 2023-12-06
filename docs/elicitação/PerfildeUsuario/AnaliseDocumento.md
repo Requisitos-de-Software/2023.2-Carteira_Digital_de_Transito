@@ -18,7 +18,9 @@ Podemos observar na figura 1, o crescimento no número de condutores de veiculos
 
 <font size="3"><p style="text-align: center">**Figura 1** - Total de condutores</p></font>
 <center>
-![Figura 1. Total de condutores](../../assets/Grafico-totalCondutores.PNG){center}
+    
+![Figura 1. Total de condutores](../../assets/Grafico-totalCondutores.PNG)
+    
 </center>
 <font size="3"><p style="text-align: center">Fonte: GDF/SSP/DETRAN/DG/DIRTEC.</p></font>
 
