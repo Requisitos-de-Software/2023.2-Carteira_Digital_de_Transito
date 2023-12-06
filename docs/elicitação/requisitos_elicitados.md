@@ -38,7 +38,7 @@ Fonte: [Luis Miranda](https://github.com/LuisMiranda10) e [Mayara Alves](https:/
 </center>
 
 
-<p align="center"><b>Tabela 03</b> - Requisitos elicitados no aplicativo Carteira Digital de Trânsito.</p>
+<p align="center"><b>Tabela 03</b> - Requisitos funcionais  elicitados no aplicativo Carteira Digital de Trânsito.</p>
 <center>
 
 |Rastreabilidade |Requisito| Tipo | Implementação|
@@ -79,6 +79,24 @@ Fonte: [Limírio](https://github.com/LimirioGuimaraes), [Luis Miranda](https://g
   
 </center>
 
+<p align="center"><b>Tabela 04</b> - Requisitos não funcionais elicitados no aplicativo Carteira Digital de Trânsito.</p>
+<center>
+
+| [ITP](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/elicita%C3%A7%C3%A3o/Introspeccao/) |O aplicativo permite visualizar a politica de privicidade |RNF1   |  Implementado   |
+| [ITP](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/elicita%C3%A7%C3%A3o/Introspeccao/) |Validar cadastro de CNH |RNF2   | Implementado     |
+| [ITP](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/elicita%C3%A7%C3%A3o/Introspeccao/) |Aplicativo funciona em multisistemas (android e IOS)|RNF3  |  Implementado    |
+| [ITP](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/elicita%C3%A7%C3%A3o/Introspeccao/) |Aplicativo possui interface simple |RNF4   | Implementado    |
+| [ITP](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/elicita%C3%A7%C3%A3o/Introspeccao/) |Aplicativo deve evitar erros e telas brancas durante o uso |RNF5  |  Não implementado    |
+| [ITP](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/elicita%C3%A7%C3%A3o/Introspeccao/) |Possui modo escuro/claro|RNF6  |  Não implementado   |
+| [GL](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/elicita%C3%A7%C3%A3o/glossario/) | Facilitar o usuário a chegar a funcionalidade de aderir ao SNE| RNF7 | Implementado |
+| [SB](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/elicita%C3%A7%C3%A3o/storyboard/) |Deve ser possível acessar a CNH(digital) mesmo sem acesso a internet.| RNF8 | Implementado
+| [SB](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/elicita%C3%A7%C3%A3o/storyboard/) |Deve existir um prazo de validade do compartilhamento da CNH.| RNF9 | Não implementado
+| [SB](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/elicita%C3%A7%C3%A3o/storyboard/), [ENT](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/elicita%C3%A7%C3%A3o/entrevista/) |O aplicativo deve alertar o usuário caso seja multado .|RNF10 | Não implementado
+
+Fonte: [Limírio](https://github.com/LimirioGuimaraes), [Luis Miranda](https://github.com/LuisMiranda10) e [Mayara Alves](https://github.com/Mayara-tech)
+  
+</center>
+
 
 ## 📑 Histórico de versões:
 
@@ -87,5 +105,6 @@ Fonte: [Limírio](https://github.com/LimirioGuimaraes), [Luis Miranda](https://g
 | `1.0`    | 30/09/2023  | Criação do documento | Breno e [Limírio](https://github.com/LimirioGuimaraes)| [Mayara Alves](https://github.com/Mayara-tech)|
 | `1.1`    | 21/10/2023  | Modificação da introdução e adição da rastreabilidade da tabela |[Luis Miranda](https://github.com/LuisMiranda10) e [Mayara Alves](https://github.com/Mayara-tech)| [Vinícius Mendes](https://github.com/yabamiah)|
 | `1.2`    | 25/10/2023  | Adicionando cronograma de elicitação |[Mayara Alves](https://github.com/Mayara-tech)| [Vinícius Mendes](https://github.com/yabamiah)|
+| `2.0`    | 06/12/2023  | Correções aplicadas ao artefato após a verificação | [Limírio](https://github.com/LimirioGuimaraes)| [Mayara Alves](https://github.com/Mayara-tech)|
 
 
