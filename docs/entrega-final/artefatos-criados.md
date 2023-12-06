@@ -47,7 +47,7 @@ Tabela 3: Artefatos criados durante a etapa de elicitação de requisitos<br/>
 
 | 			Artefato 			|	 Descrição 	| 				Autor(es)	 			| 				Revisor(es)				|
 | ----------------------------------------------------- | --------------------- | --------------------------------------------------------------------- | --------------------------------------------------------------------- |
-|Definição Perfil de Usuário|
+|**Definição Perfil de Usuário**|
 |[Questionário](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/elicitação/PerfildeUsuario/Questionario/)| Técnica para obtenção de dados demográficos dos usuários | [Mayara Alves](https://github.com/Mayara-tech)|[Breno Queiroz](https://github.com/brenob6)|
 |[Análise de documentos](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/elicitação/PerfildeUsuario/AnaliseDocumento/)| Examina documentos, registros e fontes de informações relevantes para entender o perfil do usuário e suas necessidades  |  [Mayara Alves](https://github.com/Mayara-tech)|[Breno Queiroz](https://github.com/brenob6)|
 |[Perfil de Usuário](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/elicitação/PerfildeUsuario/PerfilUsuario/)| Perfil definido aos usuários do aplicativo | [Mayara Alves](https://github.com/Mayara-tech)|[Breno Queiroz](https://github.com/brenob6)|
