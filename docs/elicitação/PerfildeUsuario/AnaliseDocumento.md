@@ -22,7 +22,7 @@ Podemos observar na figura 1, o crescimento no número de condutores de veiculos
 </center>
 <font size="3"><p style="text-align: center">Fonte: GDF/SSP/DETRAN/DG/DIRTEC.</p></font>
 
-### - Características dos Condutores por Faixa Etária, 2º Trimestre de 2023 
+### Características dos Condutores por Faixa Etária, 2º Trimestre de 2023 
 Podemos observar na figura 2, que as principais faixa etárias caracteristica do condutor do distrito federal são 40 a 49 anos  e de 30 a 39 anos.
 
 <font size="3"><p style="text-align: center">**Figura 2** - Faixa etária dos condutores</p></font>
@@ -34,7 +34,7 @@ Podemos observar na figura 2, que as principais faixa etárias caracteristica do
 
 <font size="3"><p style="text-align: center">Fonte: GDF/SSP/DETRAN/DG/DIRTEC.</p></font>
 
-### - Características dos Condutores por sexo, 2º Trimestre de 2023 
+### Características dos Condutores por sexo, 2º Trimestre de 2023 
 Podemos observar na figura 3, que 59% dos condutores do DF são do sexo masculino, enquanto os outros 41% são feminino.
 
 <font size="3"><p style="text-align: center">**Figura 3** - Sexo dos condutores</p></font>
@@ -45,20 +45,22 @@ Podemos observar na figura 3, que 59% dos condutores do DF são do sexo masculin
 </center>
 <font size="3"><p style="text-align: center">Fonte: GDF/SSP/DETRAN/DG/DIRTEC.</p></font>
 
-### - Características dos novos condutores por faixa etária, 2º Trimestre de 2023 
+### Características dos novos condutores por faixa etária, 2º Trimestre de 2023 
 Podemos observar na figura 4, que a principal faixa etária entre os novos condutores do DF é 20 a 29 anos.
 
 <font size="3"><p style="text-align: center">**Figura 4** - Faixa etária dos novos condutores</p></font>
 ![Figura 3.Faixa etária dos novos condutores](../../assets/Grafico-IdadeNovosCondutores.PNG)
 <font size="3"><p style="text-align: center">Fonte: GDF/SSP/DETRAN/DG/DIRTEC.</p></font>
 
-### - Características dos novos condutores por sexo, 2º Trimestre de 2023 
+### Características dos novos condutores por sexo, 2º Trimestre de 2023 
 Podemos observar na figura 5, que 51% dos condutores do DF são do sexo masculino, enquanto os outros 49% são feminino.
 
 <font size="3"><p style="text-align: center">**Figura 5** - Faixa etária dos novos condutores</p></font>
 <center>
-    ![Figura 5.Faixa etária dos novos condutores](../../assets/Grafico-sexoNovosCondutores.PNG)
+    
+![Figura 5.Faixa etária dos novos condutores](../../assets/Grafico-sexoNovosCondutores.PNG)
 </center>
+
 <font size="3"><p style="text-align: center">Fonte: GDF/SSP/DETRAN/DG/DIRTEC.</p></font>
 
 ## Referências bibliograficas 
@@ -73,4 +75,5 @@ Podemos observar na figura 5, que 51% dos condutores do DF são do sexo masculin
 
  Versão  |    Data    |                        Descrição                        |                                             Autor(es)                                             |                  Revisor(es)                   
  :-----: | :--------: | :-----------------------------------------------------: | :-----------------------------------------------------------------------------------------------: | :--------------------------------------------: 
-  `1.0`  | 20/10/2023 |            Criação da página de analise de documentos          | [Mayara Alves](https://github.com/Mayara-tech) | [Breno Queiroz](https://github.com/brenob6)
+`1.0`  | 20/10/2023 |            Criação da página de analise de documentos          | [Mayara Alves](https://github.com/Mayara-tech) | [Breno Queiroz](https://github.com/brenob6)
+`1.1`  | 06/12/2023 |            Correção do artefato         | [Mayara Alves](https://github.com/Mayara-tech) | [Breno Queiroz](https://github.com/brenob6)
