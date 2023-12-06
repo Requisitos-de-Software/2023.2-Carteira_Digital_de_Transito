@@ -12,7 +12,14 @@ A **Tabela 01** abrange os artefatos produzidos durante a fase de planejamento.
 
 Tabela 1: Planejamento<br/>
 
-
+| 			Artefato 			|	 Descrição 	| 				Autor(es)	 			| 				Revisor(es)				|
+| ----------------------------------------------------- | --------------------- | --------------------------------------------------------------------- | --------------------------------------------------------------------- |
+|[Ferramentas](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/planejamento/ferramenta/)| Ferramentas que a equipe planejou utilizar |  [Limírio Guimarães](https://github.com/LimirioGuimaraes) e  [Altino Arthur](https://github.com/arthurrochamoreira)| [Mayara Alves](https://github.com/Mayara-tech)|
+|[Cronograma](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/planejamento/cronograma/)| Cronograma planejada pelo grupo ao começo do semestre que foi sendo encrementado com sua versão executada| [Altino Arthur](https://github.com/arthurrochamoreira) , [Breno Queiroz](https://github.com/brenob6), [Luis Eduardo](https://github.com/LuisMiranda10), [Mayara Alves](https://github.com/Mayara-tech), [Milena Baruc](https://github.com/MilenaBaruc), e [Vinicius Mendes](https://github.com/yabamiah)|[Altino Arthur](https://github.com/arthurrochamoreira), [Luis Eduardo](https://github.com/LuisMiranda10) e [Vinicius Mendes](https://github.com/yabamiah) |
+|[Políticas](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/planejamento/políticas/)|Políticas de uso do git|[Breno Queiroz](https://github.com/brenob6) | [Luis Eduardo](https://github.com/LuisMiranda10)  |
+|[Aplicativo selecionado](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/planejamento/aplicativo/)|Aplicativo que a equipe selecionou para trabalhar durante o projeto|  [Mayara Alves](https://github.com/Mayara-tech) e [Milena Baruc](https://github.com/MilenaBaruc) |  [Limírio Guimarães](https://github.com/LimirioGuimaraes) e  [Vinicius Mendes](https://github.com/yabamiah)|
+|[Heatmap](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/planejamento/Heatmap/)| Heatmap de disponibilidade da equipe, utilizado para definir horário de reuniões |  [Limírio Guimarães](https://github.com/LimirioGuimaraes) | [Altino Arthur](https://github.com/arthurrochamoreira) , [Breno Queiroz](https://github.com/brenob6), [Luis Eduardo](https://github.com/LuisMiranda10), [Mayara Alves](https://github.com/Mayara-tech), [Milena Baruc](https://github.com/MilenaBaruc), e [Vinicius Mendes](https://github.com/yabamiah) |
+|[Metodologia](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/planejamento/metodologia/)| Define quais metodologias guiaram a equipe durante o projeto |[Breno Queiroz](https://github.com/brenob6)| [Mayara Alves](https://github.com/Mayara-tech)|
 
 Fonte: [Limirio Guimarães](https://github.com/LimirioGuimaraes)
 
