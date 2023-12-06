@@ -93,7 +93,7 @@ Na tabela 5, está verificado os principais léxicos que estão classificados co
 ## Bibliografia
 > SERRANO, Milene. Requisitos – Aula 10. 2017. Apresentação de slides. Disponível em: [https://aprender3.unb.br/pluginfile.php/2523091/mod_resource/content/1/Aula%2010.pdf](https://aprender3.unb.br/pluginfile.php/2523091/mod_resource/content/1/Aula%2010.pdf). 
 
-## Histórico de Versões
+## 📑 Histórico de Versões
 
 | **Versão** | **Data** | **Descrição** | **Autor** | **Revisor** |
 |--------|------|------------|--------|--------|
