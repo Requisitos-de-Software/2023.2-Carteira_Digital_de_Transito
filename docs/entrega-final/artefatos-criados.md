@@ -164,6 +164,20 @@ Fonte: [Limirio Guimarães](https://github.com/LimirioGuimaraes)
 
 </center>
 
+A **Tabela 07** abrange os artefatos de Rastreabilidade e Validação.
+
+<center> 
+
+Tabela 02: Pré-rastreabilidade<br/>
+
+| 			Artefato 			|	 Descrição 	| 				Autor(es)	 			| 				Revisor(es)				|
+| ----------------------------------------------------- | --------------------- | --------------------------------------------------------------------- | --------------------------------------------------------------------- |
+|[Rich Picture](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/pré-rastreabilidade/rich%20picture/)|Ferramenta visual para expressar ideias e analisar problemas.| [Milena Baruc](https://github.com/MilenaBaruc)|[Limírio Guimarães](https://github.com/LimirioGuimaraes) e [Mayara Alves](https://github.com/Mayara-tech)|
+
+Fonte: [Limirio Guimarães](https://github.com/LimirioGuimaraes)
+
+</center>
+
 ## Conclusão
 
 A compilação abrangente dos artefatos produzidos pela equipe durante o projeto reflete o comprometimento, a colaboração e a competência de todos os membros envolvidos. Cada artefato desempenhou um papel crucial no desenvolvimento do projeto, demonstrando a dedicação da equipe em alcançar os objetivos estabelecidos. Ao revisar as tabelas que listam os artefatos, é evidente que a equipe trabalhou de forma diligente e eficaz para entregar resultados de alta qualidade em todas as fases do projeto. A documentação desses artefatos não apenas serve como um registro tangível do trabalho realizado, mas também destaca a importância do trabalho em equipe, da comunicação eficaz e do compromisso com a excelência em todas as atividades realizadas.É com grande orgulho que apresentamos esta compilação de artefatos como prova do esforço conjunto da equipe. Cada artefato representa um marco significativo no caminho para o sucesso do projeto, e estamos confiantes de que essas realizações servirão como base sólida para projetos futuros.
