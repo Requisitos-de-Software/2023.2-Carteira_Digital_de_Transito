@@ -4,9 +4,29 @@
 
 Neste projeto realizado na disciplina de Requisitos de Software, percorremos várias etapas, desde o planejamento até a pós-rastreabilidade. Ao longo desse processo, enfrentamos desafios, tivemos momentos de facilidade e dificuldades. Esta seção do artefato final tem como objetivo relatar as metas alcançadas, os resultados obtidos e as experiências vivenciadas pelo Grupo 2.
 
-## Objetivo do Projeto
+# Objetivo do Projeto
 
-O trabalho realizado teve um impacto significativo no aprendizado de todos os membros da equipe. A colaboração e a disposição dos membros para ajudar uns aos outros foram pontos fortes, e sempre que surgia uma dúvida, os colegas estavam prontos para colaborar na sua resolução, o que fortaleceu o processo de aprendizagem. Além disso, o projeto ofereceu a oportunidade de aplicar o conhecimento adquirido em sala de aula em um contexto real, o que, em muitos momentos, representou um desafio, pois foi a primeira vez que os participantes aplicaram as técnicas aprendidas em um projeto real.
+O objetivo deste projeto é aplicar os conceitos básicos da Engenharia de Requisitos, explorando os atributos e critérios de qualidade associados. Além disso, visa abordar o processo de requisitos baseados em frameworks de Engenharia de Requisitos adaptativos e tradicionais, incluindo atividades como análise de domínio e identificação do problema, aspectos humanos e sociais da Engenharia de Requisitos, elicitação, modelagem, análise, documentação, gerenciamento, verificação e validação de requisitos.
+
+**Objetivos Específicos**:
+
+1. Proporcionar uma compreensão abrangente dos princípios fundamentais da Engenharia de Requisitos.
+
+2. Preparar os alunos para explorar os atributos e critérios de qualidade dos requisitos de forma eficaz.
+
+3. Aplicar técnicas de análise de domínio e identificação de problemas em contextos reais.
+
+4. Reconhecer a importância dos aspectos humanos e sociais na Engenharia de Requisitos, destacando a interação entre pessoas, processos e tecnologia.
+
+5. Realizar atividades de Engenharia de Requisitos de forma prática, abrangendo requisitos funcionais e não funcionais.
+
+6. Aprimorar as habilidades de elicitação de requisitos, modelagem, análise, documentação, gerenciamento, verificação e validação em cenários práticos.
+
+7. Familiarizar-se com ferramentas auxiliares à Engenharia de Requisitos, facilitando o processo de captura, análise e documentação de requisitos.
+
+Este projeto proporcionou uma compreensão abrangente da Engenharia de Requisitos e preparou os alunos para aplicar esses conhecimentos em projetos de Engenharia de Software, enfatizando a importância dessa área na entrega de sistemas de alta qualidade que atendam às necessidades dos stakeholders.
+
+**Compilado Geral - Quantidade Métodos por Entrega**
 
 | Entrega  | Métodos/Técnicas Utilizados                                     | Quantidade de Artefatos |
 |----------|------------------------------------------------------------------|--------------------------|
