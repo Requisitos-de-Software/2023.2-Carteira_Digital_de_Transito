@@ -107,4 +107,4 @@ propostas pelo professor durante as aulas.
 
 | Versão| Data      | Descrição | Autor | Revisor       |
 | :-:   | :-:       | :--       | --    | --            |
-| `1.0`  |06/12/2023 |Criação do documento|[Breno Queiroz](https://github.com/brenob6)|  [](https://github.com/)|
+| `1.0`  |06/12/2023 |Criação do documento|[Breno Queiroz](https://github.com/brenob6)|  [Luis Miranda](https://github.com/LuisMiranda10) |
