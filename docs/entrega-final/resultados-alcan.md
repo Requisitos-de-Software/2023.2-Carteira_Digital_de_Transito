@@ -2,7 +2,7 @@
 
 ## Introdução
 
-Neste projeto realizado na disciplina de Requisitos de Software, percorremos várias etapas, desde o planejamento até a pós-rastreabilidade. Ao longo desse processo, enfrentamos desafios, tivemos momentos de facilidade e dificuldades. Esta seção do artefato final tem como objetivo relatar as metas alcançadas, os resultados obtidos e as experiências vivenciadas pelo Grupo 3, que conduziu a análise do projeto de código aberto VLC.
+Neste projeto realizado na disciplina de Requisitos de Software, percorremos várias etapas, desde o planejamento até a pós-rastreabilidade. Ao longo desse processo, enfrentamos desafios, tivemos momentos de facilidade e dificuldades. Esta seção do artefato final tem como objetivo relatar as metas alcançadas, os resultados obtidos e as experiências vivenciadas pelo Grupo 2.
 
 ## Objetivo do Projeto
 
