@@ -39,7 +39,7 @@ Fonte: [Limirio Guimarães](https://github.com/LimirioGuimaraes)
 
 </center>
 
-A **Tabela 03** abrange os artefatos criados durante a etapa de elicitação de requisitos que vai desde o levantamento do perfil do usuário, a criação de personas, a técnicas e elicitação e finaliza na priorização dos requisitos elicitados.
+A **Tabela 03** abrange os artefatos criados durante a etapa de elicitação de requisitos que vai desde o levantamento do perfil do usuário, a criação de personas, a técnicas e elicitação até finalizar na priorização dos requisitos elicitados.
 
 <center> 
 
@@ -89,7 +89,7 @@ Fonte: [Limirio Guimarães](https://github.com/LimirioGuimaraes)
 
 </center>
 
-As **Tabelas 05** e **06** abarcam as verificações dos artefatos realizadas pelo nosso grupo. A Tabela 05 consolida a verificação dos artefatos do Grupo 03, enquanto a Tabela 06 exibe os artefatos provenientes do nosso próprio grupo.
+As **Tabelas 05** e **06** abrangem as verificações dos artefatos realizadas pelo nosso grupo. A Tabela 05 consolida a verificação dos artefatos do Grupo 03, enquanto a Tabela 06 exibe os artefatos provenientes do nosso próprio grupo.
 
 <center> 
 
@@ -130,7 +130,7 @@ Tabela 05: Verificação Dos artefatos do grupo 03<br/>
 
 Fonte: [Limirio Guimarães](https://github.com/LimirioGuimaraes)
 
-Tabela 06: Verificação Dos artefatos do nosso grupo <br/>
+Tabela 06: Verificação dos artefatos do nosso grupo <br/>
 
 | 			Artefato 			|	 Descrição 	| 				Autor(es)	 			| 				Revisor(es)				|
 | ----------------------------------------------------- | --------------------- | --------------------------------------------------------------------- | --------------------------------------------------------------------- |
@@ -190,4 +190,4 @@ A compilação abrangente dos artefatos produzidos pela equipe durante o projeto
 
 | Versão | Data | Descrição | Autor | Revisor |
 |-------|-------|------------|-------|--------|
-|`1.0`| 06/12/2023| Criação do documento | [Limírio Guimarães](https://github.com/LimirioGuimaraes)| |
+|`1.0`| 06/12/2023| Criação do documento | [Limírio Guimarães](https://github.com/LimirioGuimaraes)| [Milena Baruc](https://github.com/MilenaBaruc) |
