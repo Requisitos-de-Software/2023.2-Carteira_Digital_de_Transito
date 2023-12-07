@@ -270,6 +270,8 @@ Na Tabela 15, tem-se o cronograma executado para todas as atividades da quarta e
 | **Atividade**                                   | **Início** | **Fim**     | **Responsáveis**                        | **Revisores**                           | **Data de Revisão** |
 |-----------------------------------------------|------------|------------|-----------------------------------------|-----------------------------------------|---------------------|
 | Validação - Protótipo de alta fidelidade - Agendamento de serviço  | 22/11/2023 | 03/12/2023  | Mayara | Limírio   | 03/12/2023          |
+| Validação - Protótipo de alta fidelidade - alertas de vencimento  | 06/12/2023 | 06/12/2023  | Luis | Limírio   | 06/12/2023          |
+| Validação - Protótipo de alta fidelidade - alertas de vencimento  | 06/12/2023 | 06/12/2023  | Breno | Luis   | 06/12/2023          |
 | Verificação - Políticas, RichPicture, Storyboard, First Things First, Léxicos | 22/11/2023 | 27/11/2023  | Mayara | Luis |27/11/2023
 | Verificação - Metodologia, Glossário e Histórias de usuários  | 22/11/2023 | 04/12/2023 | Limírio | Breno | 04/12/2023
 | Verificação - Cronograma, Documentação, Entrevista, Especificação Suplementar | 22/11/2023 | 02/12/2023 | Milena | Luis | 04/12/2023
