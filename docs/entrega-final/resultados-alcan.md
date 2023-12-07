@@ -9,26 +9,11 @@ Neste projeto realizado na disciplina de Requisitos de Software, percorremos vá
 
 Ao término do projeto, é possível realizar uma avaliação abrangente dos resultados obtidos em relação aos objetivos estabelecidos. Abaixo, apresentamos um resumo dos principais resultados alcançados:
 
-### Compreensão dos Princípios Fundamentais da Engenharia de Requisitos:
-- Os membros do grupo demonstraram uma sólida compreensão dos princípios básicos da Engenharia de Requisitos, evidenciada pela aplicação efetiva desses conceitos ao longo das diversas fases do projeto.
-
-### Exploração Eficaz dos Atributos e Critérios de Qualidade dos Requisitos:
-- Houve uma abordagem criteriosa na exploração dos atributos e critérios de qualidade associados aos requisitos, refletindo-se em artefatos bem elaborados que atendem a padrões elevados de qualidade.
-
-### Aplicação Prática de Técnicas de Análise de Domínio e Identificação de Problemas:
-- Os objetivos específicos relacionados à análise de domínio e identificação de problemas foram plenamente alcançados, evidenciando a capacidade do grupo em aplicar técnicas relevantes em contextos práticos.
-
-### Reconhecimento da Importância dos Aspectos Humanos e Sociais:
-- O grupo demonstrou uma compreensão aprofundada da relevância dos aspectos humanos e sociais na Engenharia de Requisitos, destacando a interação vital entre pessoas, processos e tecnologia.
-
-### Realização de Atividades Práticas de Engenharia de Requisitos:
-- As atividades práticas, que abrangeram desde a elicitação até a verificação e validação de requisitos, foram conduzidas de forma eficiente, proporcionando aos membros do grupo uma experiência valiosa no ciclo de vida dos requisitos.
-
-### Aprimoramento das Habilidades Técnicas e Práticas:
-- O projeto contribuiu significativamente para o aprimoramento das habilidades dos alunos em elicitação de requisitos, modelagem, análise, documentação, gerenciamento, verificação e validação, consolidando um conjunto abrangente de competências.
-
-### Familiarização com Ferramentas Auxiliares à Engenharia de Requisitos:
-- Os membros do grupo se familiarizaram com ferramentas essenciais à Engenharia de Requisitos, otimizando o processo de captura, análise e documentação de requisitos.
+- Aplicação dos conceitos básicos da Engenharia de Requisitos, explorando atributos e critérios de qualidade associados.
+- Abordagem prática de requisitos baseados em frameworks adaptativos e tradicionais, incluindo análise de domínio, identificação de problemas e aspectos humanos e sociais.
+- Realização de atividades práticas de Engenharia de Requisitos, abrangendo elicitação, modelagem, análise, documentação, gerenciamento, verificação e validação.
+- Aprimoramento das habilidades técnicas em projetos de Engenharia de Software, destacando a importância da área na entrega de sistemas de alta qualidade.
+- Familiarização com ferramentas auxiliares à Engenharia de Requisitos para otimização do processo de captura, análise e documentação de requisitos.
 
 Este projeto proporcionou uma compreensão abrangente da Engenharia de Requisitos e preparou os alunos para aplicar esses conhecimentos em projetos de Engenharia de Software, enfatizando a importância dessa área na entrega de sistemas de alta qualidade que atendam às necessidades dos stakeholders.
 
