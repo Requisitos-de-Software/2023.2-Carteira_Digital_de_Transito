@@ -28,36 +28,24 @@ Este projeto proporcionou uma compreensão abrangente da Engenharia de Requisito
 
 **Compilado Geral - Quantidade Métodos por Entrega**
 
-| Entrega  | Métodos/Técnicas Utilizados                                     | Quantidade de Artefatos |
-|----------|------------------------------------------------------------------|--------------------------|
-| Entrega 1 | - Cronograma: Não foi utilizado método/técnica.               | 4                        |
-|           | - Ferramentas: Não foi utilizado método/técnica.             |                          |
-|           | - Metodologia: Não foi utilizado método/técnica.            |                          |
-|           | - Políticas: Não foi utilizado método/técnica.               |                          |
-|           | - Heatmap: Não foi utilizado método/técnica.                |                          |
-|           | - Processo Design: Ciclo de Vida de Mayhew.                 |                          |
-|           | - Sites Avaliados: Não foi utilizado método/técnica.         |                          |
-|           | - Sites Escolhidos: Não foi utilizado método/técnica.        |                          |
-| Entrega 2 | - Análise do Perfil de Usuários: Questionário.              | 7                        |
-| Etapa 4   | - Planejamento da Avaliação do Storyboard: Framework DECIDE, Teste Piloto. | 8 |
-|           | - Planejamento do Relato dos Resultados Avaliação do Storyboard: Framework DECIDE, Entrevista. | |
-|           | - Relato dos Resultados do Storyboard: Planejamento do Relato do Storyboard. | |
-|           | - Storyboards: Storyboard.                                 | |
-|           | - Planejamento da Avaliação da Análise de Tarefas: Framework DECIDE, Teste Piloto. | |
-|           | - Planejamento do Relato dos Resultados Avaliação da Análise de Tarefas: Framework DECIDE, Entrevista. | |
-|           | - Relato dos Resultados da Análise de Tarefas: Planejamento do Relato da Análise de Tarefas. | |
-| Entrega 5 | - Planejamento da Avaliação do Protótipo de Papel: Framework DECIDE, Teste Piloto. | 3 |
-|           | - Planejamento do Relato dos Resultados Avaliação do Protótipo de Papel: Framework DECIDE, Prototipação em Papel. | |
-|           | - Relato dos Resultados do Protótipo de Papel: Planejamento do Relato do Protótipo de Papel, Prototipação em Papel. | |
-| Entrega 6.1 | - Diversos métodos de verificação, mas não especificados para cada artefato. | 26 |
-| Entrega 6.2 | - Diversos métodos de verificação, mas não especificados para cada artefato. | 27 |
-| Entrega 7 | - Relato do resultados da Avaliação do Protótipo de Papel: Não foi especificado o método/técnica. | 4 |
-|           | - Planejamento da Avaliação do Protótipo de Alta Fidelidade: Framework DECIDE, Teste Piloto. | |
-|           | - Planejamento do Relato dos Resultados do Planejamento da Avaliação do Storyboard: Framework DECIDE, Teste de Usabilidade. | |
-|           | - Relato dos Resultados da Avaliação do Protótipo de Alta Fidelidade: Planejamento do Relato do Protótipo de Papel, Storyboards. | |
+1. Rich Picture
+2. Questionário
+3. Storyboard, Glossário, Entrevista e Introspecção
+4. First Things First, Three Level Scale e $100
+5. Personas
+6. Cenários
+7. Casos de Uso
+8. Léxico
+9. Especificação Suplementar, FURPS+
+10. Epic, Feature and Story
+11. NFR Framework
+12. Histórias de Usuário
+13. Matriz Geral
+14. Rastreabilidade de Toranzo
+15. Inspeção de Fagan
+16. Protótipo de Alta Fidelidade
 
-**Total de Métodos Utilizados: 17 métodos/técnicas.**
-
+**Total de Métodos Utilizados:** 16 métodos/técnicas.
 
 **Compilado Geral - Quantidade de Artefatos por Entrega**
 
