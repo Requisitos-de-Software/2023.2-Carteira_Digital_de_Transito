@@ -316,14 +316,8 @@ Essa abordagem proporcionou não apenas a construção de um cronograma, mas tam
 > <a id=“RP2” href=“#TEC2”>2.</a> BILHETERIA DIGITAL. Requisitos de Software. Distrito Federal, 2023. Disponível em: <https://github.com/Requisitos-de-Software/2023.1-BilheteriaDigital/>. Acesso em: 06/10/2023.
 
 
-## 📑 Histório de versão
+## 📑 Histórico de versão
 
 | Versão| Data      | Descrição | Autor | Revisor       |
 | :-:   | :-:       | :--       | --    | --             |
-| `1.0` |18/09/2023 |Criação da página de cronogramas | [Altino Arthur](https://github.com/arthurrochamoreira) , [Breno Queiroz](https://github.com/brenob6) e [Luis Eduardo](https://github.com/LuisMiranda10) | [Vinicius Mendes](https://github.com/yabamiah) |
-| `1.1` |04/09/2023 |Atualizando a página de cronograma | [Vinicius Mendes](https://github.com/yabamiah) | [Altino Arthur](https://github.com/arthurrochamoreira) 
-| `1.2` |09/10/2023 | adicionando cronograma executavel e detalhando tarefas | [Mayara Alves](https://github.com/Mayara-tech) | [Luis Eduardo](https://github.com/LuisMiranda10)
-| `1.3` |06/11/2023 | adicionando cronograma executado e detalhando tarefas | [Milena Baruc](https://github.com/MilenaBaruc) | [Luis Eduardo](https://github.com/LuisMiranda10)
-| `1.4` |21/11/2023 | Correção Verificação Grupo 01: As tabelas não possuem o(s) autor(es). | [Altino Arthur](https://github.com/arthurrochamoreira) | [Luis Eduardo](https://github.com/LuisMiranda10)
-| `1.5` |21/11/2023 | Correção Verificação Grupo 01: As tabelas do cronograma não possuem a coluna de data de revisão. | [Altino Arthur](https://github.com/arthurrochamoreira) | [Luis Eduardo](https://github.com/LuisMiranda10)
-| `1.5` |06/12/2023 | Correção do artefato  | [Mayara Alves](https://github.com/Mayara-tech) | [Altino Arthur](https://github.com/arthurrochamoreira)
+| `1.0`   |06/12/2023 |Criação do documento da entrega final - Cronograma |[Mayara Alves](https://github.com/Mayara-tech)  | [Breno Queiroz](https://github.com/brenob6)|
