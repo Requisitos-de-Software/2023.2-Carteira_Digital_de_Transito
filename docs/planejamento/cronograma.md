@@ -208,7 +208,7 @@ Na Tabela 11, tem-se o cronograma executado para todas as atividades da entrega 
 | Verificação Grupo 3 - Padronização do projeto, Ferramentas de uso, $100 e Introdução (priorização) | 07/11/2023 | 13/11/2023 | Milena | Mayara                              | 13/11/2023     |
 | Verificação Grupo 3 - Brainstorming, Introspecção, Observação e Questionário   | 07/11/2023 | 12/11/2023 | Limírio                               | Mayara                               | 12/11/2023          |
 | Verificação Grupo 3 - Aplicativo selecionado, Heatmap e Termos de Uso  |  07/11/2023 | 13/11/2023 | Luis                     | Milena Baruc                              | 13/11/2023       |
-| Verificação Grupo 3 - Especificação suplementar  |  07/11/2023 | 12/11/2023 | Breno                    | Mayara | 12/11/2023       |
+| Verificação Grupo 3 - Especificação suplementar,NFR Framework  |  07/11/2023 | 12/11/2023 | Breno                    | Limírio | 12/11/2023       |
 | Gravar reunião                                 | 13/11/2023 | 13/11/2023 | Mayara, Milena, Arthur, Altino         |                                         | 13/11/2023        |
 | Correção após a Entrega 5.1                    | 14/11/2023 | 17/11/2023 | Altino, Breno, Limírio, Luis, Mayara, Milena, Vinícius | Altino, Breno, Limírio, Luis, Mayara, Milena, Vinícius | 17/11/2023          |
 
