@@ -154,4 +154,4 @@ Fonte: [Mayara Alves](https://github.com/Mayara-tech)
 
 | Versão | Data       | Descrição                                       | Autor                                          | Revisor                                      |
 | ------ | ---------- | ----------------------------------------------- | -----------------------------------------------| ---------------------------------------------|
-| `1.0`  | 26/11/2023 | Adicionando verificação do artefato Storyboard   | [Mayara Alves](https://github.com/Mayara-tech) | [Limirio Guimarães](https://github.com/LimirioGuimaraes) |
+| `1.0`  | 26/11/2023 | Adicionando verificação do artefato Storyboard   | [Mayara Alves](https://github.com/Mayara-tech) | [Luis Miranda](https://github.com/LuisMiranda) |

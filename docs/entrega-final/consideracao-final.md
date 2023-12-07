@@ -18,19 +18,24 @@ Uma das maiores dificultades encontradas por mim, foi a falta de tempo para a pr
 
 A maior facilidade que tive durante o semestre foi a amizade que nós integrantes do grupo criamos, conseguimos nos conectar o que ajuda a solucionar problemas e encontrar soluções em conjunto. Dito isso, fez o processo ser mais leve e também todos do grupo participando ativamente das atividades, facilitou o desenvolvimento. Além disso, os feedbacks escritos pelos monitores foi ótimo para conseguir corrigir os artefatos.
 
-## Luis Eduardo
+
+## Luis Miranda
 
 ### Dificuldades
+Acredito que o semestre curto, a falta de tempo para se dedicar a todas as disciplinas ( juntamente com seus respectivos trabalhos e provas ), e entregas que acabavam por necessitar tempo para que se tenha o minímo de qualidade exigida, foram um dos desafios e dificuldades que encontrei durante a matéria, tanto de Interação Humano-Computador, quanto para Engenharia de Requisitos.
 
 ### Facilidades
-
+A principal vantagem que tive em estar cursando essa matéria foi a de que em ambas disciplinas( IHC e Requisitos) serem com o mesmo grupo a realização dos projetos, o que acabou por deixar a matéria mais agradavél. O grupo sempre foi transparente em relação as entregas, juntamente com reuniões que deixavam o ambiente mais leve e divertido (takaka). Em relação a conhecimento, dedico isso ao professor Andre no qual dava feedbacks que ajudavam a entender melhor partes do conteúdo. Técnicas de Elicitação e Verificações foram muito importantes para conseguir conhecimento que não tinha antes. Mesmo sendo uma matéria de muito conteúdo e entregas, acredito ser uma via de mão dupla, no qual ganhamos conhecimento mesmo sendo bem exigidos.
 
 ## Altino Arthur
 
 ### Dificuldades
 
+A maior dificuldade encontrada por mim durante a disciplina está relacionada à grande quantidade de atividades e entregas ao mesmo tempo. Outra grande dificuldade que encontrei está relacionada aos horários; tínhamos rotinas muito diferentes e várias disciplinas ao mesmo tempo, o que por vezes tornou muito difícil conciliar.
+
 ### Facilidades
 
+A maior facilidade que tive foi relacionada ao meu grupo, no geral conseguimos nos conectar muito bem para coloborar em conjunto na elaboração dos artefatos.
 
 ## Vinícius Mendes
 
@@ -70,3 +75,5 @@ A maior facilidade que tive durante toda a disciplina foi a integração entre t
 | `1.0`  | 25/11/2023 | Criação do Documento | [Milena Baruc](https://github.com/MilenaBaruc) | [Luis Eduardo](https://github.com/LuisMiranda10) |
 | `1.1`  | 25/11/2023 | Adição no documento | [Milena Baruc](https://github.com/MilenaBaruc) | [Luis Eduardo](https://github.com/LuisMiranda10) |
 | `1.2`  | 25/11/2023 | Adição no Documento | [Vinicius Mendes](https://github.com/yabamiah.png) | [Milena Baruc](https://github.com/MilenaBaruc) |
+| `1.3`  | 25/11/2023 | Adição no Documento | [Altino Arthur](https://github.com/arthurrochamoreira) | [Milena Baruc](https://github.com/MilenaBaruc) |
+| `1.4`  | 25/11/2023 | Adição no documento |  [Luis Eduardo](https://github.com/LuisMiranda10)| [Vinicius Mendes](https://github.com/yabamiah.png) |

@@ -56,4 +56,4 @@ A Tabela 2 apresenta o checklist preenchido após a verificação do artefato.
 
 | Versão | Data | Descrição | Autor | Revisor |
 |--------|------|------------|------|---------|
-| 1.0 | 13/11/2023 | Criação do documento e do seu conteúdo |  [Luis Miranda](https://github.com/LuisMiranda10) | [Milena Baruc](https://github.com/MilenaBaruc) | 
+| `1.0` | 13/11/2023 | Criação do documento e do seu conteúdo |  [Luis Miranda](https://github.com/LuisMiranda10) | [Milena Baruc](https://github.com/MilenaBaruc) | 
