@@ -26,31 +26,6 @@ O objetivo deste projeto é aplicar os conceitos básicos da Engenharia de Requi
 
 Este projeto proporcionou uma compreensão abrangente da Engenharia de Requisitos e preparou os alunos para aplicar esses conhecimentos em projetos de Engenharia de Software, enfatizando a importância dessa área na entrega de sistemas de alta qualidade que atendam às necessidades dos stakeholders.
 
-## Compilado Geral - Quantidade Métodos por Entrega
-
-| Número | Métodos/Técnicas Utilizados |
-|--------|-----------------------------|
-| 1      | Rich Picture                |
-| 2      | Questionário                |
-| 3      | Storyboard, Glossário, Entrevista e Introspecção |
-| 4      | First Things First, Three Level Scale e $100 |
-| 5      | Personas                    |
-| 6      | Cenários                    |
-| 7      | Casos de Uso                |
-| 8      | Léxico                      |
-| 9      | Especificação Suplementar, FURPS+ |
-| 10     | Epic, Feature and Story     |
-| 11     | NFR Framework               |
-| 12     | Histórias de Usuário        |
-| 13     | Matriz Geral                |
-| 14     | Rastreabilidade de Toranzo  |
-| 15     | Inspeção de Fagan           |
-| 16     | Protótipo de Alta Fidelidade |
-
-**Total de Métodos Utilizados:** 16 métodos/técnicas.
-
-Fonte: Altino Arthur
-
 ## Compilado Geral - Quantidade de Artefatos por Entrega
 
 | Entrega                                           | Quantidade de Artefatos |
