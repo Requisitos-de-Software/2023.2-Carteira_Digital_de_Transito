@@ -45,7 +45,7 @@ Uma das maiores dificuldades que tive durante o desenvolver da disciplina foi a 
 
 ### Facilidades
 
-A maior facilidade que tive durante toda a disciplina foi a integração entre todos os membros do grupo, o que tornou a realizaao das atividades e das reuniões mais dinâmicas e leves, às vezes faltava um pouco de organização no começo, mas do meio para o final da disciplina conseguimos dividir as tarefas de maneira proveitosa para todos. E outro facilidade foi as aulas dinâmicas do professor que facilitou na aprendizagem de conceitos e técnicas que ajudou no desenvolvemento de algumas atividades e possívelmente em experiências fora da disciplina também.
+A maior facilidade que tive durante toda a disciplina foi a integração entre todos os membros do grupo, o que tornou a realizão das atividades e das reuniões mais dinâmicas e leves, às vezes faltava um pouco de organização no começo, mas do meio para o final da disciplina conseguimos dividir as tarefas de maneira proveitosa para todos. E outro facilidade foi as aulas dinâmicas do professor que facilitou na aprendizagem de conceitos e técnicas que ajudou no desenvolvemento de algumas atividades e possívelmente em experiências fora da disciplina também.
 
 ## Breno Queiroz
 
@@ -58,8 +58,11 @@ A maior facilidade que tive durante toda a disciplina foi a integração entre t
 
 ### Dificuldades
 
+A principal dificuldade que enfrentei ao longo do projeto foi a restrição de tempo. As demandas pessoais e acadêmicas tanto minhas como dos membros da equipe muitas vezes colidiram com os prazos estabelecidos, o que impactou diretamente o ritmo de progresso. A necessidade de equilibrar as responsabilidades individuais com as do projeto demandou uma gestão cuidadosa e, em alguns momentos, afetou a qualidade do trabalho entregue. Outro aspecto que gerou uma certa dificuldade foi conciliar o trabalho com as grande quantidade de trabalho do projeto, por muitas vezes houve a necessidade de virar noites estudando para dar conta de toda carga da matéria.
+
 ### Facilidades
 
+Acredito que a maior facilidade durante o semestre foi a interação amigavel com o grupo, isso tornava as reuniões mais leves e tornava a matéria mais divertida mesmo com a grande gama de trabalho, outro aspecto que ajudou muito ao longo do semestre foi cursar as duas matérias juntas (requisitos e IHC), porque dava pra aproveitar muitos conceitos entre uma e outra, a abordagem do professor também ajudou muito, ele sempre manter a turma ligada e isso faz com que acabamos aprendendo com mais rápidez os conteúdos.
 
 ## Limirio Guimarães
 
