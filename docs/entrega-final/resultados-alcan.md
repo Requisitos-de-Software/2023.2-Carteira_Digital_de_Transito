@@ -2,8 +2,7 @@
 
 ## Introdução
 
-Neste projeto realizado na disciplina de Requisitos de Software, percorremos várias etapas, desde o planejamento até a pós-rastreabilidade. Ao longo desse processo, enfrentamos desafios, tivemos momentos de facilidade e dificuldades. Esta seção do artefato final tem como objetivo relatar as metas alcançadas, os resultados obtidos e as experiências vivenciadas pelo Grupo 2.
-
+Ao final do projeto, é possível fazer uma análise abrangente dos resultados obtidos pelo grupo. Este documento discutirá os resultados alcançados ao longo do projeto.
 
 ## Resultados
 
