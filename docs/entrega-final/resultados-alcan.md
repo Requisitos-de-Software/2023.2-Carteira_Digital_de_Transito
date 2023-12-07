@@ -18,18 +18,17 @@ Ao final do projeto, foram produzidos 83 artefatos, distribuídos conforme apres
   
 **Tabela 1** - Compilado de Artefatos
 
-| Entrega                                           | Quantidade de Artefatos | Tipo de Artefato |
-|---------------------------------------------------|--------------------------|------------------|
-| **Entrega 1 - Planejamento do Projeto**            | 4                        | Planejamento     |
-| **Entrega 2 - Análise de Requisitos I**            | 7                        | Elicitação de Requisitos |
-| **Entrega 3 - Análise de Requisitos 2**            | 4                        | Elicitação de Requisitos |
-| **Etapa 4 - Design, Avaliação e Desenvolvimento 1**| 8                        | Modelagem         |
-| **Entrega 5 - Design, Avaliação e Desenvolvimento 2**| 3                      | Modelagem Ágil         |
-| **Entrega 6.1 - Verificação dos Artefatos I - Grupo 3**| 26                    | Verificação dos Artefatos - Grupo 03 |
-| **Entrega 6.2 - Verificação dos Artefatos I - Grupo 2**| 27                    | Verificação dos Artefatos - Nosso Grupo |
-| **Entrega 7 - Relatos Protótipos de Papel e Avaliação do Protótipo de Alta Fidelidade**| 4 | Rastreabilidade e Validação |
-|                                                   |                          |                  |
-| **Total de Artefatos**                             | 83                       |                  |
+| Quantidade | Tipo de Artefato                          |
+|------------|-------------------------------------------|
+| 6          | Planejamento                              |
+| 1          | Pré-rastreabilidade                       |
+| 11         | Elicitação de Requisitos                  |
+| 7          | Modelagem                                 |
+| 16         | Verificação dos Artefatos do Grupo 03     |
+| 15         | Verificação dos Artefatos do Nosso Grupo  |
+| 3          | Rastreabilidade e Validação               |
+|            |                                           |
+| 59         | Total                                     |
 
 **Fonte**: [Altino Arthur](https://github.com/arthurrochamoreira)
 
