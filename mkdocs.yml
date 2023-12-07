@@ -161,8 +161,12 @@ nav:
     - Agendamento de Alerta de Vencimento: Validacao/Prototipo_alta_fidelidade/AlertadeVencimento.md
     - Informações de Trânsito: Validacao/Prototipo_alta_fidelidade/Transito.md
   - Entrega Final:
-    - Sintese das Verificações: entrega-final/sintese-verificacoes.md
+    - Aplicativo Selecionado: planejamento/AplicativoSelecionado.md
+    - Cronograma planejado e executado: planejamento/cronograma.md
+    - Execução do Projeto: entrega-final/execucao-do-projeto.md
+    
     - Sintese dos Métodos e Técnicas: entrega-final/sintese-metodo-tecnicas.md
     - Síntese dos artefatos que foram criados no projeto: entrega-final/artefatos-criados.md
-    - Cronograma planejado e executado: planejamento/cronograma.md
-    - Aplicativo Selecionado: planejamento/aplicativo
+    - Sintese das Verificações: entrega-final/sintese-verificacoes.md
+    - Sintese das Ferramentas: entrega-final/ferramentas-utilizadas.md
+    - Sintese das Apresentações: entrega-final/sintese-video-apresentações.md
