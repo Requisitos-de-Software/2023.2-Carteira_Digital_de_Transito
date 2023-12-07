@@ -16,7 +16,12 @@ Ao término do projeto, é possível realizar uma avaliação abrangente dos res
 
 Este projeto proporcionou uma compreensão abrangente da Engenharia de Requisitos e preparou os alunos para aplicar esses conhecimentos em projetos de Engenharia de Software, enfatizando a importância dessa área na entrega de sistemas de alta qualidade que atendam às necessidades dos stakeholders.
 
+A seguir, a Tabela 1 trata do compilado de artefatos, evidenciando a diversidade de objetivos alcançados ao longo do projeto:
 
+<br>
+
+<center>
+  
 **Tabela 1** - Compilado de Artefatos
 
 | Entrega                                           | Quantidade de Artefatos | Tipo de Artefato |
@@ -33,6 +38,10 @@ Este projeto proporcionou uma compreensão abrangente da Engenharia de Requisito
 | **Total de Artefatos**                             | 83                       |                  |
 
 **Fonte**: [Altino Arthur](https://github.com/arthurrochamoreira)
+
+</center>
+
+<br>
 
 ## Dificuldades Gerais
 
