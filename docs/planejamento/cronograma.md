@@ -202,11 +202,12 @@ Na Tabela 11, tem-se o cronograma executado para todas as atividades da entrega 
 
 | **Atividade**                                   | **Início** | **Fim**     | **Responsáveis**                        | **Revisores**                           | **Data de Revisão** |
 |-----------------------------------------------|------------|------------|-----------------------------------------|-----------------------------------------|---------------------|
+| Planjamento da verificação grupo 3  |  07/11/2023 | 10/11/2023 | Limírio                | Milena | 10/11/2023       |
 | Verificação Grupo 3 - Rich picture, Cronograma, Cenário e Three Level Scale | 07/11/2023 | 13/11/2023 | Mayara | Milena                               | 12/11/2023     |
 | Verificação Grupo 3 - Brainstorming, Introspecção, Observação e Questionário   | 07/11/2023 | 12/11/2023 | Limírio                               | Mayara                               | 12/11/2023          |
 | Verificação Grupo 3 - Personas, Léxicos, moscow e Casos de uso |  07/11/2023 | 12/11/2023 | Vinicius                       | Milena Baruc                              | 12/11/2023          |
 | Verificação Grupo 3 - Padronização do projeto, Ferramentas de uso, $100 e Introdução (priorização) | 07/11/2023 | 13/11/2023 | Milena | Mayara                              | 13/11/2023     |
-| Verificação Grupo 3 - Brainstorming, Introspecção, Observação e Questionário   | 07/11/2023 | 12/11/2023 | Limírio                               | Mayara                               | 12/11/2023          |
+| Verificação Grupo 3 - Backlog, História de usuário | 07/11/2023 | 13/11/2023 | Altino                              | Mayara                               | 13/11/2023          |
 | Verificação Grupo 3 - Aplicativo selecionado, Heatmap e Termos de Uso  |  07/11/2023 | 13/11/2023 | Luis                     | Milena Baruc                              | 13/11/2023       |
 | Verificação Grupo 3 - Especificação suplementar,NFR Framework  |  07/11/2023 | 12/11/2023 | Breno                    | Limírio | 12/11/2023       |
 | Gravar reunião                                 | 13/11/2023 | 13/11/2023 | Mayara, Milena, Arthur, Altino         |                                         | 13/11/2023        |
