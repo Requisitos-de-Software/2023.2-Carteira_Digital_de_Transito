@@ -4,7 +4,7 @@
 
 Neste projeto realizado na disciplina de Requisitos de Software, percorremos várias etapas, desde o planejamento até a pós-rastreabilidade. Ao longo desse processo, enfrentamos desafios, tivemos momentos de facilidade e dificuldades. Esta seção do artefato final tem como objetivo relatar as metas alcançadas, os resultados obtidos e as experiências vivenciadas pelo Grupo 2.
 
-# Objetivo do Projeto
+## Objetivo do Projeto
 
 O objetivo deste projeto é aplicar os conceitos básicos da Engenharia de Requisitos, explorando os atributos e critérios de qualidade associados. Além disso, visa abordar o processo de requisitos baseados em frameworks de Engenharia de Requisitos adaptativos e tradicionais, incluindo atividades como análise de domínio e identificação do problema, aspectos humanos e sociais da Engenharia de Requisitos, elicitação, modelagem, análise, documentação, gerenciamento, verificação e validação de requisitos.
 
@@ -26,37 +26,43 @@ O objetivo deste projeto é aplicar os conceitos básicos da Engenharia de Requi
 
 Este projeto proporcionou uma compreensão abrangente da Engenharia de Requisitos e preparou os alunos para aplicar esses conhecimentos em projetos de Engenharia de Software, enfatizando a importância dessa área na entrega de sistemas de alta qualidade que atendam às necessidades dos stakeholders.
 
-**Compilado Geral - Quantidade Métodos por Entrega**
+## Compilado Geral - Quantidade Métodos por Entrega
 
-1. Rich Picture
-2. Questionário
-3. Storyboard, Glossário, Entrevista e Introspecção
-4. First Things First, Three Level Scale e $100
-5. Personas
-6. Cenários
-7. Casos de Uso
-8. Léxico
-9. Especificação Suplementar, FURPS+
-10. Epic, Feature and Story
-11. NFR Framework
-12. Histórias de Usuário
-13. Matriz Geral
-14. Rastreabilidade de Toranzo
-15. Inspeção de Fagan
-16. Protótipo de Alta Fidelidade
+| Número | Métodos/Técnicas Utilizados |
+|--------|-----------------------------|
+| 1      | Rich Picture                |
+| 2      | Questionário                |
+| 3      | Storyboard, Glossário, Entrevista e Introspecção |
+| 4      | First Things First, Three Level Scale e $100 |
+| 5      | Personas                    |
+| 6      | Cenários                    |
+| 7      | Casos de Uso                |
+| 8      | Léxico                      |
+| 9      | Especificação Suplementar, FURPS+ |
+| 10     | Epic, Feature and Story     |
+| 11     | NFR Framework               |
+| 12     | Histórias de Usuário        |
+| 13     | Matriz Geral                |
+| 14     | Rastreabilidade de Toranzo  |
+| 15     | Inspeção de Fagan           |
+| 16     | Protótipo de Alta Fidelidade |
 
 **Total de Métodos Utilizados:** 16 métodos/técnicas.
 
-**Compilado Geral - Quantidade de Artefatos por Entrega**
+Fonte: Altino Arthur
 
-- **Entrega 1 - Planejamento do Projeto**: 4 artefatos
-- **Entrega 2 - Análise de Requisitos I**: 7 artefatos
-- **Entrega 3 - Análise de Requisitos 2**: 4 artefatos
-- **Etapa 4 - Design, Avaliação e Desenvolvimento 1**: 8 artefatos
-- **Entrega 5 - Design, Avaliação e Desenvolvimento 2**: 3 artefatos
-- **Entrega 6.1 - Verificação dos Artefatos I - Grupo 3**: 26 artefatos
-- **Entrega 6.2 - Verificação dos Artefatos I - Grupo 2**: 27 artefatos
-- **Entrega 7 - Relatos Protótipos de Papel e Avaliação do Protótipo de Alta Fidelidade**: 4 artefatos
+## Compilado Geral - Quantidade de Artefatos por Entrega
+
+| Entrega                                           | Quantidade de Artefatos |
+|---------------------------------------------------|--------------------------|
+| **Entrega 1 - Planejamento do Projeto**            | 4                        |
+| **Entrega 2 - Análise de Requisitos I**            | 7                        |
+| **Entrega 3 - Análise de Requisitos 2**            | 4                        |
+| **Etapa 4 - Design, Avaliação e Desenvolvimento 1**| 8                        |
+| **Entrega 5 - Design, Avaliação e Desenvolvimento 2**| 3                      |
+| **Entrega 6.1 - Verificação dos Artefatos I - Grupo 3**| 26                    |
+| **Entrega 6.2 - Verificação dos Artefatos I - Grupo 2**| 27                    |
+| **Entrega 7 - Relatos Protótipos de Papel e Avaliação do Protótipo de Alta Fidelidade**| 4 |
 
 **Total de Artefatos**: 83 artefatos
 
