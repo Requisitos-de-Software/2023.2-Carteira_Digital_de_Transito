@@ -4,19 +4,13 @@
 
 Ao final do projeto, é possível fazer uma análise abrangente dos resultados obtidos pelo grupo. Este documento discutirá os resultados alcançados ao longo do projeto.
 
-## Resultados
+## Resultados Obtidos
 
-Ao término do projeto, é possível realizar uma avaliação abrangente dos resultados obtidos em relação aos objetivos estabelecidos. Abaixo, apresentamos um resumo dos principais resultados alcançados:
+O desenvolvimento do projeto teve um impacto significativo no aprendizado de todos os membros da equipe. A colaboração constante entre os integrantes foi um ponto chave, onde a disposição para ajudar e compartilhar conhecimento se destacou. A dinâmica de resolver dúvidas de forma colaborativa fortaleceu o processo de aprendizagem, proporcionando um ambiente propício para o desenvolvimento coletivo.
 
-- Aplicação dos conceitos básicos da Engenharia de Requisitos, explorando atributos e critérios de qualidade associados.
-- Abordagem prática de requisitos baseados em frameworks adaptativos e tradicionais, incluindo análise de domínio, identificação de problemas e aspectos humanos e sociais.
-- Realização de atividades práticas de Engenharia de Requisitos, abrangendo elicitação, modelagem, análise, documentação, gerenciamento, verificação e validação.
-- Aprimoramento das habilidades técnicas em projetos de Engenharia de Software, destacando a importância da área na entrega de sistemas de alta qualidade.
-- Familiarização com ferramentas auxiliares à Engenharia de Requisitos para otimização do processo de captura, análise e documentação de requisitos.
+A execução prática dos conceitos aprendidos em sala de aula, especialmente em projetos reais, trouxe desafios enriquecedores. Muitos membros enfrentaram pela primeira vez a aplicação prática das técnicas aprendidas, o que acrescentou uma camada adicional de complexidade. Contudo, essa experiência desafiadora contribuiu para a consolidação e aprofundamento do entendimento teórico, promovendo um aprendizado mais sólido e contextualizado
 
-Este projeto proporcionou uma compreensão abrangente da Engenharia de Requisitos e preparou os alunos para aplicar esses conhecimentos em projetos de Engenharia de Software, enfatizando a importância dessa área na entrega de sistemas de alta qualidade que atendam às necessidades dos stakeholders.
-
-A seguir, a Tabela 1 trata do compilado de artefatos, evidenciando a diversidade de objetivos alcançados ao longo do projeto:
+Ao final do projeto, foram produzidos 83 artefatos, distribuídos conforme apresentado na Tabela 1 - Compilado de Artefatos. Esses artefatos abrangem diferentes fases do projeto, desde o planejamento até a rastreabilidade e validação, refletindo a diversidade e abrangência das atividades realizada
 
 <br>
 
