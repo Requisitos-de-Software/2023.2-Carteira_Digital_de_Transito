@@ -62,7 +62,7 @@ A principal dificuldade que enfrentei ao longo do projeto foi a restrição de t
 
 ### Facilidades
 
-Acredito que a maior facilidade durante o semestre foi a interação amigavel com o grupo, isso tornava as reuniões mais leves e tornava a matéria mais divertida mesmo com a grande gama de trabalho, outro aspecto que ajudou muito ao longo do semestre foi cursar as duas matérias juntas (requisitos e IHC), porque dava pra aproveitar muitos conceitos entre uma e outra, a abordagem do professor também ajudou muito, ele sempre manter a turma ligada e isso faz com que acabamos aprendendo com mais rápidez os conteúdos.
+Acredito que a maior facilidade durante o semestre foi a interação amigavel com o grupo, isso tornava as reuniões mais leves e tornava a matéria mais divertida mesmo com a grande gama de trabalho, outro aspecto que ajudou muito ao longo do semestre foi cursar as duas matérias juntas (requisitos e IHC), porque dava pra aproveitar muitos conceitos entre uma e outra, a abordagem do professor também ajudou muito, ele sempre mantem a turma ligada e isso faz com que acabamos aprendendo com mais rápidez os conteúdos.
 
 ## Limirio Guimarães
 
