@@ -42,7 +42,6 @@ O trabalho realizado teve um impacto significativo no aprendizado de todos os me
 
 <center>
 
----
 
 **Compilado Geral - Quantidade de Artefatos por Entrega**
 
