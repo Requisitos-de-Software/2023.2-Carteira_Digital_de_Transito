@@ -10,6 +10,8 @@ Sintetizamos esse conhecimento em uma tabela que incluirá todos os métodos e t
 
 Na Tabela 1 teremos a representação dos métodos e técnicas que utilizamos em nosso projeto, de acordo com o aterfato relacionado e a entra.
 
+<center>
+  
 **Tabela 1** - Métodos e Técnicas utilizados
 
 | Entrega | Artefato | Método/Técnica |
@@ -38,6 +40,8 @@ Na Tabela 1 teremos a representação dos métodos e técnicas que utilizamos em
 | [Validação]() | [Validação](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/Validacao/Prototipo_alta_fidelidade/Agendamento/) | Protótipo de Alta Fidelidade |
 
 **Fonte**: [Vinícius Mendes](https://github.com/yabamiah), 2023.
+
+</center>
 
 ## Conclusão
 
