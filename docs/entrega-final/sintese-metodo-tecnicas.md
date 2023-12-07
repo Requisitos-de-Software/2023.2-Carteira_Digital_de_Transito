@@ -50,4 +50,4 @@ Queremos ressaltar o esforço e o trabalho dedicados à pesquisa, estudo e aplic
 
 | Versão | Data | Descrição | Autor | Revisor|
 |--------|------|-----------|-------|--------|
-|`1.0`|06/12/2023| Criação do Documento| [Vinícius Mendes](https://github.com/yabamiah) | |
+|`1.0`|06/12/2023| Criação do Documento| [Vinícius Mendes](https://github.com/yabamiah) | [Vinícius Mendes](https://github.com/LuisMiranda10)|
