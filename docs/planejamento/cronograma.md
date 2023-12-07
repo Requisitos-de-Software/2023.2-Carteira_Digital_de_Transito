@@ -285,6 +285,27 @@ Na Tabela 15, tem-se o cronograma executado para todas as atividades da quarta e
 Fonte: [Mayara Alves](https://github.com/Mayara-tech)
 
 
+## Cronograma executado Entrega Final 
+
+Na Tabela 16, tem-se o cronograma executado para todas as atividades da entrega final.
+
+<p align="center"><b>Tabela 16</b> - Cronograma executado - Entrega Final</p>
+
+| **Atividade**                                   | **Início** | **Fim**     | **Responsáveis**                        | **Revisores**                           | **Data de Revisão** |
+|-----------------------------------------------|------------|------------|-----------------------------------------|-----------------------------------------|---------------------|
+| Aplicativo selecionado para o projeto | 05/12/2023 |06/12/2023  | Mayara | Limírio   | 06/12/2023          |
+| Planejamento dos recursos e das entregas (cronograma planejado e executado)  | 05/12/2023 | 06/12/2023   | Luis | Limírio   | 06/12/2023          |
+| Execução do projeto (as fases/etapas do desenvolvidas no projeto)| 05/12/2023 | 06/12/2023  | Breno | Luis   | 06/12/2023          |
+| Resultados alcançados com a execução do projeto (em relação ao objetivo do projeto) | 05/12/2023 | 06/12/2023  | Mayara | Luis |06/12/2023 
+| Tabela sintetizando quais técnicas foram utilizadas na execução do projeto (em cada etapa do projeto com o(s) nome(s) do(s) participantes(s) do grupo que usou/usaram cada uma das técnicas)  | 05/12/2023| 06/12/2023  Limírio | Breno | 06/12/2023 
+| Tabela sintetizando quais artefatos foram criados no projeto em cada etapa do projeto com autor e revisor | 05/12/2023| 06/12/2023  | Milena | Luis  | 06/12/2023 
+| Tabela sintetizando o método de verificação e validação dos artefatos com autor e revisor (do checlist e da verificação) | 05/12/2023 |06/12/2023  | Breno | Limirio |06/12/2023 
+| Tabela sintetizando quais ferramentas e onde elas foram utilizadas em cada etapa do projeto| 05/12/2023 | 06/12/2023 | Luis | Vinicius | 06/12/2023 
+| Tabela sintetizando os vídeos das apresentações de cada etapa com o(s) nome(s) do(s) participantes(s) do grupo que participaram das gravações) | 05/12/2023| 06/12/2023 | Vinicius | Mayara | 06/12/2023
+| Gravar reunião                          | 06/12/2023 | 06/12/2023 | Altino, Breno, Limírio, Luis, Mayara, Milena, Vinícius | Altino, Breno, Limírio, Luis, Mayara, Milena, Vinícius | 06/12/2023        |
+
+Fonte: [Mayara Alves](https://github.com/Mayara-tech)
+
 ## Referências Bibliográficas
 
 > <a id=“RP1” href=“#TEC1”>1.</a> SALES. A. B - PLANO DE ENSINO. Requisitos de Software. Distrito Federal, 2023. Disponível em: <https://aprender3.unb.br/course/view.php?id=19947&section=7>. Acesso em: 04/10/2023.
