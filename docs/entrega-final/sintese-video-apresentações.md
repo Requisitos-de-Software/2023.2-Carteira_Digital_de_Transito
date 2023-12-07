@@ -20,7 +20,9 @@ O vídeo no qual contém a apresentação de três participantes que foram grava
 
 <p style="text-align: center"><iframe width="560" height="315" src="https://www.youtube.com/embed/e7p8hn9R-GQ?si=l3UxJROddI4ttsoe" title="Apresentação 20/09/2023" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
 
-<p style="text-align: center"><iframe width="560" height="315" src="https://youtu.be/Vs6mQh16G1A" title="Apresentação 20/09/2023" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
+<p style="text-align: center"><iframe width="560" height="315" src="https://www.youtube.com/embed/Vs6mQh16G1A?si=fCvnTS5znpRRsy-r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
+
+<p style="text-align: center"></p>
 
 
 Fonte: [Luis Miranda](https://github.com/LuisMiranda10.png)
@@ -52,7 +54,7 @@ Abaixo, é mostrado na tabela 1 os partipantes que estiverem presente na gravaç
 
 <p style="text-align: center"><a href="https://www.youtube.com/watch?v=i3t4XcQb4po" target="blanket">Vídeo apresentação 2</a></p>
 
-<p style="text-align: center"><iframe width="560" height="315" src="https://www.youtube.com/watch?v=i3t4XcQb4po" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
+<p style="text-align: center"><iframe width="560" height="315" src="https://www.youtube.com/embed/i3t4XcQb4po?si=yFzyaUxHo4IjEesx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
 
 Fonte: [Luis Miranda](https://github.com/LuisMiranda10.png)
 
@@ -83,7 +85,7 @@ Abaixo, é mostrado na tabela 2 os partipantes que estiverem presente na gravaç
 
 <p style="text-align: center"><a href="https://youtu.be/z4zOVNcRbrI" target="blanket">Vídeo apresentação 3</a></p>
 
-<p style="text-align: center"><iframe width="560" height="315" src="https://www.youtube.com/watch?v=z4zOVNcRbrI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
+<p style="text-align: center"><iframe width="560" height="315" src="https://www.youtube.com/embed/z4zOVNcRbrI?si=i3tWCFjweFa1y2Kw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
 
 Fonte: [Luis Miranda](https://github.com/LuisMiranda10.png)
 
@@ -112,7 +114,7 @@ Abaixo, é mostrado na tabela 3 os partipantes que estiverem presente na gravaç
 
 <p style="text-align: center"><a href="https://www.youtube.com/watch?v=WuT8tFjIoF4" target="blanket">Vídeo apresentação 4</a></p>
 
-<p style="text-align: center"><iframe width="560" height="315" src="https://www.youtube.com/watch?v=WuT8tFjIoF4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
+<p style="text-align: center"><iframe width="560" height="315" src="https://www.youtube.com/embed/WuT8tFjIoF4?si=FcsbG6imLceForE1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
 
 Fonte: [Luis Miranda](https://github.com/LuisMiranda10.png)
 
@@ -145,9 +147,9 @@ software de juntar os vídeos.
 
 <p style="text-align: center"><a href="https://www.youtube.com/watch?v=xCbEpVqfQeY" target="blanket">Segundo vídeo mandado da apresentação 5.1</a></p>
 
-<p style="text-align: center"><iframe width="560" height="315" src="https://www.youtube.com/watch?v=0bKSgrpBxd0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
+<p style="text-align: center"><iframe width="560" height="315" src="https://www.youtube.com/embed/0bKSgrpBxd0?si=8gU7hs9OOVLkvNwY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
 
-<p style="text-align: center"><iframe width="560" height="315" src="https://www.youtube.com/watch?v=xCbEpVqfQeY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
+<p style="text-align: center"><iframe width="560" height="315" src="https://www.youtube.com/embed/xCbEpVqfQeY?si=EgDUlYerX4vUZIr-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
 
 Fonte: [Luis Miranda](https://github.com/LuisMiranda10.png)
 
@@ -177,7 +179,7 @@ Abaixo, é mostrado na tabela 5 os partipantes que estiverem presente na gravaç
 
 <p style="text-align: center"><a href="https://www.youtube.com/watch?v=DX0iffMFvxw" target="blanket">Vídeo apresentação 6</a></p>
 
-<p style="text-align: center"><iframe width="560" height="315" src="https://www.youtube.com/watch?v=DX0iffMFvxw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
+<p style="text-align: center"><iframe width="560" height="315" src="https://www.youtube.com/embed/DX0iffMFvxw?si=1rx5l4HLq49Ahsou" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
 
 Fonte: [Luis Miranda](https://github.com/LuisMiranda10.png)
 
