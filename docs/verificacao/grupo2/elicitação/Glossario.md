@@ -131,6 +131,6 @@ Fonte: [Limirio Guimarães](https://github.com/LimirioGuimaraes)
 
 | Versão |    Data    |       Descrição      | Autor                |   Revisor   |
 | ------ | ---------- | -------------------- | ---------------------| ----------- |
-| `1.0`  | 27/11/2023 | Criação do Documento | [Limirio Guimarães](https://github.com/LimirioGuimaraes)| [Mayara Alves](https://github.com/Mayara-tech)|
-| `1.1`  | 04/12/2023 | Adicionado Desenvolvimento | [Limirio Guimarães](https://github.com/LimirioGuimaraes)|[Mayara Alves](https://github.com/Mayara-tech) |
+| `1.0`  | 27/11/2023 | Criação do Documento | [Limirio Guimarães](https://github.com/LimirioGuimaraes)| [Breno Queiroz](https://github.com/Breno06)|
+| `1.1`  | 04/12/2023 | Adicionado Desenvolvimento | [Limirio Guimarães](https://github.com/LimirioGuimaraes)|[Breno Queiroz](https://github.com/Breno06) |
 
