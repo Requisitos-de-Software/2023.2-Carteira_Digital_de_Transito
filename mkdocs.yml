@@ -158,6 +158,7 @@ nav:
         - NFR Framework: verificacao/grupo3/modelagem/agil/nfr.md
   - Validação:
     - Agendamento de serviço: Validacao/Prototipo_alta_fidelidade/Agendamento.md
+    - Informações de Trâsito: Validacao/Prototipo_alta_fidelidade/Transito.md
   - Entrega Final:
     - Sintese das Verificações: entrega-final/sintese-verificacoes.md
     - Sintese dos Métodos e Técnicas: entrega-final/sintese-metodo-tecnicas.md
