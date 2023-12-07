@@ -51,11 +51,11 @@ A maior facilidade que tive durante toda a disciplina foi a integração entre t
 
 ### Dificuldades
 
-A maior dificuldade foi a gerencia do tempo, tive pouco tempo para realizar as atividades, e não trabalho bem sob pressão.
+A maior dificuldade foi gerenciar do tempo, tive pouco tempo para realizar as atividades, e não trabalho bem sob pressão.
 
 ### Facilidades
 
-A interação com o grupo sempre foi bastante agradável e divertido, conserteza a melhor parte da disciplina.
+A interação com o grupo sempre foi bastante agradável e divertido, concerteza a melhor parte da disciplina.
 
 
 ## Mayara Alves
