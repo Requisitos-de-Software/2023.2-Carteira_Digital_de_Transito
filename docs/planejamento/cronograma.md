@@ -84,7 +84,7 @@ Na Tabela 4, tem-se o cronograma planejado para todas as atividades da segunda e
 | Estudar e utilizar a técnica de elicitação: Three Level Scale | 21/09/2023 | 04/10/2023 | Mayara                                  | Breno                                   | 04/10/2023          |
 | Gravar reunião                                           | 21/09/2023 | 04/10/2023 | Altino, Breno, Limírio, Luis, Mayara, Milena, Vinícius | Altino, Breno, Limírio, Luis, Mayara, Milena, Vinícius | 04/10/2023          |
 | Correção após a Entrega 2                                | 05/10/2023 | 08/10/2023 | Altino, Breno, Limírio, Luis, Mayara, Milena, Vinícius | Altino, Breno, Limírio, Luis, Mayara, Milena, Vinícius | 08/10/2023          |
-|   
+  
 
 <font size="3"><p style="text-align: center">Fonte: [Mayara Alves](https://github.com/Mayara-tech).</p></font>
 
@@ -271,7 +271,7 @@ Na Tabela 15, tem-se o cronograma executado para todas as atividades da quarta e
 |-----------------------------------------------|------------|------------|-----------------------------------------|-----------------------------------------|---------------------|
 | Validação - Protótipo de alta fidelidade - Agendamento de serviço  | 22/11/2023 | 03/12/2023  | Mayara | Limírio   | 03/12/2023          |
 | Validação - Protótipo de alta fidelidade - alertas de vencimento  | 06/12/2023 | 06/12/2023  | Luis | Limírio   | 06/12/2023          |
-| Validação - Protótipo de alta fidelidade - alertas de vencimento  | 06/12/2023 | 06/12/2023  | Breno | Luis   | 06/12/2023          |
+| Validação - Protótipo de alta fidelidade - Informações Sobre Tráfego  | 06/12/2023 | 06/12/2023  | Breno | Luis   | 06/12/2023          |
 | Verificação - Políticas, RichPicture, Storyboard, First Things First, Léxicos | 22/11/2023 | 27/11/2023  | Mayara | Luis |27/11/2023
 | Verificação - Metodologia, Glossário e Histórias de usuários  | 22/11/2023 | 04/12/2023 | Limírio | Breno | 04/12/2023
 | Verificação - Cronograma, Documentação, Entrevista, Especificação Suplementar | 22/11/2023 | 02/12/2023 | Milena | Luis | 04/12/2023
