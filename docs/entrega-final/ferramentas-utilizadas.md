@@ -35,7 +35,7 @@ Fonte: [Limírio Guimarães](https://github.com/LimirioGuimaraes)
 
 # Conclusão
 Ao chegarmos ao fim deste registro de ferramentas, é claro o papel crucial que desempenharam em nosso projeto. Cada ferramenta foi como uma peça importante de um quebra-cabeça, ajudando-nos a superar desafios e a alcançar nossos objetivos.Esta lista 
-não é apenas um conjunto de nomes; representa o esforço consciente da equipe em escolher as ferramentas certas para tornar o trabalho mais fácil. Agradecemos a essas ferramentas por serem nossas parceiras durante o projeto, impulsionando a 
+não é apenas um conjunto de nomes representa o esforço consciente da equipe em escolher as ferramentas certas para tornar o trabalho mais fácil. Agradecemos a essas ferramentas por serem nossas parceiras durante o projeto, impulsionando a 
 colaboração e a eficiência. Ao fechar este capítulo, levamos conosco a compreensão de que as escolhas certas de ferramentas podem fazer uma grande diferença. Que esta experiência inspire futuros projetos a explorarem e adotarem ferramentas que 
 facilitem o caminho para o sucesso.
 
