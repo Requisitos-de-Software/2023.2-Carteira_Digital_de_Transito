@@ -2,7 +2,7 @@
 
 ## Introdução
 
-Ao final do projeto, é possível fazer uma análise abrangente dos resultados obtidos pelo grupo. Este documento discutirá os resultados alcançados ao longo do projeto.
+Este documento é uma síntese detalhada dos resultados e aprendizados adquiridos ao longo de um projeto acadêmico desafiador e enriquecedor. Com a finalização deste projeto, temos a oportunidade de refletir sobre as várias facetas do desenvolvimento de equipe, a aplicação de conhecimentos teóricos em cenários práticos e a produção de artefatos significativos. Nosso objetivo aqui é fornecer uma visão abrangente dos sucessos alcançados, as dificuldades enfrentadas e as lições aprendidas, destacando a evolução tanto individual quanto coletiva dos membros da equipe e a contribuição prática de cada etapa do projeto para o nosso crescimento acadêmico e profissional.
 
 ## Resultados Obtidos
 
