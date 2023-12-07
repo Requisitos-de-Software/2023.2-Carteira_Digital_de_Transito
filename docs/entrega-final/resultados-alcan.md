@@ -4,25 +4,31 @@
 
 Neste projeto realizado na disciplina de Requisitos de Software, percorremos várias etapas, desde o planejamento até a pós-rastreabilidade. Ao longo desse processo, enfrentamos desafios, tivemos momentos de facilidade e dificuldades. Esta seção do artefato final tem como objetivo relatar as metas alcançadas, os resultados obtidos e as experiências vivenciadas pelo Grupo 2.
 
-## Objetivo do Projeto
 
-O objetivo deste projeto é aplicar os conceitos básicos da Engenharia de Requisitos, explorando os atributos e critérios de qualidade associados. Além disso, visa abordar o processo de requisitos baseados em frameworks de Engenharia de Requisitos adaptativos e tradicionais, incluindo atividades como análise de domínio e identificação do problema, aspectos humanos e sociais da Engenharia de Requisitos, elicitação, modelagem, análise, documentação, gerenciamento, verificação e validação de requisitos.
+## Resultados
 
-**Objetivos Específicos**:
+Ao término do projeto, é possível realizar uma avaliação abrangente dos resultados obtidos em relação aos objetivos estabelecidos. Abaixo, apresentamos um resumo dos principais resultados alcançados:
 
-1. Proporcionar uma compreensão abrangente dos princípios fundamentais da Engenharia de Requisitos.
+### Compreensão dos Princípios Fundamentais da Engenharia de Requisitos:
+- Os membros do grupo demonstraram uma sólida compreensão dos princípios básicos da Engenharia de Requisitos, evidenciada pela aplicação efetiva desses conceitos ao longo das diversas fases do projeto.
 
-2. Preparar os alunos para explorar os atributos e critérios de qualidade dos requisitos de forma eficaz.
+### Exploração Eficaz dos Atributos e Critérios de Qualidade dos Requisitos:
+- Houve uma abordagem criteriosa na exploração dos atributos e critérios de qualidade associados aos requisitos, refletindo-se em artefatos bem elaborados que atendem a padrões elevados de qualidade.
 
-3. Aplicar técnicas de análise de domínio e identificação de problemas em contextos reais.
+### Aplicação Prática de Técnicas de Análise de Domínio e Identificação de Problemas:
+- Os objetivos específicos relacionados à análise de domínio e identificação de problemas foram plenamente alcançados, evidenciando a capacidade do grupo em aplicar técnicas relevantes em contextos práticos.
 
-4. Reconhecer a importância dos aspectos humanos e sociais na Engenharia de Requisitos, destacando a interação entre pessoas, processos e tecnologia.
+### Reconhecimento da Importância dos Aspectos Humanos e Sociais:
+- O grupo demonstrou uma compreensão aprofundada da relevância dos aspectos humanos e sociais na Engenharia de Requisitos, destacando a interação vital entre pessoas, processos e tecnologia.
 
-5. Realizar atividades de Engenharia de Requisitos de forma prática, abrangendo requisitos funcionais e não funcionais.
+### Realização de Atividades Práticas de Engenharia de Requisitos:
+- As atividades práticas, que abrangeram desde a elicitação até a verificação e validação de requisitos, foram conduzidas de forma eficiente, proporcionando aos membros do grupo uma experiência valiosa no ciclo de vida dos requisitos.
 
-6. Aprimorar as habilidades de elicitação de requisitos, modelagem, análise, documentação, gerenciamento, verificação e validação em cenários práticos.
+### Aprimoramento das Habilidades Técnicas e Práticas:
+- O projeto contribuiu significativamente para o aprimoramento das habilidades dos alunos em elicitação de requisitos, modelagem, análise, documentação, gerenciamento, verificação e validação, consolidando um conjunto abrangente de competências.
 
-7. Familiarizar-se com ferramentas auxiliares à Engenharia de Requisitos, facilitando o processo de captura, análise e documentação de requisitos.
+### Familiarização com Ferramentas Auxiliares à Engenharia de Requisitos:
+- Os membros do grupo se familiarizaram com ferramentas essenciais à Engenharia de Requisitos, otimizando o processo de captura, análise e documentação de requisitos.
 
 Este projeto proporcionou uma compreensão abrangente da Engenharia de Requisitos e preparou os alunos para aplicar esses conhecimentos em projetos de Engenharia de Software, enfatizando a importância dessa área na entrega de sistemas de alta qualidade que atendam às necessidades dos stakeholders.
 
