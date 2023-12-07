@@ -287,7 +287,7 @@ Essa abordagem proporcionou não apenas a construção de um cronograma, mas tam
   
     Fonte: [Mayara Alves](https://github.com/Mayara-tech)
 
-**??? abstract "Cronograma executado - Entrega Final"**    
+??? abstract "Cronograma executado - Entrega Final"    
 
     Na Tabela 16, tem-se o cronograma executado para todas as atividades da entrega final.
 
