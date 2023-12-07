@@ -285,7 +285,7 @@ Na Tabela 15, tem-se o cronograma executado para todas as atividades da quarta e
 Fonte: [Mayara Alves](https://github.com/Mayara-tech)
 
 
-## Cronograma executado Entrega Final 
+## Cronograma executado - Entrega Final 
 
 Na Tabela 16, tem-se o cronograma executado para todas as atividades da entrega final.
 
