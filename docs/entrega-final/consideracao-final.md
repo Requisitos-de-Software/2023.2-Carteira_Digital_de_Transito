@@ -75,8 +75,9 @@ Acredito que a maior facilidade durante o semestre foi a interação amigavel co
 
 | Versão |    Data    |       Descrição      | Autor                                          |   Revisor                            |
 | ------ | ---------- | -------------------- | ---------------------------------------------- | ---------------------------------- |
-| `1.0`  | 25/11/2023 | Criação do Documento | [Milena Baruc](https://github.com/MilenaBaruc) | [Luis Eduardo](https://github.com/LuisMiranda10) |
-| `1.1`  | 25/11/2023 | Adição no documento | [Milena Baruc](https://github.com/MilenaBaruc) | [Luis Eduardo](https://github.com/LuisMiranda10) |
-| `1.2`  | 25/11/2023 | Adição no Documento | [Vinicius Mendes](https://github.com/yabamiah.png) | [Milena Baruc](https://github.com/MilenaBaruc) |
-| `1.3`  | 25/11/2023 | Adição no Documento | [Altino Arthur](https://github.com/arthurrochamoreira) | [Milena Baruc](https://github.com/MilenaBaruc) |
-| `1.4`  | 25/11/2023 | Adição no documento |  [Luis Eduardo](https://github.com/LuisMiranda10)| [Vinicius Mendes](https://github.com/yabamiah.png) |
+| `1.0`  | 06/12/2023 | Criação do Documento | [Milena Baruc](https://github.com/MilenaBaruc) | [Luis Eduardo](https://github.com/LuisMiranda10) |
+| `1.1`  | 06/12/2023 | Adição no documento | [Milena Baruc](https://github.com/MilenaBaruc) | [Luis Eduardo](https://github.com/LuisMiranda10) |
+| `1.2`  | 06/12/2023 | Adição no Documento | [Vinicius Mendes](https://github.com/yabamiah.png) | [Milena Baruc](https://github.com/MilenaBaruc) |
+| `1.3`  | 06/12/2023 | Adição no Documento | [Altino Arthur](https://github.com/arthurrochamoreira) | [Milena Baruc](https://github.com/MilenaBaruc) |
+| `1.4`  | 06/12/2023 | Adição no documento |  [Luis Eduardo](https://github.com/LuisMiranda10)| [Vinicius Mendes](https://github.com/yabamiah.png) |
+| `1.5`  | 06/12/2023 | Adição no documento |  [Mayara-tech](https://github.com/LuisMiranda10)| [Vinicius Mendes](https://github.com/yabamiah.png) |
