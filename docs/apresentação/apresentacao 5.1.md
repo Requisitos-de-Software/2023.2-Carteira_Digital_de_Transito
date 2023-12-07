@@ -16,10 +16,6 @@ O propósito desta página consiste em arquivar os elementos pertinentes à quin
 
 <font size="3"><p style="text-align: center">Fonte: [Mayara Alves](https://github.com/Mayara-tech).</p></font>
 
-## Aspectos avaliados na apresentação
-
-## Correções pós-apresentação
-
 ## 📑 Histórico de versões 
 
 |   Versão  |    Data   | Descrição | Autor(es) | Revisor(es)|
