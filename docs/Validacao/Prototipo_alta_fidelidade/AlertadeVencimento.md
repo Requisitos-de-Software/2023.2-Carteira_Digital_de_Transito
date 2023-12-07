@@ -19,7 +19,7 @@ Na Figura 1, é possível ver imagens do protótipo de alta fidelidade feito com
 
 **Figura 1** - Protótipo de Alta Fidelidade - Alerta de Vencimento
 
-![Protótipo de Alta Fidelidade - Alerta de Vencimento](../../assets/)
+![Protótipo de Alta Fidelidade - Alerta de Vencimento](../../assets/ALERTA.JPG)
 
 Fonte: [Luis Miranda](https://github.com/LuisMiranda10)
 </center>
@@ -30,7 +30,7 @@ Na Figura 2, apresentamos o protótipo de alta fidelidade diretamente no Figma, 
 
 <font size="3"><b>Figura 2</b>: Figma do Protótipo de Alta Fidelidade</font>
 
-
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FMk8N1xMLvS2bj9l8fHU6BF%2FProt%25C3%25B3tipo-de-Alta-Fidelidade%3Ftype%3Ddesign%26node-id%3D0%253A1%26mode%3Ddesign%26t%3DnKfY2EIKADhIwN4J-1" allowfullscreen></iframe>
 
 Fonte: [Luis Miranda](https://github.com/LuisMiranda10)
 
