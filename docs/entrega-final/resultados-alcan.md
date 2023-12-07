@@ -8,8 +8,6 @@ Neste projeto realizado na disciplina de Requisitos de Software, percorremos vá
 
 O trabalho realizado teve um impacto significativo no aprendizado de todos os membros da equipe. A colaboração e a disposição dos membros para ajudar uns aos outros foram pontos fortes, e sempre que surgia uma dúvida, os colegas estavam prontos para colaborar na sua resolução, o que fortaleceu o processo de aprendizagem. Além disso, o projeto ofereceu a oportunidade de aplicar o conhecimento adquirido em sala de aula em um contexto real, o que, em muitos momentos, representou um desafio, pois foi a primeira vez que os participantes aplicaram as técnicas aprendidas em um projeto real.
 
-<center/>
-
 | Entrega  | Métodos/Técnicas Utilizados                                     | Quantidade de Artefatos |
 |----------|------------------------------------------------------------------|--------------------------|
 | Entrega 1 | - Cronograma: Não foi utilizado método/técnica.               | 4                        |
@@ -39,8 +37,6 @@ O trabalho realizado teve um impacto significativo no aprendizado de todos os me
 |           | - Relato dos Resultados da Avaliação do Protótipo de Alta Fidelidade: Planejamento do Relato do Protótipo de Papel, Storyboards. | |
 
 **Total de Métodos Utilizados: 17 métodos/técnicas.**
-
-<center>
 
 
 **Compilado Geral - Quantidade de Artefatos por Entrega**
