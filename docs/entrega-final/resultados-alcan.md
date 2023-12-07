@@ -16,20 +16,23 @@ Ao término do projeto, é possível realizar uma avaliação abrangente dos res
 
 Este projeto proporcionou uma compreensão abrangente da Engenharia de Requisitos e preparou os alunos para aplicar esses conhecimentos em projetos de Engenharia de Software, enfatizando a importância dessa área na entrega de sistemas de alta qualidade que atendam às necessidades dos stakeholders.
 
-## Compilado Geral - Quantidade de Artefatos por Entrega
 
-| Entrega                                           | Quantidade de Artefatos |
-|---------------------------------------------------|--------------------------|
-| **Entrega 1 - Planejamento do Projeto**            | 4                        |
-| **Entrega 2 - Análise de Requisitos I**            | 7                        |
-| **Entrega 3 - Análise de Requisitos 2**            | 4                        |
-| **Etapa 4 - Design, Avaliação e Desenvolvimento 1**| 8                        |
-| **Entrega 5 - Design, Avaliação e Desenvolvimento 2**| 3                      |
-| **Entrega 6.1 - Verificação dos Artefatos I - Grupo 3**| 26                    |
-| **Entrega 6.2 - Verificação dos Artefatos I - Grupo 2**| 27                    |
-| **Entrega 7 - Relatos Protótipos de Papel e Avaliação do Protótipo de Alta Fidelidade**| 4 |
+**Tabela 1** - Compilado de Artefatos
 
-**Total de Artefatos**: 83 artefatos
+| Entrega                                           | Quantidade de Artefatos | Tipo de Artefato |
+|---------------------------------------------------|--------------------------|------------------|
+| **Entrega 1 - Planejamento do Projeto**            | 4                        | Planejamento     |
+| **Entrega 2 - Análise de Requisitos I**            | 7                        | Elicitação de Requisitos |
+| **Entrega 3 - Análise de Requisitos 2**            | 4                        | Elicitação de Requisitos |
+| **Etapa 4 - Design, Avaliação e Desenvolvimento 1**| 8                        | Modelagem         |
+| **Entrega 5 - Design, Avaliação e Desenvolvimento 2**| 3                      | Modelagem Ágil         |
+| **Entrega 6.1 - Verificação dos Artefatos I - Grupo 3**| 26                    | Verificação dos Artefatos - Grupo 03 |
+| **Entrega 6.2 - Verificação dos Artefatos I - Grupo 2**| 27                    | Verificação dos Artefatos - Nosso Grupo |
+| **Entrega 7 - Relatos Protótipos de Papel e Avaliação do Protótipo de Alta Fidelidade**| 4 | Rastreabilidade e Validação |
+|                                                   |                          |                  |
+| **Total de Artefatos**                             | 83                       |                  |
+
+**Fonte**: [Altino Arthur](https://github.com/arthurrochamoreira)
 
 ## Dificuldades Gerais
 
