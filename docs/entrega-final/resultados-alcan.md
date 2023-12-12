@@ -14,28 +14,6 @@ Ao final do projeto, foram produzidos 83 artefatos, distribuídos conforme apres
 
 <br>
 
-<center>
-  
-**Tabela 1** - Compilado de Artefatos
-
-| Quantidade | Tipo de Artefato                          |
-|------------|-------------------------------------------|
-| 6          | Planejamento                              |
-| 1          | Pré-rastreabilidade                       |
-| 11         | Elicitação de Requisitos                  |
-| 7          | Modelagem                                 |
-| 16         | Verificação dos Artefatos do Grupo 03     |
-| 15         | Verificação dos Artefatos do Nosso Grupo  |
-| 3          | Rastreabilidade e Validação               |
-|            |                                           |
-| 59         | Total                                     |
-
-**Fonte**: [Altino Arthur](https://github.com/arthurrochamoreira)
-
-</center>
-
-<br>
-
 ## Dificuldades Gerais
 
 - **Tempo Escasso**: Um desafio comum enfrentado foi o semestre curto e a falta de tempo para se dedicar a todas as disciplinas, o que incluía trabalhos e provas em outras matérias. Isso tornou difícil dedicar o tempo necessário para atender aos requisitos de qualidade das entregas.
@@ -57,6 +35,7 @@ Ao final do projeto, foram produzidos 83 artefatos, distribuídos conforme apres
 - **Aulas Dinâmicas do Professor**: As aulas dinâmicas do professor facilitaram a compreensão de conceitos e técnicas, ajudando no desenvolvimento das atividades e possivelmente em experiências fora da disciplina.
 
 - **Ganho de Conhecimento**: Apesar dos desafios, muitos membros destacaram que o esforço e a dedicação resultaram em ganho de conhecimento, mesmo com as exigências da disciplina.
+
 
 ## 📑 Histórico de Versões
 
