@@ -1,6 +1,6 @@
 # <p align="center">📲🚗 CARTEIRA DIGITAL DE TRÂNSITO
 <br>
-<p align="center" ><br><img style="border: 2px solid white; border-radius: 30%" src="assets/carteira-digital-de-transito-logo.png" width = 40%></p>
+<p align="center"><img src="assets/4k-cdt.png" width="100%"></p>
 <p align="center" > <font><a href="https://play.google.com/store/apps/details?id=br.gov.serpro.cnhe&hl=pt_BR&gl=US">Carteira Digital de Trânsito</a></font> <br></p>
 
 Esta página é dedicada aos artefatos da avaliação do aplicativo da [Carteira Digital de Transito](https://play.google.com/store/apps/details?id=br.gov.serpro.cnhe&hl=pt_BR&gl=US) produzidos pelo grupo 02 na turma de Requisitos da Faculdade do Gama da Universidade de Brasília (FGA-Unb) durante o 2º semestre de 2023. O objetivo do projeto é fazer a avaliação de requisitos do aplicativo, aplicando os conceitos aprendidos em classe. A Carteira Digital de Trânsito é um aplicativo que guarda, no seu celular, sua carteira de motorista e o documento do veículo que esteja em seu nome.
