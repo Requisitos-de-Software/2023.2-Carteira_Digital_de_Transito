@@ -2,15 +2,33 @@
 
 ## Introdução
 
-Este documento é uma síntese detalhada dos resultados e aprendizados adquiridos ao longo de um projeto acadêmico desafiador e enriquecedor. Com a finalização deste projeto, temos a oportunidade de refletir sobre as várias facetas do desenvolvimento de equipe, a aplicação de conhecimentos teóricos em cenários práticos e a produção de artefatos significativos. Nosso objetivo aqui é fornecer uma visão abrangente dos sucessos alcançados, as dificuldades enfrentadas e as lições aprendidas, destacando a evolução tanto individual quanto coletiva dos membros da equipe e a contribuição prática de cada etapa do projeto para o nosso crescimento acadêmico e profissional.
+Este documento é uma síntese dos resultados e aprendizados adquiridos ao longo do projeto. Com a finalização deste projeto, temos a oportunidade de refletir sobre as várias facetas do desenvolvimento de equipe, a aplicação de conhecimentos teóricos em cenários práticos e a produção de artefatos significativos. Nosso objetivo aqui é fornecer uma visão abrangente dos sucessos alcançados, as dificuldades enfrentadas e as lições aprendidas, destacando a evolução tanto individual quanto coletiva dos membros da equipe e a contribuição prática de cada etapa do projeto para o nosso crescimento acadêmico e profissional.
 
 ## Resultados Obtidos
 
-O desenvolvimento do projeto teve um impacto significativo no aprendizado de todos os membros da equipe. A colaboração constante entre os integrantes foi um ponto chave, onde a disposição para ajudar e compartilhar conhecimento se destacou. A dinâmica de resolver dúvidas de forma colaborativa fortaleceu o processo de aprendizagem, proporcionando um ambiente propício para o desenvolvimento coletivo.
+Ao término do projeto, a avaliação abrangente dos resultados alcançados em relação aos objetivos estabelecidos revelou:
 
-A execução prática dos conceitos aprendidos em sala de aula, especialmente em projetos reais, trouxe desafios enriquecedores. Muitos membros enfrentaram pela primeira vez a aplicação prática das técnicas aprendidas, o que acrescentou uma camada adicional de complexidade. Contudo, essa experiência desafiadora contribuiu para a consolidação e aprofundamento do entendimento teórico, promovendo um aprendizado mais sólido e contextualizado
+- **Aplicação de Conceitos Básicos:**
+  
+  - Aplicamos com sucesso os conceitos básicos da Engenharia de Requisitos, explorando atributos e critérios de qualidade associados.
 
-Ao final do projeto, foram produzidos 83 artefatos, distribuídos conforme apresentado na Tabela 1 - Compilado de Artefatos. Esses artefatos abrangem diferentes fases do projeto, desde o planejamento até a rastreabilidade e validação, refletindo a diversidade e abrangência das atividades realizada
+- **Abordagem Prática:**
+  
+  - Adotamos uma abordagem prática na definição de requisitos, utilizando frameworks adaptativos e tradicionais. Isso incluiu análise de domínio, identificação de problemas e consideração de aspectos humanos e sociais.
+
+- **Atividades Práticas Abrangentes:**
+  
+  - Realizamos atividades práticas que abrangeram elicitação, modelagem, análise, documentação, gerenciamento, verificação e validação de requisitos.
+
+- **Aprimoramento das Habilidades Técnicas:**
+  
+  - Aprimoramos significativamente nossas habilidades técnicas em projetos de Engenharia de Software, destacando a importância dessa área na entrega de sistemas de alta qualidade.
+
+- **Familiarização com Ferramentas Auxiliares:**
+  
+  - Nos familiarizamos com ferramentas auxiliares à Engenharia de Requisitos para otimização do processo de captura, análise e documentação de requisitos.
+
+Este projeto proporcionou uma compreensão abrangente da Engenharia de Requisitos, preparando-nos para aplicar esses conhecimentos em projetos de Engenharia de Software. Destacamos a importância crucial dessa disciplina na entrega de sistemas de alta qualidade que atendam às necessidades dos stakeholders.
 
 <br>
 
@@ -35,7 +53,6 @@ Ao final do projeto, foram produzidos 83 artefatos, distribuídos conforme apres
 - **Aulas Dinâmicas do Professor**: As aulas dinâmicas do professor facilitaram a compreensão de conceitos e técnicas, ajudando no desenvolvimento das atividades e possivelmente em experiências fora da disciplina.
 
 - **Ganho de Conhecimento**: Apesar dos desafios, muitos membros destacaram que o esforço e a dedicação resultaram em ganho de conhecimento, mesmo com as exigências da disciplina.
-
 
 ## 📑 Histórico de Versões
 
