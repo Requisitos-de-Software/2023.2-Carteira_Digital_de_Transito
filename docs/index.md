@@ -1,5 +1,4 @@
-# <p align="center"> CARTEIRA DIGITAL DE TRÂNSITO
-<p align="center"><img src="assets/4k-cdt.png" width="75%"></p>
+<p align="center"><img src="assets/4k-cdt.png" width="100%"></p>
 
 <br>
 
